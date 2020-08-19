@@ -129,7 +129,7 @@ Possible job progressions:
 - Beginner → Magician → I/L Wizard → I/L Mage → I/L Archmage
 - Beginner → Magician → F/P Wizard → F/P Mage → F/P Archmage
 
-Primary stat: **STR** | Secondary stats: DEX, INT
+Primary stat: **STR** | Secondary stats: DEX, INT, LUK
 
 Stat constraints:
 
@@ -227,7 +227,51 @@ The woodsman’s versatility can allow them to easily switch between ranged and 
 
 ## Brigand
 
-Also known as: “STR Assassin”, “Strength Assassin”, “STR Sin”
+Possible job progressions:
+
+- Beginner → Rogue → Bandit → Chief Bandit → Shadower
+
+Primary stat: **STR** | Secondary stats: DEX, LUK
+
+Stat constraints:
+
+- DEX = 25
+- LUK = 4
+
+Attacks:
+
+- basic attack
+- Steal
+- Meso Explosion
+
+Notable skills:
+
+- Nimble Body
+- Disorder
+- Dark Sight
+- Steal
+- Haste
+- Shield Mastery
+- Meso Guard
+
+Notable equipment:
+
+- Wooden Sword
+- Metal Axe
+- Wooden Mallet
+- Monkey Wrench
+- Maple Thief Shield
+- Black Snowshoes
+
+### Notes
+
+Brigands cannot put any SP into stabbing skills, like Double Stab. Steal does not count as a “stabbing skill” for the purpose of this definition.
+
+Brigands essentially play like more mobile permabeginners, with some neato utility skills, to boot. Later, brigands get access to a radically different attacking skill: Meso Explosion.
+
+## STR Assassin
+
+Also known as: “STR Sin”, “Strength Assassin”
 
 Possible job progressions:
 
@@ -264,7 +308,9 @@ Notable equipment:
 
 ### Notes
 
-Brigands essentially play like more mobile permabeginners, with some neato utility skills, to boot.
+STR assassins cannot put any SP into Double Stab.
+
+STR assassins are somewhat similar to brigands: they essentially play like more mobile permabeginners, with some neato utility skills. Later on, Flash Jump in particular is a highlight. However, STR assassins lack both Steal and Meso Explosion.
 
 ## Swashbuckler
 
