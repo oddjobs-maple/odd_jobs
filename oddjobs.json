@@ -1,0 +1,243 @@
+{
+  "oddjobs": [
+    {
+      "name": "Permabeginner",
+      "aliases": ["Permanoob", "Perma"],
+      "progressions": [[0]],
+      "location": null,
+      "primary_stats": ["STR"],
+      "secondary_stats": ["DEX"],
+      "stat_constraints": [],
+      "attacks": [0],
+      "notable_skills": [],
+      "notable_equips": ["Frozen Tuna [level 20]", "Sake Bottle", "Maroon Mop"],
+      "notes": []
+    },
+    {
+      "name": "Besinner",
+      "aliases": [],
+      "progressions": [[0]],
+      "location": null,
+      "primary_stats": ["LUK"],
+      "secondary_stats": [],
+      "stat_constraints": [],
+      "attacks": [0],
+      "notable_skills": [],
+      "notable_equips": ["Magical Mitten"],
+      "notes": [
+        "Besinners are defined by their use of the Magical Mitten, a level 10 claw with no job requirements. There are sometimes other claws that can be used by beginners, but this will vary by implementation. Some implementations may not even have any claws usable by beginners — not even the Magical Mitten — and thus besinners are impossible in such implementations.",
+        "Depending on the implementation, besinners may only be able to throw Snowballs. They can possibly also throw arrows, and/or other throwing stars like Ilbis."
+      ]
+    },
+    {
+      "name": "Islander",
+      "aliases": [],
+      "progressions": [[0]],
+      "location": "Maple Island",
+      "primary_stats": ["STR", "DEX"],
+      "secondary_stats": ["LUK"],
+      "stat_constraints": [],
+      "attacks": [0],
+      "notable_skills": [],
+      "notable_equips": [
+        "Leather Purse",
+        "Ice Jeans",
+        "Blue One-lined T-Shirt [M]",
+        "Red-Striped T-Shirt [F]",
+        "White Gomushin",
+        "Amethyst Earrings"
+      ],
+      "notes": []
+    },
+    {
+      "name": "Magelander",
+      "aliases": ["Wand Islander"],
+      "progressions": [[0]],
+      "location": "Maple Island",
+      "primary_stats": ["STR", "DEX"],
+      "secondary_stats": ["INT", "LUK"],
+      "stat_constraints": [],
+      "attacks": [0, 1000],
+      "notable_skills": [],
+      "notable_equips": [
+        "Metal Wand",
+        "Ice Jeans",
+        "Blue One-lined T-Shirt [M]",
+        "Red-Striped T-Shirt [F]",
+        "White Gomushin",
+        "Amethyst Earrings"
+      ],
+      "notes": [
+        "Magelanders are defined by their use of the Metal Wand, a level 18 wand with no job requirements that drops from Red Snails. It requires 55 INT and 20 LUK to equip."
+      ]
+    },
+    {
+      "name": "Camper",
+      "aliases": [],
+      "progressions": [[0]],
+      "location": "Training Camp",
+      "primary_stats": ["STR", "DEX"],
+      "secondary_stats": [],
+      "stat_constraints": [],
+      "attacks": [0],
+      "notable_skills": [],
+      "notable_equips": ["Sword"],
+      "notes": [
+        "The camper experience varies significantly based on what version of the Training Camp they are subjected to. Later versions introduced a more clear “Training Camp” aesthetic, with custom-textured and custom-built maps, the “green apple suit” that the camper is forced to wear, and different mobs from the Jr. Sentinels of earlier versions.",
+        "Campers can only fight mobs that give 1 EXP each, making them extraordinarily time-consuming to train."
+      ]
+    },
+    {
+      "name": "STR Mage",
+      "aliases": ["Strength Mage", "Battle Mage", "STR Magician", "Gish"],
+      "progressions": [
+        [0, 200, 230, 231, 232],
+        [0, 200, 220, 221, 222],
+        [0, 200, 210, 211, 212]
+      ],
+      "location": null,
+      "primary_stats": ["STR"],
+      "secondary_stats": ["DEX", "INT"],
+      "stat_constraints": ["INT = 20", "LUK = 4"],
+      "attacks": [0],
+      "notable_skills": [
+        2001002,
+        2101002,
+        2301002,
+        2301004,
+        2311003,
+        2311001,
+        2101005,
+        2111003
+      ],
+      "notable_equips": [
+        "Mace",
+        "Iron Mace",
+        "Fruity Bamboo",
+        "Fusion Mace",
+        "Light Purple Umbrella",
+        "Flaming Katana",
+        "Purple Tube",
+        "Beige Umbrella",
+        "Diao Chan Sword",
+        "Black Umbrella",
+        "Blue Snowshoes",
+        "Glitter Gloves",
+        "Maple Magician Shield"
+      ],
+      "notes": [
+        "STR mages largely play like “permabeginners, but with buffs”, although they can become more gish-like; particularly, with the use of weapons that give both WATK and MATK, and the use of magical skills that remain useful even with low INT, like Heal and Poison Mist."
+      ]
+    },
+    {
+      "name": "Woodsman",
+      "aliases": ["STR Archer", "Strength Archer"],
+      "progressions": [
+        [0, 300, 310, 311, 312],
+        [0, 300, 320, 321, 322]
+      ],
+      "location": null,
+      "primary_stats": ["STR"],
+      "secondary_stats": ["DEX"],
+      "stat_constraints": ["DEX = 25"],
+      "attacks": [0, 3001005, 3101003, 3101005, 3111006, 3211003],
+      "notable_skills": [3000000, 3001003, 3000001, 3111002],
+      "notable_equips": [
+        "War Bow",
+        "Maple Bow",
+        "Maple Soul Searcher",
+        "Maple Kandiva Bow",
+        "Bow of Magical Destruction",
+        "Crossbow",
+        "Maple Crow",
+        "Maple Crossbow",
+        "Maple Nishada",
+        "Wooden Sword",
+        "Metal Axe",
+        "Wooden Mallet",
+        "Monkey Wrench",
+        "Green Snowshoes"
+      ],
+      "notes": [
+        "Woodsmen come in more-or-less three varieties, owing to their versatility: bow/crossbow woodsmen, melee woodsmen, and bow-whacking woodsmen. The first of these is the most similar to a traditional bow or crossbow user, albeit naturally much weaker. Bow-whacking woodsmen rely on the Power Knock-Back skill, and are generally the weakest of the three.",
+        "The woodsman’s versatility can allow them to easily switch between ranged and melee combat."
+      ]
+    },
+    {
+      "name": "Brigand",
+      "aliases": ["STR Assassin", "Strength Assassin", "STR Sin"],
+      "progressions": [[0, 400, 410, 411, 412]],
+      "location": null,
+      "primary_stats": ["STR"],
+      "secondary_stats": ["DEX", "LUK"],
+      "stat_constraints": ["DEX = 25", "LUK = 4"],
+      "attacks": [0],
+      "notable_skills": [4000000, 4001002, 4001003, 4101004, 4111006, 4110000],
+      "notable_equips": [
+        "Wooden Sword",
+        "Metal Axe",
+        "Wooden Mallet",
+        "Monkey Wrench",
+        "Maple Thief Shield",
+        "Black Snowshoes"
+      ],
+      "notes": [
+        "Brigands essentially play like more mobile permabeginners, with some neato utility skills, to boot."
+      ]
+    },
+    {
+      "name": "Swashbuckler",
+      "aliases": [
+        "STR Gunslinger",
+        "Strength Gunslinger",
+        "STR Slinger",
+        "STR Sair"
+      ],
+      "progressions": [[0, 500, 520, 521, 522]],
+      "location": null,
+      "primary_stats": ["STR"],
+      "secondary_stats": ["DEX"],
+      "stat_constraints": ["DEX = 20"],
+      "attacks": [5001002, 5001003, 5201002, 5201001, 5211005],
+      "notable_skills": [
+        5000000,
+        5201004,
+        5201005,
+        5201006,
+        5211001,
+        5211002,
+        5211006
+      ],
+      "notable_equips": [
+        "Pistol",
+        "Maple Gun",
+        "Maple Storm Pistol",
+        "Maple Canon Shooter",
+        "Purple Snowshoes"
+      ],
+      "notes": [
+        "Swashbucklers are disallowed from using knuckles, and as such, cannot make use of punching abilities. Being gunslingers, however, they could only have access to Flash Fist anyways.",
+        "Swashbucklers tend to be quite similar to woodsmen in their ability to effectively melee and to somewhat effectively range, but differ in their unique skillset, mobility, and ability to use Somersault Kick in melee."
+      ]
+    },
+    {
+      "name": "HP Warrior",
+      "aliases": ["Blood Warrior"],
+      "progressions": [
+        [0, 100, 110, 111, 112],
+        [0, 100, 120, 121, 122]
+      ],
+      "location": null,
+      "primary_stats": ["HP"],
+      "secondary_stats": ["STR", "DEX"],
+      "stat_constraints": ["STR = 35", "DEX = 4"],
+      "attacks": [1101007, 1001004, 1001005],
+      "notable_skills": [1101007, 1000001, 1101006, 1111007, 1111008, 1211009],
+      "notable_equips": [],
+      "notes": [
+        "After achieving 35 base STR (necessary for first job advancement), the HP Warrior saves their AP until they have maxed out Improving Max HP Increase, at which point all AP (and future AP) is spent on HP.",
+        "HP Warriors deal damage primarily via Power Guard, and as such typically want to lower their WDEF as much as possible in order to maximize this damage."
+      ]
+    }
+  ]
+}
