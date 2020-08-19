@@ -139,6 +139,8 @@ Stat constraints:
 Attacks:
 
 - basic attack
+- Poison Breath
+- Poison Mist
 
 Notable skills:
 
@@ -148,8 +150,6 @@ Notable skills:
 - Bless
 - Holy Symbol
 - Dispel
-- Poison Breath
-- Poison Mist
 
 Notable equipment:
 

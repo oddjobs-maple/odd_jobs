@@ -99,17 +99,8 @@
       "primary_stats": ["STR"],
       "secondary_stats": ["DEX", "INT", "LUK"],
       "stat_constraints": ["INT = 20", "LUK = 4"],
-      "attacks": [0],
-      "notable_skills": [
-        2001002,
-        2101002,
-        2301002,
-        2301004,
-        2311003,
-        2311001,
-        2101005,
-        2111003
-      ],
+      "attacks": [0, 2101005, 2111003],
+      "notable_skills": [2001002, 2101002, 2301002, 2301004, 2311003, 2311001],
       "notable_equips": [
         "Mace",
         "Iron Mace",
