@@ -193,7 +193,10 @@ Attacks:
 - Power Knock-Back
 - Arrow Bomb
 - Strafe
+- Inferno
+- Arrow Rain
 - Blizzard
+- Arrow Eruption
 
 Notable skills:
 
@@ -201,6 +204,7 @@ Notable skills:
 - Focus
 - Critical Shot
 - Puppet
+- Blizzard
 
 Notable equipment:
 
