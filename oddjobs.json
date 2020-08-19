@@ -235,8 +235,8 @@
       "notable_skills": [1101007, 1000001, 1101006, 1111007, 1111008, 1211009],
       "notable_equips": [],
       "notes": [
-        "After achieving 35 base STR (necessary for first job advancement), the HP Warrior saves their AP until they have maxed out Improving Max HP Increase, at which point all AP (and future AP) is spent on HP.",
-        "HP Warriors deal damage primarily via Power Guard, and as such typically want to lower their WDEF as much as possible in order to maximize this damage."
+        "After achieving 35 base STR (necessary for first job advancement), the HP Warrior saves their AP until they have maxed out Improving MaxHP Increase, at which point all AP (and future AP) is spent on HP.",
+        "HP Warriors deal damage primarily via Power Guard, and as such, typically want to lower their WDEF as much as possible in order to maximize this damage."
       ]
     }
   ]
