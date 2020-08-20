@@ -1,53 +1,20 @@
 {
   "oddjobs": [
     {
-      "name": "Permabeginner",
-      "aliases": ["Permanoob", "Perma"],
-      "progressions": [[0]],
-      "location": null,
-      "primary_stats": ["STR"],
-      "secondary_stats": ["DEX"],
-      "stat_constraints": [],
-      "attacks": [0],
-      "notable_skills": [],
-      "notable_equips": ["Frozen Tuna [level 20]", "Sake Bottle", "Maroon Mop"],
-      "notes": []
-    },
-    {
-      "name": "Besinner",
+      "name": "Camper",
       "aliases": [],
       "progressions": [[0]],
-      "location": null,
-      "primary_stats": ["LUK"],
+      "location": "Training Camp",
+      "primary_stats": ["STR", "DEX"],
       "secondary_stats": [],
       "stat_constraints": [],
       "attacks": [0],
       "notable_skills": [],
-      "notable_equips": ["Magical Mitten"],
+      "notable_equips": ["Sword"],
       "notes": [
-        "Besinners are defined by their use of the Magical Mitten, a level 10 claw with no job requirements. There are sometimes other claws that can be used by beginners, but this will vary by implementation. Some implementations may not even have any claws usable by beginners — not even the Magical Mitten — and thus besinners are impossible in such implementations.",
-        "Depending on the implementation, besinners may only be able to throw Snowballs. They can possibly also throw arrows, and/or other throwing stars like Ilbis."
+        "The camper experience varies significantly based on what version of the Training Camp they are subjected to. Later versions introduced a more clear “Training Camp” aesthetic, with custom-textured and custom-built maps, the “green apple suit” that the camper is forced to wear, and different mobs from the Jr. Sentinels of earlier versions.",
+        "Campers can only fight mobs that give 1 EXP each, making them extraordinarily time-consuming to train."
       ]
-    },
-    {
-      "name": "Islander",
-      "aliases": [],
-      "progressions": [[0]],
-      "location": "Maple Island",
-      "primary_stats": ["STR", "DEX"],
-      "secondary_stats": ["LUK"],
-      "stat_constraints": [],
-      "attacks": [0],
-      "notable_skills": [],
-      "notable_equips": [
-        "Leather Purse",
-        "Ice Jeans",
-        "Blue One-lined T-Shirt [M]",
-        "Red-Striped T-Shirt [F]",
-        "White Gomushin",
-        "Amethyst Earrings"
-      ],
-      "notes": []
     },
     {
       "name": "Magelander",
@@ -72,19 +39,71 @@
       ]
     },
     {
-      "name": "Camper",
+      "name": "Islander",
       "aliases": [],
       "progressions": [[0]],
-      "location": "Training Camp",
+      "location": "Maple Island",
       "primary_stats": ["STR", "DEX"],
+      "secondary_stats": ["LUK"],
+      "stat_constraints": [],
+      "attacks": [0],
+      "notable_skills": [],
+      "notable_equips": [
+        "Leather Purse",
+        "Ice Jeans",
+        "Blue One-lined T-Shirt [M]",
+        "Red-Striped T-Shirt [F]",
+        "White Gomushin",
+        "Amethyst Earrings"
+      ],
+      "notes": []
+    },
+    {
+      "name": "Besinner",
+      "aliases": [],
+      "progressions": [[0]],
+      "location": null,
+      "primary_stats": ["LUK"],
       "secondary_stats": [],
       "stat_constraints": [],
       "attacks": [0],
       "notable_skills": [],
-      "notable_equips": ["Sword"],
+      "notable_equips": ["Magical Mitten"],
       "notes": [
-        "The camper experience varies significantly based on what version of the Training Camp they are subjected to. Later versions introduced a more clear “Training Camp” aesthetic, with custom-textured and custom-built maps, the “green apple suit” that the camper is forced to wear, and different mobs from the Jr. Sentinels of earlier versions.",
-        "Campers can only fight mobs that give 1 EXP each, making them extraordinarily time-consuming to train."
+        "Besinners are defined by their use of the Magical Mitten, a level 10 claw with no job requirements. There are sometimes other claws that can be used by beginners, but this will vary by implementation. Some implementations may not even have any claws usable by beginners — not even the Magical Mitten — and thus besinners are impossible in such implementations.",
+        "Depending on the implementation, besinners may only be able to throw Snowballs. They can possibly also throw arrows, and/or other throwing stars like Ilbis."
+      ]
+    },
+    {
+      "name": "Permabeginner",
+      "aliases": ["Permanoob", "Perma"],
+      "progressions": [[0]],
+      "location": null,
+      "primary_stats": ["STR"],
+      "secondary_stats": ["DEX"],
+      "stat_constraints": [],
+      "attacks": [0],
+      "notable_skills": [],
+      "notable_equips": ["Frozen Tuna [level 20]", "Sake Bottle", "Maroon Mop"],
+      "notes": []
+    },
+    {
+      "name": "HP Warrior",
+      "aliases": ["Blood Warrior"],
+      "progressions": [
+        [0, 100, 110, 111, 112],
+        [0, 100, 120, 121, 122]
+      ],
+      "location": null,
+      "primary_stats": ["HP"],
+      "secondary_stats": ["STR", "DEX"],
+      "stat_constraints": ["STR = 35", "DEX = 4"],
+      "attacks": [1101007, 1001004, 1001005],
+      "notable_skills": [1101007, 1000001, 1101006, 1111007, 1111008, 1211009],
+      "notable_equips": [],
+      "notes": [
+        "After achieving 35 base STR (necessary for first job advancement), the HP Warrior saves their AP until they have maxed out Improving MaxHP Increase, at which point all AP (and future AP) is spent on HP.",
+        "HP Warriors deal damage primarily via Power Guard, and as such, typically want to lower their WDEF as much as possible in order to maximize this damage."
       ]
     },
     {
@@ -165,6 +184,29 @@
       ]
     },
     {
+      "name": "STR Assassin",
+      "aliases": ["STR Sin", "Strength Assassin"],
+      "progressions": [[0, 400, 410, 411, 412]],
+      "location": null,
+      "primary_stats": ["STR"],
+      "secondary_stats": ["DEX", "LUK"],
+      "stat_constraints": ["DEX = 25", "LUK = 4"],
+      "attacks": [0],
+      "notable_skills": [4000000, 4001002, 4001003, 4101004, 4111006, 4110000],
+      "notable_equips": [
+        "Wooden Sword",
+        "Metal Axe",
+        "Wooden Mallet",
+        "Monkey Wrench",
+        "Maple Thief Shield",
+        "Black Snowshoes"
+      ],
+      "notes": [
+        "STR assassins cannot put any SP into Double Stab.",
+        "STR assassins are somewhat similar to brigands: they essentially play like more mobile permabeginners, with some neato utility skills. Later on, Flash Jump in particular is a highlight. However, STR assassins lack both Steal and Meso Explosion."
+      ]
+    },
+    {
       "name": "Brigand",
       "aliases": [],
       "progressions": [[0, 400, 420, 421, 422]],
@@ -193,29 +235,6 @@
       "notes": [
         "Brigands cannot put any SP into stabbing skills, like Double Stab. Steal does not count as a “stabbing skill” for the purpose of this definition.",
         "Brigands essentially play like more mobile permabeginners, with some neato utility skills, to boot. Later, brigands get access to a radically different attacking skill: Meso Explosion."
-      ]
-    },
-    {
-      "name": "STR Assassin",
-      "aliases": ["STR Sin", "Strength Assassin"],
-      "progressions": [[0, 400, 410, 411, 412]],
-      "location": null,
-      "primary_stats": ["STR"],
-      "secondary_stats": ["DEX", "LUK"],
-      "stat_constraints": ["DEX = 25", "LUK = 4"],
-      "attacks": [0],
-      "notable_skills": [4000000, 4001002, 4001003, 4101004, 4111006, 4110000],
-      "notable_equips": [
-        "Wooden Sword",
-        "Metal Axe",
-        "Wooden Mallet",
-        "Monkey Wrench",
-        "Maple Thief Shield",
-        "Black Snowshoes"
-      ],
-      "notes": [
-        "STR assassins cannot put any SP into Double Stab.",
-        "STR assassins are somewhat similar to brigands: they essentially play like more mobile permabeginners, with some neato utility skills. Later on, Flash Jump in particular is a highlight. However, STR assassins lack both Steal and Meso Explosion."
       ]
     },
     {
@@ -251,25 +270,6 @@
       "notes": [
         "Swashbucklers are disallowed from using knuckles, and as such, cannot make use of punching abilities. Being gunslingers, however, they could only have access to Flash Fist anyways.",
         "Swashbucklers tend to be quite similar to woodsmen in their ability to effectively melee and to somewhat effectively range, but differ in their unique skillset, mobility, and ability to use Somersault Kick in melee."
-      ]
-    },
-    {
-      "name": "HP Warrior",
-      "aliases": ["Blood Warrior"],
-      "progressions": [
-        [0, 100, 110, 111, 112],
-        [0, 100, 120, 121, 122]
-      ],
-      "location": null,
-      "primary_stats": ["HP"],
-      "secondary_stats": ["STR", "DEX"],
-      "stat_constraints": ["STR = 35", "DEX = 4"],
-      "attacks": [1101007, 1001004, 1001005],
-      "notable_skills": [1101007, 1000001, 1101006, 1111007, 1111008, 1211009],
-      "notable_equips": [],
-      "notes": [
-        "After achieving 35 base STR (necessary for first job advancement), the HP Warrior saves their AP until they have maxed out Improving MaxHP Increase, at which point all AP (and future AP) is spent on HP.",
-        "HP Warriors deal damage primarily via Power Guard, and as such, typically want to lower their WDEF as much as possible in order to maximize this damage."
       ]
     }
   ]

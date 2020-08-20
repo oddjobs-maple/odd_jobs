@@ -1,14 +1,14 @@
 # Odd jobs
 
-## Permabeginner
-
-Also known as: “Permanoob”, “Perma”
+## Camper
 
 Possible job progressions:
 
 - Beginner
 
-Primary stat: **STR** | Secondary stat: DEX
+Location: Training Camp
+
+Primary stats: **STR**, **DEX**
 
 Attacks:
 
@@ -16,54 +16,13 @@ Attacks:
 
 Notable equipment:
 
-- Frozen Tuna [level 20]
-- Sake Bottle
-- Maroon Mop
-
-## Besinner
-
-Possible job progressions:
-
-- Beginner
-
-Primary stat: **LUK**
-
-Attacks:
-
-- basic attack
-
-Notable equipment:
-
-- Magical Mitten
+- Sword
 
 ### Notes
 
-Besinners are defined by their use of the Magical Mitten, a level 10 claw with no job requirements. There are sometimes other claws that can be used by beginners, but this will vary by implementation. Some implementations may not even have any claws usable by beginners — not even the Magical Mitten — and thus besinners are impossible in such implementations.
+The camper experience varies significantly based on what version of the Training Camp they are subjected to. Later versions introduced a more clear “Training Camp” aesthetic, with custom-textured and custom-built maps, the “green apple suit” that the camper is forced to wear, and different mobs from the Jr. Sentinels of earlier versions.
 
-Depending on the implementation, besinners may only be able to throw Snowballs. They can possibly also throw arrows, and/or other throwing stars like Ilbis.
-
-## Islander
-
-Possible job progressions:
-
-- Beginner
-
-Location: Maple Island
-
-Primary stats: **STR**, **DEX** | Secondary stat: LUK
-
-Attacks:
-
-- basic attack
-
-Notable equipment:
-
-- Leather Purse
-- Ice Jeans
-- Blue One-lined T-Shirt [M]
-- Red-Striped T-Shirt [F]
-- White Gomushin
-- Amethyst Earrings
+Campers can only fight mobs that give 1 EXP each, making them extraordinarily time-consuming to train.
 
 ## Magelander
 
@@ -95,15 +54,15 @@ Notable equipment:
 
 Magelanders are defined by their use of the Metal Wand, a level 18 wand with no job requirements that drops from Red Snails. It requires 55 INT and 20 LUK to equip.
 
-## Camper
+## Islander
 
 Possible job progressions:
 
 - Beginner
 
-Location: Training Camp
+Location: Maple Island
 
-Primary stats: **STR**, **DEX**
+Primary stats: **STR**, **DEX** | Secondary stat: LUK
 
 Attacks:
 
@@ -111,13 +70,91 @@ Attacks:
 
 Notable equipment:
 
-- Sword
+- Leather Purse
+- Ice Jeans
+- Blue One-lined T-Shirt [M]
+- Red-Striped T-Shirt [F]
+- White Gomushin
+- Amethyst Earrings
+
+## Besinner
+
+Possible job progressions:
+
+- Beginner
+
+Primary stat: **LUK**
+
+Attacks:
+
+- basic attack
+
+Notable equipment:
+
+- Magical Mitten
 
 ### Notes
 
-The camper experience varies significantly based on what version of the Training Camp they are subjected to. Later versions introduced a more clear “Training Camp” aesthetic, with custom-textured and custom-built maps, the “green apple suit” that the camper is forced to wear, and different mobs from the Jr. Sentinels of earlier versions.
+Besinners are defined by their use of the Magical Mitten, a level 10 claw with no job requirements. There are sometimes other claws that can be used by beginners, but this will vary by implementation. Some implementations may not even have any claws usable by beginners — not even the Magical Mitten — and thus besinners are impossible in such implementations.
 
-Campers can only fight mobs that give 1 EXP each, making them extraordinarily time-consuming to train.
+Depending on the implementation, besinners may only be able to throw Snowballs. They can possibly also throw arrows, and/or other throwing stars like Ilbis.
+
+## Permabeginner
+
+Also known as: “Permanoob”, “Perma”
+
+Possible job progressions:
+
+- Beginner
+
+Primary stat: **STR** | Secondary stat: DEX
+
+Attacks:
+
+- basic attack
+
+Notable equipment:
+
+- Frozen Tuna [level 20]
+- Sake Bottle
+- Maroon Mop
+
+## HP Warrior
+
+Also known as: “Blood Warrior”
+
+Possible job progressions:
+
+- Beginner → Warrior → Fighter → Crusader → Hero
+- Beginner → Warrior → Page → White Knight → Paladin
+
+Primary stat: **HP** | Secondary stats: STR, DEX
+
+Stat constraints:
+
+- STR = 35
+- DEX = 4
+
+Attacks:
+
+- Power Guard
+- Power Strike
+- Slash Blast
+
+Notable skills:
+
+- Power Guard
+- Improved MaxHP Increase
+- Rage
+- Armor Crash
+- Shout
+- Magic Crash
+
+### Notes
+
+After achieving 35 base STR (necessary for first job advancement), the HP Warrior saves their AP until they have maxed out Improving MaxHP Increase, at which point all AP (and future AP) is spent on HP.
+
+HP Warriors deal damage primarily via Power Guard, and as such, typically want to lower their WDEF as much as possible in order to maximize this damage.
 
 ## STR Mage
 
@@ -229,6 +266,49 @@ Woodsmen come in more-or-less three varieties, owing to their versatility: bow/c
 
 The woodsman’s versatility can allow them to easily switch between ranged and melee combat.
 
+## STR Assassin
+
+Also known as: “STR Sin”, “Strength Assassin”
+
+Possible job progressions:
+
+- Beginner → Rogue → Assassin → Hermit → Nightlord
+
+Primary stat: **STR** | Secondary stats: DEX, LUK
+
+Stat constraints:
+
+- DEX = 25
+- LUK = 4
+
+Attacks:
+
+- basic attack
+
+Notable skills:
+
+- Nimble Body
+- Disorder
+- Dark Sight
+- Haste
+- Flash Jump
+- Alchemist
+
+Notable equipment:
+
+- Wooden Sword
+- Metal Axe
+- Wooden Mallet
+- Monkey Wrench
+- Maple Thief Shield
+- Black Snowshoes
+
+### Notes
+
+STR assassins cannot put any SP into Double Stab.
+
+STR assassins are somewhat similar to brigands: they essentially play like more mobile permabeginners, with some neato utility skills. Later on, Flash Jump in particular is a highlight. However, STR assassins lack both Steal and Meso Explosion.
+
 ## Brigand
 
 Possible job progressions:
@@ -272,49 +352,6 @@ Notable equipment:
 Brigands cannot put any SP into stabbing skills, like Double Stab. Steal does not count as a “stabbing skill” for the purpose of this definition.
 
 Brigands essentially play like more mobile permabeginners, with some neato utility skills, to boot. Later, brigands get access to a radically different attacking skill: Meso Explosion.
-
-## STR Assassin
-
-Also known as: “STR Sin”, “Strength Assassin”
-
-Possible job progressions:
-
-- Beginner → Rogue → Assassin → Hermit → Nightlord
-
-Primary stat: **STR** | Secondary stats: DEX, LUK
-
-Stat constraints:
-
-- DEX = 25
-- LUK = 4
-
-Attacks:
-
-- basic attack
-
-Notable skills:
-
-- Nimble Body
-- Disorder
-- Dark Sight
-- Haste
-- Flash Jump
-- Alchemist
-
-Notable equipment:
-
-- Wooden Sword
-- Metal Axe
-- Wooden Mallet
-- Monkey Wrench
-- Maple Thief Shield
-- Black Snowshoes
-
-### Notes
-
-STR assassins cannot put any SP into Double Stab.
-
-STR assassins are somewhat similar to brigands: they essentially play like more mobile permabeginners, with some neato utility skills. Later on, Flash Jump in particular is a highlight. However, STR assassins lack both Steal and Meso Explosion.
 
 ## Swashbuckler
 
@@ -361,41 +398,4 @@ Notable equipment:
 Swashbucklers are disallowed from using knuckles, and as such, cannot make use of punching abilities. Being gunslingers, however, they could only have access to Flash Fist anyways.
 
 Swashbucklers tend to be quite similar to woodsmen in their ability to effectively melee and to somewhat effectively range, but differ in their unique skillset, mobility, and ability to use Somersault Kick in melee.
-
-## HP Warrior
-
-Also known as: “Blood Warrior”
-
-Possible job progressions:
-
-- Beginner → Warrior → Fighter → Crusader → Hero
-- Beginner → Warrior → Page → White Knight → Paladin
-
-Primary stat: **HP** | Secondary stats: STR, DEX
-
-Stat constraints:
-
-- STR = 35
-- DEX = 4
-
-Attacks:
-
-- Power Guard
-- Power Strike
-- Slash Blast
-
-Notable skills:
-
-- Power Guard
-- Improved MaxHP Increase
-- Rage
-- Armor Crash
-- Shout
-- Magic Crash
-
-### Notes
-
-After achieving 35 base STR (necessary for first job advancement), the HP Warrior saves their AP until they have maxed out Improving MaxHP Increase, at which point all AP (and future AP) is spent on HP.
-
-HP Warriors deal damage primarily via Power Guard, and as such, typically want to lower their WDEF as much as possible in order to maximize this damage.
 
