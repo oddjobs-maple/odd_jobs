@@ -733,7 +733,7 @@ Notable equipment:
 
 ### Notes
 
-Swashbucklers are disallowed from using knuckles, and as such, cannot make use of punching abilities. Being gunslingers, however, they could only have access to Flash Fist anyways.
+Swashbucklers are disallowed from using knucklers, and as such, cannot make use of punching abilities. Being gunslingers, however, they could only have access to Flash Fist anyways.
 
 Swashbucklers tend to be quite similar to woodsmen in their ability to effectively melee and to somewhat effectively range, but differ in their unique skillset, mobility, and ability to use Somersault Kick in melee.
 
