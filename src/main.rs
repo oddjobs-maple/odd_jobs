@@ -33,6 +33,14 @@ potentially be invented. Also note that the \u{201c}Stat constraints\u{201d}
 reference *base* stats/abilities; that is, the stats themselves without any
 bonuses from equipment or buffs.
 
+The \u{201c}Notable equipment\u{201d} for each job intentionally excludes
+equipment items that are not particularly unique to the job. For example, many
+of the same weapons (those swords, axes, blunt weapons, spears, polearms, and
+daggers that lack job requirements) are used by almost all melee-oriented odd
+jobs (e.g. permabeginner) in common. As a result, unless these weapons are
+useful for other reasons that are somewhat special to the job in question, they
+are not listed under \u{201c}Notable equipment\u{201d}.
+
 ";
 
 fn main() {
@@ -113,7 +121,7 @@ fn main() {
                             eprintln!("Invalid job ID: {}", job);
 
                             process::exit(4)
-                        })
+                        }),
                     )
                     .unwrap();
                 }
@@ -125,7 +133,7 @@ fn main() {
                         eprintln!("Invalid job ID: {}", last_job);
 
                         process::exit(4)
-                    })
+                    }),
                 )
                 .unwrap();
             } else {
@@ -319,7 +327,7 @@ fn job_name(id: u32) -> Option<&'static str> {
 
 fn skill_name(id: u32) -> Option<&'static str> {
     Some(match id {
-        0 => "basic attack",
+        0 => "[basic attack]",
         8 => "Follow the Lead",
         1000 => "Three Snails",
         1001 => "Recovery",

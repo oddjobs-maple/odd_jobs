@@ -107,6 +107,79 @@
       ]
     },
     {
+      "name": "LUK Warrior",
+      "aliases": [],
+      "progressions": [
+        [0, 100, 110, 111, 112],
+        [0, 100, 120, 121, 122],
+        [0, 100, 130, 131, 132]
+      ],
+      "location": null,
+      "primary_stats": ["LUK", "STR"],
+      "secondary_stats": ["DEX"],
+      "stat_constraints": ["STR = 35", "DEX = 4"],
+      "attacks": [
+        0,
+        1001004,
+        1001005,
+        1101007,
+        1111003,
+        1111004,
+        1111005,
+        1111006,
+        1211002,
+        1311001,
+        1311002,
+        1311003,
+        1311004,
+        1311006
+      ],
+      "notable_skills": [
+        1101007,
+        1000001,
+        1101006,
+        1301006,
+        1301007,
+        1111002,
+        1111007,
+        1111008,
+        1211003,
+        1211004,
+        1211005,
+        1211006,
+        1211007,
+        1211008,
+        1211009,
+        1311006,
+        1311007
+      ],
+      "notable_equips": [
+        "Metal Axe",
+        "Wooden Sword",
+        "Wooden Mallet",
+        "Spear",
+        "Pole Arm",
+        "Maple Dragon Axe",
+        "Maple Big Maul",
+        "Maple Doom Singer",
+        "Maple Impaler",
+        "Maple Scorpio",
+        "Trumpet",
+        "Maple Glory Sword",
+        "Maple Steel Axe",
+        "Maple Soul Rohen",
+        "Maple Demon Axe",
+        "Maple Havoc Hammer",
+        "Maple Belzet",
+        "Maple Soul Spear",
+        "Maple Karstan",
+        "Daiwa Sword"
+      ],
+      "notes": [
+        "LUK warriors are actually very similar to LUK mages, in that they essentially play like their non-odd-job counterparts, albeit considerably weaker. LUK warriors are, again like LUK mages, somewhat limited in their equipment choices because of their unusual AP allocation, but can nevertheless use job-appropriate weapons that enable them to make use of all of their skills."
+      ]
+    },
+    {
       "name": "STR Mage",
       "aliases": ["Strength Mage", "Battle Mage", "STR Magician"],
       "progressions": [

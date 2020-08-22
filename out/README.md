@@ -5,12 +5,21 @@ potentially be invented. Also note that the “Stat constraints”
 reference *base* stats/abilities; that is, the stats themselves without any
 bonuses from equipment or buffs.
 
+The “Notable equipment” for each job intentionally excludes
+equipment items that are not particularly unique to the job. For example, many
+of the same weapons (those swords, axes, blunt weapons, spears, polearms, and
+daggers that lack job requirements) are used by almost all melee-oriented odd
+jobs (e.g. permabeginner) in common. As a result, unless these weapons are
+useful for other reasons that are somewhat special to the job in question, they
+are not listed under “Notable equipment”.
+
 - [Camper](#camper)
 - [Magelander](#magelander)
 - [Islander](#islander)
 - [Besinner](#besinner)
 - [Permabeginner](#permabeginner)
 - [HP Warrior](#hp-warrior)
+- [LUK Warrior](#luk-warrior)
 - [STR Mage](#str-mage)
 - [Gish](#gish)
 - [LUK Gish](#luk-gish)
@@ -32,7 +41,7 @@ Primary stats: **STR**, **DEX**
 
 Attacks:
 
-- basic attack
+- [basic attack]
 
 Notable equipment:
 
@@ -58,7 +67,7 @@ Primary stats: **STR**, **DEX** | Secondary stats: INT, LUK
 
 Attacks:
 
-- basic attack
+- [basic attack]
 - Three Snails
 
 Notable equipment:
@@ -86,7 +95,7 @@ Primary stats: **STR**, **DEX** | Secondary stat: LUK
 
 Attacks:
 
-- basic attack
+- [basic attack]
 
 Notable equipment:
 
@@ -107,7 +116,7 @@ Primary stat: **LUK**
 
 Attacks:
 
-- basic attack
+- [basic attack]
 
 Notable equipment:
 
@@ -131,7 +140,7 @@ Primary stat: **STR** | Secondary stat: DEX
 
 Attacks:
 
-- basic attack
+- [basic attack]
 
 Notable equipment:
 
@@ -176,6 +185,85 @@ After achieving 35 base STR (necessary for first job advancement), the HP Warrio
 
 HP Warriors deal damage primarily via Power Guard, and as such, typically want to lower their WDEF as much as possible in order to maximize this damage.
 
+## LUK Warrior
+
+Possible job progressions:
+
+- Beginner → Warrior → Fighter → Crusader → Hero
+- Beginner → Warrior → Page → White Knight → Paladin
+- Beginner → Warrior → Spearman → Dragon Knight → Dark Knight
+
+Primary stats: **LUK**, **STR** | Secondary stat: DEX
+
+Stat constraints:
+
+- STR = 35
+- DEX = 4
+
+Attacks:
+
+- [basic attack]
+- Power Strike
+- Slash Blast
+- Power Guard
+- Panic: Sword
+- Panic: Axe
+- Coma: Sword
+- Coma: Axe
+- Charged Blow
+- Spear Crusher
+- Pole Arm Crusher
+- Dragon Fury: Spear
+- Dragon Fury: Pole Arm
+- Dragon Roar
+
+Notable skills:
+
+- Power Guard
+- Improved MaxHP Increase
+- Rage
+- Iron Will
+- Hyper Body
+- Combo Attack
+- Armor Crash
+- Shout
+- Fire Charge: Sword
+- Flame Charge: BW
+- Ice Charge: Sword
+- Blizzard Charge: BW
+- Thunder Charge: Sword
+- Lightning Charge: BW
+- Magic Crash
+- Dragon Roar
+- Power Crash
+
+Notable equipment:
+
+- Metal Axe
+- Wooden Sword
+- Wooden Mallet
+- Spear
+- Pole Arm
+- Maple Dragon Axe
+- Maple Big Maul
+- Maple Doom Singer
+- Maple Impaler
+- Maple Scorpio
+- Trumpet
+- Maple Glory Sword
+- Maple Steel Axe
+- Maple Soul Rohen
+- Maple Demon Axe
+- Maple Havoc Hammer
+- Maple Belzet
+- Maple Soul Spear
+- Maple Karstan
+- Daiwa Sword
+
+### Notes
+
+LUK warriors are actually very similar to LUK mages, in that they essentially play like their non-odd-job counterparts, albeit considerably weaker. LUK warriors are, again like LUK mages, somewhat limited in their equipment choices because of their unusual AP allocation, but can nevertheless use job-appropriate weapons that enable them to make use of all of their skills.
+
 ## STR Mage
 
 Also known as: “Strength Mage”, “Battle Mage”, “STR Magician”
@@ -195,7 +283,7 @@ Stat constraints:
 
 Attacks:
 
-- basic attack
+- [basic attack]
 
 Notable skills:
 
@@ -239,7 +327,7 @@ Stat constraints:
 
 Attacks:
 
-- basic attack
+- [basic attack]
 - Energy Bolt
 - Magic Claw
 - Fire Arrow
@@ -311,7 +399,7 @@ Stat constraints:
 
 Attacks:
 
-- basic attack
+- [basic attack]
 - Energy Bolt
 - Magic Claw
 - Fire Arrow
@@ -475,7 +563,7 @@ Stat constraints:
 
 Attacks:
 
-- basic attack
+- [basic attack]
 - Double Shot
 - Power Knock-Back
 - Arrow Bomb
@@ -533,7 +621,7 @@ Stat constraints:
 
 Attacks:
 
-- basic attack
+- [basic attack]
 
 Notable skills:
 
@@ -574,7 +662,7 @@ Stat constraints:
 
 Attacks:
 
-- basic attack
+- [basic attack]
 - Steal
 - Meso Explosion
 
