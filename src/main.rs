@@ -74,7 +74,7 @@ fn main() {
     for oddjob in &oddjobs {
         writeln!(
             stdout_handle,
-            "- [{}](#user-content-{})",
+            "- [{}](#{})",
             oddjob.name,
             slugify(&oddjob.name),
         )

@@ -5,20 +5,20 @@ potentially be invented. Also note that the “Stat constraints”
 reference *base* stats/abilities; that is, the stats themselves without any
 bonuses from equipment or buffs.
 
-- [Camper](#user-content-camper)
-- [Magelander](#user-content-magelander)
-- [Islander](#user-content-islander)
-- [Besinner](#user-content-besinner)
-- [Permabeginner](#user-content-permabeginner)
-- [HP Warrior](#user-content-hp-warrior)
-- [STR Mage](#user-content-str-mage)
-- [Gish](#user-content-gish)
-- [LUK Gish](#user-content-luk-gish)
-- [LUK Mage](#user-content-luk-mage)
-- [Woodsman](#user-content-woodsman)
-- [STR Assassin](#user-content-str-assassin)
-- [Brigand](#user-content-brigand)
-- [Swashbuckler](#user-content-swashbuckler)
+- [Camper](#camper)
+- [Magelander](#magelander)
+- [Islander](#islander)
+- [Besinner](#besinner)
+- [Permabeginner](#permabeginner)
+- [HP Warrior](#hp-warrior)
+- [STR Mage](#str-mage)
+- [Gish](#gish)
+- [LUK Gish](#luk-gish)
+- [LUK Mage](#luk-mage)
+- [Woodsman](#woodsman)
+- [STR Assassin](#str-assassin)
+- [Brigand](#brigand)
+- [Swashbuckler](#swashbuckler)
 
 ## Camper
 
