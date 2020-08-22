@@ -158,7 +158,7 @@ HP Warriors deal damage primarily via Power Guard, and as such, typically want t
 
 ## STR Mage
 
-Also known as: “Strength Mage”, “Battle Mage”, “STR Magician”, “Gish”
+Also known as: “Strength Mage”, “Battle Mage”, “STR Magician”
 
 Possible job progressions:
 
@@ -176,8 +176,6 @@ Stat constraints:
 Attacks:
 
 - basic attack
-- Poison Breath
-- Poison Mist
 
 Notable skills:
 
@@ -192,21 +190,157 @@ Notable equipment:
 
 - Mace
 - Iron Mace
-- Fruity Bamboo
 - Fusion Mace
+- Blue Snowshoes
+- Flamekeeper Cordon
+- Maple Magician Shield
+
+### Notes
+
+STR mages largely play like “permabeginners, but with buffs”, although they can also have other utility skills, like Heal. For a more magically-oriented magician that still engages in melee, see the gish (and the LUK gish).
+
+## Gish
+
+Also known as: “Mixed Attacker Mage”, “Mixed Attacker”, “Hybrid Mage”, “Hybrid Magician”
+
+Possible job progressions:
+
+- Beginner → Magician → Cleric → Priest → Bishop
+- Beginner → Magician → I/L Wizard → I/L Mage → I/L Archmage
+- Beginner → Magician → F/P Wizard → F/P Mage → F/P Archmage
+
+Primary stats: **STR**, **INT** | Secondary stats: DEX, LUK
+
+Stat constraints:
+
+- STR ≥ INT
+- LUK = 4
+
+Attacks:
+
+- basic attack
+- Energy Bolt
+- Magic Claw
+- Fire Arrow
+- Poison Breath
+- Cold Beam
+- Thunder Bolt
+- Heal
+- Holy Arrow
+- Explosion
+- Poison Mist
+- Element Composition
+- Ice Strike
+- Thunder Spear
+- Element Composition
+- Shining Ray
+
+Notable skills:
+
+- Magic Guard
+- Teleport
+- Heal
+- Bless
+- Holy Symbol
+- Dispel
+
+Notable equipment:
+
+- Sky Blue Umbrella
+- Green Umbrella
+- Fruity Bamboo
 - Light Purple Umbrella
+- Green Paint Brush
+- Pumpkin Lantern
 - Flaming Katana
+- Yellow Umbrella
 - Purple Tube
 - Beige Umbrella
 - Diao Chan Sword
+- Kebob
 - Black Umbrella
+- Crimson Arcglaive
 - Blue Snowshoes
+- Flamekeeper Cordon
 - Glitter Gloves
 - Maple Magician Shield
 
 ### Notes
 
-STR mages largely play like “permabeginners, but with buffs”, although they can become more gish-like; particularly, with the use of weapons that give both WATK and MATK, and the use of magical skills that remain useful even with low INT, like Heal and Poison Mist.
+Gishes attack both with melee (similarly to the closely related STR mage) and with spells.
+
+Gishes use INT (unlike LUK mages) as their primary casting stat, but have this INT limited by their STR. See the LUK gish for a variant that is more similar to LUK mages, but naturally weaker than this kind of gish.
+
+## LUK Gish
+
+Also known as: “LUK Mixed Attacker Mage”, “LUK Mixed Attacker”, “LUK Hybrid Mage”, “LUK Hybrid Magician”
+
+Possible job progressions:
+
+- Beginner → Magician → Cleric → Priest → Bishop
+- Beginner → Magician → I/L Wizard → I/L Mage → I/L Archmage
+- Beginner → Magician → F/P Wizard → F/P Mage → F/P Archmage
+
+Primary stats: **STR**, **LUK** | Secondary stats: DEX, INT
+
+Stat constraints:
+
+- INT = 20
+
+Attacks:
+
+- basic attack
+- Energy Bolt
+- Magic Claw
+- Fire Arrow
+- Poison Breath
+- Cold Beam
+- Thunder Bolt
+- Heal
+- Holy Arrow
+- Explosion
+- Poison Mist
+- Element Composition
+- Ice Strike
+- Thunder Spear
+- Element Composition
+- Shining Ray
+
+Notable skills:
+
+- Magic Guard
+- Teleport
+- Heal
+- Bless
+- Holy Symbol
+- Dispel
+
+Notable equipment:
+
+- Sky Blue Umbrella
+- Green Umbrella
+- Fruity Bamboo
+- Light Purple Umbrella
+- Green Paint Brush
+- Pumpkin Lantern
+- Flaming Katana
+- Yellow Umbrella
+- Purple Tube
+- Beige Umbrella
+- Diao Chan Sword
+- Kebob
+- Black Umbrella
+- Crimson Arcglaive
+- Blue Snowshoes
+- Flamekeeper Cordon
+- Glitter Gloves
+- Maple Magician Shield
+
+### Notes
+
+LUK gishes attack both with melee (similarly to the closely related STR mage) and with spells.
+
+LUK gishes use LUK (unlike ordinary gishes) as their primary casting stat. See the gish for a variant that is generally stronger than the LUK gish.
 
 ## Woodsman
 

@@ -108,7 +108,7 @@
     },
     {
       "name": "STR Mage",
-      "aliases": ["Strength Mage", "Battle Mage", "STR Magician", "Gish"],
+      "aliases": ["Strength Mage", "Battle Mage", "STR Magician"],
       "progressions": [
         [0, 200, 230, 231, 232],
         [0, 200, 220, 221, 222],
@@ -118,25 +118,140 @@
       "primary_stats": ["STR"],
       "secondary_stats": ["DEX", "INT", "LUK"],
       "stat_constraints": ["INT = 20", "LUK = 4"],
-      "attacks": [0, 2101005, 2111003],
+      "attacks": [0],
       "notable_skills": [2001002, 2101002, 2301002, 2301004, 2311003, 2311001],
       "notable_equips": [
         "Mace",
         "Iron Mace",
-        "Fruity Bamboo",
         "Fusion Mace",
+        "Blue Snowshoes",
+        "Flamekeeper Cordon",
+        "Maple Magician Shield"
+      ],
+      "notes": [
+        "STR mages largely play like “permabeginners, but with buffs”, although they can also have other utility skills, like Heal. For a more magically-oriented magician that still engages in melee, see the gish (and the LUK gish)."
+      ]
+    },
+    {
+      "name": "Gish",
+      "aliases": [
+        "Mixed Attacker Mage",
+        "Mixed Attacker",
+        "Hybrid Mage",
+        "Hybrid Magician"
+      ],
+      "progressions": [
+        [0, 200, 230, 231, 232],
+        [0, 200, 220, 221, 222],
+        [0, 200, 210, 211, 212]
+      ],
+      "location": null,
+      "primary_stats": ["STR", "INT"],
+      "secondary_stats": ["DEX", "LUK"],
+      "stat_constraints": ["STR ≥ INT", "LUK = 4"],
+      "attacks": [
+        0,
+        2001004,
+        2001005,
+        2101004,
+        2101005,
+        2201004,
+        2201005,
+        2301002,
+        2301005,
+        2111002,
+        2111003,
+        2111006,
+        2211002,
+        2211003,
+        2211006,
+        2311004
+      ],
+      "notable_skills": [2001002, 2101002, 2301002, 2301004, 2311003, 2311001],
+      "notable_equips": [
+        "Sky Blue Umbrella",
+        "Green Umbrella",
+        "Fruity Bamboo",
         "Light Purple Umbrella",
+        "Green Paint Brush",
+        "Pumpkin Lantern",
         "Flaming Katana",
+        "Yellow Umbrella",
         "Purple Tube",
         "Beige Umbrella",
         "Diao Chan Sword",
+        "Kebob",
         "Black Umbrella",
+        "Crimson Arcglaive",
         "Blue Snowshoes",
+        "Flamekeeper Cordon",
         "Glitter Gloves",
         "Maple Magician Shield"
       ],
       "notes": [
-        "STR mages largely play like “permabeginners, but with buffs”, although they can become more gish-like; particularly, with the use of weapons that give both WATK and MATK, and the use of magical skills that remain useful even with low INT, like Heal and Poison Mist."
+        "Gishes attack both with melee (similarly to the closely related STR mage) and with spells.",
+        "Gishes use INT (unlike LUK mages) as their primary casting stat, but have this INT limited by their STR. See the LUK gish for a variant that is more similar to LUK mages, but naturally weaker than this kind of gish."
+      ]
+    },
+    {
+      "name": "LUK Gish",
+      "aliases": [
+        "LUK Mixed Attacker Mage",
+        "LUK Mixed Attacker",
+        "LUK Hybrid Mage",
+        "LUK Hybrid Magician"
+      ],
+      "progressions": [
+        [0, 200, 230, 231, 232],
+        [0, 200, 220, 221, 222],
+        [0, 200, 210, 211, 212]
+      ],
+      "location": null,
+      "primary_stats": ["STR", "LUK"],
+      "secondary_stats": ["DEX", "INT"],
+      "stat_constraints": ["INT = 20"],
+      "attacks": [
+        0,
+        2001004,
+        2001005,
+        2101004,
+        2101005,
+        2201004,
+        2201005,
+        2301002,
+        2301005,
+        2111002,
+        2111003,
+        2111006,
+        2211002,
+        2211003,
+        2211006,
+        2311004
+      ],
+      "notable_skills": [2001002, 2101002, 2301002, 2301004, 2311003, 2311001],
+      "notable_equips": [
+        "Sky Blue Umbrella",
+        "Green Umbrella",
+        "Fruity Bamboo",
+        "Light Purple Umbrella",
+        "Green Paint Brush",
+        "Pumpkin Lantern",
+        "Flaming Katana",
+        "Yellow Umbrella",
+        "Purple Tube",
+        "Beige Umbrella",
+        "Diao Chan Sword",
+        "Kebob",
+        "Black Umbrella",
+        "Crimson Arcglaive",
+        "Blue Snowshoes",
+        "Flamekeeper Cordon",
+        "Glitter Gloves",
+        "Maple Magician Shield"
+      ],
+      "notes": [
+        "LUK gishes attack both with melee (similarly to the closely related STR mage) and with spells.",
+        "LUK gishes use LUK (unlike ordinary gishes) as their primary casting stat. See the gish for a variant that is generally stronger than the LUK gish."
       ]
     },
     {
