@@ -1,5 +1,10 @@
 # Odd jobs
 
+Note that this list is inherently incomplete, because new odd jobs could
+potentially be invented. Also note that the “Stat constraints”
+reference *base* stats/abilities; that is, the stats themselves without any
+bonuses from equipment or buffs.
+
 ## Camper
 
 Possible job progressions:
@@ -180,6 +185,7 @@ Attacks:
 Notable skills:
 
 - Magic Guard
+- Meditation
 - Teleport
 - Heal
 - Bless
@@ -238,6 +244,7 @@ Attacks:
 Notable skills:
 
 - Magic Guard
+- Meditation
 - Teleport
 - Heal
 - Bless
@@ -309,6 +316,7 @@ Attacks:
 Notable skills:
 
 - Magic Guard
+- Meditation
 - Teleport
 - Heal
 - Bless
@@ -341,6 +349,99 @@ Notable equipment:
 LUK gishes attack both with melee (similarly to the closely related STR mage) and with spells.
 
 LUK gishes use LUK (unlike ordinary gishes) as their primary casting stat. See the gish for a variant that is generally stronger than the LUK gish.
+
+## LUK Mage
+
+Also known as: “LUK Magician”
+
+Possible job progressions:
+
+- Beginner → Magician → Cleric → Priest → Bishop
+- Beginner → Magician → I/L Wizard → I/L Mage → I/L Archmage
+- Beginner → Magician → F/P Wizard → F/P Mage → F/P Archmage
+
+Primary stat: **LUK** | Secondary stat: INT
+
+Stat constraints:
+
+- INT = 20
+
+Attacks:
+
+- Energy Bolt
+- Magic Claw
+- Fire Arrow
+- Poison Breath
+- Cold Beam
+- Thunder Bolt
+- Heal
+- Holy Arrow
+- Explosion
+- Poison Mist
+- Element Composition
+- Ice Strike
+- Thunder Spear
+- Element Composition
+- Shining Ray
+
+Notable skills:
+
+- Magic Guard
+- Meditation
+- Teleport
+- Heal
+- Bless
+- Holy Symbol
+- Dispel
+
+Notable equipment:
+
+- Sky Blue Umbrella
+- Wooden Wand
+- Green Umbrella
+- Fruity Bamboo
+- Light Purple Umbrella
+- Green Paint Brush
+- Poison Mushroom
+- Pumpkin Lantern
+- Maple Staff
+- Flaming Katana
+- Yellow Umbrella
+- Maple Lama Staff
+- Nocturnal Staff
+- Purple Tube
+- Streetlight
+- Beige Umbrella
+- Diao Chan Sword
+- Heart Staff
+- Heart Wand
+- Maple Wisdom Staff
+- Maple Shine Wand
+- Elemental Wand 1
+- Elemental Wand 2
+- Elemental Wand 3
+- Elemental Wand 4
+- Kebob
+- Black Umbrella
+- Pyogo Mushroom
+- Crimson Arcglaive
+- Doomsday Staff
+- Elemental Staff 1
+- Elemental Staff 2
+- Elemental Staff 3
+- Elemental Staff 4
+- Elemental Wand 5
+- Elemental Wand 6
+- Elemental Wand 7
+- Elemental Wand 8
+- Blue Snowshoes
+- Flamekeeper Cordon
+- Glitter Gloves
+- Maple Magician Shield
+
+### Notes
+
+LUK mages play very similarly to ordinary mages, although obviously they are considerably weaker, and are also incapable of equipping items with significant INT requirements.
 
 ## Woodsman
 

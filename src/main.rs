@@ -26,15 +26,22 @@ struct Oddjob {
     notes: Vec<String>,
 }
 
+static PREAMBLE: &str = "# Odd jobs
+
+Note that this list is inherently incomplete, because new odd jobs could
+potentially be invented. Also note that the \u{201c}Stat constraints\u{201d}
+reference *base* stats/abilities; that is, the stats themselves without any
+bonuses from equipment or buffs.
+
+";
+
 fn main() {
     let mut input_filename = String::new();
 
     for (arg_i, arg) in env::args().enumerate() {
         match arg_i {
             0 => (),
-            1 => {
-                input_filename = arg;
-            }
+            1 => input_filename = arg,
             _ => {
                 eprintln!(
                     "Expected just one argument: the filename to read in",
@@ -62,7 +69,7 @@ fn main() {
     let stdout = io::stdout();
     let mut stdout_handle = stdout.lock();
 
-    stdout_handle.write_all(b"# Odd jobs\n\n").unwrap();
+    stdout_handle.write_all(PREAMBLE.as_bytes()).unwrap();
 
     for oddjob in oddjobs {
         writeln!(stdout_handle, "## {}\n", oddjob.name).unwrap();
