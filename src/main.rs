@@ -71,6 +71,18 @@ fn main() {
 
     stdout_handle.write_all(PREAMBLE.as_bytes()).unwrap();
 
+    for oddjob in &oddjobs {
+        writeln!(
+            stdout_handle,
+            "- [{}](#user-content-{})",
+            oddjob.name,
+            slugify(&oddjob.name),
+        )
+        .unwrap();
+    }
+
+    writeln!(stdout_handle).unwrap();
+
     for oddjob in oddjobs {
         writeln!(stdout_handle, "## {}\n", oddjob.name).unwrap();
 
@@ -234,6 +246,27 @@ fn main() {
             }
         }
     }
+}
+
+/// Kind of a hack.  I'm not really sure exactly how slugification of arbitrary
+/// Unicode strings is "supposed" to work, especially considering that there is
+/// no *single* such thing; everyone does it differently.
+///
+/// Also, uh, normalizing Latin letters to their closest ASCII equivalents
+/// ("getting rid of accents") isn't handled in the Rust stdlib, so this
+/// function won't even try to do that.
+fn slugify(s: &str) -> String {
+    let mut slug = String::with_capacity(s.len());
+
+    for c in s.chars() {
+        if c.is_whitespace() {
+            slug.push('-');
+        } else if c.is_ascii_alphanumeric() {
+            slug.push(c.to_ascii_lowercase());
+        }
+    }
+
+    slug
 }
 
 fn job_name(id: u32) -> Option<&'static str> {
@@ -417,14 +450,14 @@ fn skill_name(id: u32) -> Option<&'static str> {
         2111003 => "Poison Mist",
         2111004 => "Seal",
         2111005 => "Spell Booster",
-        2111006 => "Element Composition",
+        2111006 => "Element Composition [F/P]",
         2210000 => "Partial Resistance",
         2210001 => "Element Amplification",
         2211002 => "Ice Strike",
         2211003 => "Thunder Spear",
         2211004 => "Seal",
         2211005 => "Spell Booster",
-        2211006 => "Element Composition",
+        2211006 => "Element Composition [I/L]",
         2310000 => "Elemental Resistance",
         2311001 => "Dispel",
         2311002 => "Mystic Door",
