@@ -119,7 +119,15 @@
       "secondary_stats": ["DEX", "INT", "LUK"],
       "stat_constraints": ["INT = 20", "LUK = 4"],
       "attacks": [0],
-      "notable_skills": [2001002, 2101002, 2301002, 2301004, 2311003, 2311001],
+      "notable_skills": [
+        2001002,
+        2101001,
+        2101002,
+        2301002,
+        2301004,
+        2311003,
+        2311001
+      ],
       "notable_equips": [
         "Mace",
         "Iron Mace",
@@ -167,7 +175,15 @@
         2211006,
         2311004
       ],
-      "notable_skills": [2001002, 2101002, 2301002, 2301004, 2311003, 2311001],
+      "notable_skills": [
+        2001002,
+        2101001,
+        2101002,
+        2301002,
+        2301004,
+        2311003,
+        2311001
+      ],
       "notable_equips": [
         "Sky Blue Umbrella",
         "Green Umbrella",
@@ -228,7 +244,15 @@
         2211006,
         2311004
       ],
-      "notable_skills": [2001002, 2101002, 2301002, 2301004, 2311003, 2311001],
+      "notable_skills": [
+        2001002,
+        2101001,
+        2101002,
+        2301002,
+        2301004,
+        2311003,
+        2311001
+      ],
       "notable_equips": [
         "Sky Blue Umbrella",
         "Green Umbrella",
@@ -252,6 +276,92 @@
       "notes": [
         "LUK gishes attack both with melee (similarly to the closely related STR mage) and with spells.",
         "LUK gishes use LUK (unlike ordinary gishes) as their primary casting stat. See the gish for a variant that is generally stronger than the LUK gish."
+      ]
+    },
+    {
+      "name": "LUK Mage",
+      "aliases": ["LUK Magician"],
+      "progressions": [
+        [0, 200, 230, 231, 232],
+        [0, 200, 220, 221, 222],
+        [0, 200, 210, 211, 212]
+      ],
+      "location": null,
+      "primary_stats": ["LUK"],
+      "secondary_stats": ["INT"],
+      "stat_constraints": ["INT = 20"],
+      "attacks": [
+        2001004,
+        2001005,
+        2101004,
+        2101005,
+        2201004,
+        2201005,
+        2301002,
+        2301005,
+        2111002,
+        2111003,
+        2111006,
+        2211002,
+        2211003,
+        2211006,
+        2311004
+      ],
+      "notable_skills": [
+        2001002,
+        2101001,
+        2101002,
+        2301002,
+        2301004,
+        2311003,
+        2311001
+      ],
+      "notable_equips": [
+        "Sky Blue Umbrella",
+        "Wooden Wand",
+        "Green Umbrella",
+        "Fruity Bamboo",
+        "Light Purple Umbrella",
+        "Green Paint Brush",
+        "Poison Mushroom",
+        "Pumpkin Lantern",
+        "Maple Staff",
+        "Flaming Katana",
+        "Yellow Umbrella",
+        "Maple Lama Staff",
+        "Nocturnal Staff",
+        "Purple Tube",
+        "Streetlight",
+        "Beige Umbrella",
+        "Diao Chan Sword",
+        "Heart Staff",
+        "Heart Wand",
+        "Maple Wisdom Staff",
+        "Maple Shine Wand",
+        "Elemental Wand 1",
+        "Elemental Wand 2",
+        "Elemental Wand 3",
+        "Elemental Wand 4",
+        "Kebob",
+        "Black Umbrella",
+        "Pyogo Mushroom",
+        "Crimson Arcglaive",
+        "Doomsday Staff",
+        "Elemental Staff 1",
+        "Elemental Staff 2",
+        "Elemental Staff 3",
+        "Elemental Staff 4",
+        "Elemental Wand 5",
+        "Elemental Wand 6",
+        "Elemental Wand 7",
+        "Elemental Wand 8",
+        "Blue Snowshoes",
+        "Flamekeeper Cordon",
+        "Glitter Gloves",
+        "Maple Magician Shield"
+      ],
+      "notes": [
+        "LUK mages play very similarly to ordinary mages, although obviously they are considerably weaker, and are also incapable of equipping items with significant INT requirements."
       ]
     },
     {
