@@ -310,7 +310,7 @@ STR mages largely play like “permabeginners, but with buffs”, although they 
 
 ## Gish
 
-Also known as: “Mixed Attacker Mage”, “Mixed Attacker”, “Hybrid Mage”, “Hybrid Magician”
+Also known as: “INT Gish”, “Mixed Attacker Mage”, “Mixed Attacker”, “Hybrid Mage”, “Hybrid Magician”
 
 Possible job progressions:
 
