@@ -20,6 +20,7 @@ are not listed under “Notable equipment”.
 - [Permabeginner](#permabeginner)
 - [HP Warrior](#hp-warrior)
 - [LUK Warrior](#luk-warrior)
+- [DEX Warrior](#dex-warrior)
 - [STR Mage](#str-mage)
 - [Gish](#gish)
 - [LUK Gish](#luk-gish)
@@ -263,6 +264,88 @@ Notable equipment:
 ### Notes
 
 LUK warriors are actually very similar to LUK mages, in that they essentially play like their non-odd-job counterparts, albeit considerably weaker. LUK warriors are, again like LUK mages, somewhat limited in their equipment choices because of their unusual AP allocation, but can nevertheless use job-appropriate weapons that enable them to make use of all of their skills.
+
+## DEX Warrior
+
+Possible job progressions:
+
+- Beginner → Warrior → Fighter → Crusader → Hero
+- Beginner → Warrior → Page → White Knight → Paladin
+- Beginner → Warrior → Spearman → Dragon Knight → Dark Knight
+
+Primary stats: **DEX**, **STR** | Secondary stat: LUK
+
+Stat constraints:
+
+- STR = 35
+
+Attacks:
+
+- [basic attack]
+- Power Strike
+- Slash Blast
+- Power Guard
+- Panic: Sword
+- Panic: Axe
+- Coma: Sword
+- Coma: Axe
+- Charged Blow
+- Spear Crusher
+- Pole Arm Crusher
+- Dragon Fury: Spear
+- Dragon Fury: Pole Arm
+- Dragon Roar
+
+Notable skills:
+
+- Power Guard
+- Improved MaxHP Increase
+- Rage
+- Iron Will
+- Hyper Body
+- Combo Attack
+- Armor Crash
+- Shout
+- Fire Charge: Sword
+- Flame Charge: BW
+- Ice Charge: Sword
+- Blizzard Charge: BW
+- Thunder Charge: Sword
+- Lightning Charge: BW
+- Magic Crash
+- Dragon Roar
+- Power Crash
+
+Notable equipment:
+
+- Metal Axe
+- Wooden Sword
+- Wooden Mallet
+- Spear
+- Pole Arm
+- Field Dagger
+- Maple Dragon Axe
+- Maple Big Maul
+- Maple Doom Singer
+- Maple Impaler
+- Maple Scorpio
+- Trumpet
+- Maple Glory Sword
+- Maple Steel Axe
+- Maple Soul Rohen
+- Maple Demon Axe
+- Maple Havoc Hammer
+- Maple Belzet
+- Maple Soul Spear
+- Maple Karstan
+- Daiwa Sword
+- Stonetooth Sword
+
+### Notes
+
+DEX warriors are essentially a stronger variant of LUK warriors, because DEX actually contributes somewhat (although not nearly as much as STR) to their damage, unlike LUK.
+
+DEX warriors are also notable for their ability to easily equip the Stonetooth Sword, a level 100 warrior-only two-handed sword that requires at least 120 DEX (but only 0 STR) to equip. The Stonetooth Sword is a viable and sought-after endgame weapon even for normal warriors.
 
 ## STR Mage
 
