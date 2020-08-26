@@ -47,6 +47,8 @@ Attacks:
 Notable equipment:
 
 - Sword
+- Wooden Club
+- Hand Axe
 
 ### Notes
 
