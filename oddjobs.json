@@ -528,8 +528,8 @@
       "attacks": [
         0,
         3001005,
-        3101003,
         3101005,
+        3101003,
         3111006,
         3111003,
         3111004,
@@ -554,8 +554,41 @@
         "Green Snowshoes"
       ],
       "notes": [
-        "Woodsmen come in more-or-less three varieties, owing to their versatility: bow/crossbow woodsmen, melee woodsmen, and bow-whacking woodsmen. The first of these is the most similar to a traditional bow or crossbow user, albeit naturally much weaker. Bow-whacking woodsmen rely on the Power Knock-Back skill, and are generally the weakest of the three.",
-        "The woodsman’s versatility can allow them to easily switch between ranged and melee combat."
+        "The woodsman’s versatility can allow them to switch between ranged and melee physical combat."
+      ]
+    },
+    {
+      "name": "Bow-whacker",
+      "aliases": [
+        "Crossbow-whacker",
+        "Bow-whacking Woodsman",
+        "Crossbow-whacking Woodsman",
+        "Knockback Archer"
+      ],
+      "progressions": [
+        [0, 300, 310, 311, 312],
+        [0, 300, 320, 321, 322]
+      ],
+      "location": null,
+      "primary_stats": ["STR"],
+      "secondary_stats": ["DEX"],
+      "stat_constraints": [],
+      "attacks": [0, 3101003],
+      "notable_skills": [3000000, 3001003, 3111002],
+      "notable_equips": [
+        "War Bow",
+        "Maple Bow",
+        "Maple Soul Searcher",
+        "Maple Kandiva Bow",
+        "Bow of Magical Destruction",
+        "Crossbow",
+        "Maple Crow",
+        "Maple Crossbow",
+        "Maple Nishada",
+        "Green Snowshoes"
+      ],
+      "notes": [
+        "Bow-whackers do not have the stat constraint that woodsmen have, because they are disallowed from shooting projectiles, and disallowed from using Soul Arrow. They can only deal damage by whacking monsters with their (cross)bow."
       ]
     },
     {

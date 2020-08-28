@@ -26,6 +26,7 @@ are not listed under “Notable equipment”.
 - [LUK Gish](#luk-gish)
 - [LUK Mage](#luk-mage)
 - [Woodsman](#woodsman)
+- [Bow-whacker](#bowwhacker)
 - [STR Assassin](#str-assassin)
 - [Brigand](#brigand)
 - [Swashbuckler](#swashbuckler)
@@ -650,8 +651,8 @@ Attacks:
 
 - [basic attack]
 - Double Shot
-- Power Knock-Back
 - Arrow Bomb
+- Power Knock-Back
 - Strafe
 - Inferno
 - Arrow Rain
@@ -685,9 +686,46 @@ Notable equipment:
 
 ### Notes
 
-Woodsmen come in more-or-less three varieties, owing to their versatility: bow/crossbow woodsmen, melee woodsmen, and bow-whacking woodsmen. The first of these is the most similar to a traditional bow or crossbow user, albeit naturally much weaker. Bow-whacking woodsmen rely on the Power Knock-Back skill, and are generally the weakest of the three.
+The woodsman’s versatility can allow them to switch between ranged and melee physical combat.
 
-The woodsman’s versatility can allow them to easily switch between ranged and melee combat.
+## Bow-whacker
+
+Also known as: “Crossbow-whacker”, “Bow-whacking Woodsman”, “Crossbow-whacking Woodsman”, “Knockback Archer”
+
+Possible job progressions:
+
+- Beginner → Archer → Hunter → Ranger → Bowmaster
+- Beginner → Archer → Crossbowman → Sniper → Marksman
+
+Primary stat: **STR** | Secondary stat: DEX
+
+Attacks:
+
+- [basic attack]
+- Power Knock-Back
+
+Notable skills:
+
+- The Blessing of Amazon
+- Focus
+- Puppet
+
+Notable equipment:
+
+- War Bow
+- Maple Bow
+- Maple Soul Searcher
+- Maple Kandiva Bow
+- Bow of Magical Destruction
+- Crossbow
+- Maple Crow
+- Maple Crossbow
+- Maple Nishada
+- Green Snowshoes
+
+### Notes
+
+Bow-whackers do not have the stat constraint that woodsmen have, because they are disallowed from shooting projectiles, and disallowed from using Soul Arrow. They can only deal damage by whacking monsters with their (cross)bow.
 
 ## STR Assassin
 
