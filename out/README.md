@@ -28,6 +28,7 @@ are not listed under “Notable equipment”.
 - [Woodsman](#woodsman)
 - [Bow-whacker](#bowwhacker)
 - [STR Assassin](#str-assassin)
+- [Blood Bandit](#blood-bandit)
 - [Brigand](#brigand)
 - [Swashbuckler](#swashbuckler)
 
@@ -769,6 +770,59 @@ Notable equipment:
 STR assassins cannot put any SP into Double Stab.
 
 STR assassins are somewhat similar to brigands: they essentially play like more mobile permabeginners, with some neato utility skills. Later on, Flash Jump in particular is a highlight. However, STR assassins lack both Steal and Meso Explosion.
+
+## Blood Bandit
+
+Also known as: “Blood Dit”, “HP Bandit”, “HP Dit”
+
+Possible job progressions:
+
+- Beginner → Rogue → Bandit → Chief Bandit → Shadower
+
+Primary stat: **HP** | Secondary stats: LUK, DEX
+
+Stat constraints:
+
+- DEX = 25
+- LUK = 4
+- STR = 4
+
+Attacks:
+
+- Meso Explosion
+- [basic attack]
+- Double Stab
+- Savage Blow
+- Steal
+- Band of Thieves
+- Assaulter
+
+Notable skills:
+
+- Nimble Body
+- Disorder
+- Dark Sight
+- Steal
+- Haste
+- Shield Mastery
+- Meso Guard
+
+Notable equipment:
+
+- Fruit Knife
+- Christmas Tree
+- Korean Fan
+- Plastic Bottle
+- Maple Wagner
+- Maple Asura Dagger
+- Maple Dark Mate
+- Kebob
+- Maple Thief Shield
+- Black Snowshoes
+
+### Notes
+
+Blood bandits are essentially ordinary bandits (in the sense that they can use daggers and stabbing skills, and thus all bandit/chief bandit/shadower skills) that trade off the large majority of their melee power in exchange for extreme tankiness. Because all of their APs are spent on HP, and because they gain access to Meso Guard in third job, blood bandits are virtually unkillable. However, naturally enough, their melee capabilities are typically very subpar, and they are more or less built around the use of Meso Explosion, which thankfully does not scale with any of the bandit’s stats, and also demands some tankiness to allow the bandit to get up close in order to place, and then explode, mesos.
 
 ## Brigand
 

@@ -615,6 +615,40 @@
       ]
     },
     {
+      "name": "Blood Bandit",
+      "aliases": ["Blood Dit", "HP Bandit", "HP Dit"],
+      "progressions": [[0, 400, 420, 421, 422]],
+      "location": null,
+      "primary_stats": ["HP"],
+      "secondary_stats": ["LUK", "DEX"],
+      "stat_constraints": ["DEX = 25", "LUK = 4", "STR = 4"],
+      "attacks": [4211006, 0, 4001334, 4201005, 4201004, 4211004, 4211002],
+      "notable_skills": [
+        4000000,
+        4001002,
+        4001003,
+        4201004,
+        4201003,
+        4210000,
+        4211005
+      ],
+      "notable_equips": [
+        "Fruit Knife",
+        "Christmas Tree",
+        "Korean Fan",
+        "Plastic Bottle",
+        "Maple Wagner",
+        "Maple Asura Dagger",
+        "Maple Dark Mate",
+        "Kebob",
+        "Maple Thief Shield",
+        "Black Snowshoes"
+      ],
+      "notes": [
+        "Blood bandits are essentially ordinary bandits (in the sense that they can use daggers and stabbing skills, and thus all bandit/chief bandit/shadower skills) that trade off the large majority of their melee power in exchange for extreme tankiness. Because all of their APs are spent on HP, and because they gain access to Meso Guard in third job, blood bandits are virtually unkillable. However, naturally enough, their melee capabilities are typically very subpar, and they are more or less built around the use of Meso Explosion, which thankfully does not scale with any of the bandit’s stats, and also demands some tankiness to allow the bandit to get up close in order to place, and then explode, mesos."
+      ]
+    },
+    {
       "name": "Brigand",
       "aliases": [],
       "progressions": [[0, 400, 420, 421, 422]],
