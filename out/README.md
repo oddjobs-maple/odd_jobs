@@ -26,7 +26,7 @@ are not listed under “Notable equipment”.
 - [LUK Gish](#luk-gish)
 - [LUK Mage](#luk-mage)
 - [Woodsman](#woodsman)
-- [Bow-whacker](#bowwhacker)
+- [Bow-whacker](#bow-whacker)
 - [STR Assassin](#str-assassin)
 - [Blood Bandit](#blood-bandit)
 - [Brigand](#brigand)
