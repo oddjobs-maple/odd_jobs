@@ -799,13 +799,13 @@ Attacks:
 
 Notable skills:
 
+- Meso Guard
 - Nimble Body
 - Disorder
 - Dark Sight
 - Steal
 - Haste
 - Shield Mastery
-- Meso Guard
 
 Notable equipment:
 
