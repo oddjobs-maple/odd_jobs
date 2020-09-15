@@ -31,6 +31,7 @@ are not listed under “Notable equipment”.
 - [STR Assassin](#str-assassin)
 - [Blood Bandit](#blood-bandit)
 - [Brigand](#brigand)
+- [LUK Bucc](#luk-bucc)
 - [Swashbuckler](#swashbuckler)
 
 ## Camper
@@ -936,6 +937,58 @@ Notable equipment:
 Brigands cannot put any SP into stabbing skills, like Double Stab. Steal does not count as a “stabbing skill” for the purpose of this definition.
 
 Brigands essentially play like more mobile permabeginners, with some neato utility skills, to boot. Later, brigands get access to a radically different attacking skill: Meso Explosion.
+
+## LUK Bucc
+
+Also known as: “Lucc Bucc”, “LUK Brawler”, “LUK Marauder”, “LUK Buccaneer”
+
+Possible job progressions:
+
+- Beginner → Pirate → Brawler → Marauder → Buccaneer
+
+Primary stats: **LUK**, **STR** | Secondary stat: DEX
+
+Stat constraints:
+
+- STR = 4
+- DEX = 20
+
+Attacks:
+
+- [basic attack]
+- Sommersault Kick
+- Flash Fist
+- Corkscrew Blow
+- Backspin Blow
+- Double Uppercut
+- Shockwave
+- Energy Drain
+- Energy Blast
+
+Notable skills:
+
+- Bullet Time
+- Improve MaxHP
+- Oak Barrel
+- Corkscrew Blow
+- Backspin Blow
+- Double Uppercut
+- Transformation
+- Stun Mastery
+- Energy Charge
+- Energy Drain
+
+Notable equipment:
+
+- Steel Knuckler
+- Maple Knuckle
+- Maple Storm Finger
+- Maple Golden Claw
+- Purple Snowshoes
+
+### Notes
+
+LUK buccs are essentially the pirate version of LUK warriors, although they have a hard time getting equipped, due to the paucity of knucklers that lack stat requirements.
 
 ## Swashbuckler
 

@@ -729,6 +729,42 @@
       ]
     },
     {
+      "name": "LUK Bucc",
+      "aliases": ["Lucc Bucc", "LUK Brawler", "LUK Marauder", "LUK Buccaneer"],
+      "progressions": [[0, 500, 510, 511, 512]],
+      "location": null,
+      "primary_stats": ["LUK", "STR"],
+      "secondary_stats": ["DEX"],
+      "stat_constraints": ["STR = 4", "DEX = 20"],
+      "attacks": [
+        0,
+        5001002,
+        5001001,
+        5101004,
+        5101002,
+        5101003,
+        5111006,
+        5111004,
+        5111002
+      ],
+      "notable_skills": [
+        5000000,
+        5100000,
+        5101007,
+        5101004,
+        5101002,
+        5101003,
+        5111005,
+        5110000,
+        5110001,
+        5111004
+      ],
+      "notable_equips": [1482000, 1482020, 1482021, 1482022, 1072338],
+      "notes": [
+        "LUK buccs are essentially the pirate version of LUK warriors, although they have a hard time getting equipped, due to the paucity of knucklers that lack stat requirements."
+      ]
+    },
+    {
       "name": "Swashbuckler",
       "aliases": [
         "STR Gunslinger",
