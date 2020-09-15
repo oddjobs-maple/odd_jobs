@@ -20,6 +20,7 @@ are not listed under “Notable equipment”.
 - [Permabeginner](#permabeginner)
 - [HP Warrior](#hp-warrior)
 - [LUK Warrior](#luk-warrior)
+- [Dagger Warrior](#dagger-warrior)
 - [DEX Warrior](#dex-warrior)
 - [STR Mage](#str-mage)
 - [Gish](#gish)
@@ -270,6 +271,64 @@ Notable equipment:
 ### Notes
 
 LUK warriors are actually very similar to LUK mages, in that they essentially play like their non-odd-job counterparts, albeit considerably weaker. LUK warriors are, again like LUK mages, somewhat limited in their equipment choices because of their unusual AP allocation, but can nevertheless use job-appropriate weapons that enable them to make use of all of their skills.
+
+## Dagger Warrior
+
+Possible job progressions:
+
+- Beginner → Warrior → Fighter → Crusader → Hero
+- Beginner → Warrior → Page → White Knight → Paladin
+- Beginner → Warrior → Spearman → Dragon Knight → Dark Knight
+
+Primary stats: **STR**, **DEX**
+
+Attacks:
+
+- [basic attack]
+- Power Strike
+- Slash Blast
+- Power Guard
+- Dragon Roar
+
+Notable skills:
+
+- Power Guard
+- Improved MaxHP Increase
+- Rage
+- Iron Will
+- Hyper Body
+- Threaten
+- Combo Attack
+- Armor Crash
+- Shout
+- Magic Crash
+- Dragon Roar
+- Power Crash
+
+Notable equipment:
+
+- Fruit Knife
+- Christmas Tree
+- Field Dagger
+- Coconut Knife
+- Iron Dagger
+- Cass
+- Korean Fan
+- Plastic Bottle
+- Sai
+- Liu Bei Dagger
+- Serpent’s Coil
+- Fan
+- Kebob
+- Angelic Betrayal
+- Cursayer
+- Gold Double Knife
+
+### Notes
+
+The only restriction placed on dagger warriors is the reqirement that they exclusively use weapons that are daggers. This turns out to be quite the downside, because this locks them out of most of their skills.
+
+Surprisingly, daggers that are exclusive to rogues and warriors actually progress all the way up to level 100, with the Gold Double Knife!
 
 ## DEX Warrior
 
@@ -820,6 +879,7 @@ Notable equipment:
 - Korean Fan
 - Plastic Bottle
 - Maple Wagner
+- Liu Bei Dagger
 - Maple Asura Dagger
 - Maple Dark Mate
 - Kebob
