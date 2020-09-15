@@ -28,6 +28,7 @@ are not listed under “Notable equipment”.
 - [LUK Mage](#luk-mage)
 - [Woodsman](#woodsman)
 - [Bow-whacker](#bow-whacker)
+- [Grim Reaper](#grim-reaper)
 - [STR Assassin](#str-assassin)
 - [Blood Bandit](#blood-bandit)
 - [Brigand](#brigand)
@@ -792,6 +793,46 @@ Notable equipment:
 ### Notes
 
 Bow-whackers do not have the stat constraint that woodsmen have, because they are disallowed from shooting projectiles, and disallowed from using Soul Arrow. They can only deal damage by whacking monsters with their (cross)bow.
+
+## Grim Reaper
+
+Also known as: “Scythe Rogue”, “Scythe Thief”
+
+Possible job progressions:
+
+- Beginner → Rogue → Assassin → Hermit → Nightlord
+- Beginner → Rogue → Bandit → Chief Bandit → Shadower
+
+Primary stat: **STR** | Secondary stats: DEX, LUK
+
+Attacks:
+
+- [basic attack]
+- Steal
+- Meso Explosion
+
+Notable skills:
+
+- Nimble Body
+- Disorder
+- Dark Sight
+- Steal
+- Haste
+- Flash Jump
+- Alchemist
+- Meso Up
+- Shield Mastery
+- Meso Guard
+
+Notable equipment:
+
+- Scythe
+- Maple Thief Shield
+- Black Snowshoes
+
+### Notes
+
+Grim reapers are characterised and defined by their exclusive use of the Scythe, a level 15 one-handed axe that requires its wielder to be a rogue and to have at least 35 LUK and 30 DEX.
 
 ## STR Assassin
 

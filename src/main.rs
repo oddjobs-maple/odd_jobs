@@ -703,6 +703,7 @@ fn item_name(id: u32) -> Option<&'static str> {
         1302037 => "Trumpet",
         1302063 => "Flaming Katana",
         1302064 => "Maple Glory Sword",
+        1312002 => "Scythe",
         1312004 => "Hand Axe",
         1312013 => "Green Paint Brush",
         1312032 => "Maple Steel Axe",

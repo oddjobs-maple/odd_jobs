@@ -636,6 +636,35 @@
       ]
     },
     {
+      "name": "Grim Reaper",
+      "aliases": ["Scythe Rogue", "Scythe Thief"],
+      "progressions": [
+        [0, 400, 410, 411, 412],
+        [0, 400, 420, 421, 422]
+      ],
+      "location": null,
+      "primary_stats": ["STR"],
+      "secondary_stats": ["DEX", "LUK"],
+      "stat_constraints": [],
+      "attacks": [0, 4201004, 4211006],
+      "notable_skills": [
+        4000000,
+        4001002,
+        4001003,
+        4201004,
+        4201003,
+        4111006,
+        4110000,
+        4111001,
+        4210000,
+        4211005
+      ],
+      "notable_equips": [1312002, 1092047, 1072171],
+      "notes": [
+        "Grim reapers are characterised and defined by their exclusive use of the Scythe, a level 15 one-handed axe that requires its wielder to be a rogue and to have at least 35 LUK and 30 DEX."
+      ]
+    },
+    {
       "name": "STR Assassin",
       "aliases": ["STR Sin", "Strength Assassin"],
       "progressions": [[0, 400, 410, 411, 412]],
