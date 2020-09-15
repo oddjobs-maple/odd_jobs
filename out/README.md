@@ -168,6 +168,7 @@ Stat constraints:
 
 - STR = 35
 - DEX = 4
+- LUK = 4
 
 Attacks:
 
@@ -180,6 +181,7 @@ Notable skills:
 - Power Guard
 - Improved MaxHP Increase
 - Rage
+- Threaten
 - Armor Crash
 - Shout
 - Magic Crash
@@ -229,6 +231,7 @@ Notable skills:
 - Rage
 - Iron Will
 - Hyper Body
+- Threaten
 - Combo Attack
 - Armor Crash
 - Shout
@@ -306,6 +309,7 @@ Notable skills:
 - Rage
 - Iron Will
 - Hyper Body
+- Threaten
 - Combo Attack
 - Armor Crash
 - Shout
@@ -540,7 +544,7 @@ LUK gishes use LUK (unlike ordinary gishes) as their primary casting stat. See t
 
 ## LUK Mage
 
-Also known as: “LUK Magician”
+Also known as: “LUK Magician”, “INTless Mage”, “INTless Magician”, “Pure LUK Mage”, “Pure LUK Magician”
 
 Possible job progressions:
 
@@ -553,6 +557,8 @@ Primary stat: **LUK** | Secondary stat: INT
 Stat constraints:
 
 - INT = 20
+- STR = 4
+- DEX = 4
 
 Attacks:
 
@@ -651,6 +657,7 @@ Attacks:
 - [basic attack]
 - Double Shot
 - Arrow Bomb
+- Iron Arrow: Crossbow
 - Power Knock-Back
 - Strafe
 - Inferno
@@ -753,6 +760,7 @@ Notable skills:
 - Haste
 - Flash Jump
 - Alchemist
+- Meso Up
 
 Notable equipment:
 
@@ -777,7 +785,7 @@ Possible job progressions:
 
 - Beginner → Rogue → Bandit → Chief Bandit → Shadower
 
-Primary stat: **HP** | Secondary stats: LUK, DEX
+Primary stat: **HP** | Secondary stats: LUK, DEX, STR
 
 Stat constraints:
 
@@ -848,8 +856,8 @@ Notable skills:
 - Dark Sight
 - Steal
 - Haste
-- Shield Mastery
 - Meso Guard
+- Shield Mastery
 
 Notable equipment:
 
@@ -857,6 +865,9 @@ Notable equipment:
 - Metal Axe
 - Wooden Mallet
 - Monkey Wrench
+- Maple Wagner
+- Maple Asura Dagger
+- Maple Dark Mate
 - Maple Thief Shield
 - Black Snowshoes
 
@@ -908,7 +919,7 @@ Notable equipment:
 
 ### Notes
 
-Swashbucklers are disallowed from using knucklers, and as such, cannot make use of punching abilities. Being gunslingers, however, they could only have access to Flash Fist anyways.
+Swashbucklers cannot put any SP into punching abilities. Being gunslingers, however, they could only have access to Flash Fist anyways.
 
 Swashbucklers tend to be quite similar to woodsmen in their ability to effectively melee and to somewhat effectively range, but differ in their unique skillset, mobility, and ability to use Somersault Kick in melee.
 

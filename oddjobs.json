@@ -83,9 +83,17 @@
       "location": null,
       "primary_stats": ["HP"],
       "secondary_stats": ["STR", "DEX"],
-      "stat_constraints": ["STR = 35", "DEX = 4"],
+      "stat_constraints": ["STR = 35", "DEX = 4", "LUK = 4"],
       "attacks": [1101007, 1001004, 1001005],
-      "notable_skills": [1101007, 1000001, 1101006, 1111007, 1111008, 1211009],
+      "notable_skills": [
+        1101007,
+        1000001,
+        1101006,
+        1201006,
+        1111007,
+        1111008,
+        1211009
+      ],
       "notable_equips": [],
       "notes": [
         "After achieving 35 base STR (necessary for first job advancement), the HP Warrior saves their AP until they have maxed out Improving MaxHP Increase, at which point all AP (and future AP) is spent on HP.",
@@ -126,6 +134,7 @@
         1101006,
         1301006,
         1301007,
+        1201006,
         1111002,
         1111007,
         1111008,
@@ -198,6 +207,7 @@
         1101006,
         1301006,
         1301007,
+        1201006,
         1111002,
         1111007,
         1111008,
@@ -407,7 +417,13 @@
     },
     {
       "name": "LUK Mage",
-      "aliases": ["LUK Magician"],
+      "aliases": [
+        "LUK Magician",
+        "INTless Mage",
+        "INTless Magician",
+        "Pure LUK Mage",
+        "Pure LUK Magician"
+      ],
       "progressions": [
         [0, 200, 230, 231, 232],
         [0, 200, 220, 221, 222],
@@ -416,7 +432,7 @@
       "location": null,
       "primary_stats": ["LUK"],
       "secondary_stats": ["INT"],
-      "stat_constraints": ["INT = 20"],
+      "stat_constraints": ["INT = 20", "STR = 4", "DEX = 4"],
       "attacks": [
         2001004,
         2001005,
@@ -506,6 +522,7 @@
         0,
         3001005,
         3101005,
+        3201005,
         3101003,
         3111006,
         3111003,
@@ -577,7 +594,15 @@
       "secondary_stats": ["DEX", "LUK"],
       "stat_constraints": ["DEX = 25", "LUK = 4"],
       "attacks": [0],
-      "notable_skills": [4000000, 4001002, 4001003, 4101004, 4111006, 4110000],
+      "notable_skills": [
+        4000000,
+        4001002,
+        4001003,
+        4101004,
+        4111006,
+        4110000,
+        4111001
+      ],
       "notable_equips": [1402001, 1412001, 1422000, 1422004, 1092047, 1072171],
       "notes": [
         "STR assassins cannot put any SP into Double Stab.",
@@ -590,7 +615,7 @@
       "progressions": [[0, 400, 420, 421, 422]],
       "location": null,
       "primary_stats": ["HP"],
-      "secondary_stats": ["LUK", "DEX"],
+      "secondary_stats": ["LUK", "DEX", "STR"],
       "stat_constraints": ["DEX = 25", "LUK = 4", "STR = 4"],
       "attacks": [4211006, 0, 4001334, 4201005, 4201004, 4211004, 4211002],
       "notable_skills": [
@@ -633,10 +658,20 @@
         4001003,
         4201004,
         4201003,
-        4210000,
-        4211005
+        4211005,
+        4210000
       ],
-      "notable_equips": [1402001, 1412001, 1422000, 1422004, 1092047, 1072171],
+      "notable_equips": [
+        1402001,
+        1412001,
+        1422000,
+        1422004,
+        1332025,
+        1332056,
+        1332055,
+        1092047,
+        1072171
+      ],
       "notes": [
         "Brigands cannot put any SP into stabbing skills, like Double Stab. Steal does not count as a \u201cstabbing skill\u201d for the purpose of this definition.",
         "Brigands essentially play like more mobile permabeginners, with some neato utility skills, to boot. Later, brigands get access to a radically different attacking skill: Meso Explosion."
@@ -667,7 +702,7 @@
       ],
       "notable_equips": [1492000, 1492020, 1492021, 1492022, 1072338],
       "notes": [
-        "Swashbucklers are disallowed from using knucklers, and as such, cannot make use of punching abilities. Being gunslingers, however, they could only have access to Flash Fist anyways.",
+        "Swashbucklers cannot put any SP into punching abilities. Being gunslingers, however, they could only have access to Flash Fist anyways.",
         "Swashbucklers tend to be quite similar to woodsmen in their ability to effectively melee and to somewhat effectively range, but differ in their unique skillset, mobility, and ability to use Somersault Kick in melee."
       ]
     }
