@@ -10,9 +10,9 @@
       "stat_constraints": [],
       "attacks": [0],
       "notable_skills": [],
-      "notable_equips": ["Sword", "Wooden Club", "Hand Axe"],
+      "notable_equips": [1302000, 1322005, 1312004],
       "notes": [
-        "The camper experience varies significantly based on what version of the Training Camp they are subjected to. Later versions introduced a more clear “Training Camp” aesthetic, with custom-textured and custom-built maps, the “green apple suit” that the camper is forced to wear, and different mobs from the Jr. Sentinels of earlier versions.",
+        "The camper experience varies significantly based on what version of the Training Camp they are subjected to. Later versions introduced a more clear \u201cTraining Camp\u201d aesthetic, with custom-textured and custom-built maps, the \u201cgreen apple suit\u201d that the camper is forced to wear, and different mobs from the Jr. Sentinels of earlier versions.",
         "Campers can only fight mobs that give 1 EXP each, making them extraordinarily time-consuming to train."
       ]
     },
@@ -26,14 +26,7 @@
       "stat_constraints": [],
       "attacks": [0, 1000],
       "notable_skills": [],
-      "notable_equips": [
-        "Metal Wand",
-        "Ice Jeans",
-        "Blue One-lined T-Shirt [M]",
-        "Red-Striped T-Shirt [F]",
-        "White Gomushin",
-        "Amethyst Earrings"
-      ],
+      "notable_equips": [1372002, 1062000, 1040013, 1041012, 1072004, 1032003],
       "notes": [
         "Magelanders are defined by their use of the Metal Wand, a level 18 wand with no job requirements that drops from Red Snails. It requires 55 INT and 20 LUK to equip."
       ]
@@ -48,14 +41,7 @@
       "stat_constraints": [],
       "attacks": [0],
       "notable_skills": [],
-      "notable_equips": [
-        "Leather Purse",
-        "Ice Jeans",
-        "Blue One-lined T-Shirt [M]",
-        "Red-Striped T-Shirt [F]",
-        "White Gomushin",
-        "Amethyst Earrings"
-      ],
+      "notable_equips": [1322007, 1062000, 1040013, 1041012, 1072004, 1032003],
       "notes": []
     },
     {
@@ -68,9 +54,9 @@
       "stat_constraints": [],
       "attacks": [0],
       "notable_skills": [],
-      "notable_equips": ["Magical Mitten"],
+      "notable_equips": [1472063],
       "notes": [
-        "Besinners are defined by their use of the Magical Mitten, a level 10 claw with no job requirements. There are sometimes other claws that can be used by beginners, but this will vary by implementation. Some implementations may not even have any claws usable by beginners — not even the Magical Mitten — and thus besinners are impossible in such implementations.",
+        "Besinners are defined by their use of the Magical Mitten, a level 10 claw with no job requirements. There are sometimes other claws that can be used by beginners, but this will vary by implementation. Some implementations may not even have any claws usable by beginners \u2014 not even the Magical Mitten \u2014 and thus besinners are impossible in such implementations.",
         "Depending on the implementation, besinners may only be able to throw Snowballs. They can possibly also throw arrows, and/or other throwing stars like Ilbis."
       ]
     },
@@ -84,7 +70,7 @@
       "stat_constraints": [],
       "attacks": [0],
       "notable_skills": [],
-      "notable_equips": ["Frozen Tuna [level 20]", "Sake Bottle", "Maroon Mop"],
+      "notable_equips": [1442018, 1422011, 1442023],
       "notes": []
     },
     {
@@ -154,26 +140,25 @@
         1311007
       ],
       "notable_equips": [
-        "Metal Axe",
-        "Wooden Sword",
-        "Wooden Mallet",
-        "Spear",
-        "Pole Arm",
-        "Maple Dragon Axe",
-        "Maple Big Maul",
-        "Maple Doom Singer",
-        "Maple Impaler",
-        "Maple Scorpio",
-        "Trumpet",
-        "Maple Glory Sword",
-        "Maple Steel Axe",
-        "Maple Soul Rohen",
-        "Maple Demon Axe",
-        "Maple Havoc Hammer",
-        "Maple Belzet",
-        "Maple Soul Spear",
-        "Maple Karstan",
-        "Daiwa Sword"
+        1412001,
+        1402001,
+        1422000,
+        1432000,
+        1442000,
+        1412011,
+        1422014,
+        1432012,
+        1442024,
+        1302037,
+        1302064,
+        1312032,
+        1402039,
+        1412027,
+        1322054,
+        1422029,
+        1432040,
+        1442051,
+        1402017
       ],
       "notes": [
         "LUK warriors are actually very similar to LUK mages, in that they essentially play like their non-odd-job counterparts, albeit considerably weaker. LUK warriors are, again like LUK mages, somewhat limited in their equipment choices because of their unusual AP allocation, but can nevertheless use job-appropriate weapons that enable them to make use of all of their skills."
@@ -227,28 +212,27 @@
         1311007
       ],
       "notable_equips": [
-        "Metal Axe",
-        "Wooden Sword",
-        "Wooden Mallet",
-        "Spear",
-        "Pole Arm",
-        "Field Dagger",
-        "Maple Dragon Axe",
-        "Maple Big Maul",
-        "Maple Doom Singer",
-        "Maple Impaler",
-        "Maple Scorpio",
-        "Trumpet",
-        "Maple Glory Sword",
-        "Maple Steel Axe",
-        "Maple Soul Rohen",
-        "Maple Demon Axe",
-        "Maple Havoc Hammer",
-        "Maple Belzet",
-        "Maple Soul Spear",
-        "Maple Karstan",
-        "Daiwa Sword",
-        "Stonetooth Sword"
+        1412001,
+        1402001,
+        1422000,
+        1432000,
+        1442000,
+        1332006,
+        1412011,
+        1422014,
+        1432012,
+        1442024,
+        1302037,
+        1302064,
+        1312032,
+        1402039,
+        1412027,
+        1322054,
+        1422029,
+        1432040,
+        1442051,
+        1402017,
+        1402037
       ],
       "notes": [
         "DEX warriors are essentially a stronger variant of LUK warriors, because DEX actually contributes somewhat (although not nearly as much as STR) to their damage, unlike LUK.",
@@ -277,16 +261,9 @@
         2311003,
         2311001
       ],
-      "notable_equips": [
-        "Mace",
-        "Iron Mace",
-        "Fusion Mace",
-        "Blue Snowshoes",
-        "Flamekeeper Cordon",
-        "Maple Magician Shield"
-      ],
+      "notable_equips": [1322000, 1322002, 1322004, 1072169, 1082246, 1092045],
       "notes": [
-        "STR mages largely play like “permabeginners, but with buffs”, although they can also have other utility skills, like Heal. For a more magically-oriented magician that still engages in melee, see the gish (and the LUK gish)."
+        "STR mages largely play like \u201cpermabeginners, but with buffs\u201d, although they can also have other utility skills, like Heal. For a more magically-oriented magician that still engages in melee, see the gish (and the LUK gish)."
       ]
     },
     {
@@ -306,7 +283,7 @@
       "location": null,
       "primary_stats": ["STR", "INT"],
       "secondary_stats": ["DEX", "LUK"],
-      "stat_constraints": ["STR ≥ INT", "LUK = 4"],
+      "stat_constraints": ["STR \u2265 INT", "LUK = 4"],
       "attacks": [
         0,
         2001004,
@@ -335,24 +312,24 @@
         2311001
       ],
       "notable_equips": [
-        "Sky Blue Umbrella",
-        "Green Umbrella",
-        "Fruity Bamboo",
-        "Light Purple Umbrella",
-        "Green Paint Brush",
-        "Pumpkin Lantern",
-        "Flaming Katana",
-        "Yellow Umbrella",
-        "Purple Tube",
-        "Beige Umbrella",
-        "Diao Chan Sword",
-        "Kebob",
-        "Black Umbrella",
-        "Crimson Arcglaive",
-        "Blue Snowshoes",
-        "Flamekeeper Cordon",
-        "Glitter Gloves",
-        "Maple Magician Shield"
+        1302017,
+        1302027,
+        1322051,
+        1302028,
+        1312013,
+        1402044,
+        1302063,
+        1302016,
+        1322024,
+        1302029,
+        1702030,
+        1332053,
+        1302026,
+        1442068,
+        1072169,
+        1082246,
+        1082230,
+        1092045
       ],
       "notes": [
         "Gishes attack both with melee (similarly to the closely related STR mage) and with spells.",
@@ -404,24 +381,24 @@
         2311001
       ],
       "notable_equips": [
-        "Sky Blue Umbrella",
-        "Green Umbrella",
-        "Fruity Bamboo",
-        "Light Purple Umbrella",
-        "Green Paint Brush",
-        "Pumpkin Lantern",
-        "Flaming Katana",
-        "Yellow Umbrella",
-        "Purple Tube",
-        "Beige Umbrella",
-        "Diao Chan Sword",
-        "Kebob",
-        "Black Umbrella",
-        "Crimson Arcglaive",
-        "Blue Snowshoes",
-        "Flamekeeper Cordon",
-        "Glitter Gloves",
-        "Maple Magician Shield"
+        1302017,
+        1302027,
+        1322051,
+        1302028,
+        1312013,
+        1402044,
+        1302063,
+        1302016,
+        1322024,
+        1302029,
+        1702030,
+        1332053,
+        1302026,
+        1442068,
+        1072169,
+        1082246,
+        1082230,
+        1092045
       ],
       "notes": [
         "LUK gishes attack both with melee (similarly to the closely related STR mage) and with spells.",
@@ -467,48 +444,48 @@
         2311001
       ],
       "notable_equips": [
-        "Sky Blue Umbrella",
-        "Wooden Wand",
-        "Green Umbrella",
-        "Fruity Bamboo",
-        "Light Purple Umbrella",
-        "Green Paint Brush",
-        "Poison Mushroom",
-        "Pumpkin Lantern",
-        "Maple Staff",
-        "Flaming Katana",
-        "Yellow Umbrella",
-        "Maple Lama Staff",
-        "Nocturnal Staff",
-        "Purple Tube",
-        "Streetlight",
-        "Beige Umbrella",
-        "Diao Chan Sword",
-        "Heart Staff",
-        "Heart Wand",
-        "Maple Wisdom Staff",
-        "Maple Shine Wand",
-        "Elemental Wand 1",
-        "Elemental Wand 2",
-        "Elemental Wand 3",
-        "Elemental Wand 4",
-        "Kebob",
-        "Black Umbrella",
-        "Pyogo Mushroom",
-        "Crimson Arcglaive",
-        "Doomsday Staff",
-        "Elemental Staff 1",
-        "Elemental Staff 2",
-        "Elemental Staff 3",
-        "Elemental Staff 4",
-        "Elemental Wand 5",
-        "Elemental Wand 6",
-        "Elemental Wand 7",
-        "Elemental Wand 8",
-        "Blue Snowshoes",
-        "Flamekeeper Cordon",
-        "Glitter Gloves",
-        "Maple Magician Shield"
+        1302017,
+        1372005,
+        1302027,
+        1322051,
+        1302028,
+        1312013,
+        1382015,
+        1402044,
+        1382009,
+        1302063,
+        1302016,
+        1382012,
+        1382041,
+        1322024,
+        1372017,
+        1302029,
+        1702030,
+        1372031,
+        1372033,
+        1382039,
+        1372034,
+        1372035,
+        1372036,
+        1372037,
+        1372038,
+        1332053,
+        1302026,
+        1382016,
+        1442068,
+        1382037,
+        1382045,
+        1382046,
+        1382047,
+        1382048,
+        1372039,
+        1372040,
+        1372041,
+        1372042,
+        1072169,
+        1082246,
+        1082230,
+        1092045
       ],
       "notes": [
         "LUK mages play very similarly to ordinary mages, although obviously they are considerably weaker, and are also incapable of equipping items with significant INT requirements."
@@ -538,23 +515,23 @@
       ],
       "notable_skills": [3000000, 3001003, 3000001, 3111002, 3211003],
       "notable_equips": [
-        "War Bow",
-        "Maple Bow",
-        "Maple Soul Searcher",
-        "Maple Kandiva Bow",
-        "Bow of Magical Destruction",
-        "Crossbow",
-        "Maple Crow",
-        "Maple Crossbow",
-        "Maple Nishada",
-        "Wooden Sword",
-        "Metal Axe",
-        "Wooden Mallet",
-        "Monkey Wrench",
-        "Green Snowshoes"
+        1452002,
+        1452016,
+        1452022,
+        1452045,
+        1452018,
+        1462001,
+        1462014,
+        1462019,
+        1462040,
+        1402001,
+        1412001,
+        1422000,
+        1422004,
+        1072170
       ],
       "notes": [
-        "The woodsman’s versatility can allow them to switch between ranged and melee physical combat."
+        "The woodsman\u2019s versatility can allow them to switch between ranged and melee physical combat."
       ]
     },
     {
@@ -576,16 +553,16 @@
       "attacks": [0, 3101003],
       "notable_skills": [3000000, 3001003, 3111002],
       "notable_equips": [
-        "War Bow",
-        "Maple Bow",
-        "Maple Soul Searcher",
-        "Maple Kandiva Bow",
-        "Bow of Magical Destruction",
-        "Crossbow",
-        "Maple Crow",
-        "Maple Crossbow",
-        "Maple Nishada",
-        "Green Snowshoes"
+        1452002,
+        1452016,
+        1452022,
+        1452045,
+        1452018,
+        1462001,
+        1462014,
+        1462019,
+        1462040,
+        1072170
       ],
       "notes": [
         "Bow-whackers do not have the stat constraint that woodsmen have, because they are disallowed from shooting projectiles, and disallowed from using Soul Arrow. They can only deal damage by whacking monsters with their (cross)bow."
@@ -601,14 +578,7 @@
       "stat_constraints": ["DEX = 25", "LUK = 4"],
       "attacks": [0],
       "notable_skills": [4000000, 4001002, 4001003, 4101004, 4111006, 4110000],
-      "notable_equips": [
-        "Wooden Sword",
-        "Metal Axe",
-        "Wooden Mallet",
-        "Monkey Wrench",
-        "Maple Thief Shield",
-        "Black Snowshoes"
-      ],
+      "notable_equips": [1402001, 1412001, 1422000, 1422004, 1092047, 1072171],
       "notes": [
         "STR assassins cannot put any SP into Double Stab.",
         "STR assassins are somewhat similar to brigands: they essentially play like more mobile permabeginners, with some neato utility skills. Later on, Flash Jump in particular is a highlight. However, STR assassins lack both Steal and Meso Explosion."
@@ -633,19 +603,19 @@
         4210000
       ],
       "notable_equips": [
-        "Fruit Knife",
-        "Christmas Tree",
-        "Korean Fan",
-        "Plastic Bottle",
-        "Maple Wagner",
-        "Maple Asura Dagger",
-        "Maple Dark Mate",
-        "Kebob",
-        "Maple Thief Shield",
-        "Black Snowshoes"
+        1332007,
+        1332032,
+        1332020,
+        1332021,
+        1332025,
+        1332056,
+        1332055,
+        1332053,
+        1092047,
+        1072171
       ],
       "notes": [
-        "Blood bandits are essentially ordinary bandits (in the sense that they can use daggers and stabbing skills, and thus all bandit/chief bandit/shadower skills) that trade off the large majority of their melee power in exchange for extreme tankiness. Because all of their APs are spent on HP, and because they gain access to Meso Guard in third job, blood bandits are virtually unkillable. However, naturally enough, their melee capabilities are typically very subpar, and they are more or less built around the use of Meso Explosion, which thankfully does not scale with any of the bandit’s stats, and also demands some tankiness to allow the bandit to get up close in order to place, and then explode, mesos."
+        "Blood bandits are essentially ordinary bandits (in the sense that they can use daggers and stabbing skills, and thus all bandit/chief bandit/shadower skills) that trade off the large majority of their melee power in exchange for extreme tankiness. Because all of their APs are spent on HP, and because they gain access to Meso Guard in third job, blood bandits are virtually unkillable. However, naturally enough, their melee capabilities are typically very subpar, and they are more or less built around the use of Meso Explosion, which thankfully does not scale with any of the bandit\u2019s stats, and also demands some tankiness to allow the bandit to get up close in order to place, and then explode, mesos."
       ]
     },
     {
@@ -666,16 +636,9 @@
         4210000,
         4211005
       ],
-      "notable_equips": [
-        "Wooden Sword",
-        "Metal Axe",
-        "Wooden Mallet",
-        "Monkey Wrench",
-        "Maple Thief Shield",
-        "Black Snowshoes"
-      ],
+      "notable_equips": [1402001, 1412001, 1422000, 1422004, 1092047, 1072171],
       "notes": [
-        "Brigands cannot put any SP into stabbing skills, like Double Stab. Steal does not count as a “stabbing skill” for the purpose of this definition.",
+        "Brigands cannot put any SP into stabbing skills, like Double Stab. Steal does not count as a \u201cstabbing skill\u201d for the purpose of this definition.",
         "Brigands essentially play like more mobile permabeginners, with some neato utility skills, to boot. Later, brigands get access to a radically different attacking skill: Meso Explosion."
       ]
     },
@@ -702,13 +665,7 @@
         5211002,
         5211006
       ],
-      "notable_equips": [
-        "Pistol",
-        "Maple Gun",
-        "Maple Storm Pistol",
-        "Maple Canon Shooter",
-        "Purple Snowshoes"
-      ],
+      "notable_equips": [1492000, 1492020, 1492021, 1492022, 1072338],
       "notes": [
         "Swashbucklers are disallowed from using knucklers, and as such, cannot make use of punching abilities. Being gunslingers, however, they could only have access to Flash Fist anyways.",
         "Swashbucklers tend to be quite similar to woodsmen in their ability to effectively melee and to somewhat effectively range, but differ in their unique skillset, mobility, and ability to use Somersault Kick in melee."

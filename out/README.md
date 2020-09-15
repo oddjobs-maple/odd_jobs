@@ -250,7 +250,6 @@ Notable equipment:
 - Spear
 - Pole Arm
 - Maple Dragon Axe
-- Maple Big Maul
 - Maple Doom Singer
 - Maple Impaler
 - Maple Scorpio
@@ -329,7 +328,6 @@ Notable equipment:
 - Pole Arm
 - Field Dagger
 - Maple Dragon Axe
-- Maple Big Maul
 - Maple Doom Singer
 - Maple Impaler
 - Maple Scorpio
