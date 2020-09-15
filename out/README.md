@@ -718,7 +718,7 @@ Attacks:
 - [basic attack]
 - Double Shot
 - Arrow Bomb
-- Iron Arrow: Crossbow
+- Iron Arrow
 - Power Knock-Back
 - Strafe
 - Inferno

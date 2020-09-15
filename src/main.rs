@@ -420,7 +420,7 @@ fn skill_name(id: u32) -> Option<&'static str> {
         3201002 => "Crossbow Booster",
         3201003 => "Power Knock-Back",
         3201004 => "Soul Arrow: Crossbow",
-        3201005 => "Iron Arrow: Crossbow",
+        3201005 => "Iron Arrow",
         4100000 => "Claw Mastery",
         4100001 => "Critical Throw",
         4100002 => "Endure",
