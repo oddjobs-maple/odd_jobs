@@ -51,9 +51,9 @@ Attacks:
 
 Notable equipment:
 
-- Sword
-- Wooden Club
-- Hand Axe
+- [Sword](https://maplelegends.com/lib/equip?id=01302000)
+- [Wooden Club](https://maplelegends.com/lib/equip?id=01322005)
+- [Hand Axe](https://maplelegends.com/lib/equip?id=01312004)
 
 ### Notes
 
@@ -76,16 +76,16 @@ Primary stats: **STR**, **DEX** | Secondary stats: INT, LUK
 Attacks:
 
 - [basic attack]
-- Three Snails
+- [Three Snails](https://maplelegends.com/lib/skill?id=0001000)
 
 Notable equipment:
 
-- Metal Wand
-- Ice Jeans
-- Blue One-lined T-Shirt [M]
-- Red-Striped T-Shirt [F]
-- White Gomushin
-- Amethyst Earrings
+- [Metal Wand](https://maplelegends.com/lib/equip?id=01372002)
+- [Ice Jeans](https://maplelegends.com/lib/equip?id=01062000)
+- [Blue One-lined T-Shirt [M]](https://maplelegends.com/lib/equip?id=01040013)
+- [Red-Striped T-Shirt [F]](https://maplelegends.com/lib/equip?id=01041012)
+- [White Gomushin](https://maplelegends.com/lib/equip?id=01072004)
+- [Amethyst Earrings](https://maplelegends.com/lib/equip?id=01032003)
 
 ### Notes
 
@@ -107,12 +107,12 @@ Attacks:
 
 Notable equipment:
 
-- Leather Purse
-- Ice Jeans
-- Blue One-lined T-Shirt [M]
-- Red-Striped T-Shirt [F]
-- White Gomushin
-- Amethyst Earrings
+- [Leather Purse](https://maplelegends.com/lib/equip?id=01322007)
+- [Ice Jeans](https://maplelegends.com/lib/equip?id=01062000)
+- [Blue One-lined T-Shirt [M]](https://maplelegends.com/lib/equip?id=01040013)
+- [Red-Striped T-Shirt [F]](https://maplelegends.com/lib/equip?id=01041012)
+- [White Gomushin](https://maplelegends.com/lib/equip?id=01072004)
+- [Amethyst Earrings](https://maplelegends.com/lib/equip?id=01032003)
 
 ## Besinner
 
@@ -128,7 +128,7 @@ Attacks:
 
 Notable equipment:
 
-- Magical Mitten
+- [Magical Mitten](https://maplelegends.com/lib/equip?id=01472063)
 
 ### Notes
 
@@ -152,9 +152,9 @@ Attacks:
 
 Notable equipment:
 
-- Frozen Tuna [level 20]
-- Sake Bottle
-- Maroon Mop
+- [Frozen Tuna [level 20]](https://maplelegends.com/lib/equip?id=01442018)
+- [Sake Bottle](https://maplelegends.com/lib/equip?id=01422011)
+- [Maroon Mop](https://maplelegends.com/lib/equip?id=01442023)
 
 ## HP Warrior
 
@@ -175,19 +175,19 @@ Stat constraints:
 
 Attacks:
 
-- Power Guard
-- Power Strike
-- Slash Blast
+- [Power Guard](https://maplelegends.com/lib/skill?id=1101007)
+- [Power Strike](https://maplelegends.com/lib/skill?id=1001004)
+- [Slash Blast](https://maplelegends.com/lib/skill?id=1001005)
 
 Notable skills:
 
-- Power Guard
-- Improved MaxHP Increase
-- Rage
-- Threaten
-- Armor Crash
-- Shout
-- Magic Crash
+- [Power Guard](https://maplelegends.com/lib/skill?id=1101007)
+- [Improved MaxHP Increase](https://maplelegends.com/lib/skill?id=1000001)
+- [Rage](https://maplelegends.com/lib/skill?id=1101006)
+- [Threaten](https://maplelegends.com/lib/skill?id=1201006)
+- [Armor Crash](https://maplelegends.com/lib/skill?id=1111007)
+- [Shout](https://maplelegends.com/lib/skill?id=1111008)
+- [Magic Crash](https://maplelegends.com/lib/skill?id=1211009)
 
 ### Notes
 
@@ -213,62 +213,62 @@ Stat constraints:
 Attacks:
 
 - [basic attack]
-- Power Strike
-- Slash Blast
-- Power Guard
-- Panic: Sword
-- Panic: Axe
-- Coma: Sword
-- Coma: Axe
-- Charged Blow
-- Spear Crusher
-- Pole Arm Crusher
-- Dragon Fury: Spear
-- Dragon Fury: Pole Arm
-- Dragon Roar
+- [Power Strike](https://maplelegends.com/lib/skill?id=1001004)
+- [Slash Blast](https://maplelegends.com/lib/skill?id=1001005)
+- [Power Guard](https://maplelegends.com/lib/skill?id=1101007)
+- [Panic: Sword](https://maplelegends.com/lib/skill?id=1111003)
+- [Panic: Axe](https://maplelegends.com/lib/skill?id=1111004)
+- [Coma: Sword](https://maplelegends.com/lib/skill?id=1111005)
+- [Coma: Axe](https://maplelegends.com/lib/skill?id=1111006)
+- [Charged Blow](https://maplelegends.com/lib/skill?id=1211002)
+- [Spear Crusher](https://maplelegends.com/lib/skill?id=1311001)
+- [Pole Arm Crusher](https://maplelegends.com/lib/skill?id=1311002)
+- [Dragon Fury: Spear](https://maplelegends.com/lib/skill?id=1311003)
+- [Dragon Fury: Pole Arm](https://maplelegends.com/lib/skill?id=1311004)
+- [Dragon Roar](https://maplelegends.com/lib/skill?id=1311006)
 
 Notable skills:
 
-- Power Guard
-- Improved MaxHP Increase
-- Rage
-- Iron Will
-- Hyper Body
-- Threaten
-- Combo Attack
-- Armor Crash
-- Shout
-- Fire Charge: Sword
-- Flame Charge: BW
-- Ice Charge: Sword
-- Blizzard Charge: BW
-- Thunder Charge: Sword
-- Lightning Charge: BW
-- Magic Crash
-- Dragon Roar
-- Power Crash
+- [Power Guard](https://maplelegends.com/lib/skill?id=1101007)
+- [Improved MaxHP Increase](https://maplelegends.com/lib/skill?id=1000001)
+- [Rage](https://maplelegends.com/lib/skill?id=1101006)
+- [Iron Will](https://maplelegends.com/lib/skill?id=1301006)
+- [Hyper Body](https://maplelegends.com/lib/skill?id=1301007)
+- [Threaten](https://maplelegends.com/lib/skill?id=1201006)
+- [Combo Attack](https://maplelegends.com/lib/skill?id=1111002)
+- [Armor Crash](https://maplelegends.com/lib/skill?id=1111007)
+- [Shout](https://maplelegends.com/lib/skill?id=1111008)
+- [Fire Charge: Sword](https://maplelegends.com/lib/skill?id=1211003)
+- [Flame Charge: BW](https://maplelegends.com/lib/skill?id=1211004)
+- [Ice Charge: Sword](https://maplelegends.com/lib/skill?id=1211005)
+- [Blizzard Charge: BW](https://maplelegends.com/lib/skill?id=1211006)
+- [Thunder Charge: Sword](https://maplelegends.com/lib/skill?id=1211007)
+- [Lightning Charge: BW](https://maplelegends.com/lib/skill?id=1211008)
+- [Magic Crash](https://maplelegends.com/lib/skill?id=1211009)
+- [Dragon Roar](https://maplelegends.com/lib/skill?id=1311006)
+- [Power Crash](https://maplelegends.com/lib/skill?id=1311007)
 
 Notable equipment:
 
-- Metal Axe
-- Wooden Sword
-- Wooden Mallet
-- Spear
-- Pole Arm
-- Maple Dragon Axe
-- Maple Doom Singer
-- Maple Impaler
-- Maple Scorpio
-- Trumpet
-- Maple Glory Sword
-- Maple Steel Axe
-- Maple Soul Rohen
-- Maple Demon Axe
-- Maple Havoc Hammer
-- Maple Belzet
-- Maple Soul Spear
-- Maple Karstan
-- Daiwa Sword
+- [Metal Axe](https://maplelegends.com/lib/equip?id=01412001)
+- [Wooden Sword](https://maplelegends.com/lib/equip?id=01402001)
+- [Wooden Mallet](https://maplelegends.com/lib/equip?id=01422000)
+- [Spear](https://maplelegends.com/lib/equip?id=01432000)
+- [Pole Arm](https://maplelegends.com/lib/equip?id=01442000)
+- [Maple Dragon Axe](https://maplelegends.com/lib/equip?id=01412011)
+- [Maple Doom Singer](https://maplelegends.com/lib/equip?id=01422014)
+- [Maple Impaler](https://maplelegends.com/lib/equip?id=01432012)
+- [Maple Scorpio](https://maplelegends.com/lib/equip?id=01442024)
+- [Trumpet](https://maplelegends.com/lib/equip?id=01302037)
+- [Maple Glory Sword](https://maplelegends.com/lib/equip?id=01302064)
+- [Maple Steel Axe](https://maplelegends.com/lib/equip?id=01312032)
+- [Maple Soul Rohen](https://maplelegends.com/lib/equip?id=01402039)
+- [Maple Demon Axe](https://maplelegends.com/lib/equip?id=01412027)
+- [Maple Havoc Hammer](https://maplelegends.com/lib/equip?id=01322054)
+- [Maple Belzet](https://maplelegends.com/lib/equip?id=01422029)
+- [Maple Soul Spear](https://maplelegends.com/lib/equip?id=01432040)
+- [Maple Karstan](https://maplelegends.com/lib/equip?id=01442051)
+- [Daiwa Sword](https://maplelegends.com/lib/equip?id=01402017)
 
 ### Notes
 
@@ -287,44 +287,44 @@ Primary stats: **STR**, **DEX**
 Attacks:
 
 - [basic attack]
-- Power Strike
-- Slash Blast
-- Power Guard
-- Dragon Roar
+- [Power Strike](https://maplelegends.com/lib/skill?id=1001004)
+- [Slash Blast](https://maplelegends.com/lib/skill?id=1001005)
+- [Power Guard](https://maplelegends.com/lib/skill?id=1101007)
+- [Dragon Roar](https://maplelegends.com/lib/skill?id=1311006)
 
 Notable skills:
 
-- Power Guard
-- Improved MaxHP Increase
-- Rage
-- Iron Will
-- Hyper Body
-- Threaten
-- Combo Attack
-- Armor Crash
-- Shout
-- Magic Crash
-- Dragon Roar
-- Power Crash
+- [Power Guard](https://maplelegends.com/lib/skill?id=1101007)
+- [Improved MaxHP Increase](https://maplelegends.com/lib/skill?id=1000001)
+- [Rage](https://maplelegends.com/lib/skill?id=1101006)
+- [Iron Will](https://maplelegends.com/lib/skill?id=1301006)
+- [Hyper Body](https://maplelegends.com/lib/skill?id=1301007)
+- [Threaten](https://maplelegends.com/lib/skill?id=1201006)
+- [Combo Attack](https://maplelegends.com/lib/skill?id=1111002)
+- [Armor Crash](https://maplelegends.com/lib/skill?id=1111007)
+- [Shout](https://maplelegends.com/lib/skill?id=1111008)
+- [Magic Crash](https://maplelegends.com/lib/skill?id=1211009)
+- [Dragon Roar](https://maplelegends.com/lib/skill?id=1311006)
+- [Power Crash](https://maplelegends.com/lib/skill?id=1311007)
 
 Notable equipment:
 
-- Fruit Knife
-- Christmas Tree
-- Field Dagger
-- Coconut Knife
-- Iron Dagger
-- Cass
-- Korean Fan
-- Plastic Bottle
-- Sai
-- Liu Bei Dagger
-- Serpent’s Coil
-- Fan
-- Kebob
-- Angelic Betrayal
-- Cursayer
-- Gold Double Knife
+- [Fruit Knife](https://maplelegends.com/lib/equip?id=01332007)
+- [Christmas Tree](https://maplelegends.com/lib/equip?id=01332032)
+- [Field Dagger](https://maplelegends.com/lib/equip?id=01332006)
+- [Coconut Knife](https://maplelegends.com/lib/equip?id=01332008)
+- [Iron Dagger](https://maplelegends.com/lib/equip?id=01332010)
+- [Cass](https://maplelegends.com/lib/equip?id=01332009)
+- [Korean Fan](https://maplelegends.com/lib/equip?id=01332020)
+- [Plastic Bottle](https://maplelegends.com/lib/equip?id=01332021)
+- [Sai](https://maplelegends.com/lib/equip?id=01332016)
+- [Liu Bei Dagger](https://maplelegends.com/lib/equip?id=01332029)
+- [Serpent’s Coil](https://maplelegends.com/lib/equip?id=01332017)
+- [Fan](https://maplelegends.com/lib/equip?id=01332030)
+- [Kebob](https://maplelegends.com/lib/equip?id=01332053)
+- [Angelic Betrayal](https://maplelegends.com/lib/equip?id=01332022)
+- [Cursayer](https://maplelegends.com/lib/equip?id=01332026)
+- [Gold Double Knife](https://maplelegends.com/lib/equip?id=01332051)
 
 ### Notes
 
@@ -349,64 +349,64 @@ Stat constraints:
 Attacks:
 
 - [basic attack]
-- Power Strike
-- Slash Blast
-- Power Guard
-- Panic: Sword
-- Panic: Axe
-- Coma: Sword
-- Coma: Axe
-- Charged Blow
-- Spear Crusher
-- Pole Arm Crusher
-- Dragon Fury: Spear
-- Dragon Fury: Pole Arm
-- Dragon Roar
+- [Power Strike](https://maplelegends.com/lib/skill?id=1001004)
+- [Slash Blast](https://maplelegends.com/lib/skill?id=1001005)
+- [Power Guard](https://maplelegends.com/lib/skill?id=1101007)
+- [Panic: Sword](https://maplelegends.com/lib/skill?id=1111003)
+- [Panic: Axe](https://maplelegends.com/lib/skill?id=1111004)
+- [Coma: Sword](https://maplelegends.com/lib/skill?id=1111005)
+- [Coma: Axe](https://maplelegends.com/lib/skill?id=1111006)
+- [Charged Blow](https://maplelegends.com/lib/skill?id=1211002)
+- [Spear Crusher](https://maplelegends.com/lib/skill?id=1311001)
+- [Pole Arm Crusher](https://maplelegends.com/lib/skill?id=1311002)
+- [Dragon Fury: Spear](https://maplelegends.com/lib/skill?id=1311003)
+- [Dragon Fury: Pole Arm](https://maplelegends.com/lib/skill?id=1311004)
+- [Dragon Roar](https://maplelegends.com/lib/skill?id=1311006)
 
 Notable skills:
 
-- Power Guard
-- Improved MaxHP Increase
-- Rage
-- Iron Will
-- Hyper Body
-- Threaten
-- Combo Attack
-- Armor Crash
-- Shout
-- Fire Charge: Sword
-- Flame Charge: BW
-- Ice Charge: Sword
-- Blizzard Charge: BW
-- Thunder Charge: Sword
-- Lightning Charge: BW
-- Magic Crash
-- Dragon Roar
-- Power Crash
+- [Power Guard](https://maplelegends.com/lib/skill?id=1101007)
+- [Improved MaxHP Increase](https://maplelegends.com/lib/skill?id=1000001)
+- [Rage](https://maplelegends.com/lib/skill?id=1101006)
+- [Iron Will](https://maplelegends.com/lib/skill?id=1301006)
+- [Hyper Body](https://maplelegends.com/lib/skill?id=1301007)
+- [Threaten](https://maplelegends.com/lib/skill?id=1201006)
+- [Combo Attack](https://maplelegends.com/lib/skill?id=1111002)
+- [Armor Crash](https://maplelegends.com/lib/skill?id=1111007)
+- [Shout](https://maplelegends.com/lib/skill?id=1111008)
+- [Fire Charge: Sword](https://maplelegends.com/lib/skill?id=1211003)
+- [Flame Charge: BW](https://maplelegends.com/lib/skill?id=1211004)
+- [Ice Charge: Sword](https://maplelegends.com/lib/skill?id=1211005)
+- [Blizzard Charge: BW](https://maplelegends.com/lib/skill?id=1211006)
+- [Thunder Charge: Sword](https://maplelegends.com/lib/skill?id=1211007)
+- [Lightning Charge: BW](https://maplelegends.com/lib/skill?id=1211008)
+- [Magic Crash](https://maplelegends.com/lib/skill?id=1211009)
+- [Dragon Roar](https://maplelegends.com/lib/skill?id=1311006)
+- [Power Crash](https://maplelegends.com/lib/skill?id=1311007)
 
 Notable equipment:
 
-- Metal Axe
-- Wooden Sword
-- Wooden Mallet
-- Spear
-- Pole Arm
-- Field Dagger
-- Maple Dragon Axe
-- Maple Doom Singer
-- Maple Impaler
-- Maple Scorpio
-- Trumpet
-- Maple Glory Sword
-- Maple Steel Axe
-- Maple Soul Rohen
-- Maple Demon Axe
-- Maple Havoc Hammer
-- Maple Belzet
-- Maple Soul Spear
-- Maple Karstan
-- Daiwa Sword
-- Stonetooth Sword
+- [Metal Axe](https://maplelegends.com/lib/equip?id=01412001)
+- [Wooden Sword](https://maplelegends.com/lib/equip?id=01402001)
+- [Wooden Mallet](https://maplelegends.com/lib/equip?id=01422000)
+- [Spear](https://maplelegends.com/lib/equip?id=01432000)
+- [Pole Arm](https://maplelegends.com/lib/equip?id=01442000)
+- [Field Dagger](https://maplelegends.com/lib/equip?id=01332006)
+- [Maple Dragon Axe](https://maplelegends.com/lib/equip?id=01412011)
+- [Maple Doom Singer](https://maplelegends.com/lib/equip?id=01422014)
+- [Maple Impaler](https://maplelegends.com/lib/equip?id=01432012)
+- [Maple Scorpio](https://maplelegends.com/lib/equip?id=01442024)
+- [Trumpet](https://maplelegends.com/lib/equip?id=01302037)
+- [Maple Glory Sword](https://maplelegends.com/lib/equip?id=01302064)
+- [Maple Steel Axe](https://maplelegends.com/lib/equip?id=01312032)
+- [Maple Soul Rohen](https://maplelegends.com/lib/equip?id=01402039)
+- [Maple Demon Axe](https://maplelegends.com/lib/equip?id=01412027)
+- [Maple Havoc Hammer](https://maplelegends.com/lib/equip?id=01322054)
+- [Maple Belzet](https://maplelegends.com/lib/equip?id=01422029)
+- [Maple Soul Spear](https://maplelegends.com/lib/equip?id=01432040)
+- [Maple Karstan](https://maplelegends.com/lib/equip?id=01442051)
+- [Daiwa Sword](https://maplelegends.com/lib/equip?id=01402017)
+- [Stonetooth Sword](https://maplelegends.com/lib/equip?id=01402037)
 
 ### Notes
 
@@ -437,22 +437,22 @@ Attacks:
 
 Notable skills:
 
-- Magic Guard
-- Meditation
-- Teleport
-- Heal
-- Bless
-- Holy Symbol
-- Dispel
+- [Magic Guard](https://maplelegends.com/lib/skill?id=2001002)
+- [Meditation](https://maplelegends.com/lib/skill?id=2101001)
+- [Teleport](https://maplelegends.com/lib/skill?id=2101002)
+- [Heal](https://maplelegends.com/lib/skill?id=2301002)
+- [Bless](https://maplelegends.com/lib/skill?id=2301004)
+- [Holy Symbol](https://maplelegends.com/lib/skill?id=2311003)
+- [Dispel](https://maplelegends.com/lib/skill?id=2311001)
 
 Notable equipment:
 
-- Mace
-- Iron Mace
-- Fusion Mace
-- Blue Snowshoes
-- Flamekeeper Cordon
-- Maple Magician Shield
+- [Mace](https://maplelegends.com/lib/equip?id=01322000)
+- [Iron Mace](https://maplelegends.com/lib/equip?id=01322002)
+- [Fusion Mace](https://maplelegends.com/lib/equip?id=01322004)
+- [Blue Snowshoes](https://maplelegends.com/lib/equip?id=01072169)
+- [Flamekeeper Cordon](https://maplelegends.com/lib/equip?id=01082246)
+- [Maple Magician Shield](https://maplelegends.com/lib/equip?id=01092045)
 
 ### Notes
 
@@ -478,52 +478,52 @@ Stat constraints:
 Attacks:
 
 - [basic attack]
-- Energy Bolt
-- Magic Claw
-- Fire Arrow
-- Poison Breath
-- Cold Beam
-- Thunder Bolt
-- Heal
-- Holy Arrow
-- Explosion
-- Poison Mist
-- Element Composition [F/P]
-- Ice Strike
-- Thunder Spear
-- Element Composition [I/L]
-- Shining Ray
+- [Energy Bolt](https://maplelegends.com/lib/skill?id=2001004)
+- [Magic Claw](https://maplelegends.com/lib/skill?id=2001005)
+- [Fire Arrow](https://maplelegends.com/lib/skill?id=2101004)
+- [Poison Breath](https://maplelegends.com/lib/skill?id=2101005)
+- [Cold Beam](https://maplelegends.com/lib/skill?id=2201004)
+- [Thunder Bolt](https://maplelegends.com/lib/skill?id=2201005)
+- [Heal](https://maplelegends.com/lib/skill?id=2301002)
+- [Holy Arrow](https://maplelegends.com/lib/skill?id=2301005)
+- [Explosion](https://maplelegends.com/lib/skill?id=2111002)
+- [Poison Mist](https://maplelegends.com/lib/skill?id=2111003)
+- [Element Composition [F/P]](https://maplelegends.com/lib/skill?id=2111006)
+- [Ice Strike](https://maplelegends.com/lib/skill?id=2211002)
+- [Thunder Spear](https://maplelegends.com/lib/skill?id=2211003)
+- [Element Composition [I/L]](https://maplelegends.com/lib/skill?id=2211006)
+- [Shining Ray](https://maplelegends.com/lib/skill?id=2311004)
 
 Notable skills:
 
-- Magic Guard
-- Meditation
-- Teleport
-- Heal
-- Bless
-- Holy Symbol
-- Dispel
+- [Magic Guard](https://maplelegends.com/lib/skill?id=2001002)
+- [Meditation](https://maplelegends.com/lib/skill?id=2101001)
+- [Teleport](https://maplelegends.com/lib/skill?id=2101002)
+- [Heal](https://maplelegends.com/lib/skill?id=2301002)
+- [Bless](https://maplelegends.com/lib/skill?id=2301004)
+- [Holy Symbol](https://maplelegends.com/lib/skill?id=2311003)
+- [Dispel](https://maplelegends.com/lib/skill?id=2311001)
 
 Notable equipment:
 
-- Sky Blue Umbrella
-- Green Umbrella
-- Fruity Bamboo
-- Light Purple Umbrella
-- Green Paint Brush
-- Pumpkin Lantern
-- Flaming Katana
-- Yellow Umbrella
-- Purple Tube
-- Beige Umbrella
-- Diao Chan Sword
-- Kebob
-- Black Umbrella
-- Crimson Arcglaive
-- Blue Snowshoes
-- Flamekeeper Cordon
-- Glitter Gloves
-- Maple Magician Shield
+- [Sky Blue Umbrella](https://maplelegends.com/lib/equip?id=01302017)
+- [Green Umbrella](https://maplelegends.com/lib/equip?id=01302027)
+- [Fruity Bamboo](https://maplelegends.com/lib/equip?id=01322051)
+- [Light Purple Umbrella](https://maplelegends.com/lib/equip?id=01302028)
+- [Green Paint Brush](https://maplelegends.com/lib/equip?id=01312013)
+- [Pumpkin Lantern](https://maplelegends.com/lib/equip?id=01402044)
+- [Flaming Katana](https://maplelegends.com/lib/equip?id=01302063)
+- [Yellow Umbrella](https://maplelegends.com/lib/equip?id=01302016)
+- [Purple Tube](https://maplelegends.com/lib/equip?id=01322024)
+- [Beige Umbrella](https://maplelegends.com/lib/equip?id=01302029)
+- [Diao Chan Sword](https://maplelegends.com/lib/equip?id=01702030)
+- [Kebob](https://maplelegends.com/lib/equip?id=01332053)
+- [Black Umbrella](https://maplelegends.com/lib/equip?id=01302026)
+- [Crimson Arcglaive](https://maplelegends.com/lib/equip?id=01442068)
+- [Blue Snowshoes](https://maplelegends.com/lib/equip?id=01072169)
+- [Flamekeeper Cordon](https://maplelegends.com/lib/equip?id=01082246)
+- [Glitter Gloves](https://maplelegends.com/lib/equip?id=01082230)
+- [Maple Magician Shield](https://maplelegends.com/lib/equip?id=01092045)
 
 ### Notes
 
@@ -550,52 +550,52 @@ Stat constraints:
 Attacks:
 
 - [basic attack]
-- Energy Bolt
-- Magic Claw
-- Fire Arrow
-- Poison Breath
-- Cold Beam
-- Thunder Bolt
-- Heal
-- Holy Arrow
-- Explosion
-- Poison Mist
-- Element Composition [F/P]
-- Ice Strike
-- Thunder Spear
-- Element Composition [I/L]
-- Shining Ray
+- [Energy Bolt](https://maplelegends.com/lib/skill?id=2001004)
+- [Magic Claw](https://maplelegends.com/lib/skill?id=2001005)
+- [Fire Arrow](https://maplelegends.com/lib/skill?id=2101004)
+- [Poison Breath](https://maplelegends.com/lib/skill?id=2101005)
+- [Cold Beam](https://maplelegends.com/lib/skill?id=2201004)
+- [Thunder Bolt](https://maplelegends.com/lib/skill?id=2201005)
+- [Heal](https://maplelegends.com/lib/skill?id=2301002)
+- [Holy Arrow](https://maplelegends.com/lib/skill?id=2301005)
+- [Explosion](https://maplelegends.com/lib/skill?id=2111002)
+- [Poison Mist](https://maplelegends.com/lib/skill?id=2111003)
+- [Element Composition [F/P]](https://maplelegends.com/lib/skill?id=2111006)
+- [Ice Strike](https://maplelegends.com/lib/skill?id=2211002)
+- [Thunder Spear](https://maplelegends.com/lib/skill?id=2211003)
+- [Element Composition [I/L]](https://maplelegends.com/lib/skill?id=2211006)
+- [Shining Ray](https://maplelegends.com/lib/skill?id=2311004)
 
 Notable skills:
 
-- Magic Guard
-- Meditation
-- Teleport
-- Heal
-- Bless
-- Holy Symbol
-- Dispel
+- [Magic Guard](https://maplelegends.com/lib/skill?id=2001002)
+- [Meditation](https://maplelegends.com/lib/skill?id=2101001)
+- [Teleport](https://maplelegends.com/lib/skill?id=2101002)
+- [Heal](https://maplelegends.com/lib/skill?id=2301002)
+- [Bless](https://maplelegends.com/lib/skill?id=2301004)
+- [Holy Symbol](https://maplelegends.com/lib/skill?id=2311003)
+- [Dispel](https://maplelegends.com/lib/skill?id=2311001)
 
 Notable equipment:
 
-- Sky Blue Umbrella
-- Green Umbrella
-- Fruity Bamboo
-- Light Purple Umbrella
-- Green Paint Brush
-- Pumpkin Lantern
-- Flaming Katana
-- Yellow Umbrella
-- Purple Tube
-- Beige Umbrella
-- Diao Chan Sword
-- Kebob
-- Black Umbrella
-- Crimson Arcglaive
-- Blue Snowshoes
-- Flamekeeper Cordon
-- Glitter Gloves
-- Maple Magician Shield
+- [Sky Blue Umbrella](https://maplelegends.com/lib/equip?id=01302017)
+- [Green Umbrella](https://maplelegends.com/lib/equip?id=01302027)
+- [Fruity Bamboo](https://maplelegends.com/lib/equip?id=01322051)
+- [Light Purple Umbrella](https://maplelegends.com/lib/equip?id=01302028)
+- [Green Paint Brush](https://maplelegends.com/lib/equip?id=01312013)
+- [Pumpkin Lantern](https://maplelegends.com/lib/equip?id=01402044)
+- [Flaming Katana](https://maplelegends.com/lib/equip?id=01302063)
+- [Yellow Umbrella](https://maplelegends.com/lib/equip?id=01302016)
+- [Purple Tube](https://maplelegends.com/lib/equip?id=01322024)
+- [Beige Umbrella](https://maplelegends.com/lib/equip?id=01302029)
+- [Diao Chan Sword](https://maplelegends.com/lib/equip?id=01702030)
+- [Kebob](https://maplelegends.com/lib/equip?id=01332053)
+- [Black Umbrella](https://maplelegends.com/lib/equip?id=01302026)
+- [Crimson Arcglaive](https://maplelegends.com/lib/equip?id=01442068)
+- [Blue Snowshoes](https://maplelegends.com/lib/equip?id=01072169)
+- [Flamekeeper Cordon](https://maplelegends.com/lib/equip?id=01082246)
+- [Glitter Gloves](https://maplelegends.com/lib/equip?id=01082230)
+- [Maple Magician Shield](https://maplelegends.com/lib/equip?id=01092045)
 
 ### Notes
 
@@ -623,76 +623,76 @@ Stat constraints:
 
 Attacks:
 
-- Energy Bolt
-- Magic Claw
-- Fire Arrow
-- Poison Breath
-- Cold Beam
-- Thunder Bolt
-- Heal
-- Holy Arrow
-- Explosion
-- Poison Mist
-- Element Composition [F/P]
-- Ice Strike
-- Thunder Spear
-- Element Composition [I/L]
-- Shining Ray
+- [Energy Bolt](https://maplelegends.com/lib/skill?id=2001004)
+- [Magic Claw](https://maplelegends.com/lib/skill?id=2001005)
+- [Fire Arrow](https://maplelegends.com/lib/skill?id=2101004)
+- [Poison Breath](https://maplelegends.com/lib/skill?id=2101005)
+- [Cold Beam](https://maplelegends.com/lib/skill?id=2201004)
+- [Thunder Bolt](https://maplelegends.com/lib/skill?id=2201005)
+- [Heal](https://maplelegends.com/lib/skill?id=2301002)
+- [Holy Arrow](https://maplelegends.com/lib/skill?id=2301005)
+- [Explosion](https://maplelegends.com/lib/skill?id=2111002)
+- [Poison Mist](https://maplelegends.com/lib/skill?id=2111003)
+- [Element Composition [F/P]](https://maplelegends.com/lib/skill?id=2111006)
+- [Ice Strike](https://maplelegends.com/lib/skill?id=2211002)
+- [Thunder Spear](https://maplelegends.com/lib/skill?id=2211003)
+- [Element Composition [I/L]](https://maplelegends.com/lib/skill?id=2211006)
+- [Shining Ray](https://maplelegends.com/lib/skill?id=2311004)
 
 Notable skills:
 
-- Magic Guard
-- Meditation
-- Teleport
-- Heal
-- Bless
-- Holy Symbol
-- Dispel
+- [Magic Guard](https://maplelegends.com/lib/skill?id=2001002)
+- [Meditation](https://maplelegends.com/lib/skill?id=2101001)
+- [Teleport](https://maplelegends.com/lib/skill?id=2101002)
+- [Heal](https://maplelegends.com/lib/skill?id=2301002)
+- [Bless](https://maplelegends.com/lib/skill?id=2301004)
+- [Holy Symbol](https://maplelegends.com/lib/skill?id=2311003)
+- [Dispel](https://maplelegends.com/lib/skill?id=2311001)
 
 Notable equipment:
 
-- Sky Blue Umbrella
-- Wooden Wand
-- Green Umbrella
-- Fruity Bamboo
-- Light Purple Umbrella
-- Green Paint Brush
-- Poison Mushroom
-- Pumpkin Lantern
-- Maple Staff
-- Flaming Katana
-- Yellow Umbrella
-- Maple Lama Staff
-- Nocturnal Staff
-- Purple Tube
-- Streetlight
-- Beige Umbrella
-- Diao Chan Sword
-- Heart Staff
-- Heart Wand
-- Maple Wisdom Staff
-- Maple Shine Wand
-- Elemental Wand 1
-- Elemental Wand 2
-- Elemental Wand 3
-- Elemental Wand 4
-- Kebob
-- Black Umbrella
-- Pyogo Mushroom
-- Crimson Arcglaive
-- Doomsday Staff
-- Elemental Staff 1
-- Elemental Staff 2
-- Elemental Staff 3
-- Elemental Staff 4
-- Elemental Wand 5
-- Elemental Wand 6
-- Elemental Wand 7
-- Elemental Wand 8
-- Blue Snowshoes
-- Flamekeeper Cordon
-- Glitter Gloves
-- Maple Magician Shield
+- [Sky Blue Umbrella](https://maplelegends.com/lib/equip?id=01302017)
+- [Wooden Wand](https://maplelegends.com/lib/equip?id=01372005)
+- [Green Umbrella](https://maplelegends.com/lib/equip?id=01302027)
+- [Fruity Bamboo](https://maplelegends.com/lib/equip?id=01322051)
+- [Light Purple Umbrella](https://maplelegends.com/lib/equip?id=01302028)
+- [Green Paint Brush](https://maplelegends.com/lib/equip?id=01312013)
+- [Poison Mushroom](https://maplelegends.com/lib/equip?id=01382015)
+- [Pumpkin Lantern](https://maplelegends.com/lib/equip?id=01402044)
+- [Maple Staff](https://maplelegends.com/lib/equip?id=01382009)
+- [Flaming Katana](https://maplelegends.com/lib/equip?id=01302063)
+- [Yellow Umbrella](https://maplelegends.com/lib/equip?id=01302016)
+- [Maple Lama Staff](https://maplelegends.com/lib/equip?id=01382012)
+- [Nocturnal Staff](https://maplelegends.com/lib/equip?id=01382041)
+- [Purple Tube](https://maplelegends.com/lib/equip?id=01322024)
+- [Streetlight](https://maplelegends.com/lib/equip?id=01372017)
+- [Beige Umbrella](https://maplelegends.com/lib/equip?id=01302029)
+- [Diao Chan Sword](https://maplelegends.com/lib/equip?id=01702030)
+- [Heart Staff](https://maplelegends.com/lib/equip?id=01372031)
+- [Heart Wand](https://maplelegends.com/lib/equip?id=01372033)
+- [Maple Wisdom Staff](https://maplelegends.com/lib/equip?id=01382039)
+- [Maple Shine Wand](https://maplelegends.com/lib/equip?id=01372034)
+- [Elemental Wand 1](https://maplelegends.com/lib/equip?id=01372035)
+- [Elemental Wand 2](https://maplelegends.com/lib/equip?id=01372036)
+- [Elemental Wand 3](https://maplelegends.com/lib/equip?id=01372037)
+- [Elemental Wand 4](https://maplelegends.com/lib/equip?id=01372038)
+- [Kebob](https://maplelegends.com/lib/equip?id=01332053)
+- [Black Umbrella](https://maplelegends.com/lib/equip?id=01302026)
+- [Pyogo Mushroom](https://maplelegends.com/lib/equip?id=01382016)
+- [Crimson Arcglaive](https://maplelegends.com/lib/equip?id=01442068)
+- [Doomsday Staff](https://maplelegends.com/lib/equip?id=01382037)
+- [Elemental Staff 1](https://maplelegends.com/lib/equip?id=01382045)
+- [Elemental Staff 2](https://maplelegends.com/lib/equip?id=01382046)
+- [Elemental Staff 3](https://maplelegends.com/lib/equip?id=01382047)
+- [Elemental Staff 4](https://maplelegends.com/lib/equip?id=01382048)
+- [Elemental Wand 5](https://maplelegends.com/lib/equip?id=01372039)
+- [Elemental Wand 6](https://maplelegends.com/lib/equip?id=01372040)
+- [Elemental Wand 7](https://maplelegends.com/lib/equip?id=01372041)
+- [Elemental Wand 8](https://maplelegends.com/lib/equip?id=01372042)
+- [Blue Snowshoes](https://maplelegends.com/lib/equip?id=01072169)
+- [Flamekeeper Cordon](https://maplelegends.com/lib/equip?id=01082246)
+- [Glitter Gloves](https://maplelegends.com/lib/equip?id=01082230)
+- [Maple Magician Shield](https://maplelegends.com/lib/equip?id=01092045)
 
 ### Notes
 
@@ -716,40 +716,40 @@ Stat constraints:
 Attacks:
 
 - [basic attack]
-- Double Shot
-- Arrow Bomb
-- Iron Arrow
-- Power Knock-Back
-- Strafe
-- Inferno
-- Arrow Rain
-- Blizzard
-- Arrow Eruption
+- [Double Shot](https://maplelegends.com/lib/skill?id=3001005)
+- [Arrow Bomb](https://maplelegends.com/lib/skill?id=3101005)
+- [Iron Arrow](https://maplelegends.com/lib/skill?id=3201005)
+- [Power Knock-Back](https://maplelegends.com/lib/skill?id=3101003)
+- [Strafe](https://maplelegends.com/lib/skill?id=3111006)
+- [Inferno](https://maplelegends.com/lib/skill?id=3111003)
+- [Arrow Rain](https://maplelegends.com/lib/skill?id=3111004)
+- [Blizzard](https://maplelegends.com/lib/skill?id=3211003)
+- [Arrow Eruption](https://maplelegends.com/lib/skill?id=3211004)
 
 Notable skills:
 
-- The Blessing of Amazon
-- Focus
-- Critical Shot
-- Puppet
-- Blizzard
+- [The Blessing of Amazon](https://maplelegends.com/lib/skill?id=3000000)
+- [Focus](https://maplelegends.com/lib/skill?id=3001003)
+- [Critical Shot](https://maplelegends.com/lib/skill?id=3000001)
+- [Puppet](https://maplelegends.com/lib/skill?id=3111002)
+- [Blizzard](https://maplelegends.com/lib/skill?id=3211003)
 
 Notable equipment:
 
-- War Bow
-- Maple Bow
-- Maple Soul Searcher
-- Maple Kandiva Bow
-- Bow of Magical Destruction
-- Crossbow
-- Maple Crow
-- Maple Crossbow
-- Maple Nishada
-- Wooden Sword
-- Metal Axe
-- Wooden Mallet
-- Monkey Wrench
-- Green Snowshoes
+- [War Bow](https://maplelegends.com/lib/equip?id=01452002)
+- [Maple Bow](https://maplelegends.com/lib/equip?id=01452016)
+- [Maple Soul Searcher](https://maplelegends.com/lib/equip?id=01452022)
+- [Maple Kandiva Bow](https://maplelegends.com/lib/equip?id=01452045)
+- [Bow of Magical Destruction](https://maplelegends.com/lib/equip?id=01452018)
+- [Crossbow](https://maplelegends.com/lib/equip?id=01462001)
+- [Maple Crow](https://maplelegends.com/lib/equip?id=01462014)
+- [Maple Crossbow](https://maplelegends.com/lib/equip?id=01462019)
+- [Maple Nishada](https://maplelegends.com/lib/equip?id=01462040)
+- [Wooden Sword](https://maplelegends.com/lib/equip?id=01402001)
+- [Metal Axe](https://maplelegends.com/lib/equip?id=01412001)
+- [Wooden Mallet](https://maplelegends.com/lib/equip?id=01422000)
+- [Monkey Wrench](https://maplelegends.com/lib/equip?id=01422004)
+- [Green Snowshoes](https://maplelegends.com/lib/equip?id=01072170)
 
 ### Notes
 
@@ -769,26 +769,26 @@ Primary stat: **STR** | Secondary stat: DEX
 Attacks:
 
 - [basic attack]
-- Power Knock-Back
+- [Power Knock-Back](https://maplelegends.com/lib/skill?id=3101003)
 
 Notable skills:
 
-- The Blessing of Amazon
-- Focus
-- Puppet
+- [The Blessing of Amazon](https://maplelegends.com/lib/skill?id=3000000)
+- [Focus](https://maplelegends.com/lib/skill?id=3001003)
+- [Puppet](https://maplelegends.com/lib/skill?id=3111002)
 
 Notable equipment:
 
-- War Bow
-- Maple Bow
-- Maple Soul Searcher
-- Maple Kandiva Bow
-- Bow of Magical Destruction
-- Crossbow
-- Maple Crow
-- Maple Crossbow
-- Maple Nishada
-- Green Snowshoes
+- [War Bow](https://maplelegends.com/lib/equip?id=01452002)
+- [Maple Bow](https://maplelegends.com/lib/equip?id=01452016)
+- [Maple Soul Searcher](https://maplelegends.com/lib/equip?id=01452022)
+- [Maple Kandiva Bow](https://maplelegends.com/lib/equip?id=01452045)
+- [Bow of Magical Destruction](https://maplelegends.com/lib/equip?id=01452018)
+- [Crossbow](https://maplelegends.com/lib/equip?id=01462001)
+- [Maple Crow](https://maplelegends.com/lib/equip?id=01462014)
+- [Maple Crossbow](https://maplelegends.com/lib/equip?id=01462019)
+- [Maple Nishada](https://maplelegends.com/lib/equip?id=01462040)
+- [Green Snowshoes](https://maplelegends.com/lib/equip?id=01072170)
 
 ### Notes
 
@@ -808,27 +808,27 @@ Primary stat: **STR** | Secondary stats: DEX, LUK
 Attacks:
 
 - [basic attack]
-- Steal
-- Meso Explosion
+- [Steal](https://maplelegends.com/lib/skill?id=4201004)
+- [Meso Explosion](https://maplelegends.com/lib/skill?id=4211006)
 
 Notable skills:
 
-- Nimble Body
-- Disorder
-- Dark Sight
-- Steal
-- Haste
-- Flash Jump
-- Alchemist
-- Meso Up
-- Shield Mastery
-- Meso Guard
+- [Nimble Body](https://maplelegends.com/lib/skill?id=4000000)
+- [Disorder](https://maplelegends.com/lib/skill?id=4001002)
+- [Dark Sight](https://maplelegends.com/lib/skill?id=4001003)
+- [Steal](https://maplelegends.com/lib/skill?id=4201004)
+- [Haste](https://maplelegends.com/lib/skill?id=4201003)
+- [Flash Jump](https://maplelegends.com/lib/skill?id=4111006)
+- [Alchemist](https://maplelegends.com/lib/skill?id=4110000)
+- [Meso Up](https://maplelegends.com/lib/skill?id=4111001)
+- [Shield Mastery](https://maplelegends.com/lib/skill?id=4210000)
+- [Meso Guard](https://maplelegends.com/lib/skill?id=4211005)
 
 Notable equipment:
 
-- Scythe
-- Maple Thief Shield
-- Black Snowshoes
+- [Scythe](https://maplelegends.com/lib/equip?id=01312002)
+- [Maple Thief Shield](https://maplelegends.com/lib/equip?id=01092047)
+- [Black Snowshoes](https://maplelegends.com/lib/equip?id=01072171)
 
 ### Notes
 
@@ -855,22 +855,22 @@ Attacks:
 
 Notable skills:
 
-- Nimble Body
-- Disorder
-- Dark Sight
-- Haste
-- Flash Jump
-- Alchemist
-- Meso Up
+- [Nimble Body](https://maplelegends.com/lib/skill?id=4000000)
+- [Disorder](https://maplelegends.com/lib/skill?id=4001002)
+- [Dark Sight](https://maplelegends.com/lib/skill?id=4001003)
+- [Haste](https://maplelegends.com/lib/skill?id=4101004)
+- [Flash Jump](https://maplelegends.com/lib/skill?id=4111006)
+- [Alchemist](https://maplelegends.com/lib/skill?id=4110000)
+- [Meso Up](https://maplelegends.com/lib/skill?id=4111001)
 
 Notable equipment:
 
-- Wooden Sword
-- Metal Axe
-- Wooden Mallet
-- Monkey Wrench
-- Maple Thief Shield
-- Black Snowshoes
+- [Wooden Sword](https://maplelegends.com/lib/equip?id=01402001)
+- [Metal Axe](https://maplelegends.com/lib/equip?id=01412001)
+- [Wooden Mallet](https://maplelegends.com/lib/equip?id=01422000)
+- [Monkey Wrench](https://maplelegends.com/lib/equip?id=01422004)
+- [Maple Thief Shield](https://maplelegends.com/lib/equip?id=01092047)
+- [Black Snowshoes](https://maplelegends.com/lib/equip?id=01072171)
 
 ### Notes
 
@@ -896,37 +896,37 @@ Stat constraints:
 
 Attacks:
 
-- Meso Explosion
+- [Meso Explosion](https://maplelegends.com/lib/skill?id=4211006)
 - [basic attack]
-- Double Stab
-- Savage Blow
-- Steal
-- Band of Thieves
-- Assaulter
+- [Double Stab](https://maplelegends.com/lib/skill?id=4001334)
+- [Savage Blow](https://maplelegends.com/lib/skill?id=4201005)
+- [Steal](https://maplelegends.com/lib/skill?id=4201004)
+- [Band of Thieves](https://maplelegends.com/lib/skill?id=4211004)
+- [Assaulter](https://maplelegends.com/lib/skill?id=4211002)
 
 Notable skills:
 
-- Meso Guard
-- Nimble Body
-- Disorder
-- Dark Sight
-- Steal
-- Haste
-- Shield Mastery
+- [Meso Guard](https://maplelegends.com/lib/skill?id=4211005)
+- [Nimble Body](https://maplelegends.com/lib/skill?id=4000000)
+- [Disorder](https://maplelegends.com/lib/skill?id=4001002)
+- [Dark Sight](https://maplelegends.com/lib/skill?id=4001003)
+- [Steal](https://maplelegends.com/lib/skill?id=4201004)
+- [Haste](https://maplelegends.com/lib/skill?id=4201003)
+- [Shield Mastery](https://maplelegends.com/lib/skill?id=4210000)
 
 Notable equipment:
 
-- Fruit Knife
-- Christmas Tree
-- Korean Fan
-- Plastic Bottle
-- Maple Wagner
-- Liu Bei Dagger
-- Maple Asura Dagger
-- Maple Dark Mate
-- Kebob
-- Maple Thief Shield
-- Black Snowshoes
+- [Fruit Knife](https://maplelegends.com/lib/equip?id=01332007)
+- [Christmas Tree](https://maplelegends.com/lib/equip?id=01332032)
+- [Korean Fan](https://maplelegends.com/lib/equip?id=01332020)
+- [Plastic Bottle](https://maplelegends.com/lib/equip?id=01332021)
+- [Maple Wagner](https://maplelegends.com/lib/equip?id=01332025)
+- [Liu Bei Dagger](https://maplelegends.com/lib/equip?id=01332029)
+- [Maple Asura Dagger](https://maplelegends.com/lib/equip?id=01332056)
+- [Maple Dark Mate](https://maplelegends.com/lib/equip?id=01332055)
+- [Kebob](https://maplelegends.com/lib/equip?id=01332053)
+- [Maple Thief Shield](https://maplelegends.com/lib/equip?id=01092047)
+- [Black Snowshoes](https://maplelegends.com/lib/equip?id=01072171)
 
 ### Notes
 
@@ -948,30 +948,30 @@ Stat constraints:
 Attacks:
 
 - [basic attack]
-- Steal
-- Meso Explosion
+- [Steal](https://maplelegends.com/lib/skill?id=4201004)
+- [Meso Explosion](https://maplelegends.com/lib/skill?id=4211006)
 
 Notable skills:
 
-- Nimble Body
-- Disorder
-- Dark Sight
-- Steal
-- Haste
-- Meso Guard
-- Shield Mastery
+- [Nimble Body](https://maplelegends.com/lib/skill?id=4000000)
+- [Disorder](https://maplelegends.com/lib/skill?id=4001002)
+- [Dark Sight](https://maplelegends.com/lib/skill?id=4001003)
+- [Steal](https://maplelegends.com/lib/skill?id=4201004)
+- [Haste](https://maplelegends.com/lib/skill?id=4201003)
+- [Meso Guard](https://maplelegends.com/lib/skill?id=4211005)
+- [Shield Mastery](https://maplelegends.com/lib/skill?id=4210000)
 
 Notable equipment:
 
-- Wooden Sword
-- Metal Axe
-- Wooden Mallet
-- Monkey Wrench
-- Maple Wagner
-- Maple Asura Dagger
-- Maple Dark Mate
-- Maple Thief Shield
-- Black Snowshoes
+- [Wooden Sword](https://maplelegends.com/lib/equip?id=01402001)
+- [Metal Axe](https://maplelegends.com/lib/equip?id=01412001)
+- [Wooden Mallet](https://maplelegends.com/lib/equip?id=01422000)
+- [Monkey Wrench](https://maplelegends.com/lib/equip?id=01422004)
+- [Maple Wagner](https://maplelegends.com/lib/equip?id=01332025)
+- [Maple Asura Dagger](https://maplelegends.com/lib/equip?id=01332056)
+- [Maple Dark Mate](https://maplelegends.com/lib/equip?id=01332055)
+- [Maple Thief Shield](https://maplelegends.com/lib/equip?id=01092047)
+- [Black Snowshoes](https://maplelegends.com/lib/equip?id=01072171)
 
 ### Notes
 
@@ -997,35 +997,35 @@ Stat constraints:
 Attacks:
 
 - [basic attack]
-- Sommersault Kick
-- Flash Fist
-- Corkscrew Blow
-- Backspin Blow
-- Double Uppercut
-- Shockwave
-- Energy Drain
-- Energy Blast
+- [Sommersault Kick](https://maplelegends.com/lib/skill?id=5001002)
+- [Flash Fist](https://maplelegends.com/lib/skill?id=5001001)
+- [Corkscrew Blow](https://maplelegends.com/lib/skill?id=5101004)
+- [Backspin Blow](https://maplelegends.com/lib/skill?id=5101002)
+- [Double Uppercut](https://maplelegends.com/lib/skill?id=5101003)
+- [Shockwave](https://maplelegends.com/lib/skill?id=5111006)
+- [Energy Drain](https://maplelegends.com/lib/skill?id=5111004)
+- [Energy Blast](https://maplelegends.com/lib/skill?id=5111002)
 
 Notable skills:
 
-- Bullet Time
-- Improve MaxHP
-- Oak Barrel
-- Corkscrew Blow
-- Backspin Blow
-- Double Uppercut
-- Transformation
-- Stun Mastery
-- Energy Charge
-- Energy Drain
+- [Bullet Time](https://maplelegends.com/lib/skill?id=5000000)
+- [Improve MaxHP](https://maplelegends.com/lib/skill?id=5100000)
+- [Oak Barrel](https://maplelegends.com/lib/skill?id=5101007)
+- [Corkscrew Blow](https://maplelegends.com/lib/skill?id=5101004)
+- [Backspin Blow](https://maplelegends.com/lib/skill?id=5101002)
+- [Double Uppercut](https://maplelegends.com/lib/skill?id=5101003)
+- [Transformation](https://maplelegends.com/lib/skill?id=5111005)
+- [Stun Mastery](https://maplelegends.com/lib/skill?id=5110000)
+- [Energy Charge](https://maplelegends.com/lib/skill?id=5110001)
+- [Energy Drain](https://maplelegends.com/lib/skill?id=5111004)
 
 Notable equipment:
 
-- Steel Knuckler
-- Maple Knuckle
-- Maple Storm Finger
-- Maple Golden Claw
-- Purple Snowshoes
+- [Steel Knuckler](https://maplelegends.com/lib/equip?id=01482000)
+- [Maple Knuckle](https://maplelegends.com/lib/equip?id=01482020)
+- [Maple Storm Finger](https://maplelegends.com/lib/equip?id=01482021)
+- [Maple Golden Claw](https://maplelegends.com/lib/equip?id=01482022)
+- [Purple Snowshoes](https://maplelegends.com/lib/equip?id=01072338)
 
 ### Notes
 
@@ -1047,29 +1047,29 @@ Stat constraints:
 
 Attacks:
 
-- Sommersault Kick
-- Double Shot
-- Grenade
-- Invisible Shot
-- Ice Splitter
+- [Sommersault Kick](https://maplelegends.com/lib/skill?id=5001002)
+- [Double Shot](https://maplelegends.com/lib/skill?id=5001003)
+- [Grenade](https://maplelegends.com/lib/skill?id=5201002)
+- [Invisible Shot](https://maplelegends.com/lib/skill?id=5201001)
+- [Ice Splitter](https://maplelegends.com/lib/skill?id=5211005)
 
 Notable skills:
 
-- Bullet Time
-- Blank Shot
-- Wings
-- Recoil Shot
-- Octopus
-- Gaviota
-- Homing Beacon
+- [Bullet Time](https://maplelegends.com/lib/skill?id=5000000)
+- [Blank Shot](https://maplelegends.com/lib/skill?id=5201004)
+- [Wings](https://maplelegends.com/lib/skill?id=5201005)
+- [Recoil Shot](https://maplelegends.com/lib/skill?id=5201006)
+- [Octopus](https://maplelegends.com/lib/skill?id=5211001)
+- [Gaviota](https://maplelegends.com/lib/skill?id=5211002)
+- [Homing Beacon](https://maplelegends.com/lib/skill?id=5211006)
 
 Notable equipment:
 
-- Pistol
-- Maple Gun
-- Maple Storm Pistol
-- Maple Canon Shooter
-- Purple Snowshoes
+- [Pistol](https://maplelegends.com/lib/equip?id=01492000)
+- [Maple Gun](https://maplelegends.com/lib/equip?id=01492020)
+- [Maple Storm Pistol](https://maplelegends.com/lib/equip?id=01492021)
+- [Maple Canon Shooter](https://maplelegends.com/lib/equip?id=01492022)
+- [Purple Snowshoes](https://maplelegends.com/lib/equip?id=01072338)
 
 ### Notes
 
