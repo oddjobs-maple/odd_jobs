@@ -19,6 +19,7 @@ are not listed under “Notable equipment”.
 - [Besinner](#besinner)
 - [Permabeginner](#permabeginner)
 - [HP Warrior](#hp-warrior)
+- [Wand Warrior](#wand-warrior)
 - [LUK Warrior](#luk-warrior)
 - [Dagger Warrior](#dagger-warrior)
 - [DEX Warrior](#dex-warrior)
@@ -194,6 +195,51 @@ Notable skills:
 After achieving 35 base STR (necessary for first job advancement), the HP Warrior saves their AP until they have maxed out Improving MaxHP Increase, at which point all AP (and future AP) is spent on HP.
 
 HP Warriors deal damage primarily via Power Guard, and as such, typically want to lower their WDEF as much as possible in order to maximize this damage.
+
+## Wand Warrior
+
+Possible job progressions:
+
+- Beginner → Warrior → Fighter → Crusader → Hero
+- Beginner → Warrior → Page → White Knight → Paladin
+- Beginner → Warrior → Spearman → Dragon Knight → Dark Knight
+
+Primary stats: **STR**, **DEX** | Secondary stats: LUK, INT
+
+Attacks:
+
+- [basic attack]
+- [Power Strike](https://maplelegends.com/lib/skill?id=1001004)
+- [Slash Blast](https://maplelegends.com/lib/skill?id=1001005)
+- [Power Guard](https://maplelegends.com/lib/skill?id=1101007)
+- [Dragon Roar](https://maplelegends.com/lib/skill?id=1311006)
+
+Notable skills:
+
+- [Power Guard](https://maplelegends.com/lib/skill?id=1101007)
+- [Improved MaxHP Increase](https://maplelegends.com/lib/skill?id=1000001)
+- [Rage](https://maplelegends.com/lib/skill?id=1101006)
+- [Iron Will](https://maplelegends.com/lib/skill?id=1301006)
+- [Hyper Body](https://maplelegends.com/lib/skill?id=1301007)
+- [Threaten](https://maplelegends.com/lib/skill?id=1201006)
+- [Combo Attack](https://maplelegends.com/lib/skill?id=1111002)
+- [Armor Crash](https://maplelegends.com/lib/skill?id=1111007)
+- [Shout](https://maplelegends.com/lib/skill?id=1111008)
+- [Magic Crash](https://maplelegends.com/lib/skill?id=1211009)
+- [Dragon Roar](https://maplelegends.com/lib/skill?id=1311006)
+- [Power Crash](https://maplelegends.com/lib/skill?id=1311007)
+
+Notable equipment:
+
+- [Wooden Wand](https://maplelegends.com/lib/equip?id=01372005)
+- [Hardwood Wand](https://maplelegends.com/lib/equip?id=01372006)
+- [Metal Wand](https://maplelegends.com/lib/equip?id=01372002)
+
+### Notes
+
+The only restriction placed on wand warriors is the reqirement that they exclusively use weapons that are wands (or staves, but there are generally no staves that are equippable by non-magicians). This turns out to be quite the downside, because this locks them out of most of their skills.
+
+Wand warriors can be thought of as considerably weaker versions of dagger warriors, in some sense. The end-game weapon for the wand warrior is the Metal Wand, which they are already using by the time that they hit level 18.
 
 ## LUK Warrior
 
@@ -533,7 +579,7 @@ Gishes use INT (unlike LUK mages) as their primary casting stat, but have this I
 
 ## LUK Gish
 
-Also known as: “LUK Mixed Attacker Mage”, “LUK Mixed Attacker”, “LUK Hybrid Mage”, “LUK Hybrid Magician”
+Also known as: “Gishlet”, “LUK Mixed Attacker Mage”, “LUK Mixed Attacker”, “LUK Hybrid Mage”, “LUK Hybrid Magician”
 
 Possible job progressions:
 
@@ -605,7 +651,7 @@ LUK gishes use LUK (unlike ordinary gishes) as their primary casting stat. See t
 
 ## LUK Mage
 
-Also known as: “LUK Magician”, “INTless Mage”, “INTless Magician”, “Pure LUK Mage”, “Pure LUK Magician”
+Also known as: “Magelet”, “LUK Magician”, “INTless Mage”, “INTless Magician”, “Pure LUK Mage”, “Pure LUK Magician”
 
 Possible job progressions:
 

@@ -217,7 +217,7 @@ fn main() {
                 )
                 .unwrap();
             } else {
-                writeln!(stdout_handle, "- {}", attack_name,).unwrap();
+                writeln!(stdout_handle, "- {}", attack_name).unwrap();
             }
         }
 
@@ -744,6 +744,7 @@ fn item_name(id: u32) -> Option<&'static str> {
         1332056 => "Maple Asura Dagger",
         1372002 => "Metal Wand",
         1372005 => "Wooden Wand",
+        1372006 => "Hardwood Wand",
         1372017 => "Streetlight",
         1372031 => "Heart Staff",
         1372033 => "Heart Wand",
