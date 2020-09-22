@@ -594,7 +594,7 @@
     },
     {
       "name": "Woodsman",
-      "aliases": ["STR Archer", "Strength Archer"],
+      "aliases": ["Woodman", "Huntsman", "Forester", "STR Archer", "Strength Archer", "DEXless Archer"],
       "progressions": [
         [0, 300, 310, 311, 312],
         [0, 300, 320, 321, 322]

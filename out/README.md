@@ -746,7 +746,7 @@ LUK mages play very similarly to ordinary mages, although obviously they are con
 
 ## Woodsman
 
-Also known as: “STR Archer”, “Strength Archer”
+Also known as: “Woodman”, “Huntsman”, “Forester”, “STR Archer”, “Strength Archer”, “DEXless Archer”
 
 Possible job progressions:
 
