@@ -371,12 +371,13 @@ Notable equipment:
 - [Angelic Betrayal](https://maplelegends.com/lib/equip?id=01332022)
 - [Cursayer](https://maplelegends.com/lib/equip?id=01332026)
 - [Gold Double Knife](https://maplelegends.com/lib/equip?id=01332051)
+- [Dragon Kanzir](https://maplelegends.com/lib/equip?id=01332049)
 
 ### Notes
 
 The only restriction placed on dagger warriors is the reqirement that they exclusively use weapons that are daggers. This turns out to be quite the downside, because this locks them out of most of their skills.
 
-Surprisingly, daggers that are exclusive to rogues and warriors actually progress all the way up to level 100, with the Gold Double Knife!
+Surprisingly, daggers that are exclusive to rogues and warriors actually progress all the way up to level 110, with the Dragon Kanzir!
 
 ## DEX Warrior
 
@@ -803,14 +804,14 @@ The woodsman’s versatility can allow them to switch between ranged and melee p
 
 ## Bow-whacker
 
-Also known as: “Crossbow-whacker”, “Bow-whacking Woodsman”, “Crossbow-whacking Woodsman”, “Knockback Archer”
+Also known as: “Knockbacker”, “Crossbow-whacker”, “Bow-whacking Woodsman”, “Crossbow-whacking Woodsman”, “Knockback Archer”
 
 Possible job progressions:
 
 - Beginner → Archer → Hunter → Ranger → Bowmaster
 - Beginner → Archer → Crossbowman → Sniper → Marksman
 
-Primary stat: **STR** | Secondary stat: DEX
+Primary stat: **DEX** | Secondary stat: STR
 
 Attacks:
 

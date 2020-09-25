@@ -249,11 +249,12 @@
         1332053,
         1332022,
         1332026,
-        1332051
+        1332051,
+        1332049
       ],
       "notes": [
         "The only restriction placed on dagger warriors is the reqirement that they exclusively use weapons that are daggers. This turns out to be quite the downside, because this locks them out of most of their skills.",
-        "Surprisingly, daggers that are exclusive to rogues and warriors actually progress all the way up to level 100, with the Gold Double Knife!"
+        "Surprisingly, daggers that are exclusive to rogues and warriors actually progress all the way up to level 110, with the Dragon Kanzir!"
       ]
     },
     {
@@ -594,7 +595,14 @@
     },
     {
       "name": "Woodsman",
-      "aliases": ["Woodman", "Huntsman", "Forester", "STR Archer", "Strength Archer", "DEXless Archer"],
+      "aliases": [
+        "Woodman",
+        "Huntsman",
+        "Forester",
+        "STR Archer",
+        "Strength Archer",
+        "DEXless Archer"
+      ],
       "progressions": [
         [0, 300, 310, 311, 312],
         [0, 300, 320, 321, 322]
@@ -639,6 +647,7 @@
     {
       "name": "Bow-whacker",
       "aliases": [
+        "Knockbacker",
         "Crossbow-whacker",
         "Bow-whacking Woodsman",
         "Crossbow-whacking Woodsman",
@@ -649,8 +658,8 @@
         [0, 300, 320, 321, 322]
       ],
       "location": null,
-      "primary_stats": ["STR"],
-      "secondary_stats": ["DEX"],
+      "primary_stats": ["DEX"],
+      "secondary_stats": ["STR"],
       "stat_constraints": [],
       "attacks": [0, 3101003],
       "notable_skills": [3000000, 3001003, 3111002],

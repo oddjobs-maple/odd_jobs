@@ -738,6 +738,7 @@ fn item_name(id: u32) -> Option<&'static str> {
         1332029 => "Liu Bei Dagger",
         1332030 => "Fan",
         1332032 => "Christmas Tree",
+        1332049 => "Dragon Kanzir",
         1332051 => "Gold Double Knife",
         1332053 => "Kebob",
         1332055 => "Maple Dark Mate",
