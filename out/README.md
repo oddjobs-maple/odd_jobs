@@ -1028,7 +1028,7 @@ Brigands essentially play like more mobile permabeginners, with some neato utili
 
 ## LUK Bucc
 
-Also known as: “Lucc Bucc”, “LUK Brawler”, “LUK Marauder”, “LUK Buccaneer”
+Also known as: “Lucc Bucc”, “Luccaneer”, “LUK Brawler”, “LUK Marauder”, “LUK Buccaneer”
 
 Possible job progressions:
 

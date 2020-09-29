@@ -803,7 +803,13 @@
     },
     {
       "name": "LUK Bucc",
-      "aliases": ["Lucc Bucc", "LUK Brawler", "LUK Marauder", "LUK Buccaneer"],
+      "aliases": [
+        "Lucc Bucc",
+        "Luccaneer",
+        "LUK Brawler",
+        "LUK Marauder",
+        "LUK Buccaneer"
+      ],
       "progressions": [[0, 500, 510, 511, 512]],
       "location": null,
       "primary_stats": ["LUK", "STR"],
