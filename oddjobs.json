@@ -37,7 +37,7 @@
       "progressions": [[0]],
       "location": "Maple Island",
       "primary_stats": ["STR", "DEX"],
-      "secondary_stats": ["LUK"],
+      "secondary_stats": [],
       "stat_constraints": [],
       "attacks": [0],
       "notable_skills": [],
@@ -267,7 +267,7 @@
       ],
       "location": null,
       "primary_stats": ["DEX", "STR"],
-      "secondary_stats": ["LUK"],
+      "secondary_stats": [],
       "stat_constraints": ["STR = 35"],
       "attacks": [
         0,
@@ -377,7 +377,7 @@
       "location": null,
       "primary_stats": ["STR", "INT"],
       "secondary_stats": ["DEX", "LUK"],
-      "stat_constraints": ["STR \u2265 INT", "LUK = 4"],
+      "stat_constraints": ["STR \u2265 INT", "INT \u226b 4", "LUK = 4"],
       "attacks": [
         0,
         2001004,
@@ -445,9 +445,9 @@
         [0, 200, 210, 211, 212]
       ],
       "location": null,
-      "primary_stats": ["STR", "LUK"],
-      "secondary_stats": ["DEX", "INT"],
-      "stat_constraints": ["INT = 20"],
+      "primary_stats": ["STR", "LUK", "INT"],
+      "secondary_stats": ["DEX"],
+      "stat_constraints": ["INT = 20", "STR \u226b 4", "LUK \u226b 4"],
       "attacks": [
         0,
         2001004,
@@ -516,8 +516,8 @@
         [0, 200, 210, 211, 212]
       ],
       "location": null,
-      "primary_stats": ["LUK"],
-      "secondary_stats": ["INT"],
+      "primary_stats": ["LUK", "INT"],
+      "secondary_stats": [],
       "stat_constraints": ["INT = 20", "STR = 4", "DEX = 4"],
       "attacks": [
         2001004,
@@ -608,8 +608,8 @@
         [0, 300, 320, 321, 322]
       ],
       "location": null,
-      "primary_stats": ["STR"],
-      "secondary_stats": ["DEX"],
+      "primary_stats": ["STR", "DEX"],
+      "secondary_stats": [],
       "stat_constraints": ["DEX = 25"],
       "attacks": [
         0,
@@ -802,6 +802,42 @@
       ]
     },
     {
+      "name": "DEX Brawler",
+      "aliases": ["Dexaneer", "DEX Marauder", "DEX Buccaneer", "DEX Bucc"],
+      "progressions": [[0, 500, 510, 511, 512]],
+      "location": null,
+      "primary_stats": ["DEX", "STR"],
+      "secondary_stats": [],
+      "stat_constraints": ["STR = 4"],
+      "attacks": [
+        0,
+        5001002,
+        5001001,
+        5101004,
+        5101002,
+        5101003,
+        5111006,
+        5111004,
+        5111002
+      ],
+      "notable_skills": [
+        5000000,
+        5100000,
+        5101007,
+        5101004,
+        5101002,
+        5101003,
+        5111005,
+        5110000,
+        5110001,
+        5111004
+      ],
+      "notable_equips": [1482000, 1482020, 1482021, 1482022, 1072338],
+      "notes": [
+        "DEX brawlers are essentially the pirate version of DEX warriors, although they have a hard time getting equipped, due to the paucity of knucklers that lack stat requirements."
+      ]
+    },
+    {
       "name": "LUK Bucc",
       "aliases": [
         "Lucc Bucc",
@@ -853,8 +889,8 @@
       ],
       "progressions": [[0, 500, 520, 521, 522]],
       "location": null,
-      "primary_stats": ["STR"],
-      "secondary_stats": ["DEX"],
+      "primary_stats": ["STR", "DEX"],
+      "secondary_stats": [],
       "stat_constraints": ["DEX = 20"],
       "attacks": [5001002, 5001003, 5201002, 5201001, 5211005],
       "notable_skills": [

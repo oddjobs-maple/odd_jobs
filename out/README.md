@@ -33,6 +33,7 @@ are not listed under “Notable equipment”.
 - [STR Assassin](#str-assassin)
 - [Blood Bandit](#blood-bandit)
 - [Brigand](#brigand)
+- [DEX Brawler](#dex-brawler)
 - [LUK Bucc](#luk-bucc)
 - [Swashbuckler](#swashbuckler)
 
@@ -100,7 +101,7 @@ Possible job progressions:
 
 Location: Maple Island
 
-Primary stats: **STR**, **DEX** | Secondary stat: LUK
+Primary stats: **STR**, **DEX**
 
 Attacks:
 
@@ -387,7 +388,7 @@ Possible job progressions:
 - Beginner → Warrior → Page → White Knight → Paladin
 - Beginner → Warrior → Spearman → Dragon Knight → Dark Knight
 
-Primary stats: **DEX**, **STR** | Secondary stat: LUK
+Primary stats: **DEX**, **STR**
 
 Stat constraints:
 
@@ -520,6 +521,7 @@ Primary stats: **STR**, **INT** | Secondary stats: DEX, LUK
 Stat constraints:
 
 - STR ≥ INT
+- INT ≫ 4
 - LUK = 4
 
 Attacks:
@@ -588,11 +590,13 @@ Possible job progressions:
 - Beginner → Magician → I/L Wizard → I/L Mage → I/L Archmage
 - Beginner → Magician → F/P Wizard → F/P Mage → F/P Archmage
 
-Primary stats: **STR**, **LUK** | Secondary stats: DEX, INT
+Primary stats: **STR**, **LUK**, **INT** | Secondary stat: DEX
 
 Stat constraints:
 
 - INT = 20
+- STR ≫ 4
+- LUK ≫ 4
 
 Attacks:
 
@@ -660,7 +664,7 @@ Possible job progressions:
 - Beginner → Magician → I/L Wizard → I/L Mage → I/L Archmage
 - Beginner → Magician → F/P Wizard → F/P Mage → F/P Archmage
 
-Primary stat: **LUK** | Secondary stat: INT
+Primary stats: **LUK**, **INT**
 
 Stat constraints:
 
@@ -754,7 +758,7 @@ Possible job progressions:
 - Beginner → Archer → Hunter → Ranger → Bowmaster
 - Beginner → Archer → Crossbowman → Sniper → Marksman
 
-Primary stat: **STR** | Secondary stat: DEX
+Primary stats: **STR**, **DEX**
 
 Stat constraints:
 
@@ -1026,6 +1030,57 @@ Brigands cannot put any SP into stabbing skills, like Double Stab. Steal does no
 
 Brigands essentially play like more mobile permabeginners, with some neato utility skills, to boot. Later, brigands get access to a radically different attacking skill: Meso Explosion.
 
+## DEX Brawler
+
+Also known as: “Dexaneer”, “DEX Marauder”, “DEX Buccaneer”, “DEX Bucc”
+
+Possible job progressions:
+
+- Beginner → Pirate → Brawler → Marauder → Buccaneer
+
+Primary stats: **DEX**, **STR**
+
+Stat constraints:
+
+- STR = 4
+
+Attacks:
+
+- [basic attack]
+- [Sommersault Kick](https://maplelegends.com/lib/skill?id=5001002)
+- [Flash Fist](https://maplelegends.com/lib/skill?id=5001001)
+- [Corkscrew Blow](https://maplelegends.com/lib/skill?id=5101004)
+- [Backspin Blow](https://maplelegends.com/lib/skill?id=5101002)
+- [Double Uppercut](https://maplelegends.com/lib/skill?id=5101003)
+- [Shockwave](https://maplelegends.com/lib/skill?id=5111006)
+- [Energy Drain](https://maplelegends.com/lib/skill?id=5111004)
+- [Energy Blast](https://maplelegends.com/lib/skill?id=5111002)
+
+Notable skills:
+
+- [Bullet Time](https://maplelegends.com/lib/skill?id=5000000)
+- [Improve MaxHP](https://maplelegends.com/lib/skill?id=5100000)
+- [Oak Barrel](https://maplelegends.com/lib/skill?id=5101007)
+- [Corkscrew Blow](https://maplelegends.com/lib/skill?id=5101004)
+- [Backspin Blow](https://maplelegends.com/lib/skill?id=5101002)
+- [Double Uppercut](https://maplelegends.com/lib/skill?id=5101003)
+- [Transformation](https://maplelegends.com/lib/skill?id=5111005)
+- [Stun Mastery](https://maplelegends.com/lib/skill?id=5110000)
+- [Energy Charge](https://maplelegends.com/lib/skill?id=5110001)
+- [Energy Drain](https://maplelegends.com/lib/skill?id=5111004)
+
+Notable equipment:
+
+- [Steel Knuckler](https://maplelegends.com/lib/equip?id=01482000)
+- [Maple Knuckle](https://maplelegends.com/lib/equip?id=01482020)
+- [Maple Storm Finger](https://maplelegends.com/lib/equip?id=01482021)
+- [Maple Golden Claw](https://maplelegends.com/lib/equip?id=01482022)
+- [Purple Snowshoes](https://maplelegends.com/lib/equip?id=01072338)
+
+### Notes
+
+DEX brawlers are essentially the pirate version of DEX warriors, although they have a hard time getting equipped, due to the paucity of knucklers that lack stat requirements.
+
 ## LUK Bucc
 
 Also known as: “Lucc Bucc”, “Luccaneer”, “LUK Brawler”, “LUK Marauder”, “LUK Buccaneer”
@@ -1086,7 +1141,7 @@ Possible job progressions:
 
 - Beginner → Pirate → Gunslinger → Outlaw → Corsair
 
-Primary stat: **STR** | Secondary stat: DEX
+Primary stats: **STR**, **DEX**
 
 Stat constraints:
 
