@@ -417,8 +417,8 @@
         1322024,
         1302029,
         1702030,
-        1332053,
         1302026,
+        1332053,
         1442068,
         1072169,
         1082246,
@@ -427,7 +427,7 @@
       ],
       "notes": [
         "Gishes attack both with melee (similarly to the closely related STR mage) and with spells.",
-        "Gishes use INT (unlike LUK mages) as their primary casting stat, but have this INT limited by their STR. See the LUK gish for a variant that is more similar to LUK mages, but naturally weaker than this kind of gish."
+        "Gishes use INT (unlike LUK mages) as their primary casting stat, but have this INT limited by their STR. See the LUK gish for a variant that is more similar to LUK mages, but naturally somewhat weaker than this kind of gish."
       ]
     },
     {
@@ -487,8 +487,8 @@
         1322024,
         1302029,
         1702030,
-        1332053,
         1302026,
+        1332053,
         1442068,
         1072169,
         1082246,
@@ -497,7 +497,8 @@
       ],
       "notes": [
         "LUK gishes attack both with melee (similarly to the closely related STR mage) and with spells.",
-        "LUK gishes use LUK (unlike ordinary gishes) as their primary casting stat. See the gish for a variant that is generally stronger than the LUK gish."
+        "LUK gishes use LUK (unlike ordinary gishes) as their primary casting stat. See the gish for a variant that is generally somewhat stronger than the LUK gish.",
+        "Although being INTless is certainly a downside for LUK gishes when compared to their INT-based counterparts, LUK gishes suffer from fewer accuracy issues than their INT-based counterparts, due to their reasonably high LUK. Also, LUK gishes are less sensitive to their stat allocation than their INT-based counterparts, not only due to the relative lack of accuracy issues, but also because their magic damage (assuming that they don\u2019t miss) is not sensitive to their LUK."
       ]
     },
     {
@@ -571,8 +572,8 @@
         1372036,
         1372037,
         1372038,
-        1332053,
         1302026,
+        1332053,
         1382016,
         1442068,
         1382037,
@@ -590,7 +591,7 @@
         1092045
       ],
       "notes": [
-        "LUK mages play very similarly to ordinary mages, although obviously they are considerably weaker, and are also incapable of equipping items with significant INT requirements."
+        "LUK mages play very similarly to ordinary mages, although obviously they are considerably weaker, and are also incapable of equipping items with significant INT requirements. LUK mages also, of course, have considerably higher AVOID."
       ]
     },
     {

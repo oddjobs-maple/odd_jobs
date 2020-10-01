@@ -566,8 +566,8 @@ Notable equipment:
 - [Purple Tube](https://maplelegends.com/lib/equip?id=01322024)
 - [Beige Umbrella](https://maplelegends.com/lib/equip?id=01302029)
 - [Diao Chan Sword](https://maplelegends.com/lib/equip?id=01702030)
-- [Kebob](https://maplelegends.com/lib/equip?id=01332053)
 - [Black Umbrella](https://maplelegends.com/lib/equip?id=01302026)
+- [Kebob](https://maplelegends.com/lib/equip?id=01332053)
 - [Crimson Arcglaive](https://maplelegends.com/lib/equip?id=01442068)
 - [Blue Snowshoes](https://maplelegends.com/lib/equip?id=01072169)
 - [Flamekeeper Cordon](https://maplelegends.com/lib/equip?id=01082246)
@@ -578,7 +578,7 @@ Notable equipment:
 
 Gishes attack both with melee (similarly to the closely related STR mage) and with spells.
 
-Gishes use INT (unlike LUK mages) as their primary casting stat, but have this INT limited by their STR. See the LUK gish for a variant that is more similar to LUK mages, but naturally weaker than this kind of gish.
+Gishes use INT (unlike LUK mages) as their primary casting stat, but have this INT limited by their STR. See the LUK gish for a variant that is more similar to LUK mages, but naturally somewhat weaker than this kind of gish.
 
 ## LUK Gish
 
@@ -640,8 +640,8 @@ Notable equipment:
 - [Purple Tube](https://maplelegends.com/lib/equip?id=01322024)
 - [Beige Umbrella](https://maplelegends.com/lib/equip?id=01302029)
 - [Diao Chan Sword](https://maplelegends.com/lib/equip?id=01702030)
-- [Kebob](https://maplelegends.com/lib/equip?id=01332053)
 - [Black Umbrella](https://maplelegends.com/lib/equip?id=01302026)
+- [Kebob](https://maplelegends.com/lib/equip?id=01332053)
 - [Crimson Arcglaive](https://maplelegends.com/lib/equip?id=01442068)
 - [Blue Snowshoes](https://maplelegends.com/lib/equip?id=01072169)
 - [Flamekeeper Cordon](https://maplelegends.com/lib/equip?id=01082246)
@@ -652,7 +652,9 @@ Notable equipment:
 
 LUK gishes attack both with melee (similarly to the closely related STR mage) and with spells.
 
-LUK gishes use LUK (unlike ordinary gishes) as their primary casting stat. See the gish for a variant that is generally stronger than the LUK gish.
+LUK gishes use LUK (unlike ordinary gishes) as their primary casting stat. See the gish for a variant that is generally somewhat stronger than the LUK gish.
+
+Although being INTless is certainly a downside for LUK gishes when compared to their INT-based counterparts, LUK gishes suffer from fewer accuracy issues than their INT-based counterparts, due to their reasonably high LUK. Also, LUK gishes are less sensitive to their stat allocation than their INT-based counterparts, not only due to the relative lack of accuracy issues, but also because their magic damage (assuming that they don’t miss) is not sensitive to their LUK.
 
 ## LUK Mage
 
@@ -727,8 +729,8 @@ Notable equipment:
 - [Elemental Wand 2](https://maplelegends.com/lib/equip?id=01372036)
 - [Elemental Wand 3](https://maplelegends.com/lib/equip?id=01372037)
 - [Elemental Wand 4](https://maplelegends.com/lib/equip?id=01372038)
-- [Kebob](https://maplelegends.com/lib/equip?id=01332053)
 - [Black Umbrella](https://maplelegends.com/lib/equip?id=01302026)
+- [Kebob](https://maplelegends.com/lib/equip?id=01332053)
 - [Pyogo Mushroom](https://maplelegends.com/lib/equip?id=01382016)
 - [Crimson Arcglaive](https://maplelegends.com/lib/equip?id=01442068)
 - [Doomsday Staff](https://maplelegends.com/lib/equip?id=01382037)
@@ -747,7 +749,7 @@ Notable equipment:
 
 ### Notes
 
-LUK mages play very similarly to ordinary mages, although obviously they are considerably weaker, and are also incapable of equipping items with significant INT requirements.
+LUK mages play very similarly to ordinary mages, although obviously they are considerably weaker, and are also incapable of equipping items with significant INT requirements. LUK mages also, of course, have considerably higher AVOID.
 
 ## Woodsman
 
