@@ -74,6 +74,21 @@
       "notes": []
     },
     {
+      "name": "Permawarrior",
+      "aliases": ["Perma-Warrior", "Permaswordman", "Perma-Swordman"],
+      "progressions": [[0, 100]],
+      "location": null,
+      "primary_stats": ["STR"],
+      "secondary_stats": ["DEX"],
+      "stat_constraints": [],
+      "attacks": [1001004, 1001005],
+      "notable_skills": [1000001],
+      "notable_equips": [],
+      "notes": [
+        "Permawarriors are typically unconstrained (although they can, of course, be mixed with other odd jobs, e.g. DEX warrior), except that they cannot take second job advancement."
+      ]
+    },
+    {
       "name": "HP Warrior",
       "aliases": ["Blood Warrior"],
       "progressions": [
@@ -361,6 +376,21 @@
       ]
     },
     {
+      "name": "Permamagician",
+      "aliases": ["Perma-Magician"],
+      "progressions": [[0, 200]],
+      "location": null,
+      "primary_stats": ["INT"],
+      "secondary_stats": ["LUK"],
+      "stat_constraints": [],
+      "attacks": [0, 2001004, 2001005],
+      "notable_skills": [2001002],
+      "notable_equips": [],
+      "notes": [
+        "Permamagicians are typically unconstrained (although they can, of course, be mixed with other odd jobs, e.g. LUK mage), except that they cannot take second job advancement."
+      ]
+    },
+    {
       "name": "Gish",
       "aliases": [
         "INT Gish",
@@ -595,6 +625,21 @@
       ]
     },
     {
+      "name": "Permarcher",
+      "aliases": ["Perma-Archer", "Permabowman", "Perma-Bowman"],
+      "progressions": [[0, 300]],
+      "location": null,
+      "primary_stats": ["DEX"],
+      "secondary_stats": ["STR"],
+      "stat_constraints": [],
+      "attacks": [0, 3001004, 3001005],
+      "notable_skills": [3000000, 3001003, 3000001],
+      "notable_equips": [],
+      "notes": [
+        "Permarchers are typically unconstrained (although they can, of course, be mixed with other odd jobs, e.g. woodsman), except that they cannot take second job advancement."
+      ]
+    },
+    {
       "name": "Woodsman",
       "aliases": [
         "Woodman",
@@ -710,6 +755,21 @@
       ]
     },
     {
+      "name": "Permarogue",
+      "aliases": ["Perma-Rogue", "Permathief", "Perma-Thief"],
+      "progressions": [[0, 400]],
+      "location": null,
+      "primary_stats": ["LUK"],
+      "secondary_stats": ["DEX", "STR"],
+      "stat_constraints": [],
+      "attacks": [4001344, 4001334],
+      "notable_skills": [4000000, 4001002, 4001003],
+      "notable_equips": [],
+      "notes": [
+        "Permarogues are typically unconstrained (although they can, of course, be mixed with other odd jobs, e.g. grim reaper), except that they cannot take second job advancement."
+      ]
+    },
+    {
       "name": "STR Assassin",
       "aliases": ["STR Sin", "Strength Assassin"],
       "progressions": [[0, 400, 410, 411, 412]],
@@ -741,7 +801,7 @@
       "primary_stats": ["HP"],
       "secondary_stats": ["LUK", "DEX", "STR"],
       "stat_constraints": ["DEX = 25", "LUK = 4", "STR = 4"],
-      "attacks": [4211006, 0, 4001334, 4201005, 4201004, 4211004, 4211002],
+      "attacks": [4211006, 4001334, 4201005, 4201004, 4211004, 4211002],
       "notable_skills": [
         4211005,
         4000000,
@@ -803,39 +863,18 @@
       ]
     },
     {
-      "name": "DEX Brawler",
-      "aliases": ["Dexaneer", "DEX Marauder", "DEX Buccaneer", "DEX Bucc"],
-      "progressions": [[0, 500, 510, 511, 512]],
+      "name": "Permapirate",
+      "aliases": ["Perma-Pirate"],
+      "progressions": [[0, 500]],
       "location": null,
-      "primary_stats": ["DEX", "STR"],
+      "primary_stats": ["STR", "DEX"],
       "secondary_stats": [],
-      "stat_constraints": ["STR = 4"],
-      "attacks": [
-        0,
-        5001002,
-        5001001,
-        5101004,
-        5101002,
-        5101003,
-        5111006,
-        5111004,
-        5111002
-      ],
-      "notable_skills": [
-        5000000,
-        5100000,
-        5101007,
-        5101004,
-        5101002,
-        5101003,
-        5111005,
-        5110000,
-        5110001,
-        5111004
-      ],
-      "notable_equips": [1482000, 1482020, 1482021, 1482022, 1072338],
+      "stat_constraints": [],
+      "attacks": [5001002, 5001003, 5001001],
+      "notable_skills": [5000000],
+      "notable_equips": [],
       "notes": [
-        "DEX brawlers are essentially the pirate version of DEX warriors, although they have a hard time getting equipped, due to the paucity of knucklers that lack stat requirements."
+        "Permapirates are typically unconstrained (although they can, of course, be mixed with other odd jobs, e.g. LUK bucc), except that they cannot take second job advancement."
       ]
     },
     {
@@ -878,6 +917,43 @@
       "notable_equips": [1482000, 1482020, 1482021, 1482022, 1072338],
       "notes": [
         "LUK buccs are essentially the pirate version of LUK warriors, although they have a hard time getting equipped, due to the paucity of knucklers that lack stat requirements."
+      ]
+    },
+    {
+      "name": "DEX Brawler",
+      "aliases": ["Dexaneer", "DEX Marauder", "DEX Buccaneer", "DEX Bucc"],
+      "progressions": [[0, 500, 510, 511, 512]],
+      "location": null,
+      "primary_stats": ["DEX", "STR"],
+      "secondary_stats": [],
+      "stat_constraints": ["STR = 4"],
+      "attacks": [
+        0,
+        5001002,
+        5001001,
+        5101004,
+        5101002,
+        5101003,
+        5111006,
+        5111004,
+        5111002
+      ],
+      "notable_skills": [
+        5000000,
+        5100000,
+        5101007,
+        5101004,
+        5101002,
+        5101003,
+        5111005,
+        5110000,
+        5110001,
+        5111004
+      ],
+      "notable_equips": [1482000, 1482020, 1482021, 1482022, 1072338],
+      "notes": [
+        "DEX brawlers are essentially the pirate version of DEX warriors, although they have a hard time getting equipped, due to the paucity of knucklers that lack stat requirements.",
+        "DEX brawlers actually have the highest AVOID in the game, due to the fact that brawlers/marauders/buccaneers gain a whopping 1.5 AVOID per point of DEX."
       ]
     },
     {

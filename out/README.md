@@ -18,23 +18,28 @@ are not listed under “Notable equipment”.
 - [Islander](#islander)
 - [Besinner](#besinner)
 - [Permabeginner](#permabeginner)
+- [Permawarrior](#permawarrior)
 - [HP Warrior](#hp-warrior)
 - [Wand Warrior](#wand-warrior)
 - [LUK Warrior](#luk-warrior)
 - [Dagger Warrior](#dagger-warrior)
 - [DEX Warrior](#dex-warrior)
 - [STR Mage](#str-mage)
+- [Permamagician](#permamagician)
 - [Gish](#gish)
 - [LUK Gish](#luk-gish)
 - [LUK Mage](#luk-mage)
+- [Permarcher](#permarcher)
 - [Woodsman](#woodsman)
 - [Bow-whacker](#bow-whacker)
 - [Grim Reaper](#grim-reaper)
+- [Permarogue](#permarogue)
 - [STR Assassin](#str-assassin)
 - [Blood Bandit](#blood-bandit)
 - [Brigand](#brigand)
-- [DEX Brawler](#dex-brawler)
+- [Permapirate](#permapirate)
 - [LUK Bucc](#luk-bucc)
+- [DEX Brawler](#dex-brawler)
 - [Swashbuckler](#swashbuckler)
 
 ## Camper
@@ -157,6 +162,29 @@ Notable equipment:
 - [Frozen Tuna [level 20]](https://maplelegends.com/lib/equip?id=01442018)
 - [Sake Bottle](https://maplelegends.com/lib/equip?id=01422011)
 - [Maroon Mop](https://maplelegends.com/lib/equip?id=01442023)
+
+## Permawarrior
+
+Also known as: “Perma-Warrior”, “Permaswordman”, “Perma-Swordman”
+
+Possible job progressions:
+
+- Beginner → Warrior
+
+Primary stat: **STR** | Secondary stat: DEX
+
+Attacks:
+
+- [Power Strike](https://maplelegends.com/lib/skill?id=1001004)
+- [Slash Blast](https://maplelegends.com/lib/skill?id=1001005)
+
+Notable skills:
+
+- [Improved MaxHP Increase](https://maplelegends.com/lib/skill?id=1000001)
+
+### Notes
+
+Permawarriors are typically unconstrained (although they can, of course, be mixed with other odd jobs, e.g. DEX warrior), except that they cannot take second job advancement.
 
 ## HP Warrior
 
@@ -506,6 +534,30 @@ Notable equipment:
 
 STR mages largely play like “permabeginners, but with buffs”, although they can also have other utility skills, like Heal. For a more magically-oriented magician that still engages in melee, see the gish (and the LUK gish).
 
+## Permamagician
+
+Also known as: “Perma-Magician”
+
+Possible job progressions:
+
+- Beginner → Magician
+
+Primary stat: **INT** | Secondary stat: LUK
+
+Attacks:
+
+- [basic attack]
+- [Energy Bolt](https://maplelegends.com/lib/skill?id=2001004)
+- [Magic Claw](https://maplelegends.com/lib/skill?id=2001005)
+
+Notable skills:
+
+- [Magic Guard](https://maplelegends.com/lib/skill?id=2001002)
+
+### Notes
+
+Permamagicians are typically unconstrained (although they can, of course, be mixed with other odd jobs, e.g. LUK mage), except that they cannot take second job advancement.
+
 ## Gish
 
 Also known as: “INT Gish”, “Mixed Attacker Mage”, “Mixed Attacker”, “Hybrid Mage”, “Hybrid Magician”
@@ -751,6 +803,32 @@ Notable equipment:
 
 LUK mages play very similarly to ordinary mages, although obviously they are considerably weaker, and are also incapable of equipping items with significant INT requirements. LUK mages also, of course, have considerably higher AVOID.
 
+## Permarcher
+
+Also known as: “Perma-Archer”, “Permabowman”, “Perma-Bowman”
+
+Possible job progressions:
+
+- Beginner → Archer
+
+Primary stat: **DEX** | Secondary stat: STR
+
+Attacks:
+
+- [basic attack]
+- [Arrow Blow](https://maplelegends.com/lib/skill?id=3001004)
+- [Double Shot](https://maplelegends.com/lib/skill?id=3001005)
+
+Notable skills:
+
+- [The Blessing of Amazon](https://maplelegends.com/lib/skill?id=3000000)
+- [Focus](https://maplelegends.com/lib/skill?id=3001003)
+- [Critical Shot](https://maplelegends.com/lib/skill?id=3000001)
+
+### Notes
+
+Permarchers are typically unconstrained (although they can, of course, be mixed with other odd jobs, e.g. woodsman), except that they cannot take second job advancement.
+
 ## Woodsman
 
 Also known as: “Woodman”, “Huntsman”, “Forester”, “STR Archer”, “Strength Archer”, “DEXless Archer”
@@ -887,6 +965,31 @@ Notable equipment:
 
 Grim reapers are characterised and defined by their exclusive use of the Scythe, a level 15 one-handed axe that requires its wielder to be a rogue and to have at least 35 LUK and 30 DEX.
 
+## Permarogue
+
+Also known as: “Perma-Rogue”, “Permathief”, “Perma-Thief”
+
+Possible job progressions:
+
+- Beginner → Rogue
+
+Primary stat: **LUK** | Secondary stats: DEX, STR
+
+Attacks:
+
+- [Lucky Seven](https://maplelegends.com/lib/skill?id=4001344)
+- [Double Stab](https://maplelegends.com/lib/skill?id=4001334)
+
+Notable skills:
+
+- [Nimble Body](https://maplelegends.com/lib/skill?id=4000000)
+- [Disorder](https://maplelegends.com/lib/skill?id=4001002)
+- [Dark Sight](https://maplelegends.com/lib/skill?id=4001003)
+
+### Notes
+
+Permarogues are typically unconstrained (although they can, of course, be mixed with other odd jobs, e.g. grim reaper), except that they cannot take second job advancement.
+
 ## STR Assassin
 
 Also known as: “STR Sin”, “Strength Assassin”
@@ -950,7 +1053,6 @@ Stat constraints:
 Attacks:
 
 - [Meso Explosion](https://maplelegends.com/lib/skill?id=4211006)
-- [basic attack]
 - [Double Stab](https://maplelegends.com/lib/skill?id=4001334)
 - [Savage Blow](https://maplelegends.com/lib/skill?id=4201005)
 - [Steal](https://maplelegends.com/lib/skill?id=4201004)
@@ -1032,56 +1134,29 @@ Brigands cannot put any SP into stabbing skills, like Double Stab. Steal does no
 
 Brigands essentially play like more mobile permabeginners, with some neato utility skills, to boot. Later, brigands get access to a radically different attacking skill: Meso Explosion.
 
-## DEX Brawler
+## Permapirate
 
-Also known as: “Dexaneer”, “DEX Marauder”, “DEX Buccaneer”, “DEX Bucc”
+Also known as: “Perma-Pirate”
 
 Possible job progressions:
 
-- Beginner → Pirate → Brawler → Marauder → Buccaneer
+- Beginner → Pirate
 
-Primary stats: **DEX**, **STR**
-
-Stat constraints:
-
-- STR = 4
+Primary stats: **STR**, **DEX**
 
 Attacks:
 
-- [basic attack]
 - [Sommersault Kick](https://maplelegends.com/lib/skill?id=5001002)
+- [Double Shot](https://maplelegends.com/lib/skill?id=5001003)
 - [Flash Fist](https://maplelegends.com/lib/skill?id=5001001)
-- [Corkscrew Blow](https://maplelegends.com/lib/skill?id=5101004)
-- [Backspin Blow](https://maplelegends.com/lib/skill?id=5101002)
-- [Double Uppercut](https://maplelegends.com/lib/skill?id=5101003)
-- [Shockwave](https://maplelegends.com/lib/skill?id=5111006)
-- [Energy Drain](https://maplelegends.com/lib/skill?id=5111004)
-- [Energy Blast](https://maplelegends.com/lib/skill?id=5111002)
 
 Notable skills:
 
 - [Bullet Time](https://maplelegends.com/lib/skill?id=5000000)
-- [Improve MaxHP](https://maplelegends.com/lib/skill?id=5100000)
-- [Oak Barrel](https://maplelegends.com/lib/skill?id=5101007)
-- [Corkscrew Blow](https://maplelegends.com/lib/skill?id=5101004)
-- [Backspin Blow](https://maplelegends.com/lib/skill?id=5101002)
-- [Double Uppercut](https://maplelegends.com/lib/skill?id=5101003)
-- [Transformation](https://maplelegends.com/lib/skill?id=5111005)
-- [Stun Mastery](https://maplelegends.com/lib/skill?id=5110000)
-- [Energy Charge](https://maplelegends.com/lib/skill?id=5110001)
-- [Energy Drain](https://maplelegends.com/lib/skill?id=5111004)
-
-Notable equipment:
-
-- [Steel Knuckler](https://maplelegends.com/lib/equip?id=01482000)
-- [Maple Knuckle](https://maplelegends.com/lib/equip?id=01482020)
-- [Maple Storm Finger](https://maplelegends.com/lib/equip?id=01482021)
-- [Maple Golden Claw](https://maplelegends.com/lib/equip?id=01482022)
-- [Purple Snowshoes](https://maplelegends.com/lib/equip?id=01072338)
 
 ### Notes
 
-DEX brawlers are essentially the pirate version of DEX warriors, although they have a hard time getting equipped, due to the paucity of knucklers that lack stat requirements.
+Permapirates are typically unconstrained (although they can, of course, be mixed with other odd jobs, e.g. LUK bucc), except that they cannot take second job advancement.
 
 ## LUK Bucc
 
@@ -1134,6 +1209,59 @@ Notable equipment:
 ### Notes
 
 LUK buccs are essentially the pirate version of LUK warriors, although they have a hard time getting equipped, due to the paucity of knucklers that lack stat requirements.
+
+## DEX Brawler
+
+Also known as: “Dexaneer”, “DEX Marauder”, “DEX Buccaneer”, “DEX Bucc”
+
+Possible job progressions:
+
+- Beginner → Pirate → Brawler → Marauder → Buccaneer
+
+Primary stats: **DEX**, **STR**
+
+Stat constraints:
+
+- STR = 4
+
+Attacks:
+
+- [basic attack]
+- [Sommersault Kick](https://maplelegends.com/lib/skill?id=5001002)
+- [Flash Fist](https://maplelegends.com/lib/skill?id=5001001)
+- [Corkscrew Blow](https://maplelegends.com/lib/skill?id=5101004)
+- [Backspin Blow](https://maplelegends.com/lib/skill?id=5101002)
+- [Double Uppercut](https://maplelegends.com/lib/skill?id=5101003)
+- [Shockwave](https://maplelegends.com/lib/skill?id=5111006)
+- [Energy Drain](https://maplelegends.com/lib/skill?id=5111004)
+- [Energy Blast](https://maplelegends.com/lib/skill?id=5111002)
+
+Notable skills:
+
+- [Bullet Time](https://maplelegends.com/lib/skill?id=5000000)
+- [Improve MaxHP](https://maplelegends.com/lib/skill?id=5100000)
+- [Oak Barrel](https://maplelegends.com/lib/skill?id=5101007)
+- [Corkscrew Blow](https://maplelegends.com/lib/skill?id=5101004)
+- [Backspin Blow](https://maplelegends.com/lib/skill?id=5101002)
+- [Double Uppercut](https://maplelegends.com/lib/skill?id=5101003)
+- [Transformation](https://maplelegends.com/lib/skill?id=5111005)
+- [Stun Mastery](https://maplelegends.com/lib/skill?id=5110000)
+- [Energy Charge](https://maplelegends.com/lib/skill?id=5110001)
+- [Energy Drain](https://maplelegends.com/lib/skill?id=5111004)
+
+Notable equipment:
+
+- [Steel Knuckler](https://maplelegends.com/lib/equip?id=01482000)
+- [Maple Knuckle](https://maplelegends.com/lib/equip?id=01482020)
+- [Maple Storm Finger](https://maplelegends.com/lib/equip?id=01482021)
+- [Maple Golden Claw](https://maplelegends.com/lib/equip?id=01482022)
+- [Purple Snowshoes](https://maplelegends.com/lib/equip?id=01072338)
+
+### Notes
+
+DEX brawlers are essentially the pirate version of DEX warriors, although they have a hard time getting equipped, due to the paucity of knucklers that lack stat requirements.
+
+DEX brawlers actually have the highest AVOID in the game, due to the fact that brawlers/marauders/buccaneers gain a whopping 1.5 AVOID per point of DEX.
 
 ## Swashbuckler
 
