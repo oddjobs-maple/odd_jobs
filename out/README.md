@@ -619,9 +619,6 @@ Notable skills:
 
 Notable equipment:
 
-- [Mace](https://maplelegends.com/lib/equip?id=01322000)
-- [Iron Mace](https://maplelegends.com/lib/equip?id=01322002)
-- [Fusion Mace](https://maplelegends.com/lib/equip?id=01322004)
 - [Blue Snowshoes](https://maplelegends.com/lib/equip?id=01072169)
 - [Flamekeeper Cordon](https://maplelegends.com/lib/equip?id=01082246)
 - [Maple Magician Shield](https://maplelegends.com/lib/equip?id=01092045)
