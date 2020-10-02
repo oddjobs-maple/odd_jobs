@@ -15,9 +15,11 @@ are not listed under “Notable equipment”.
 
 - [Camper](#camper)
 - [Magelander](#magelander)
+- [Wand Beginner](#wand-beginner)
 - [Islander](#islander)
 - [Besinner](#besinner)
 - [Permabeginner](#permabeginner)
+- [DEX Beginner](#dex-beginner)
 - [Permawarrior](#permawarrior)
 - [HP Warrior](#hp-warrior)
 - [Wand Warrior](#wand-warrior)
@@ -25,6 +27,7 @@ are not listed under “Notable equipment”.
 - [Dagger Warrior](#dagger-warrior)
 - [DEX Warrior](#dex-warrior)
 - [STR Mage](#str-mage)
+- [DEX Mage](#dex-mage)
 - [Permamagician](#permamagician)
 - [Gish](#gish)
 - [LUK Gish](#luk-gish)
@@ -98,6 +101,30 @@ Notable equipment:
 
 Magelanders are defined by their use of the Metal Wand, a level 18 wand with no job requirements that drops from Red Snails. It requires 55 INT and 20 LUK to equip.
 
+## Wand Beginner
+
+Also known as: “Wand Perma”, “Wand Permabeginner”, “Permawander”
+
+Possible job progressions:
+
+- Beginner
+
+Primary stat: **STR** | Secondary stats: DEX, INT, LUK
+
+Attacks:
+
+- [basic attack]
+
+Notable equipment:
+
+- [Wooden Wand](https://maplelegends.com/lib/equip?id=01372005)
+- [Hardwood Wand](https://maplelegends.com/lib/equip?id=01372006)
+- [Metal Wand](https://maplelegends.com/lib/equip?id=01372002)
+
+### Notes
+
+Wand beginners can be thought of as both an off-island variant of the magelander, as well as a permabeginner variant of the wand warrior.
+
 ## Islander
 
 Possible job progressions:
@@ -162,6 +189,30 @@ Notable equipment:
 - [Frozen Tuna [level 20]](https://maplelegends.com/lib/equip?id=01442018)
 - [Sake Bottle](https://maplelegends.com/lib/equip?id=01422011)
 - [Maroon Mop](https://maplelegends.com/lib/equip?id=01442023)
+
+## DEX Beginner
+
+Also known as: “DEX Perma”, “DEX Permabeginner”, “Permadexer”, “Dexterity Beginner”
+
+Possible job progressions:
+
+- Beginner
+
+Primary stats: **DEX**, **STR**
+
+Stat constraints:
+
+- STR = 4
+
+Attacks:
+
+- [basic attack]
+
+### Notes
+
+DEX beginners are essentially a variant of the ordinary permabeginner, in much the same way that the DEX warrior is a variant of the ordinary warrior.
+
+DEX beginners do not have the accuracy issues that ordinary permabeginners have. Furthermore, their damage may be lower overall, but it is considerably more stable.
 
 ## Permawarrior
 
@@ -533,6 +584,53 @@ Notable equipment:
 ### Notes
 
 STR mages largely play like “permabeginners, but with buffs”, although they can also have other utility skills, like Heal. For a more magically-oriented magician that still engages in melee, see the gish (and the LUK gish).
+
+## DEX Mage
+
+Also known as: “Dexterity Mage”, “DEX Magician”
+
+Possible job progressions:
+
+- Beginner → Magician → Cleric → Priest → Bishop
+- Beginner → Magician → I/L Wizard → I/L Mage → I/L Archmage
+- Beginner → Magician → F/P Wizard → F/P Mage → F/P Archmage
+
+Primary stats: **DEX**, **STR** | Secondary stats: INT, LUK
+
+Stat constraints:
+
+- STR = 4
+- INT = 20
+- LUK = 4
+
+Attacks:
+
+- [basic attack]
+
+Notable skills:
+
+- [Magic Guard](https://maplelegends.com/lib/skill?id=2001002)
+- [Meditation](https://maplelegends.com/lib/skill?id=2101001)
+- [Teleport](https://maplelegends.com/lib/skill?id=2101002)
+- [Heal](https://maplelegends.com/lib/skill?id=2301002)
+- [Bless](https://maplelegends.com/lib/skill?id=2301004)
+- [Holy Symbol](https://maplelegends.com/lib/skill?id=2311003)
+- [Dispel](https://maplelegends.com/lib/skill?id=2311001)
+
+Notable equipment:
+
+- [Mace](https://maplelegends.com/lib/equip?id=01322000)
+- [Iron Mace](https://maplelegends.com/lib/equip?id=01322002)
+- [Fusion Mace](https://maplelegends.com/lib/equip?id=01322004)
+- [Blue Snowshoes](https://maplelegends.com/lib/equip?id=01072169)
+- [Flamekeeper Cordon](https://maplelegends.com/lib/equip?id=01082246)
+- [Maple Magician Shield](https://maplelegends.com/lib/equip?id=01092045)
+
+### Notes
+
+DEX mages are essentially a variant of the STR mage, in much the same way that the DEX warrior is a variant of the ordinary warrior.
+
+DEX mages do not have the accuracy issues that STR mages have. Furthermore, their damage may be lower overall, but it is considerably more stable.
 
 ## Permamagician
 

@@ -32,6 +32,21 @@
       ]
     },
     {
+      "name": "Wand Beginner",
+      "aliases": ["Wand Perma", "Wand Permabeginner", "Permawander"],
+      "progressions": [[0]],
+      "location": null,
+      "primary_stats": ["STR"],
+      "secondary_stats": ["DEX", "INT", "LUK"],
+      "stat_constraints": [],
+      "attacks": [0],
+      "notable_skills": [],
+      "notable_equips": [1372005, 1372006, 1372002],
+      "notes": [
+        "Wand beginners can be thought of as both an off-island variant of the magelander, as well as a permabeginner variant of the wand warrior."
+      ]
+    },
+    {
       "name": "Islander",
       "aliases": [],
       "progressions": [[0]],
@@ -72,6 +87,27 @@
       "notable_skills": [],
       "notable_equips": [1442018, 1422011, 1442023],
       "notes": []
+    },
+    {
+      "name": "DEX Beginner",
+      "aliases": [
+        "DEX Perma",
+        "DEX Permabeginner",
+        "Permadexer",
+        "Dexterity Beginner"
+      ],
+      "progressions": [[0]],
+      "location": null,
+      "primary_stats": ["DEX", "STR"],
+      "secondary_stats": [],
+      "stat_constraints": ["STR = 4"],
+      "attacks": [0],
+      "notable_skills": [],
+      "notable_equips": [],
+      "notes": [
+        "DEX beginners are essentially a variant of the ordinary permabeginner, in much the same way that the DEX warrior is a variant of the ordinary warrior.",
+        "DEX beginners do not have the accuracy issues that ordinary permabeginners have. Furthermore, their damage may be lower overall, but it is considerably more stable."
+      ]
     },
     {
       "name": "Permawarrior",
@@ -373,6 +409,34 @@
       "notable_equips": [1322000, 1322002, 1322004, 1072169, 1082246, 1092045],
       "notes": [
         "STR mages largely play like \u201cpermabeginners, but with buffs\u201d, although they can also have other utility skills, like Heal. For a more magically-oriented magician that still engages in melee, see the gish (and the LUK gish)."
+      ]
+    },
+    {
+      "name": "DEX Mage",
+      "aliases": ["Dexterity Mage", "DEX Magician"],
+      "progressions": [
+        [0, 200, 230, 231, 232],
+        [0, 200, 220, 221, 222],
+        [0, 200, 210, 211, 212]
+      ],
+      "location": null,
+      "primary_stats": ["DEX", "STR"],
+      "secondary_stats": ["INT", "LUK"],
+      "stat_constraints": ["STR = 4", "INT = 20", "LUK = 4"],
+      "attacks": [0],
+      "notable_skills": [
+        2001002,
+        2101001,
+        2101002,
+        2301002,
+        2301004,
+        2311003,
+        2311001
+      ],
+      "notable_equips": [1322000, 1322002, 1322004, 1072169, 1082246, 1092045],
+      "notes": [
+        "DEX mages are essentially a variant of the STR mage, in much the same way that the DEX warrior is a variant of the ordinary warrior.",
+        "DEX mages do not have the accuracy issues that STR mages have. Furthermore, their damage may be lower overall, but it is considerably more stable."
       ]
     },
     {
