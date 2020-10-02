@@ -75,7 +75,7 @@
     },
     {
       "name": "Permawarrior",
-      "aliases": ["Perma-Warrior", "Permaswordman", "Perma-Swordman"],
+      "aliases": ["Perma-warrior", "Permaswordman", "Perma-swordman"],
       "progressions": [[0, 100]],
       "location": null,
       "primary_stats": ["STR"],
@@ -377,7 +377,7 @@
     },
     {
       "name": "Permamagician",
-      "aliases": ["Perma-Magician"],
+      "aliases": ["Perma-magician"],
       "progressions": [[0, 200]],
       "location": null,
       "primary_stats": ["INT"],
@@ -626,7 +626,7 @@
     },
     {
       "name": "Permarcher",
-      "aliases": ["Perma-Archer", "Permabowman", "Perma-Bowman"],
+      "aliases": ["Perma-archer", "Permabowman", "Perma-bowman"],
       "progressions": [[0, 300]],
       "location": null,
       "primary_stats": ["DEX"],
@@ -756,7 +756,7 @@
     },
     {
       "name": "Permarogue",
-      "aliases": ["Perma-Rogue", "Permathief", "Perma-Thief"],
+      "aliases": ["Perma-rogue", "Permathief", "Perma-thief"],
       "progressions": [[0, 400]],
       "location": null,
       "primary_stats": ["LUK"],
@@ -864,7 +864,7 @@
     },
     {
       "name": "Permapirate",
-      "aliases": ["Perma-Pirate"],
+      "aliases": ["Perma-pirate"],
       "progressions": [[0, 500]],
       "location": null,
       "primary_stats": ["STR", "DEX"],

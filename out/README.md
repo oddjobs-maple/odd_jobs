@@ -165,7 +165,7 @@ Notable equipment:
 
 ## Permawarrior
 
-Also known as: “Perma-Warrior”, “Permaswordman”, “Perma-Swordman”
+Also known as: “Perma-warrior”, “Permaswordman”, “Perma-swordman”
 
 Possible job progressions:
 
@@ -536,7 +536,7 @@ STR mages largely play like “permabeginners, but with buffs”, although they 
 
 ## Permamagician
 
-Also known as: “Perma-Magician”
+Also known as: “Perma-magician”
 
 Possible job progressions:
 
@@ -805,7 +805,7 @@ LUK mages play very similarly to ordinary mages, although obviously they are con
 
 ## Permarcher
 
-Also known as: “Perma-Archer”, “Permabowman”, “Perma-Bowman”
+Also known as: “Perma-archer”, “Permabowman”, “Perma-bowman”
 
 Possible job progressions:
 
@@ -967,7 +967,7 @@ Grim reapers are characterised and defined by their exclusive use of the Scythe,
 
 ## Permarogue
 
-Also known as: “Perma-Rogue”, “Permathief”, “Perma-Thief”
+Also known as: “Perma-rogue”, “Permathief”, “Perma-thief”
 
 Possible job progressions:
 
@@ -1136,7 +1136,7 @@ Brigands essentially play like more mobile permabeginners, with some neato utili
 
 ## Permapirate
 
-Also known as: “Perma-Pirate”
+Also known as: “Perma-pirate”
 
 Possible job progressions:
 
