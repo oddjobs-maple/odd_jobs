@@ -876,7 +876,6 @@ Notable equipment:
 - [Black Umbrella](https://maplelegends.com/lib/equip?id=01302026)
 - [Kebob](https://maplelegends.com/lib/equip?id=01332053)
 - [Pyogo Mushroom](https://maplelegends.com/lib/equip?id=01382016)
-- [Crimson Arcglaive](https://maplelegends.com/lib/equip?id=01442068)
 - [Doomsday Staff](https://maplelegends.com/lib/equip?id=01382037)
 - [Elemental Staff 1](https://maplelegends.com/lib/equip?id=01382045)
 - [Elemental Staff 2](https://maplelegends.com/lib/equip?id=01382046)
