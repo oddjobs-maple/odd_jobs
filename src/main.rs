@@ -789,6 +789,7 @@ fn item_name(id: u32) -> Option<&'static str> {
         1442018 => "Frozen Tuna [level 20]",
         1442023 => "Maroon Mop",
         1442024 => "Maple Scorpio",
+        1442046 => "Super Snowboard",
         1442051 => "Maple Karstan",
         1442068 => "Crimson Arcglaive",
         1452002 => "War Bow",
