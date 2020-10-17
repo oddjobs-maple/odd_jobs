@@ -687,6 +687,7 @@ fn skill_name(id: u32) -> Option<&'static str> {
 
 fn item_name(id: u32) -> Option<&'static str> {
     Some(match id {
+        1002019 => "White Bandana",
         1032003 => "Amethyst Earrings",
         1040013 => "Blue One-lined T-Shirt [M]",
         1041012 => "Red-Striped T-Shirt [F]",
@@ -711,6 +712,7 @@ fn item_name(id: u32) -> Option<&'static str> {
         1302037 => "Trumpet",
         1302063 => "Flaming Katana",
         1302064 => "Maple Glory Sword",
+        1312000 => "Double Axe",
         1312002 => "Scythe",
         1312004 => "Hand Axe",
         1312013 => "Green Paint Brush",
@@ -786,9 +788,11 @@ fn item_name(id: u32) -> Option<&'static str> {
         1432012 => "Maple Impaler",
         1432040 => "Maple Soul Spear",
         1442000 => "Pole Arm",
+        1442012 => "Sky Snowboard",
         1442018 => "Frozen Tuna [level 20]",
         1442023 => "Maroon Mop",
         1442024 => "Maple Scorpio",
+        1442029 => "Gold Surfboard",
         1442046 => "Super Snowboard",
         1442051 => "Maple Karstan",
         1442068 => "Crimson Arcglaive",

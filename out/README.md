@@ -91,6 +91,7 @@ Attacks:
 Notable equipment:
 
 - [Metal Wand](https://maplelegends.com/lib/equip?id=01372002)
+- [White Bandana](https://maplelegends.com/lib/equip?id=01002019)
 - [Ice Jeans](https://maplelegends.com/lib/equip?id=01062000)
 - [Blue One-lined T-Shirt [M]](https://maplelegends.com/lib/equip?id=01040013)
 - [Red-Striped T-Shirt [F]](https://maplelegends.com/lib/equip?id=01041012)
@@ -120,6 +121,9 @@ Notable equipment:
 - [Wooden Wand](https://maplelegends.com/lib/equip?id=01372005)
 - [Hardwood Wand](https://maplelegends.com/lib/equip?id=01372006)
 - [Metal Wand](https://maplelegends.com/lib/equip?id=01372002)
+- [Streetlight](https://maplelegends.com/lib/equip?id=01372017)
+- [Heart Staff](https://maplelegends.com/lib/equip?id=01372031)
+- [Heart Wand](https://maplelegends.com/lib/equip?id=01372033)
 
 ### Notes
 
@@ -138,10 +142,15 @@ Primary stats: **STR**, **DEX**
 Attacks:
 
 - [basic attack]
+- [Three Snails](https://maplelegends.com/lib/skill?id=0001000)
 
 Notable equipment:
 
+- [Sky Snowboard](https://maplelegends.com/lib/equip?id=01442012)
+- [Double Axe](https://maplelegends.com/lib/equip?id=01312000)
 - [Leather Purse](https://maplelegends.com/lib/equip?id=01322007)
+- [Gold Surfboard](https://maplelegends.com/lib/equip?id=01442029)
+- [White Bandana](https://maplelegends.com/lib/equip?id=01002019)
 - [Ice Jeans](https://maplelegends.com/lib/equip?id=01062000)
 - [Blue One-lined T-Shirt [M]](https://maplelegends.com/lib/equip?id=01040013)
 - [Red-Striped T-Shirt [F]](https://maplelegends.com/lib/equip?id=01041012)
@@ -272,9 +281,11 @@ Notable skills:
 
 ### Notes
 
-After achieving 35 base STR (necessary for first job advancement), the HP Warrior saves their AP until they have maxed out Improving MaxHP Increase, at which point all AP (and future AP) is spent on HP.
+After achieving 35 base STR (necessary for first job advancement), the HP warrior saves their AP until they have maxed out Improving MaxHP Increase, at which point all AP (and future AP) is spent on HP.
 
-HP Warriors deal damage primarily via Power Guard, and as such, typically want to lower their WDEF as much as possible in order to maximize this damage.
+HP warriors deal damage primarily via Power Guard, and as such, typically want to lower their WDEF as much as possible in order to maximize this damage.
+
+HP warriors are capable of defeating incredibly powerful bosses (e.g. Bigfoot) on their own at a low level, due to their obvious extreme tankiness and their ability to deal guaranteed damage with Power Guard.
 
 ## Wand Warrior
 
@@ -314,12 +325,15 @@ Notable equipment:
 - [Wooden Wand](https://maplelegends.com/lib/equip?id=01372005)
 - [Hardwood Wand](https://maplelegends.com/lib/equip?id=01372006)
 - [Metal Wand](https://maplelegends.com/lib/equip?id=01372002)
+- [Streetlight](https://maplelegends.com/lib/equip?id=01372017)
+- [Heart Staff](https://maplelegends.com/lib/equip?id=01372031)
+- [Heart Wand](https://maplelegends.com/lib/equip?id=01372033)
 
 ### Notes
 
 The only restriction placed on wand warriors is the reqirement that they exclusively use weapons that are wands (or staves, but there are generally no staves that are equippable by non-magicians). This turns out to be quite the downside, because this locks them out of most of their skills.
 
-Wand warriors can be thought of as considerably weaker versions of dagger warriors, in some sense. The end-game weapon for the wand warrior is the Metal Wand, which they are already using by the time that they hit level 18.
+Wand warriors can be thought of as considerably weaker versions of dagger warriors, in some sense. The end-game weapon for the wand warrior is the Heart Wand (or Heart Staff, which is a confusingly-named wand), which they are already using by the time that they hit level 54.
 
 ## LUK Warrior
 
@@ -561,6 +575,7 @@ Stat constraints:
 Attacks:
 
 - [basic attack]
+- [Poison Mist](https://maplelegends.com/lib/skill?id=2111003)
 
 Notable skills:
 
@@ -606,6 +621,7 @@ Stat constraints:
 Attacks:
 
 - [basic attack]
+- [Poison Mist](https://maplelegends.com/lib/skill?id=2111003)
 
 Notable skills:
 
@@ -958,6 +974,9 @@ Notable skills:
 - [Critical Shot](https://maplelegends.com/lib/skill?id=3000001)
 - [Puppet](https://maplelegends.com/lib/skill?id=3111002)
 - [Blizzard](https://maplelegends.com/lib/skill?id=3211003)
+- [Silver Hawk](https://maplelegends.com/lib/skill?id=3111005)
+- [Golden Eagle](https://maplelegends.com/lib/skill?id=3211005)
+- [Thrust](https://maplelegends.com/lib/skill?id=3110000)
 
 Notable equipment:
 
@@ -1001,6 +1020,9 @@ Notable skills:
 - [The Blessing of Amazon](https://maplelegends.com/lib/skill?id=3000000)
 - [Focus](https://maplelegends.com/lib/skill?id=3001003)
 - [Puppet](https://maplelegends.com/lib/skill?id=3111002)
+- [Silver Hawk](https://maplelegends.com/lib/skill?id=3111005)
+- [Golden Eagle](https://maplelegends.com/lib/skill?id=3211005)
+- [Thrust](https://maplelegends.com/lib/skill?id=3110000)
 
 Notable equipment:
 
@@ -1119,6 +1141,9 @@ Notable equipment:
 - [Metal Axe](https://maplelegends.com/lib/equip?id=01412001)
 - [Wooden Mallet](https://maplelegends.com/lib/equip?id=01422000)
 - [Monkey Wrench](https://maplelegends.com/lib/equip?id=01422004)
+- [Maple Wagner](https://maplelegends.com/lib/equip?id=01332025)
+- [Maple Asura Dagger](https://maplelegends.com/lib/equip?id=01332056)
+- [Maple Dark Mate](https://maplelegends.com/lib/equip?id=01332055)
 - [Maple Thief Shield](https://maplelegends.com/lib/equip?id=01092047)
 - [Black Snowshoes](https://maplelegends.com/lib/equip?id=01072171)
 

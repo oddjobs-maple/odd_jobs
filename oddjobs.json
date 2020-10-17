@@ -26,7 +26,15 @@
       "stat_constraints": [],
       "attacks": [0, 1000],
       "notable_skills": [],
-      "notable_equips": [1372002, 1062000, 1040013, 1041012, 1072004, 1032003],
+      "notable_equips": [
+        1372002,
+        1002019,
+        1062000,
+        1040013,
+        1041012,
+        1072004,
+        1032003
+      ],
       "notes": [
         "Magelanders are defined by their use of the Metal Wand, a level 18 wand with no job requirements that drops from Red Snails. It requires 55 INT and 20 LUK to equip."
       ]
@@ -41,7 +49,7 @@
       "stat_constraints": [],
       "attacks": [0],
       "notable_skills": [],
-      "notable_equips": [1372005, 1372006, 1372002],
+      "notable_equips": [1372005, 1372006, 1372002, 1372017, 1372031, 1372033],
       "notes": [
         "Wand beginners can be thought of as both an off-island variant of the magelander, as well as a permabeginner variant of the wand warrior."
       ]
@@ -54,9 +62,20 @@
       "primary_stats": ["STR", "DEX"],
       "secondary_stats": [],
       "stat_constraints": [],
-      "attacks": [0],
+      "attacks": [0, 1000],
       "notable_skills": [],
-      "notable_equips": [1322007, 1062000, 1040013, 1041012, 1072004, 1032003],
+      "notable_equips": [
+        1442012,
+        1312000,
+        1322007,
+        1442029,
+        1002019,
+        1062000,
+        1040013,
+        1041012,
+        1072004,
+        1032003
+      ],
       "notes": []
     },
     {
@@ -147,8 +166,9 @@
       ],
       "notable_equips": [],
       "notes": [
-        "After achieving 35 base STR (necessary for first job advancement), the HP Warrior saves their AP until they have maxed out Improving MaxHP Increase, at which point all AP (and future AP) is spent on HP.",
-        "HP Warriors deal damage primarily via Power Guard, and as such, typically want to lower their WDEF as much as possible in order to maximize this damage."
+        "After achieving 35 base STR (necessary for first job advancement), the HP warrior saves their AP until they have maxed out Improving MaxHP Increase, at which point all AP (and future AP) is spent on HP.",
+        "HP warriors deal damage primarily via Power Guard, and as such, typically want to lower their WDEF as much as possible in order to maximize this damage.",
+        "HP warriors are capable of defeating incredibly powerful bosses (e.g. Bigfoot) on their own at a low level, due to their obvious extreme tankiness and their ability to deal guaranteed damage with Power Guard."
       ]
     },
     {
@@ -178,10 +198,10 @@
         1311006,
         1311007
       ],
-      "notable_equips": [1372005, 1372006, 1372002],
+      "notable_equips": [1372005, 1372006, 1372002, 1372017, 1372031, 1372033],
       "notes": [
         "The only restriction placed on wand warriors is the reqirement that they exclusively use weapons that are wands (or staves, but there are generally no staves that are equippable by non-magicians). This turns out to be quite the downside, because this locks them out of most of their skills.",
-        "Wand warriors can be thought of as considerably weaker versions of dagger warriors, in some sense. The end-game weapon for the wand warrior is the Metal Wand, which they are already using by the time that they hit level 18."
+        "Wand warriors can be thought of as considerably weaker versions of dagger warriors, in some sense. The end-game weapon for the wand warrior is the Heart Wand (or Heart Staff, which is a confusingly-named wand), which they are already using by the time that they hit level 54."
       ]
     },
     {
@@ -396,7 +416,7 @@
       "primary_stats": ["STR"],
       "secondary_stats": ["DEX", "INT", "LUK"],
       "stat_constraints": ["INT = 20", "LUK = 4"],
-      "attacks": [0],
+      "attacks": [0, 2111003],
       "notable_skills": [
         2001002,
         2101001,
@@ -423,7 +443,7 @@
       "primary_stats": ["DEX", "STR"],
       "secondary_stats": ["INT", "LUK"],
       "stat_constraints": ["STR = 4", "INT = 20", "LUK = 4"],
-      "attacks": [0],
+      "attacks": [0, 2111003],
       "notable_skills": [
         2001002,
         2101001,
@@ -732,7 +752,16 @@
         3211003,
         3211004
       ],
-      "notable_skills": [3000000, 3001003, 3000001, 3111002, 3211003],
+      "notable_skills": [
+        3000000,
+        3001003,
+        3000001,
+        3111002,
+        3211003,
+        3111005,
+        3211005,
+        3110000
+      ],
       "notable_equips": [
         1452002,
         1452016,
@@ -771,7 +800,7 @@
       "secondary_stats": ["STR"],
       "stat_constraints": [],
       "attacks": [0, 3101003],
-      "notable_skills": [3000000, 3001003, 3111002],
+      "notable_skills": [3000000, 3001003, 3111002, 3111005, 3211005, 3110000],
       "notable_equips": [
         1452002,
         1452016,
@@ -850,7 +879,17 @@
         4110000,
         4111001
       ],
-      "notable_equips": [1402001, 1412001, 1422000, 1422004, 1092047, 1072171],
+      "notable_equips": [
+        1402001,
+        1412001,
+        1422000,
+        1422004,
+        1332025,
+        1332056,
+        1332055,
+        1092047,
+        1072171
+      ],
       "notes": [
         "STR assassins cannot put any SP into Double Stab.",
         "STR assassins are somewhat similar to brigands: they essentially play like more mobile permabeginners, with some neato utility skills. Later on, Flash Jump in particular is a highlight. However, STR assassins lack both Steal and Meso Explosion."
