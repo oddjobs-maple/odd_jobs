@@ -491,7 +491,7 @@
       "location": null,
       "primary_stats": ["STR", "INT"],
       "secondary_stats": ["DEX", "LUK"],
-      "stat_constraints": ["STR \u2265 INT", "INT \u226b 4", "LUK = 4"],
+      "stat_constraints": ["STR > INT", "INT \u226b 4"],
       "attacks": [
         0,
         2001004,
@@ -541,7 +541,7 @@
       ],
       "notes": [
         "Gishes attack both with melee (similarly to the closely related STR mage) and with spells.",
-        "Gishes use INT (unlike LUK mages) as their primary casting stat, but have this INT limited by their STR. See the LUK gish for a variant that is more similar to LUK mages, but naturally somewhat weaker than this kind of gish."
+        "Gishes use INT (unlike LUK mages) as their primary casting stat, but have this INT limited by their STR. INT gishes can still make good use of LUK, as it contributes to both their WACC and their MACC (and AVOID, for that matter). See the LUK gish for a variant that is more similar to LUK mages, but naturally somewhat weaker than this kind of gish."
       ]
     },
     {

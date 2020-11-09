@@ -683,9 +683,8 @@ Primary stats: **STR**, **INT** | Secondary stats: DEX, LUK
 
 Stat constraints:
 
-- STR ≥ INT
+- STR > INT
 - INT ≫ 4
-- LUK = 4
 
 Attacks:
 
@@ -741,7 +740,7 @@ Notable equipment:
 
 Gishes attack both with melee (similarly to the closely related STR mage) and with spells.
 
-Gishes use INT (unlike LUK mages) as their primary casting stat, but have this INT limited by their STR. See the LUK gish for a variant that is more similar to LUK mages, but naturally somewhat weaker than this kind of gish.
+Gishes use INT (unlike LUK mages) as their primary casting stat, but have this INT limited by their STR. INT gishes can still make good use of LUK, as it contributes to both their WACC and their MACC (and AVOID, for that matter). See the LUK gish for a variant that is more similar to LUK mages, but naturally somewhat weaker than this kind of gish.
 
 ## LUK Gish
 
