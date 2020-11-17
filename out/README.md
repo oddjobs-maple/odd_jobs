@@ -1197,6 +1197,7 @@ Notable equipment:
 - [Liu Bei Dagger](https://maplelegends.com/lib/equip?id=01332029)
 - [Maple Asura Dagger](https://maplelegends.com/lib/equip?id=01332056)
 - [Maple Dark Mate](https://maplelegends.com/lib/equip?id=01332055)
+- [Fan](https://maplelegends.com/lib/equip?id=01332030)
 - [Kebob](https://maplelegends.com/lib/equip?id=01332053)
 - [Maple Thief Shield](https://maplelegends.com/lib/equip?id=01092047)
 - [Black Snowshoes](https://maplelegends.com/lib/equip?id=01072171)
