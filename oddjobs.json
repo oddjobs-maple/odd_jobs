@@ -122,7 +122,7 @@
       "stat_constraints": ["STR = 4"],
       "attacks": [0],
       "notable_skills": [],
-      "notable_equips": [],
+      "notable_equips": [1442018, 1422011, 1442023],
       "notes": [
         "DEX beginners are essentially a variant of the ordinary permabeginner, in much the same way that the DEX warrior is a variant of the ordinary warrior.",
         "DEX beginners do not have the accuracy issues that ordinary permabeginners have. Furthermore, their damage may be lower overall, but it is considerably more stable."

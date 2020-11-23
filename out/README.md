@@ -218,6 +218,12 @@ Attacks:
 
 - [basic attack]
 
+Notable equipment:
+
+- [Frozen Tuna [level 20]](https://maplelegends.com/lib/equip?id=01442018)
+- [Sake Bottle](https://maplelegends.com/lib/equip?id=01422011)
+- [Maroon Mop](https://maplelegends.com/lib/equip?id=01442023)
+
 ### Notes
 
 DEX beginners are essentially a variant of the ordinary permabeginner, in much the same way that the DEX warrior is a variant of the ordinary warrior.
