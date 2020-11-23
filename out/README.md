@@ -38,6 +38,7 @@ are not listed under “Notable equipment”.
 - [Grim Reaper](#grim-reaper)
 - [Permarogue](#permarogue)
 - [STR Assassin](#str-assassin)
+- [Dagger Assassin](#dagger-assassin)
 - [Blood Bandit](#blood-bandit)
 - [Brigand](#brigand)
 - [Permapirate](#permapirate)
@@ -1152,6 +1153,39 @@ STR assassins cannot put any SP into Double Stab.
 
 STR assassins are somewhat similar to brigands: they essentially play like more mobile permabeginners, with some neato utility skills. Later on, Flash Jump in particular is a highlight. However, STR assassins lack both Steal and Meso Explosion.
 
+## Dagger Assassin
+
+Also known as: “Backstabber”, “Daggerlord”, “Nightstabber”, “Dagger Sin”
+
+Possible job progressions:
+
+- Beginner → Rogue → Assassin → Hermit → Nightlord
+
+Primary stat: **LUK** | Secondary stats: DEX, STR
+
+Attacks:
+
+- [Double Stab](https://maplelegends.com/lib/skill?id=4001334)
+
+Notable skills:
+
+- [Nimble Body](https://maplelegends.com/lib/skill?id=4000000)
+- [Disorder](https://maplelegends.com/lib/skill?id=4001002)
+- [Dark Sight](https://maplelegends.com/lib/skill?id=4001003)
+- [Haste](https://maplelegends.com/lib/skill?id=4101004)
+- [Flash Jump](https://maplelegends.com/lib/skill?id=4111006)
+- [Alchemist](https://maplelegends.com/lib/skill?id=4110000)
+- [Meso Up](https://maplelegends.com/lib/skill?id=4111001)
+
+Notable equipment:
+
+- [Maple Thief Shield](https://maplelegends.com/lib/equip?id=01092047)
+- [Black Snowshoes](https://maplelegends.com/lib/equip?id=01072171)
+
+### Notes
+
+Dagger assassins are, as the name implies, only allowed to use daggers as their weapons.
+
 ## Blood Bandit
 
 Also known as: “Blood Dit”, “HP Bandit”, “HP Dit”
@@ -1400,9 +1434,10 @@ Attacks:
 
 - [Sommersault Kick](https://maplelegends.com/lib/skill?id=5001002)
 - [Double Shot](https://maplelegends.com/lib/skill?id=5001003)
-- [Grenade](https://maplelegends.com/lib/skill?id=5201002)
 - [Invisible Shot](https://maplelegends.com/lib/skill?id=5201001)
 - [Ice Splitter](https://maplelegends.com/lib/skill?id=5211005)
+- [Flamethrower](https://maplelegends.com/lib/skill?id=5211004)
+- [Grenade](https://maplelegends.com/lib/skill?id=5201002)
 
 Notable skills:
 
@@ -1427,4 +1462,6 @@ Notable equipment:
 Swashbucklers cannot put any SP into punching abilities. Being gunslingers, however, they could only have access to Flash Fist anyways.
 
 Swashbucklers tend to be quite similar to woodsmen in their ability to effectively melee and to somewhat effectively range, but differ in their unique skillset, mobility, and ability to use Somersault Kick in melee.
+
+Swashbucklers should note that Somersault Kick (and some other outlaw/corsair skills) does not vary in the nominal attacking “animation” that it uses; spears are, as a result, usually the best melee weapons for swashbucklers, because they always “stab” (5.0(!) primary stat multiplier for spears) with spears/polearms. Accordingly, polearms should be avoided. Swashbucklers should also note that Grenade (despite having nothing to do with your equipped weapon, and despite lacking an animation entirely) only works if a gun is equipped.
 

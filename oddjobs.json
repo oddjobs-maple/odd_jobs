@@ -896,6 +896,29 @@
       ]
     },
     {
+      "name": "Dagger Assassin",
+      "aliases": ["Backstabber", "Daggerlord", "Nightstabber", "Dagger Sin"],
+      "progressions": [[0, 400, 410, 411, 412]],
+      "location": null,
+      "primary_stats": ["LUK"],
+      "secondary_stats": ["DEX", "STR"],
+      "stat_constraints": [],
+      "attacks": [4001334],
+      "notable_skills": [
+        4000000,
+        4001002,
+        4001003,
+        4101004,
+        4111006,
+        4110000,
+        4111001
+      ],
+      "notable_equips": [1092047, 1072171],
+      "notes": [
+        "Dagger assassins are, as the name implies, only allowed to use daggers as their weapons."
+      ]
+    },
+    {
       "name": "Blood Bandit",
       "aliases": ["Blood Dit", "HP Bandit", "HP Dit"],
       "progressions": [[0, 400, 420, 421, 422]],
@@ -1072,7 +1095,7 @@
       "primary_stats": ["STR", "DEX"],
       "secondary_stats": [],
       "stat_constraints": ["DEX = 20"],
-      "attacks": [5001002, 5001003, 5201002, 5201001, 5211005],
+      "attacks": [5001002, 5001003, 5201001, 5211005, 5211004, 5201002],
       "notable_skills": [
         5000000,
         5201004,
@@ -1085,7 +1108,8 @@
       "notable_equips": [1492000, 1492020, 1492021, 1492022, 1072338],
       "notes": [
         "Swashbucklers cannot put any SP into punching abilities. Being gunslingers, however, they could only have access to Flash Fist anyways.",
-        "Swashbucklers tend to be quite similar to woodsmen in their ability to effectively melee and to somewhat effectively range, but differ in their unique skillset, mobility, and ability to use Somersault Kick in melee."
+        "Swashbucklers tend to be quite similar to woodsmen in their ability to effectively melee and to somewhat effectively range, but differ in their unique skillset, mobility, and ability to use Somersault Kick in melee.",
+        "Swashbucklers should note that Somersault Kick (and some other outlaw/corsair skills) does not vary in the nominal attacking “animation” that it uses; spears are, as a result, usually the best melee weapons for swashbucklers, because they always “stab” (5.0(!) primary stat multiplier for spears) with spears/polearms. Accordingly, polearms should be avoided. Swashbucklers should also note that Grenade (despite having nothing to do with your equipped weapon, and despite lacking an animation entirely) only works if a gun is equipped."
       ]
     }
   ]
