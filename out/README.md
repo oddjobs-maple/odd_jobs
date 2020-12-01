@@ -13,6 +13,20 @@ jobs (e.g. permabeginner) in common. As a result, unless these weapons are
 useful for other reasons that are somewhat special to the job in question, they
 are not listed under “Notable equipment”.
 
+Here, each odd job has a “Power level” associated with it. This
+is just a impressionistic rule of thumb that helps to estimate, at a glance,
+how the various odd jobs stack up when compared to one another. Obviously, how
+powerful a given odd-jobbed character is will depend on many factors, like what
+particular job advancements are taken, what equipment the character has access
+to, what level they are, what server they are playing on, &amp;c. There are
+three possible power levels, which are as follows:
+
+| Power level                 | Interpretation                                                                                                                                                                                                                                             |
+| --------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| &#x1f34f;                   | This odd job is deeply challenged, and will require a considerable amount of dedication to play beyond a certain level.                                                                                                                                    |
+| &#x1f34f;&#x1f34f;          | This odd job has enough tricks up its sleeve that it is generally significantly more powerful than a permabeginner of the same level; however, it is still pessimal in comparison to any mainstream (non-odd) job.                                         |
+| &#x1f34f;&#x1f34f;&#x1f34f; | This odd job is one of the most powerful odd jobs. It is, at its most well-equipped, capable of performing roughly as well as a bad/poor example of a mainstream (non-odd) job. At certain levels, it may even be briefly as powerful as a mainstream job. |
+
 - [Camper](#camper)
 - [Magelander](#magelander)
 - [Wand Beginner](#wand-beginner)
@@ -56,6 +70,8 @@ Location: Training Camp
 
 Primary stats: **STR**, **DEX**
 
+Power level: 🍏
+
 Attacks:
 
 - [basic attack]
@@ -83,6 +99,8 @@ Possible job progressions:
 Location: Maple Island
 
 Primary stats: **STR**, **DEX** | Secondary stats: INT, LUK
+
+Power level: 🍏
 
 Attacks:
 
@@ -113,6 +131,8 @@ Possible job progressions:
 
 Primary stat: **STR** | Secondary stats: DEX, INT, LUK
 
+Power level: 🍏
+
 Attacks:
 
 - [basic attack]
@@ -140,6 +160,8 @@ Location: Maple Island
 
 Primary stats: **STR**, **DEX**
 
+Power level: 🍏
+
 Attacks:
 
 - [basic attack]
@@ -166,6 +188,8 @@ Possible job progressions:
 
 Primary stat: **LUK**
 
+Power level: 🍏
+
 Attacks:
 
 - [basic attack]
@@ -189,6 +213,8 @@ Possible job progressions:
 - Beginner
 
 Primary stat: **STR** | Secondary stat: DEX
+
+Power level: 🍏
 
 Attacks:
 
@@ -214,6 +240,8 @@ Stat constraints:
 
 - STR = 4
 
+Power level: 🍏
+
 Attacks:
 
 - [basic attack]
@@ -233,6 +261,8 @@ Possible job progressions:
 - Beginner → Warrior
 
 Primary stat: **STR** | Secondary stat: DEX
+
+Power level: 🍏🍏
 
 Attacks:
 
@@ -263,6 +293,8 @@ Stat constraints:
 - STR = 35
 - DEX = 4
 - LUK = 4
+
+Power level: 🍏🍏
 
 Attacks:
 
@@ -297,6 +329,8 @@ Possible job progressions:
 - Beginner → Warrior → Spearman → Dragon Knight → Dark Knight
 
 Primary stats: **STR**, **DEX** | Secondary stats: LUK, INT
+
+Power level: 🍏🍏
 
 Attacks:
 
@@ -350,6 +384,8 @@ Stat constraints:
 
 - STR = 35
 - DEX = 4
+
+Power level: 🍏🍏
 
 Attacks:
 
@@ -425,6 +461,8 @@ Possible job progressions:
 
 Primary stats: **STR**, **DEX**
 
+Power level: 🍏🍏🍏
+
 Attacks:
 
 - [basic attack]
@@ -487,6 +525,8 @@ Primary stats: **DEX**, **STR**
 Stat constraints:
 
 - STR = 35
+
+Power level: 🍏🍏🍏
 
 Attacks:
 
@@ -573,6 +613,8 @@ Stat constraints:
 - INT = 20
 - LUK = 4
 
+Power level: 🍏🍏
+
 Attacks:
 
 - [basic attack]
@@ -619,6 +661,8 @@ Stat constraints:
 - INT = 20
 - LUK = 4
 
+Power level: 🍏
+
 Attacks:
 
 - [basic attack]
@@ -656,6 +700,8 @@ Possible job progressions:
 
 Primary stat: **INT** | Secondary stat: LUK
 
+Power level: 🍏🍏🍏
+
 Attacks:
 
 - [basic attack]
@@ -686,6 +732,8 @@ Stat constraints:
 
 - STR > INT
 - INT ≫ 4
+
+Power level: 🍏🍏🍏
 
 Attacks:
 
@@ -760,6 +808,8 @@ Stat constraints:
 - INT = 20
 - STR ≫ 4
 - LUK ≫ 4
+
+Power level: 🍏🍏
 
 Attacks:
 
@@ -836,6 +886,8 @@ Stat constraints:
 - INT = 20
 - STR = 4
 - DEX = 4
+
+Power level: 🍏🍏
 
 Attacks:
 
@@ -923,6 +975,8 @@ Possible job progressions:
 
 Primary stat: **DEX** | Secondary stat: STR
 
+Power level: 🍏🍏🍏
+
 Attacks:
 
 - [basic attack]
@@ -953,6 +1007,8 @@ Primary stats: **STR**, **DEX**
 Stat constraints:
 
 - DEX = 25
+
+Power level: 🍏🍏🍏
 
 Attacks:
 
@@ -1010,6 +1066,8 @@ Possible job progressions:
 
 Primary stat: **DEX** | Secondary stat: STR
 
+Power level: 🍏🍏
+
 Attacks:
 
 - [basic attack]
@@ -1052,6 +1110,8 @@ Possible job progressions:
 
 Primary stat: **STR** | Secondary stats: DEX, LUK
 
+Power level: 🍏
+
 Attacks:
 
 - [basic attack]
@@ -1091,6 +1151,8 @@ Possible job progressions:
 
 Primary stat: **LUK** | Secondary stats: DEX, STR
 
+Power level: 🍏🍏🍏
+
 Attacks:
 
 - [Lucky Seven](https://maplelegends.com/lib/skill?id=4001344)
@@ -1120,6 +1182,8 @@ Stat constraints:
 
 - DEX = 25
 - LUK = 4
+
+Power level: 🍏🍏
 
 Attacks:
 
@@ -1163,6 +1227,8 @@ Possible job progressions:
 
 Primary stat: **LUK** | Secondary stats: DEX, STR
 
+Power level: 🍏🍏🍏
+
 Attacks:
 
 - [Double Stab](https://maplelegends.com/lib/skill?id=4001334)
@@ -1201,6 +1267,8 @@ Stat constraints:
 - DEX = 25
 - LUK = 4
 - STR = 4
+
+Power level: 🍏🍏
 
 Attacks:
 
@@ -1253,6 +1321,8 @@ Stat constraints:
 - DEX = 25
 - LUK = 4
 
+Power level: 🍏🍏
+
 Attacks:
 
 - [basic attack]
@@ -1297,6 +1367,8 @@ Possible job progressions:
 
 Primary stats: **STR**, **DEX**
 
+Power level: 🍏🍏
+
 Attacks:
 
 - [Sommersault Kick](https://maplelegends.com/lib/skill?id=5001002)
@@ -1325,6 +1397,8 @@ Stat constraints:
 
 - STR = 4
 - DEX = 20
+
+Power level: 🍏🍏
 
 Attacks:
 
@@ -1376,6 +1450,8 @@ Primary stats: **DEX**, **STR**
 Stat constraints:
 
 - STR = 4
+
+Power level: 🍏🍏🍏
 
 Attacks:
 
@@ -1429,6 +1505,8 @@ Primary stats: **STR**, **DEX**
 Stat constraints:
 
 - DEX = 20
+
+Power level: 🍏🍏🍏
 
 Attacks:
 

@@ -8,6 +8,7 @@
       "primary_stats": ["STR", "DEX"],
       "secondary_stats": [],
       "stat_constraints": [],
+      "power_level": 1,
       "attacks": [0],
       "notable_skills": [],
       "notable_equips": [1302000, 1322005, 1312004],
@@ -24,6 +25,7 @@
       "primary_stats": ["STR", "DEX"],
       "secondary_stats": ["INT", "LUK"],
       "stat_constraints": [],
+      "power_level": 1,
       "attacks": [0, 1000],
       "notable_skills": [],
       "notable_equips": [
@@ -47,6 +49,7 @@
       "primary_stats": ["STR"],
       "secondary_stats": ["DEX", "INT", "LUK"],
       "stat_constraints": [],
+      "power_level": 1,
       "attacks": [0],
       "notable_skills": [],
       "notable_equips": [1372005, 1372006, 1372002, 1372017, 1372031, 1372033],
@@ -62,6 +65,7 @@
       "primary_stats": ["STR", "DEX"],
       "secondary_stats": [],
       "stat_constraints": [],
+      "power_level": 1,
       "attacks": [0, 1000],
       "notable_skills": [],
       "notable_equips": [
@@ -86,6 +90,7 @@
       "primary_stats": ["LUK"],
       "secondary_stats": [],
       "stat_constraints": [],
+      "power_level": 1,
       "attacks": [0],
       "notable_skills": [],
       "notable_equips": [1472063],
@@ -102,6 +107,7 @@
       "primary_stats": ["STR"],
       "secondary_stats": ["DEX"],
       "stat_constraints": [],
+      "power_level": 1,
       "attacks": [0],
       "notable_skills": [],
       "notable_equips": [1442018, 1422011, 1442023],
@@ -120,6 +126,7 @@
       "primary_stats": ["DEX", "STR"],
       "secondary_stats": [],
       "stat_constraints": ["STR = 4"],
+      "power_level": 1,
       "attacks": [0],
       "notable_skills": [],
       "notable_equips": [],
@@ -136,6 +143,7 @@
       "primary_stats": ["STR"],
       "secondary_stats": ["DEX"],
       "stat_constraints": [],
+      "power_level": 2,
       "attacks": [1001004, 1001005],
       "notable_skills": [1000001],
       "notable_equips": [],
@@ -154,6 +162,7 @@
       "primary_stats": ["HP"],
       "secondary_stats": ["STR", "DEX"],
       "stat_constraints": ["STR = 35", "DEX = 4", "LUK = 4"],
+      "power_level": 2,
       "attacks": [1101007, 1001004, 1001005],
       "notable_skills": [
         1101007,
@@ -183,6 +192,7 @@
       "primary_stats": ["STR", "DEX"],
       "secondary_stats": ["LUK", "INT"],
       "stat_constraints": [],
+      "power_level": 2,
       "attacks": [0, 1001004, 1001005, 1101007, 1311006],
       "notable_skills": [
         1101007,
@@ -216,6 +226,7 @@
       "primary_stats": ["LUK", "STR"],
       "secondary_stats": ["DEX"],
       "stat_constraints": ["STR = 35", "DEX = 4"],
+      "power_level": 2,
       "attacks": [
         0,
         1001004,
@@ -289,6 +300,7 @@
       "primary_stats": ["STR", "DEX"],
       "secondary_stats": [],
       "stat_constraints": [],
+      "power_level": 3,
       "attacks": [0, 1001004, 1001005, 1101007, 1311006],
       "notable_skills": [
         1101007,
@@ -340,6 +352,7 @@
       "primary_stats": ["DEX", "STR"],
       "secondary_stats": [],
       "stat_constraints": ["STR = 35"],
+      "power_level": 3,
       "attacks": [
         0,
         1001004,
@@ -416,6 +429,7 @@
       "primary_stats": ["STR"],
       "secondary_stats": ["DEX", "INT", "LUK"],
       "stat_constraints": ["INT = 20", "LUK = 4"],
+      "power_level": 2,
       "attacks": [0, 2111003],
       "notable_skills": [
         2001002,
@@ -443,6 +457,7 @@
       "primary_stats": ["DEX", "STR"],
       "secondary_stats": ["INT", "LUK"],
       "stat_constraints": ["STR = 4", "INT = 20", "LUK = 4"],
+      "power_level": 1,
       "attacks": [0, 2111003],
       "notable_skills": [
         2001002,
@@ -467,6 +482,7 @@
       "primary_stats": ["INT"],
       "secondary_stats": ["LUK"],
       "stat_constraints": [],
+      "power_level": 3,
       "attacks": [0, 2001004, 2001005],
       "notable_skills": [2001002],
       "notable_equips": [],
@@ -492,6 +508,7 @@
       "primary_stats": ["STR", "INT"],
       "secondary_stats": ["DEX", "LUK"],
       "stat_constraints": ["STR > INT", "INT \u226b 4"],
+      "power_level": 3,
       "attacks": [
         0,
         2001004,
@@ -562,6 +579,7 @@
       "primary_stats": ["STR", "LUK", "INT"],
       "secondary_stats": ["DEX"],
       "stat_constraints": ["INT = 20", "STR \u226b 4", "LUK \u226b 4"],
+      "power_level": 2,
       "attacks": [
         0,
         2001004,
@@ -634,6 +652,7 @@
       "primary_stats": ["LUK", "INT"],
       "secondary_stats": [],
       "stat_constraints": ["INT = 20", "STR = 4", "DEX = 4"],
+      "power_level": 2,
       "attacks": [
         2001004,
         2001005,
@@ -715,6 +734,7 @@
       "primary_stats": ["DEX"],
       "secondary_stats": ["STR"],
       "stat_constraints": [],
+      "power_level": 3,
       "attacks": [0, 3001004, 3001005],
       "notable_skills": [3000000, 3001003, 3000001],
       "notable_equips": [],
@@ -740,6 +760,7 @@
       "primary_stats": ["STR", "DEX"],
       "secondary_stats": [],
       "stat_constraints": ["DEX = 25"],
+      "power_level": 3,
       "attacks": [
         0,
         3001005,
@@ -799,6 +820,7 @@
       "primary_stats": ["DEX"],
       "secondary_stats": ["STR"],
       "stat_constraints": [],
+      "power_level": 2,
       "attacks": [0, 3101003],
       "notable_skills": [3000000, 3001003, 3111002, 3111005, 3211005, 3110000],
       "notable_equips": [
@@ -828,6 +850,7 @@
       "primary_stats": ["STR"],
       "secondary_stats": ["DEX", "LUK"],
       "stat_constraints": [],
+      "power_level": 1,
       "attacks": [0, 4201004, 4211006],
       "notable_skills": [
         4000000,
@@ -854,6 +877,7 @@
       "primary_stats": ["LUK"],
       "secondary_stats": ["DEX", "STR"],
       "stat_constraints": [],
+      "power_level": 3,
       "attacks": [4001344, 4001334],
       "notable_skills": [4000000, 4001002, 4001003],
       "notable_equips": [],
@@ -869,6 +893,7 @@
       "primary_stats": ["STR"],
       "secondary_stats": ["DEX", "LUK"],
       "stat_constraints": ["DEX = 25", "LUK = 4"],
+      "power_level": 2,
       "attacks": [0],
       "notable_skills": [
         4000000,
@@ -903,6 +928,7 @@
       "primary_stats": ["LUK"],
       "secondary_stats": ["DEX", "STR"],
       "stat_constraints": [],
+      "power_level": 3,
       "attacks": [4001334],
       "notable_skills": [
         4000000,
@@ -926,6 +952,7 @@
       "primary_stats": ["HP"],
       "secondary_stats": ["LUK", "DEX", "STR"],
       "stat_constraints": ["DEX = 25", "LUK = 4", "STR = 4"],
+      "power_level": 2,
       "attacks": [4211006, 4001334, 4201005, 4201004, 4211004, 4211002],
       "notable_skills": [
         4211005,
@@ -962,6 +989,7 @@
       "primary_stats": ["STR"],
       "secondary_stats": ["DEX", "LUK"],
       "stat_constraints": ["DEX = 25", "LUK = 4"],
+      "power_level": 2,
       "attacks": [0, 4201004, 4211006],
       "notable_skills": [
         4000000,
@@ -996,6 +1024,7 @@
       "primary_stats": ["STR", "DEX"],
       "secondary_stats": [],
       "stat_constraints": [],
+      "power_level": 2,
       "attacks": [5001002, 5001003, 5001001],
       "notable_skills": [5000000],
       "notable_equips": [],
@@ -1017,6 +1046,7 @@
       "primary_stats": ["LUK", "STR"],
       "secondary_stats": ["DEX"],
       "stat_constraints": ["STR = 4", "DEX = 20"],
+      "power_level": 2,
       "attacks": [
         0,
         5001002,
@@ -1053,6 +1083,7 @@
       "primary_stats": ["DEX", "STR"],
       "secondary_stats": [],
       "stat_constraints": ["STR = 4"],
+      "power_level": 3,
       "attacks": [
         0,
         5001002,
@@ -1095,6 +1126,7 @@
       "primary_stats": ["STR", "DEX"],
       "secondary_stats": [],
       "stat_constraints": ["DEX = 20"],
+      "power_level": 3,
       "attacks": [5001002, 5001003, 5201001, 5211005, 5211004, 5201002],
       "notable_skills": [
         5000000,

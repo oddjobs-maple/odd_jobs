@@ -20,6 +20,7 @@ struct Oddjob {
     primary_stats: Vec<String>,
     secondary_stats: Vec<String>,
     stat_constraints: Vec<String>,
+    power_level: u32,
     attacks: Vec<u32>,
     notable_skills: Vec<u32>,
     notable_equips: Vec<u32>,
@@ -40,6 +41,20 @@ daggers that lack job requirements) are used by almost all melee-oriented odd
 jobs (e.g. permabeginner) in common. As a result, unless these weapons are
 useful for other reasons that are somewhat special to the job in question, they
 are not listed under \u{201c}Notable equipment\u{201d}.
+
+Here, each odd job has a \u{201c}Power level\u{201d} associated with it. This
+is just a impressionistic rule of thumb that helps to estimate, at a glance,
+how the various odd jobs stack up when compared to one another. Obviously, how
+powerful a given odd-jobbed character is will depend on many factors, like what
+particular job advancements are taken, what equipment the character has access
+to, what level they are, what server they are playing on, &amp;c. There are
+three possible power levels, which are as follows:
+
+| Power level                 | Interpretation                                                                                                                                                                                                                                             |
+| --------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| &#x1f34f;                   | This odd job is deeply challenged, and will require a considerable amount of dedication to play beyond a certain level.                                                                                                                                    |
+| &#x1f34f;&#x1f34f;          | This odd job has enough tricks up its sleeve that it is generally significantly more powerful than a permabeginner of the same level; however, it is still pessimal in comparison to any mainstream (non-odd) job.                                         |
+| &#x1f34f;&#x1f34f;&#x1f34f; | This odd job is one of the most powerful odd jobs. It is, at its most well-equipped, capable of performing roughly as well as a bad/poor example of a mainstream (non-odd) job. At certain levels, it may even be briefly as powerful as a mainstream job. |
 
 ";
 
@@ -199,6 +214,13 @@ fn main() {
 
             writeln!(stdout_handle).unwrap();
         }
+
+        write!(stdout_handle, "Power level: ").unwrap();
+
+        for _ in 0..oddjob.power_level {
+            write!(stdout_handle, "\u{1f34f}").unwrap();
+        }
+        writeln!(stdout_handle, "\n").unwrap();
 
         writeln!(stdout_handle, "Attacks:\n").unwrap();
 
