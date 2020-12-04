@@ -182,6 +182,8 @@ Notable equipment:
 
 ## Besinner
 
+Also known as: “LUK Beginner”
+
 Possible job progressions:
 
 - Beginner

@@ -84,7 +84,7 @@
     },
     {
       "name": "Besinner",
-      "aliases": [],
+      "aliases": ["LUK Beginner"],
       "progressions": [[0]],
       "location": null,
       "primary_stats": ["LUK"],
