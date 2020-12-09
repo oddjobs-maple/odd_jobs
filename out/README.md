@@ -58,6 +58,7 @@ three possible power levels, which are as follows:
 - [Permapirate](#permapirate)
 - [LUK Bucc](#luk-bucc)
 - [DEX Brawler](#dex-brawler)
+- [Pugilist](#pugilist)
 - [Swashbuckler](#swashbuckler)
 
 ## Camper
@@ -1493,6 +1494,55 @@ Notable equipment:
 DEX brawlers are essentially the pirate version of DEX warriors, although they have a hard time getting equipped, due to the paucity of knucklers that lack stat requirements.
 
 DEX brawlers actually have the highest AVOID in the game, due to the fact that brawlers/marauders/buccaneers gain a whopping 1.5 AVOID per point of DEX.
+
+## Pugilist
+
+Also known as: “Prizefighter”, “Bare-knuckle boxer”, “Bare-knuckle fighter”, “Weaponless Brawler”
+
+Possible job progressions:
+
+- Beginner → Pirate → Brawler → Marauder → Buccaneer
+
+Primary stat: **STR** | Secondary stat: DEX
+
+Power level: 🍏🍏🍏
+
+Attacks:
+
+- [basic attack]
+- [Sommersault Kick](https://maplelegends.com/lib/skill?id=5001002)
+- [Flash Fist](https://maplelegends.com/lib/skill?id=5001001)
+- [Corkscrew Blow](https://maplelegends.com/lib/skill?id=5101004)
+- [Backspin Blow](https://maplelegends.com/lib/skill?id=5101002)
+- [Double Uppercut](https://maplelegends.com/lib/skill?id=5101003)
+- [Shockwave](https://maplelegends.com/lib/skill?id=5111006)
+- [Energy Drain](https://maplelegends.com/lib/skill?id=5111004)
+- [Energy Blast](https://maplelegends.com/lib/skill?id=5111002)
+
+Notable skills:
+
+- [Bullet Time](https://maplelegends.com/lib/skill?id=5000000)
+- [Improve MaxHP](https://maplelegends.com/lib/skill?id=5100000)
+- [Oak Barrel](https://maplelegends.com/lib/skill?id=5101007)
+- [Corkscrew Blow](https://maplelegends.com/lib/skill?id=5101004)
+- [Backspin Blow](https://maplelegends.com/lib/skill?id=5101002)
+- [Double Uppercut](https://maplelegends.com/lib/skill?id=5101003)
+- [Transformation](https://maplelegends.com/lib/skill?id=5111005)
+- [Stun Mastery](https://maplelegends.com/lib/skill?id=5110000)
+- [Energy Charge](https://maplelegends.com/lib/skill?id=5110001)
+- [Energy Drain](https://maplelegends.com/lib/skill?id=5111004)
+
+Notable equipment:
+
+- [Purple Snowshoes](https://maplelegends.com/lib/equip?id=01072338)
+
+### Notes
+
+Pugilists are bare-handed at all times. They never use weapons nor shields.
+
+All first, second, third, and fourth job brawler skills can be used without a weapon, with two notable exceptions: Knuckle Mastery and Knuckle Booster.
+
+The damage formula for bare-handed attacks can be found within Ayumilove’s MapleStory Formula Compilation. The base speed (that is, sans Speed Infusion) of bare-handed attacks is 4.
 
 ## Swashbuckler
 

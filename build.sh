@@ -3,7 +3,6 @@
 set -ex
 
 cargo update --aggressive
-cargo rustc --release -- -C target-cpu=native
-strip ./target/release/oddjobs
+cargo build
 
-./target/release/oddjobs ./oddjobs.json > ./out/README.md
+./target/debug/oddjobs ./oddjobs.json > ./out/README.md
