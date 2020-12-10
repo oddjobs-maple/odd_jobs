@@ -717,6 +717,10 @@
         1372040,
         1372041,
         1372042,
+        1382049,
+        1382050,
+        1382051,
+        1382052,
         1072169,
         1082246,
         1082230,
@@ -1153,6 +1157,7 @@
       "notable_equips": [1072338],
       "notes": [
         "Pugilists are bare-handed at all times. They never use weapons nor shields.",
+        "Besides the restriction on weapons/shields, pugilists are typically unconstrained, although they can of course be mixed with other odd jobs, like DEX Brawler.",
         "All first, second, third, and fourth job brawler skills can be used without a weapon, with two notable exceptions: Knuckle Mastery and Knuckle Booster.",
         "The damage formula for bare-handed attacks can be found within Ayumilove\u2019s MapleStory Formula Compilation. The base speed (that is, sans Speed Infusion) of bare-handed attacks is 4."
       ]

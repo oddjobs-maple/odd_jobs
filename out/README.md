@@ -959,6 +959,10 @@ Notable equipment:
 - [Elemental Wand 6](https://maplelegends.com/lib/equip?id=01372040)
 - [Elemental Wand 7](https://maplelegends.com/lib/equip?id=01372041)
 - [Elemental Wand 8](https://maplelegends.com/lib/equip?id=01372042)
+- [Elemental Staff 5](https://maplelegends.com/lib/equip?id=01382049)
+- [Elemental Staff 6](https://maplelegends.com/lib/equip?id=01382050)
+- [Elemental Staff 7](https://maplelegends.com/lib/equip?id=01382051)
+- [Elemental Staff 8](https://maplelegends.com/lib/equip?id=01382052)
 - [Blue Snowshoes](https://maplelegends.com/lib/equip?id=01072169)
 - [Flamekeeper Cordon](https://maplelegends.com/lib/equip?id=01082246)
 - [Glitter Gloves](https://maplelegends.com/lib/equip?id=01082230)
@@ -1539,6 +1543,8 @@ Notable equipment:
 ### Notes
 
 Pugilists are bare-handed at all times. They never use weapons nor shields.
+
+Besides the restriction on weapons/shields, pugilists are typically unconstrained, although they can of course be mixed with other odd jobs, like DEX Brawler.
 
 All first, second, third, and fourth job brawler skills can be used without a weapon, with two notable exceptions: Knuckle Mastery and Knuckle Booster.
 
