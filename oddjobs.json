@@ -193,7 +193,7 @@
       "secondary_stats": ["LUK", "INT"],
       "stat_constraints": [],
       "power_level": 2,
-      "attacks": [0, 1001004, 1001005, 1101007, 1311006],
+      "attacks": [1001004, 1001005, 1101007, 1311006],
       "notable_skills": [
         1101007,
         1000001,
@@ -228,7 +228,6 @@
       "stat_constraints": ["STR = 35", "DEX = 4"],
       "power_level": 2,
       "attacks": [
-        0,
         1001004,
         1001005,
         1101007,
@@ -301,7 +300,7 @@
       "secondary_stats": [],
       "stat_constraints": [],
       "power_level": 3,
-      "attacks": [0, 1001004, 1001005, 1101007, 1311006],
+      "attacks": [1001004, 1001005, 1101007, 1311006],
       "notable_skills": [
         1101007,
         1000001,
@@ -354,7 +353,6 @@
       "stat_constraints": ["STR = 35"],
       "power_level": 3,
       "attacks": [
-        0,
         1001004,
         1001005,
         1101007,
@@ -438,11 +436,13 @@
         2301002,
         2301004,
         2311003,
-        2311001
+        2311001,
+        2311005,
+        2111004
       ],
       "notable_equips": [1322000, 1322002, 1322004, 1072169, 1082246, 1092045],
       "notes": [
-        "STR mages largely play like \u201cpermabeginners, but with buffs\u201d, although they can also have other utility skills, like Heal. For a more magically-oriented magician that still engages in melee, see the gish (and the LUK gish)."
+        "STR mages largely play like \u201cpermabeginners, but with buffs\u201d, although they can also have other utility skills, like e.g. Heal. For a more magically-oriented magician that still engages in melee, see the gish (and the LUK gish)."
       ]
     },
     {
@@ -466,7 +466,9 @@
         2301002,
         2301004,
         2311003,
-        2311001
+        2311001,
+        2311005,
+        2111004
       ],
       "notable_equips": [1072169, 1082246, 1092045],
       "notes": [
@@ -533,8 +535,12 @@
         2101002,
         2301002,
         2301004,
+        2110001,
+        2111005,
         2311003,
-        2311001
+        2311001,
+        2311005,
+        2111004
       ],
       "notable_equips": [
         1302017,
@@ -604,8 +610,12 @@
         2101002,
         2301002,
         2301004,
+        2110001,
+        2111005,
         2311003,
-        2311001
+        2311001,
+        2311005,
+        2111004
       ],
       "notable_equips": [
         1302017,
@@ -676,8 +686,12 @@
         2101002,
         2301002,
         2301004,
+        2110001,
+        2111005,
         2311003,
-        2311001
+        2311001,
+        2311005,
+        2111004
       ],
       "notable_equips": [
         1302017,
@@ -855,7 +869,7 @@
       "secondary_stats": ["DEX", "LUK"],
       "stat_constraints": [],
       "power_level": 1,
-      "attacks": [0, 4201004, 4211006],
+      "attacks": [4001002, 4201004, 4211006],
       "notable_skills": [
         4000000,
         4001002,
@@ -882,7 +896,7 @@
       "secondary_stats": ["DEX", "STR"],
       "stat_constraints": [],
       "power_level": 3,
-      "attacks": [4001344, 4001334],
+      "attacks": [0, 4001344, 4001334],
       "notable_skills": [4000000, 4001002, 4001003],
       "notable_equips": [],
       "notes": [
@@ -898,7 +912,7 @@
       "secondary_stats": ["DEX", "LUK"],
       "stat_constraints": ["DEX = 25", "LUK = 4"],
       "power_level": 2,
-      "attacks": [0],
+      "attacks": [4001002],
       "notable_skills": [
         4000000,
         4001002,
@@ -957,7 +971,7 @@
       "secondary_stats": ["LUK", "DEX", "STR"],
       "stat_constraints": ["DEX = 25", "LUK = 4", "STR = 4"],
       "power_level": 2,
-      "attacks": [4211006, 4001334, 4201005, 4201004, 4211004, 4211002],
+      "attacks": [4211006, 4001334, 4201005, 4211004, 4211002],
       "notable_skills": [
         4211005,
         4000000,
@@ -994,7 +1008,7 @@
       "secondary_stats": ["DEX", "LUK"],
       "stat_constraints": ["DEX = 25", "LUK = 4"],
       "power_level": 2,
-      "attacks": [0, 4201004, 4211006],
+      "attacks": [4001002, 4201004, 4211006],
       "notable_skills": [
         4000000,
         4001002,
@@ -1052,7 +1066,6 @@
       "stat_constraints": ["STR = 4", "DEX = 20"],
       "power_level": 2,
       "attacks": [
-        0,
         5001002,
         5001001,
         5101004,
@@ -1089,7 +1102,6 @@
       "stat_constraints": ["STR = 4"],
       "power_level": 3,
       "attacks": [
-        0,
         5001002,
         5001001,
         5101004,
@@ -1132,7 +1144,6 @@
       "stat_constraints": [],
       "power_level": 3,
       "attacks": [
-        0,
         5001002,
         5001001,
         5101004,
@@ -1176,7 +1187,15 @@
       "secondary_stats": [],
       "stat_constraints": ["DEX = 20"],
       "power_level": 3,
-      "attacks": [5001002, 5001003, 5201001, 5211005, 5211004, 5201002],
+      "attacks": [
+        5001002,
+        5001003,
+        5210000,
+        5201001,
+        5211005,
+        5211004,
+        5201002
+      ],
       "notable_skills": [
         5000000,
         5201004,

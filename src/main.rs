@@ -98,7 +98,7 @@ fn main() {
         writeln!(
             stdout_handle,
             "- [{}](#{})",
-            oddjob.name,
+            esc_md(&oddjob.name),
             slugify(&oddjob.name),
         )
         .unwrap();
@@ -107,17 +107,22 @@ fn main() {
     writeln!(stdout_handle).unwrap();
 
     for oddjob in oddjobs {
-        writeln!(stdout_handle, "## {}\n", oddjob.name).unwrap();
+        writeln!(stdout_handle, "## {}\n", esc_md(&oddjob.name)).unwrap();
 
         if let Some((last_alias, aliases)) = oddjob.aliases.split_last() {
             stdout_handle.write_all(b"Also known as: ").unwrap();
 
             for alias in aliases {
-                write!(stdout_handle, "\u{201c}{}\u{201d}, ", alias).unwrap();
+                write!(stdout_handle, "\u{201c}{}\u{201d}, ", esc_md(alias))
+                    .unwrap();
             }
 
-            writeln!(stdout_handle, "\u{201c}{}\u{201d}\n", last_alias)
-                .unwrap();
+            writeln!(
+                stdout_handle,
+                "\u{201c}{}\u{201d}\n",
+                esc_md(last_alias)
+            )
+            .unwrap();
         }
 
         stdout_handle
@@ -132,11 +137,11 @@ fn main() {
                     write!(
                         stdout_handle,
                         "{} \u{2192} ",
-                        job_name(*job).unwrap_or_else(|| {
+                        esc_md(job_name(*job).unwrap_or_else(|| {
                             eprintln!("Invalid job ID: {}", job);
 
                             process::exit(4)
-                        }),
+                        })),
                     )
                     .unwrap();
                 }
@@ -144,11 +149,11 @@ fn main() {
                 writeln!(
                     stdout_handle,
                     "{}",
-                    job_name(*last_job).unwrap_or_else(|| {
+                    esc_md(job_name(*last_job).unwrap_or_else(|| {
                         eprintln!("Invalid job ID: {}", last_job);
 
                         process::exit(4)
-                    }),
+                    })),
                 )
                 .unwrap();
             } else {
@@ -161,7 +166,8 @@ fn main() {
         writeln!(stdout_handle).unwrap();
 
         if let Some(location) = oddjob.location {
-            writeln!(stdout_handle, "Location: {}\n", location).unwrap();
+            writeln!(stdout_handle, "Location: {}\n", esc_md(&location))
+                .unwrap();
         }
 
         if let Some((last_primary_stat, primary_stats)) =
@@ -175,10 +181,12 @@ fn main() {
             .unwrap();
 
             for primary_stat in primary_stats {
-                write!(stdout_handle, "**{}**, ", primary_stat).unwrap();
+                write!(stdout_handle, "**{}**, ", esc_md(primary_stat))
+                    .unwrap();
             }
 
-            write!(stdout_handle, "**{}**", last_primary_stat).unwrap();
+            write!(stdout_handle, "**{}**", esc_md(last_primary_stat))
+                .unwrap();
         }
 
         if let Some((last_secondary_stat, secondary_stats)) =
@@ -192,10 +200,10 @@ fn main() {
             .unwrap();
 
             for secondary_stat in secondary_stats {
-                write!(stdout_handle, "{}, ", secondary_stat).unwrap();
+                write!(stdout_handle, "{}, ", esc_md(secondary_stat)).unwrap();
             }
 
-            write!(stdout_handle, "{}", last_secondary_stat).unwrap();
+            write!(stdout_handle, "{}", esc_md(last_secondary_stat)).unwrap();
         }
 
         writeln!(stdout_handle, "\n").unwrap();
@@ -207,7 +215,7 @@ fn main() {
                 writeln!(
                     stdout_handle,
                     "- {}",
-                    stat_constraint.replace(" ", "\u{00a0}"),
+                    esc_md(&stat_constraint.replace(" ", "\u{00a0}")),
                 )
                 .unwrap();
             }
@@ -235,11 +243,12 @@ fn main() {
                 writeln!(
                     stdout_handle,
                     "- [{}](https://maplelegends.com/lib/skill?id={:07})",
-                    attack_name, attack,
+                    esc_md(attack_name),
+                    attack,
                 )
                 .unwrap();
             } else {
-                writeln!(stdout_handle, "- {}", attack_name).unwrap();
+                writeln!(stdout_handle, "- {}", esc_md(attack_name)).unwrap();
             }
         }
 
@@ -252,11 +261,11 @@ fn main() {
                 writeln!(
                     stdout_handle,
                     "- [{}](https://maplelegends.com/lib/skill?id={:07})",
-                    skill_name(skill).unwrap_or_else(|| {
+                    esc_md(skill_name(skill).unwrap_or_else(|| {
                         eprintln!("Invalid skill ID: {}", skill);
 
                         process::exit(5)
-                    }),
+                    })),
                     skill,
                 )
                 .unwrap();
@@ -272,11 +281,11 @@ fn main() {
                 writeln!(
                     stdout_handle,
                     "- [{}](https://maplelegends.com/lib/equip?id={:08})",
-                    item_name(equip).unwrap_or_else(|| {
+                    esc_md(item_name(equip).unwrap_or_else(|| {
                         eprintln!("Unknown item ID: {}", equip);
 
                         process::exit(6)
-                    }),
+                    })),
                     equip,
                 )
                 .unwrap();
@@ -289,7 +298,7 @@ fn main() {
             writeln!(stdout_handle, "### Notes\n").unwrap();
 
             for note in oddjob.notes {
-                writeln!(stdout_handle, "{}\n", note).unwrap();
+                writeln!(stdout_handle, "{}\n", esc_md(&note)).unwrap();
             }
         }
     }
@@ -843,4 +852,26 @@ fn item_name(id: u32) -> Option<&'static str> {
         1702030 => "Diao Chan Sword",
         _ => return None,
     })
+}
+
+fn esc_md(s: &str) -> String {
+    let mut ret = String::with_capacity(s.len());
+
+    for c in s.chars() {
+        match c {
+            '[' | ']' => {
+                ret.push('\\');
+                ret.push(c);
+            }
+            '*' => ret.push_str(r"\*"),
+            '_' => ret.push_str(r"\_"),
+            '\\' => ret.push_str(r"\\"),
+            '&' => ret.push_str("&amp;"),
+            '<' => ret.push_str("&lt;"),
+            '>' => ret.push_str("&gt;"),
+            _ => ret.push(c),
+        }
+    }
+
+    ret
 }

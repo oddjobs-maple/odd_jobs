@@ -75,7 +75,7 @@ Power level: 🍏
 
 Attacks:
 
-- [basic attack]
+- \[basic attack\]
 
 Notable equipment:
 
@@ -105,7 +105,7 @@ Power level: 🍏
 
 Attacks:
 
-- [basic attack]
+- \[basic attack\]
 - [Three Snails](https://maplelegends.com/lib/skill?id=0001000)
 
 Notable equipment:
@@ -113,8 +113,8 @@ Notable equipment:
 - [Metal Wand](https://maplelegends.com/lib/equip?id=01372002)
 - [White Bandana](https://maplelegends.com/lib/equip?id=01002019)
 - [Ice Jeans](https://maplelegends.com/lib/equip?id=01062000)
-- [Blue One-lined T-Shirt [M]](https://maplelegends.com/lib/equip?id=01040013)
-- [Red-Striped T-Shirt [F]](https://maplelegends.com/lib/equip?id=01041012)
+- [Blue One-lined T-Shirt \[M\]](https://maplelegends.com/lib/equip?id=01040013)
+- [Red-Striped T-Shirt \[F\]](https://maplelegends.com/lib/equip?id=01041012)
 - [White Gomushin](https://maplelegends.com/lib/equip?id=01072004)
 - [Amethyst Earrings](https://maplelegends.com/lib/equip?id=01032003)
 
@@ -136,7 +136,7 @@ Power level: 🍏
 
 Attacks:
 
-- [basic attack]
+- \[basic attack\]
 
 Notable equipment:
 
@@ -165,7 +165,7 @@ Power level: 🍏
 
 Attacks:
 
-- [basic attack]
+- \[basic attack\]
 - [Three Snails](https://maplelegends.com/lib/skill?id=0001000)
 
 Notable equipment:
@@ -176,8 +176,8 @@ Notable equipment:
 - [Gold Surfboard](https://maplelegends.com/lib/equip?id=01442029)
 - [White Bandana](https://maplelegends.com/lib/equip?id=01002019)
 - [Ice Jeans](https://maplelegends.com/lib/equip?id=01062000)
-- [Blue One-lined T-Shirt [M]](https://maplelegends.com/lib/equip?id=01040013)
-- [Red-Striped T-Shirt [F]](https://maplelegends.com/lib/equip?id=01041012)
+- [Blue One-lined T-Shirt \[M\]](https://maplelegends.com/lib/equip?id=01040013)
+- [Red-Striped T-Shirt \[F\]](https://maplelegends.com/lib/equip?id=01041012)
 - [White Gomushin](https://maplelegends.com/lib/equip?id=01072004)
 - [Amethyst Earrings](https://maplelegends.com/lib/equip?id=01032003)
 
@@ -195,7 +195,7 @@ Power level: 🍏
 
 Attacks:
 
-- [basic attack]
+- \[basic attack\]
 
 Notable equipment:
 
@@ -221,11 +221,11 @@ Power level: 🍏
 
 Attacks:
 
-- [basic attack]
+- \[basic attack\]
 
 Notable equipment:
 
-- [Frozen Tuna [level 20]](https://maplelegends.com/lib/equip?id=01442018)
+- [Frozen Tuna \[level 20\]](https://maplelegends.com/lib/equip?id=01442018)
 - [Sake Bottle](https://maplelegends.com/lib/equip?id=01422011)
 - [Maroon Mop](https://maplelegends.com/lib/equip?id=01442023)
 
@@ -247,7 +247,7 @@ Power level: 🍏
 
 Attacks:
 
-- [basic attack]
+- \[basic attack\]
 
 ### Notes
 
@@ -337,7 +337,6 @@ Power level: 🍏🍏
 
 Attacks:
 
-- [basic attack]
 - [Power Strike](https://maplelegends.com/lib/skill?id=1001004)
 - [Slash Blast](https://maplelegends.com/lib/skill?id=1001005)
 - [Power Guard](https://maplelegends.com/lib/skill?id=1101007)
@@ -392,7 +391,6 @@ Power level: 🍏🍏
 
 Attacks:
 
-- [basic attack]
 - [Power Strike](https://maplelegends.com/lib/skill?id=1001004)
 - [Slash Blast](https://maplelegends.com/lib/skill?id=1001005)
 - [Power Guard](https://maplelegends.com/lib/skill?id=1101007)
@@ -468,7 +466,6 @@ Power level: 🍏🍏🍏
 
 Attacks:
 
-- [basic attack]
 - [Power Strike](https://maplelegends.com/lib/skill?id=1001004)
 - [Slash Blast](https://maplelegends.com/lib/skill?id=1001005)
 - [Power Guard](https://maplelegends.com/lib/skill?id=1101007)
@@ -533,7 +530,6 @@ Power level: 🍏🍏🍏
 
 Attacks:
 
-- [basic attack]
 - [Power Strike](https://maplelegends.com/lib/skill?id=1001004)
 - [Slash Blast](https://maplelegends.com/lib/skill?id=1001005)
 - [Power Guard](https://maplelegends.com/lib/skill?id=1101007)
@@ -620,7 +616,7 @@ Power level: 🍏🍏
 
 Attacks:
 
-- [basic attack]
+- \[basic attack\]
 - [Poison Mist](https://maplelegends.com/lib/skill?id=2111003)
 
 Notable skills:
@@ -632,6 +628,8 @@ Notable skills:
 - [Bless](https://maplelegends.com/lib/skill?id=2301004)
 - [Holy Symbol](https://maplelegends.com/lib/skill?id=2311003)
 - [Dispel](https://maplelegends.com/lib/skill?id=2311001)
+- [Doom](https://maplelegends.com/lib/skill?id=2311005)
+- [Seal](https://maplelegends.com/lib/skill?id=2111004)
 
 Notable equipment:
 
@@ -644,7 +642,7 @@ Notable equipment:
 
 ### Notes
 
-STR mages largely play like “permabeginners, but with buffs”, although they can also have other utility skills, like Heal. For a more magically-oriented magician that still engages in melee, see the gish (and the LUK gish).
+STR mages largely play like “permabeginners, but with buffs”, although they can also have other utility skills, like e.g. Heal. For a more magically-oriented magician that still engages in melee, see the gish (and the LUK gish).
 
 ## DEX Mage
 
@@ -668,7 +666,7 @@ Power level: 🍏
 
 Attacks:
 
-- [basic attack]
+- \[basic attack\]
 - [Poison Mist](https://maplelegends.com/lib/skill?id=2111003)
 
 Notable skills:
@@ -680,6 +678,8 @@ Notable skills:
 - [Bless](https://maplelegends.com/lib/skill?id=2301004)
 - [Holy Symbol](https://maplelegends.com/lib/skill?id=2311003)
 - [Dispel](https://maplelegends.com/lib/skill?id=2311001)
+- [Doom](https://maplelegends.com/lib/skill?id=2311005)
+- [Seal](https://maplelegends.com/lib/skill?id=2111004)
 
 Notable equipment:
 
@@ -707,7 +707,7 @@ Power level: 🍏🍏🍏
 
 Attacks:
 
-- [basic attack]
+- \[basic attack\]
 - [Energy Bolt](https://maplelegends.com/lib/skill?id=2001004)
 - [Magic Claw](https://maplelegends.com/lib/skill?id=2001005)
 
@@ -733,14 +733,14 @@ Primary stats: **STR**, **INT** | Secondary stats: DEX, LUK
 
 Stat constraints:
 
-- STR > INT
+- STR &gt; INT
 - INT ≫ 4
 
 Power level: 🍏🍏🍏
 
 Attacks:
 
-- [basic attack]
+- \[basic attack\]
 - [Energy Bolt](https://maplelegends.com/lib/skill?id=2001004)
 - [Magic Claw](https://maplelegends.com/lib/skill?id=2001005)
 - [Fire Arrow](https://maplelegends.com/lib/skill?id=2101004)
@@ -751,10 +751,10 @@ Attacks:
 - [Holy Arrow](https://maplelegends.com/lib/skill?id=2301005)
 - [Explosion](https://maplelegends.com/lib/skill?id=2111002)
 - [Poison Mist](https://maplelegends.com/lib/skill?id=2111003)
-- [Element Composition [F/P]](https://maplelegends.com/lib/skill?id=2111006)
+- [Element Composition \[F/P\]](https://maplelegends.com/lib/skill?id=2111006)
 - [Ice Strike](https://maplelegends.com/lib/skill?id=2211002)
 - [Thunder Spear](https://maplelegends.com/lib/skill?id=2211003)
-- [Element Composition [I/L]](https://maplelegends.com/lib/skill?id=2211006)
+- [Element Composition \[I/L\]](https://maplelegends.com/lib/skill?id=2211006)
 - [Shining Ray](https://maplelegends.com/lib/skill?id=2311004)
 
 Notable skills:
@@ -764,8 +764,12 @@ Notable skills:
 - [Teleport](https://maplelegends.com/lib/skill?id=2101002)
 - [Heal](https://maplelegends.com/lib/skill?id=2301002)
 - [Bless](https://maplelegends.com/lib/skill?id=2301004)
+- [Element Amplification](https://maplelegends.com/lib/skill?id=2110001)
+- [Spell Booster](https://maplelegends.com/lib/skill?id=2111005)
 - [Holy Symbol](https://maplelegends.com/lib/skill?id=2311003)
 - [Dispel](https://maplelegends.com/lib/skill?id=2311001)
+- [Doom](https://maplelegends.com/lib/skill?id=2311005)
+- [Seal](https://maplelegends.com/lib/skill?id=2111004)
 
 Notable equipment:
 
@@ -816,7 +820,7 @@ Power level: 🍏🍏
 
 Attacks:
 
-- [basic attack]
+- \[basic attack\]
 - [Energy Bolt](https://maplelegends.com/lib/skill?id=2001004)
 - [Magic Claw](https://maplelegends.com/lib/skill?id=2001005)
 - [Fire Arrow](https://maplelegends.com/lib/skill?id=2101004)
@@ -827,10 +831,10 @@ Attacks:
 - [Holy Arrow](https://maplelegends.com/lib/skill?id=2301005)
 - [Explosion](https://maplelegends.com/lib/skill?id=2111002)
 - [Poison Mist](https://maplelegends.com/lib/skill?id=2111003)
-- [Element Composition [F/P]](https://maplelegends.com/lib/skill?id=2111006)
+- [Element Composition \[F/P\]](https://maplelegends.com/lib/skill?id=2111006)
 - [Ice Strike](https://maplelegends.com/lib/skill?id=2211002)
 - [Thunder Spear](https://maplelegends.com/lib/skill?id=2211003)
-- [Element Composition [I/L]](https://maplelegends.com/lib/skill?id=2211006)
+- [Element Composition \[I/L\]](https://maplelegends.com/lib/skill?id=2211006)
 - [Shining Ray](https://maplelegends.com/lib/skill?id=2311004)
 
 Notable skills:
@@ -840,8 +844,12 @@ Notable skills:
 - [Teleport](https://maplelegends.com/lib/skill?id=2101002)
 - [Heal](https://maplelegends.com/lib/skill?id=2301002)
 - [Bless](https://maplelegends.com/lib/skill?id=2301004)
+- [Element Amplification](https://maplelegends.com/lib/skill?id=2110001)
+- [Spell Booster](https://maplelegends.com/lib/skill?id=2111005)
 - [Holy Symbol](https://maplelegends.com/lib/skill?id=2311003)
 - [Dispel](https://maplelegends.com/lib/skill?id=2311001)
+- [Doom](https://maplelegends.com/lib/skill?id=2311005)
+- [Seal](https://maplelegends.com/lib/skill?id=2111004)
 
 Notable equipment:
 
@@ -904,10 +912,10 @@ Attacks:
 - [Holy Arrow](https://maplelegends.com/lib/skill?id=2301005)
 - [Explosion](https://maplelegends.com/lib/skill?id=2111002)
 - [Poison Mist](https://maplelegends.com/lib/skill?id=2111003)
-- [Element Composition [F/P]](https://maplelegends.com/lib/skill?id=2111006)
+- [Element Composition \[F/P\]](https://maplelegends.com/lib/skill?id=2111006)
 - [Ice Strike](https://maplelegends.com/lib/skill?id=2211002)
 - [Thunder Spear](https://maplelegends.com/lib/skill?id=2211003)
-- [Element Composition [I/L]](https://maplelegends.com/lib/skill?id=2211006)
+- [Element Composition \[I/L\]](https://maplelegends.com/lib/skill?id=2211006)
 - [Shining Ray](https://maplelegends.com/lib/skill?id=2311004)
 
 Notable skills:
@@ -917,8 +925,12 @@ Notable skills:
 - [Teleport](https://maplelegends.com/lib/skill?id=2101002)
 - [Heal](https://maplelegends.com/lib/skill?id=2301002)
 - [Bless](https://maplelegends.com/lib/skill?id=2301004)
+- [Element Amplification](https://maplelegends.com/lib/skill?id=2110001)
+- [Spell Booster](https://maplelegends.com/lib/skill?id=2111005)
 - [Holy Symbol](https://maplelegends.com/lib/skill?id=2311003)
 - [Dispel](https://maplelegends.com/lib/skill?id=2311001)
+- [Doom](https://maplelegends.com/lib/skill?id=2311005)
+- [Seal](https://maplelegends.com/lib/skill?id=2111004)
 
 Notable equipment:
 
@@ -986,7 +998,7 @@ Power level: 🍏🍏🍏
 
 Attacks:
 
-- [basic attack]
+- \[basic attack\]
 - [Arrow Blow](https://maplelegends.com/lib/skill?id=3001004)
 - [Double Shot](https://maplelegends.com/lib/skill?id=3001005)
 
@@ -1019,7 +1031,7 @@ Power level: 🍏🍏🍏
 
 Attacks:
 
-- [basic attack]
+- \[basic attack\]
 - [Double Shot](https://maplelegends.com/lib/skill?id=3001005)
 - [Arrow Bomb](https://maplelegends.com/lib/skill?id=3101005)
 - [Iron Arrow](https://maplelegends.com/lib/skill?id=3201005)
@@ -1077,7 +1089,7 @@ Power level: 🍏🍏
 
 Attacks:
 
-- [basic attack]
+- \[basic attack\]
 - [Power Knock-Back](https://maplelegends.com/lib/skill?id=3101003)
 
 Notable skills:
@@ -1121,7 +1133,7 @@ Power level: 🍏
 
 Attacks:
 
-- [basic attack]
+- [Disorder](https://maplelegends.com/lib/skill?id=4001002)
 - [Steal](https://maplelegends.com/lib/skill?id=4201004)
 - [Meso Explosion](https://maplelegends.com/lib/skill?id=4211006)
 
@@ -1162,6 +1174,7 @@ Power level: 🍏🍏🍏
 
 Attacks:
 
+- \[basic attack\]
 - [Lucky Seven](https://maplelegends.com/lib/skill?id=4001344)
 - [Double Stab](https://maplelegends.com/lib/skill?id=4001334)
 
@@ -1194,7 +1207,7 @@ Power level: 🍏🍏
 
 Attacks:
 
-- [basic attack]
+- [Disorder](https://maplelegends.com/lib/skill?id=4001002)
 
 Notable skills:
 
@@ -1282,7 +1295,6 @@ Attacks:
 - [Meso Explosion](https://maplelegends.com/lib/skill?id=4211006)
 - [Double Stab](https://maplelegends.com/lib/skill?id=4001334)
 - [Savage Blow](https://maplelegends.com/lib/skill?id=4201005)
-- [Steal](https://maplelegends.com/lib/skill?id=4201004)
 - [Band of Thieves](https://maplelegends.com/lib/skill?id=4211004)
 - [Assaulter](https://maplelegends.com/lib/skill?id=4211002)
 
@@ -1332,7 +1344,7 @@ Power level: 🍏🍏
 
 Attacks:
 
-- [basic attack]
+- [Disorder](https://maplelegends.com/lib/skill?id=4001002)
 - [Steal](https://maplelegends.com/lib/skill?id=4201004)
 - [Meso Explosion](https://maplelegends.com/lib/skill?id=4211006)
 
@@ -1409,7 +1421,6 @@ Power level: 🍏🍏
 
 Attacks:
 
-- [basic attack]
 - [Sommersault Kick](https://maplelegends.com/lib/skill?id=5001002)
 - [Flash Fist](https://maplelegends.com/lib/skill?id=5001001)
 - [Corkscrew Blow](https://maplelegends.com/lib/skill?id=5101004)
@@ -1462,7 +1473,6 @@ Power level: 🍏🍏🍏
 
 Attacks:
 
-- [basic attack]
 - [Sommersault Kick](https://maplelegends.com/lib/skill?id=5001002)
 - [Flash Fist](https://maplelegends.com/lib/skill?id=5001001)
 - [Corkscrew Blow](https://maplelegends.com/lib/skill?id=5101004)
@@ -1513,7 +1523,6 @@ Power level: 🍏🍏🍏
 
 Attacks:
 
-- [basic attack]
 - [Sommersault Kick](https://maplelegends.com/lib/skill?id=5001002)
 - [Flash Fist](https://maplelegends.com/lib/skill?id=5001001)
 - [Corkscrew Blow](https://maplelegends.com/lib/skill?id=5101004)
@@ -1570,6 +1579,7 @@ Attacks:
 
 - [Sommersault Kick](https://maplelegends.com/lib/skill?id=5001002)
 - [Double Shot](https://maplelegends.com/lib/skill?id=5001003)
+- [Burst Fire](https://maplelegends.com/lib/skill?id=5210000)
 - [Invisible Shot](https://maplelegends.com/lib/skill?id=5201001)
 - [Ice Splitter](https://maplelegends.com/lib/skill?id=5211005)
 - [Flamethrower](https://maplelegends.com/lib/skill?id=5211004)
