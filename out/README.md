@@ -128,6 +128,8 @@ Notable equipment:
 
 Magelanders are defined by their use of the Metal Wand, a level 18 wand with no job requirements that drops from Red Snails. It requires 55 INT and 20 LUK to equip.
 
+Magelanders are the magicians of Maple Island, and can often be found casting Three Snails at everything in sight.
+
 ## Wand Beginner
 
 Also known as: “Wand Perma”, “Wand Permabeginner”, “Permawander”, “Wand Noblesse”, “Wand Legend”
@@ -165,7 +167,7 @@ Possible job progressions:
 
 Location: Maple Island
 
-Primary stats: **STR**, **DEX**
+Primary stats: **STR**, **DEX** | Secondary stat: LUK
 
 Power level: 🍏
 
@@ -186,6 +188,12 @@ Notable equipment:
 - [Red-Striped T-Shirt \[F\]](https://maplelegends.com/lib/equip?id=01041012)
 - [White Gomushin](https://maplelegends.com/lib/equip?id=01072004)
 - [Amethyst Earrings](https://maplelegends.com/lib/equip?id=01032003)
+
+### Notes
+
+Islanders are defined solely by their choice to leave the Training Camp, but to never leave Maple Island.
+
+Despite the islander’s seeming simplicity, there are actually a number of subspecies of the islander, including DEXlanders (pure DEX), STRlanders (pure STR), LUKlanders/perfectlanders (pure LUK, or start adding only LUK after a certain point), magelanders (here listed as a separate species), etc.
 
 ## Besinner
 
@@ -212,6 +220,8 @@ Notable equipment:
 Besinners are defined by their use of the Magical Mitten, a level 10 claw with no job requirements. There are sometimes other claws that can be used by beginners, but this will vary by implementation. Some implementations may not even have any claws usable by beginners — not even the Magical Mitten — and thus besinners are impossible in such implementations.
 
 Depending on the implementation, besinners may only be able to throw Snowballs. They can possibly also throw arrows, and/or other throwing stars like Ilbis.
+
+Besinners do worse damage than their ordinary (STR-based) permabeginner counterparts, and although they have some attacking range, it is extremely short due to the lack of Keen Eyes.
 
 ## Permabeginner
 
@@ -241,7 +251,7 @@ Pre-BB versions of MapleStory that are recent enough to have Cygnus Knights (e.g
 
 ## DEX Beginner
 
-Also known as: “DEX Perma”, “DEX Permabeginner”, “DEX Permanoblesse”, “DEX Permalegend”, “Permadexer”, “Dexterity Beginner”, “Dexterity Noblesse”, “Dexterity Legend”
+Also known as: “DEX Perma”, “DEX Permabeginner”, “DEX Permanoblesse”, “DEX Permalegend”, “Permadexer”, “DEXginner”, “Dexterity Beginner”, “Dexterity Noblesse”, “Dexterity Legend”
 
 Possible job progressions:
 
@@ -275,7 +285,7 @@ Possible job progressions:
 
 Primary stat: **STR** | Secondary stat: DEX
 
-Power level: 🍏🍏
+Power level: 🍏🍏🍏
 
 Attacks:
 
@@ -289,6 +299,8 @@ Notable skills:
 ### Notes
 
 Permawarriors are typically unconstrained (although they can, of course, be mixed with other odd jobs, e.g. DEX warrior), except that they cannot take second job advancement.
+
+Permawarriors have the advantage of both a single-target (Power Strike) and a multi-target (Slash Blast) attacking skill. They are also reasonably durable, unlike most other perma-first-jobbers, due to having Improved MaxHP Increase. They still, however, suffer from their complete lack of reach, mastery, accuracy, and mobility.
 
 ## HP Warrior
 
@@ -378,7 +390,7 @@ Notable equipment:
 
 ### Notes
 
-The only restriction placed on wand warriors is the reqirement that they exclusively use weapons that are wands (or staves, but there are generally no staves that are equippable by non-magicians). This turns out to be quite the downside, because this locks them out of most of their skills.
+The only restriction placed on wand warriors is the requirement that they exclusively use weapons that are wands (or staves, but there are generally no staves that are equippable by non-magicians). This turns out to be quite the downside, because this locks them out of most of their skills.
 
 Wand warriors can be thought of as considerably weaker versions of dagger warriors, in some sense. The end-game weapon for the wand warrior is the Heart Wand (or Heart Staff, which is a confusingly-named wand), which they are already using by the time that they hit level 54.
 
@@ -460,7 +472,9 @@ Notable equipment:
 
 ### Notes
 
-LUK warriors are actually very similar to LUK mages, in that they essentially play like their non-odd-job counterparts, albeit considerably weaker. LUK warriors are, again like LUK mages, somewhat limited in their equipment choices because of their unusual AP allocation, but can nevertheless use job-appropriate weapons that enable them to make use of all of their skills.
+LUK warriors are actually quite similar to LUK mages, in that they essentially play like their non-odd-job counterparts, albeit considerably weaker. LUK warriors are, again like LUK mages, somewhat limited in their equipment choices because of their unusual AP allocation, but can nevertheless use job-appropriate weapons that enable them to make use of all of their skills.
+
+LUK warriors are superior to their non-odd-job STR-based counterparts in both their defenses (due to their high avoidability), and in their accuracy (each point of LUK contributes 0.5 WACC).
 
 ## Dagger Warrior
 
@@ -518,7 +532,7 @@ Notable equipment:
 
 ### Notes
 
-The only restriction placed on dagger warriors is the reqirement that they exclusively use weapons that are daggers. This turns out to be quite the downside, because this locks them out of most of their skills.
+The only restriction placed on dagger warriors is the requirement that they exclusively use weapons that are daggers. This turns out to be quite the downside, because this locks them out of most of their skills.
 
 Surprisingly, daggers that are exclusive to rogues and warriors actually progress all the way up to level 110, with the Dragon Kanzir!
 
@@ -654,6 +668,8 @@ Notable equipment:
 
 STR mages largely play like “permabeginners, but with buffs”, although they can also have other utility skills, like e.g. Heal. For a more magically-oriented magician that still engages in melee, see the gish (and the LUK gish).
 
+STR clerics are notable for their high utility and their connection to the “battle cleric” archetype. STR fire/poison mages eventually get access to Poison Mist in third job, which can poison monsters regardless of the caster’s MACC. STR ice/lightning mages are by far the rarest of the three paths, due to having no distinguishing features.
+
 ## DEX Mage
 
 Also known as: “Dexterity Mage”, “DEX Magician”
@@ -713,7 +729,7 @@ Possible job progressions:
 
 Primary stat: **INT** | Secondary stat: LUK
 
-Power level: 🍏🍏🍏
+Power level: 🍏🍏
 
 Attacks:
 
@@ -728,6 +744,8 @@ Notable skills:
 ### Notes
 
 Permamagicians are typically unconstrained (although they can, of course, be mixed with other odd jobs, e.g. LUK mage), except that they cannot take second job advancement.
+
+Permamagicians never have issues with mastery, attack reach, nor accuracy, and they are the second most durable perma-first-jobbber, after the permawarrior. They still, however, suffer from a lack of multi-target attacks and of mobility (no Teleport).
 
 ## Gish
 
@@ -807,6 +825,8 @@ Notable equipment:
 Gishes attack both with melee (similarly to the closely related STR mage) and with spells.
 
 Gishes use INT (unlike LUK mages) as their primary casting stat, but have this INT limited by their STR. INT gishes can still make good use of LUK, as it contributes to both their WACC and their MACC (and AVOID, for that matter). See the LUK gish for a variant that is more similar to LUK mages, but naturally somewhat weaker than this kind of gish.
+
+The term “gish” originated in Dungeons &amp; Dragons terminology in the early 1980s.
 
 ## LUK Gish
 
@@ -889,6 +909,8 @@ LUK gishes attack both with melee (similarly to the closely related STR mage) an
 LUK gishes use LUK (unlike ordinary gishes) as their primary casting stat. See the gish for a variant that is generally somewhat stronger than the LUK gish.
 
 Although being INTless is certainly a downside for LUK gishes when compared to their INT-based counterparts, LUK gishes suffer from fewer accuracy issues than their INT-based counterparts, due to their reasonably high LUK. Also, LUK gishes are less sensitive to their stat allocation than their INT-based counterparts, not only due to the relative lack of accuracy issues, but also because their magic damage (assuming that they don’t miss) is not sensitive to their LUK.
+
+The term “gish” originated in Dungeons &amp; Dragons terminology in the early 1980s.
 
 ## LUK Mage
 
@@ -994,6 +1016,8 @@ Notable equipment:
 
 LUK mages play very similarly to ordinary mages, although obviously they are considerably weaker, and are also incapable of equipping items with significant INT requirements. LUK mages also, of course, have considerably higher AVOID.
 
+Besides having much higher avoidability than other mage varieties, LUK mages can also make use of a different array of weaponry; they do decent damage with claws (i.e. the Magical Mitten; see the entry on besinners), and can equip weapons with high LUK requirements and low INT requirements, e.g. the Streetlight or the Elemental Staff 1.
+
 ## Permarcher
 
 Also known as: “Perma-archer”, “Permabowman”, “Perma-bowman”
@@ -1004,7 +1028,7 @@ Possible job progressions:
 
 Primary stat: **DEX** | Secondary stat: STR
 
-Power level: 🍏🍏🍏
+Power level: 🍏🍏
 
 Attacks:
 
@@ -1021,6 +1045,8 @@ Notable skills:
 ### Notes
 
 Permarchers are typically unconstrained (although they can, of course, be mixed with other odd jobs, e.g. woodsman), except that they cannot take second job advancement.
+
+Permarchers can achieve very high single-target DPS by combining Double Shot with Critical Shot, but suffer from their extreme fragility and lack of multi-target attacks.
 
 ## Woodsman
 
@@ -1082,7 +1108,9 @@ Notable equipment:
 
 ### Notes
 
-The woodsman’s versatility can allow them to switch between ranged and melee physical combat.
+The woodsman’s versatility can allow them to proficiently switch between ranged and melee physical combat.
+
+In melee combat, the woodsman manifests as a “permabeginner, but with skills”, including Focus, Thrust, summons, etc. In ranged combat, woodsmen can still be quite formidable (although not quite as formidable as their ordinary DEX-based counterparts), and get multi-target attacks like Arrow Bomb, Arrow Eruption, etc.
 
 ## Bow-whacker
 
@@ -1126,7 +1154,9 @@ Notable equipment:
 
 ### Notes
 
-Bow-whackers do not have the stat constraint that woodsmen have, because they are disallowed from shooting projectiles, and disallowed from using Soul Arrow. They can only deal damage by whacking monsters with their (cross)bow.
+Bow-whackers do not have the stat constraint that woodsmen have (indeed, most bow-whackers have ordinary archer AP builds), because they are disallowed from shooting projectiles, and disallowed from using Soul Arrow. They can only deal damage by whacking monsters with their (cross)bow.
+
+Bow-whackers are more powerful than they might seem at first blush, partly because of Power Knock-Back, and partly because of the somewhat favorable bow-whack damage formula.
 
 ## Grim Reaper
 
@@ -1198,6 +1228,8 @@ Notable skills:
 
 Permarogues are typically unconstrained (although they can, of course, be mixed with other odd jobs, e.g. grim reaper), except that they cannot take second job advancement.
 
+Permarogues are, like permarchers, very fragile, and again like permarchers, they lack multi-target attacks. However, the damage formula for Lucky Seven is so favorable, that permarogues can be considered one of the most powerful odd jobs.
+
 ## STR Assassin
 
 Also known as: “STR Sin”, “Strength Assassin”
@@ -1238,6 +1270,12 @@ Notable equipment:
 - [Maple Wagner](https://maplelegends.com/lib/equip?id=01332025)
 - [Maple Asura Dagger](https://maplelegends.com/lib/equip?id=01332056)
 - [Maple Dark Mate](https://maplelegends.com/lib/equip?id=01332055)
+- [Magical Mitten](https://maplelegends.com/lib/equip?id=01472063)
+- [Garnier](https://maplelegends.com/lib/equip?id=01472000)
+- [Maple Claw](https://maplelegends.com/lib/equip?id=01472030)
+- [Maple Kandayo](https://maplelegends.com/lib/equip?id=01472032)
+- [Shinobi Bracer](https://maplelegends.com/lib/equip?id=01472054)
+- [Maple Skanda](https://maplelegends.com/lib/equip?id=01472055)
 - [Maple Thief Shield](https://maplelegends.com/lib/equip?id=01092047)
 - [Black Snowshoes](https://maplelegends.com/lib/equip?id=01072171)
 
@@ -1245,7 +1283,9 @@ Notable equipment:
 
 STR assassins cannot put any SP into Double Stab.
 
-STR assassins are somewhat similar to brigands: they essentially play like more mobile permabeginners, with some neato utility skills. Later on, Flash Jump in particular is a highlight. However, STR assassins lack both Steal and Meso Explosion.
+STR assassins are somewhat similar to brigands: they essentially play like more mobile permabeginners, with some neato utility skills. Later on, Flash Jump in particular is a highlight. However, STR assassins lack both Steal and Meso Explosion. Also, Shadow Partner only functions when a claw is equipped.
+
+A STR assassin that gets far enough into third job is capable of using Avenger, to some extent. While Lucky Seven/Triple Throw is essentially useless, due to its damage exclusively scaling on LUK and WATK, Avenger does not use a special damage formula, and thus scales with STR and DEX (albeit not as much as with LUK). Avenger also actually functions with Shadow Partner, Critical Throw, Claw Mastery, and Claw Booster, which are all useless in melee.
 
 ## Dagger Assassin
 
@@ -1281,6 +1321,8 @@ Notable equipment:
 ### Notes
 
 Dagger assassins are, as the name implies, only allowed to use daggers as their weapons.
+
+Dagger assassins play as ordinary proto-bandits during first job, but diverge considerably from bandits beyond that point. Dagger assassins never get access to mastery nor booster, and permanently lack any “serious” attacking skill; Double Stab is extremely short-reach, single-target, and is not designed to scale well past first job (unlike Lucky Seven). Dagger assassins still, however, get access to Haste during second job, and get access to useful third job skills like Alchemist, Meso Up, and most importantly: Flash Jump.
 
 ## Blood Bandit
 
@@ -1337,6 +1379,8 @@ Notable equipment:
 
 Blood bandits are essentially ordinary bandits (in the sense that they can use daggers and stabbing skills, and thus all bandit/chief bandit/shadower skills) that trade off the large majority of their melee power in exchange for extreme tankiness. Because all of their APs are spent on HP, and because they gain access to Meso Guard in third job, blood bandits are virtually unkillable. However, naturally enough, their melee capabilities are typically very subpar, and they are more or less built around the use of Meso Explosion, which thankfully does not scale with any of the bandit’s stats, and also demands some tankiness to allow the bandit to get up close in order to place, and then explode, mesos.
 
+Blood bandits resemble HP warriors in many respects, although blood bandits take considerably longer to finally achieve their main attacking skill: Meso Explosion is a third job skill, unlike the second job skill that is Power Guard.
+
 ## Brigand
 
 Possible job progressions:
@@ -1382,7 +1426,9 @@ Notable equipment:
 
 ### Notes
 
-Brigands cannot put any SP into stabbing skills, like Double Stab. Steal does not count as a “stabbing skill” for the purpose of this definition.
+Brigands cannot put any SP into stabbing skills, like Double Stab. Steal and Disorder do not (usually; see below) count as “stabbing skills” for the purpose of this definition.
+
+The brigand experience can vary considerably, depending on the particular implementation of Steal. Some versions make Steal a stabbing skill, requiring the user to have a dagger equipped!
 
 Brigands essentially play like more mobile permabeginners, with some neato utility skills, to boot. Later, brigands get access to a radically different attacking skill: Meso Explosion.
 
@@ -1411,6 +1457,8 @@ Notable skills:
 ### Notes
 
 Permapirates are typically unconstrained (although they can, of course, be mixed with other odd jobs, e.g. LUK bucc), except that they cannot take second job advancement.
+
+Although pirates ordinarily have the ability to branch off in the direction of the brawler, a typically tanky class, they also have the ability to branch off in the direction of the gunslinger (a typically defensively inept class). As a result, permapirates are stuck with the lowest common denominator w.r.t. their defenses, and are thus quite fragile. They do, however, have a multi-target attack (Somersault Kick; although its reach is pitiful), and can deal no small quantity of single-target DPS with either Double Shot or Flash Fist.
 
 ## LUK Bucc
 
@@ -1464,6 +1512,8 @@ Notable equipment:
 ### Notes
 
 LUK buccs are essentially the pirate version of LUK warriors, although they have a hard time getting equipped, due to the paucity of knucklers that lack stat requirements.
+
+Although LUK buccs may have a sing-songy name, they are quite rare, since their avoidability is actually (ironically) much worse than that of the DEX brawler.
 
 ## DEX Brawler
 
@@ -1619,5 +1669,5 @@ Swashbucklers cannot put any SP into punching abilities. Being gunslingers, howe
 
 Swashbucklers tend to be quite similar to woodsmen in their ability to effectively melee and to somewhat effectively range, but differ in their unique skillset, mobility, and ability to use Somersault Kick in melee.
 
-Swashbucklers should note that Somersault Kick (and some other outlaw/corsair skills) does not vary in the nominal attacking “animation” that it uses; spears are, as a result, usually the best melee weapons for swashbucklers, because they always “stab” (5.0(!) primary stat multiplier for spears) with spears/polearms. Accordingly, polearms should be avoided. Swashbucklers should also note that Grenade (despite having nothing to do with your equipped weapon, and despite lacking an animation entirely) only works if a gun is equipped.
+Swashbucklers should note that Somersault Kick (and some other outlaw/corsair skills) does not vary in the nominal attacking “animation” that it uses; every attack is nominally a “stab”. Spears are, as a result, usually the best melee weapons for swashbucklers, because of the 5.0(!) primary stat multiplier on stabs. Accordingly, polearms should be avoided (3.0 primary stat multiplier). Swashbucklers should also note that Grenade (despite having nothing to do with your equipped weapon, and despite lacking an animation entirely) only works if a gun is equipped.
 
