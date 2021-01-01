@@ -63,6 +63,8 @@ three possible power levels, which are as follows:
 
 ## Camper
 
+Also known as: “Applelander”, “Roadie”, “Snowlander”
+
 Possible job progressions:
 
 - Beginner
@@ -86,6 +88,10 @@ Notable equipment:
 ### Notes
 
 The camper experience varies significantly based on what version of the Training Camp they are subjected to. Later versions introduced a more clear “Training Camp” aesthetic, with custom-textured and custom-built maps, the “green apple suit” that the camper is forced to wear, and different mobs from the Jr. Sentinels of earlier versions.
+
+Pre-BB versions of MapleStory that are recent enough to have Cygnus Knights will also have so-called “Roadies”, named for the maps that they train on (“Empress’ Road”). This version of the camper is a noblesse, rather than a beginner, and is actually capable of obtaining some drops from the monsters that it trains on.
+
+Pre-BB versions of MapleStory that are recent enough to have Aran will also have so-called “Snowlanders”. This version of the camper is only available to arans (or rather, proto-aran beginners), exclusively fights Tutorial Murus, and is otherwise similar to the original (explorer) type of camper.
 
 Campers can only fight mobs that give 1 EXP each, making them extraordinarily time-consuming to train.
 
@@ -124,7 +130,7 @@ Magelanders are defined by their use of the Metal Wand, a level 18 wand with no 
 
 ## Wand Beginner
 
-Also known as: “Wand Perma”, “Wand Permabeginner”, “Permawander”
+Also known as: “Wand Perma”, “Wand Permabeginner”, “Permawander”, “Wand Noblesse”, “Wand Legend”
 
 Possible job progressions:
 
@@ -183,7 +189,7 @@ Notable equipment:
 
 ## Besinner
 
-Also known as: “LUK Beginner”
+Also known as: “LUK Beginner”, “LUK Noblesse”, “LUK Legend”
 
 Possible job progressions:
 
@@ -209,7 +215,7 @@ Depending on the implementation, besinners may only be able to throw Snowballs. 
 
 ## Permabeginner
 
-Also known as: “Permanoob”, “Perma”
+Also known as: “Permanoob”, “Perma”, “Permanoblesse”, “Permalegend”
 
 Possible job progressions:
 
@@ -229,9 +235,13 @@ Notable equipment:
 - [Sake Bottle](https://maplelegends.com/lib/equip?id=01422011)
 - [Maroon Mop](https://maplelegends.com/lib/equip?id=01442023)
 
+### Notes
+
+Pre-BB versions of MapleStory that are recent enough to have Cygnus Knights (e.g. Blaze Wizard) and/or Legends (e.g. Aran) will have some extra variants on the usual permabeginners: permanoblesses and permalegends. Permanoblesses are the most unusual variety, as they are considerably more powerful (due to getting 6 AP per level until level 70), but cannot surpass level 120, thus making them theoretically less powerful than ordinary permabeginners at extremely high levels.
+
 ## DEX Beginner
 
-Also known as: “DEX Perma”, “DEX Permabeginner”, “Permadexer”, “Dexterity Beginner”
+Also known as: “DEX Perma”, “DEX Permabeginner”, “DEX Permanoblesse”, “DEX Permalegend”, “Permadexer”, “Dexterity Beginner”, “Dexterity Noblesse”, “Dexterity Legend”
 
 Possible job progressions:
 

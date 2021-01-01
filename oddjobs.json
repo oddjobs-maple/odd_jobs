@@ -2,7 +2,7 @@
   "oddjobs": [
     {
       "name": "Camper",
-      "aliases": [],
+      "aliases": ["Applelander", "Roadie", "Snowlander"],
       "progressions": [[0]],
       "location": "Training Camp",
       "primary_stats": ["STR", "DEX"],
@@ -14,6 +14,8 @@
       "notable_equips": [1302000, 1322005, 1312004],
       "notes": [
         "The camper experience varies significantly based on what version of the Training Camp they are subjected to. Later versions introduced a more clear \u201cTraining Camp\u201d aesthetic, with custom-textured and custom-built maps, the \u201cgreen apple suit\u201d that the camper is forced to wear, and different mobs from the Jr. Sentinels of earlier versions.",
+        "Pre-BB versions of MapleStory that are recent enough to have Cygnus Knights will also have so-called \u201cRoadies\u201d, named for the maps that they train on (\u201cEmpress\u2019 Road\u201d). This version of the camper is a noblesse, rather than a beginner, and is actually capable of obtaining some drops from the monsters that it trains on.",
+        "Pre-BB versions of MapleStory that are recent enough to have Aran will also have so-called \u201cSnowlanders\u201d. This version of the camper is only available to arans (or rather, proto-aran beginners), exclusively fights Tutorial Murus, and is otherwise similar to the original (explorer) type of camper.",
         "Campers can only fight mobs that give 1 EXP each, making them extraordinarily time-consuming to train."
       ]
     },
@@ -43,7 +45,13 @@
     },
     {
       "name": "Wand Beginner",
-      "aliases": ["Wand Perma", "Wand Permabeginner", "Permawander"],
+      "aliases": [
+        "Wand Perma",
+        "Wand Permabeginner",
+        "Permawander",
+        "Wand Noblesse",
+        "Wand Legend"
+      ],
       "progressions": [[0]],
       "location": null,
       "primary_stats": ["STR"],
@@ -84,7 +92,7 @@
     },
     {
       "name": "Besinner",
-      "aliases": ["LUK Beginner"],
+      "aliases": ["LUK Beginner", "LUK Noblesse", "LUK Legend"],
       "progressions": [[0]],
       "location": null,
       "primary_stats": ["LUK"],
@@ -101,7 +109,7 @@
     },
     {
       "name": "Permabeginner",
-      "aliases": ["Permanoob", "Perma"],
+      "aliases": ["Permanoob", "Perma", "Permanoblesse", "Permalegend"],
       "progressions": [[0]],
       "location": null,
       "primary_stats": ["STR"],
@@ -111,15 +119,21 @@
       "attacks": [0],
       "notable_skills": [],
       "notable_equips": [1442018, 1422011, 1442023],
-      "notes": []
+      "notes": [
+        "Pre-BB versions of MapleStory that are recent enough to have Cygnus Knights (e.g. Blaze Wizard) and/or Legends (e.g. Aran) will have some extra variants on the usual permabeginners: permanoblesses and permalegends. Permanoblesses are the most unusual variety, as they are considerably more powerful (due to getting 6 AP per level until level 70), but cannot surpass level 120, thus making them theoretically less powerful than ordinary permabeginners at extremely high levels."
+      ]
     },
     {
       "name": "DEX Beginner",
       "aliases": [
         "DEX Perma",
         "DEX Permabeginner",
+        "DEX Permanoblesse",
+        "DEX Permalegend",
         "Permadexer",
-        "Dexterity Beginner"
+        "Dexterity Beginner",
+        "Dexterity Noblesse",
+        "Dexterity Legend"
       ],
       "progressions": [[0]],
       "location": null,
