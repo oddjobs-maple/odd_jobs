@@ -864,13 +864,10 @@ fn esc_md(s: &str) -> String {
 
     for c in s.chars() {
         match c {
-            '[' | ']' => {
+            '[' | ']' | '*' | '_' | '\\' => {
                 ret.push('\\');
                 ret.push(c);
             }
-            '*' => ret.push_str(r"\*"),
-            '_' => ret.push_str(r"\_"),
-            '\\' => ret.push_str(r"\\"),
             '&' => ret.push_str("&amp;"),
             '<' => ret.push_str("&lt;"),
             '>' => ret.push_str("&gt;"),

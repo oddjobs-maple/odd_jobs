@@ -53,6 +53,7 @@ three possible power levels, which are as follows:
 - [Permarogue](#permarogue)
 - [STR Assassin](#str-assassin)
 - [Dagger Assassin](#dagger-assassin)
+- [Claw-puncher](#claw-puncher)
 - [Blood Bandit](#blood-bandit)
 - [Brigand](#brigand)
 - [Permapirate](#permapirate)
@@ -60,6 +61,7 @@ three possible power levels, which are as follows:
 - [DEX Brawler](#dex-brawler)
 - [Pugilist](#pugilist)
 - [Swashbuckler](#swashbuckler)
+- [Pistol-whipper](#pistol-whipper)
 
 ## Camper
 
@@ -1114,7 +1116,7 @@ In melee combat, the woodsman manifests as a “permabeginner, but with skills�
 
 ## Bow-whacker
 
-Also known as: “Knockbacker”, “Crossbow-whacker”, “Bow-whacking Woodsman”, “Crossbow-whacking Woodsman”, “Knockback Archer”
+Also known as: “Knockbacker”, “Crossbow-whacker”, “Knockback Archer”
 
 Possible job progressions:
 
@@ -1250,6 +1252,10 @@ Power level: 🍏🍏
 Attacks:
 
 - [Disorder](https://maplelegends.com/lib/skill?id=4001002)
+- [Shadow Meso](https://maplelegends.com/lib/skill?id=4111004)
+- [Avenger](https://maplelegends.com/lib/skill?id=4111005)
+- [Drain](https://maplelegends.com/lib/skill?id=4101005)
+- [Shadow Web](https://maplelegends.com/lib/skill?id=4111003)
 
 Notable skills:
 
@@ -1258,8 +1264,11 @@ Notable skills:
 - [Dark Sight](https://maplelegends.com/lib/skill?id=4001003)
 - [Haste](https://maplelegends.com/lib/skill?id=4101004)
 - [Flash Jump](https://maplelegends.com/lib/skill?id=4111006)
-- [Alchemist](https://maplelegends.com/lib/skill?id=4110000)
 - [Meso Up](https://maplelegends.com/lib/skill?id=4111001)
+- [Alchemist](https://maplelegends.com/lib/skill?id=4110000)
+- [Drain](https://maplelegends.com/lib/skill?id=4101005)
+- [Shadow Partner](https://maplelegends.com/lib/skill?id=4111002)
+- [Shadow Web](https://maplelegends.com/lib/skill?id=4111003)
 
 Notable equipment:
 
@@ -1285,7 +1294,9 @@ STR assassins cannot put any SP into Double Stab.
 
 STR assassins are somewhat similar to brigands: they essentially play like more mobile permabeginners, with some neato utility skills. Later on, Flash Jump in particular is a highlight. However, STR assassins lack both Steal and Meso Explosion. Also, Shadow Partner only functions when a claw is equipped.
 
-A STR assassin that gets far enough into third job is capable of using Avenger, to some extent. While Lucky Seven/Triple Throw is essentially useless, due to its damage exclusively scaling on LUK and WATK, Avenger does not use a special damage formula, and thus scales with STR and DEX (albeit not as much as with LUK). Avenger also actually functions with Shadow Partner, Critical Throw, Claw Mastery, and Claw Booster, which are all useless in melee.
+A STR assassin that gets far enough into third job is capable of using Shadow Meso. Shadow Meso does not take into account any stats (STR, DEX, INT, LUK, nor even WATK), which makes it an obvious choice for the STR assassin who aspires to attack at range. Shadow Meso also actually functions with Shadow Partner and Claw Booster — both of which are useless in melee — but, perhaps unfortunately, disregards both Critical Throw and Claw Mastery. Assuming maxed Shadow Meso, maxed Shadow Partner, and a claw with total speed (that is, including the −2 from Claw Booster) of 2, Shadow Meso deals nearly 15k single-target DPS!
+
+A STR assassin that gets far enough into third job is also capable of using Avenger, to some extent. While Lucky Seven/Triple Throw is essentially useless (due to its damage exclusively scaling on LUK and WATK), Avenger does not use a special damage formula, and thus scales with STR and DEX (albeit not as much as with LUK). Avenger also actually functions with Shadow Partner, Critical Throw, Claw Mastery, and Claw Booster, all of which are useless in melee. Depending on your level and your gear, Avenger tends to outpace Shadow Meso in DPS any time that you are attacking roughly ≈4 or more monsters at once.
 
 ## Dagger Assassin
 
@@ -1302,6 +1313,7 @@ Power level: 🍏🍏🍏
 Attacks:
 
 - [Double Stab](https://maplelegends.com/lib/skill?id=4001334)
+- [Shadow Web](https://maplelegends.com/lib/skill?id=4111003)
 
 Notable skills:
 
@@ -1312,6 +1324,7 @@ Notable skills:
 - [Flash Jump](https://maplelegends.com/lib/skill?id=4111006)
 - [Alchemist](https://maplelegends.com/lib/skill?id=4110000)
 - [Meso Up](https://maplelegends.com/lib/skill?id=4111001)
+- [Shadow Web](https://maplelegends.com/lib/skill?id=4111003)
 
 Notable equipment:
 
@@ -1323,6 +1336,46 @@ Notable equipment:
 Dagger assassins are, as the name implies, only allowed to use daggers as their weapons.
 
 Dagger assassins play as ordinary proto-bandits during first job, but diverge considerably from bandits beyond that point. Dagger assassins never get access to mastery nor booster, and permanently lack any “serious” attacking skill; Double Stab is extremely short-reach, single-target, and is not designed to scale well past first job (unlike Lucky Seven). Dagger assassins still, however, get access to Haste during second job, and get access to useful third job skills like Alchemist, Meso Up, and most importantly: Flash Jump.
+
+## Claw-puncher
+
+Also known as: “Starless Assassin”, “Starless Sin”, “Punchlord”, “Rogue Brawler”, “Punch Rogue”
+
+Possible job progressions:
+
+- Beginner → Rogue → Assassin → Hermit → Nightlord
+
+Primary stat: **DEX** | Secondary stats: LUK, STR
+
+Power level: 🍏
+
+Attacks:
+
+- [Disorder](https://maplelegends.com/lib/skill?id=4001002)
+- [Shadow Web](https://maplelegends.com/lib/skill?id=4111003)
+
+Notable skills:
+
+- [Nimble Body](https://maplelegends.com/lib/skill?id=4000000)
+- [Disorder](https://maplelegends.com/lib/skill?id=4001002)
+- [Dark Sight](https://maplelegends.com/lib/skill?id=4001003)
+- [Haste](https://maplelegends.com/lib/skill?id=4101004)
+- [Flash Jump](https://maplelegends.com/lib/skill?id=4111006)
+- [Meso Up](https://maplelegends.com/lib/skill?id=4111001)
+- [Alchemist](https://maplelegends.com/lib/skill?id=4110000)
+- [Shadow Web](https://maplelegends.com/lib/skill?id=4111003)
+
+Notable equipment:
+
+- [Black Snowshoes](https://maplelegends.com/lib/equip?id=01072171)
+
+### Notes
+
+The only restriction on this type of assassin is that they can only choose claws as their weapons, but cannot have stars in their inventory, cannot use Shadow Stars, and cannot use Shadow Meso (i.e. if their claw is used, it must only be used to punch). Other attacking skills — like e.g. Disorder and Shadow Web — that have nothing specifically to do with claws are still usable, of course.
+
+In addition to having the restriction (familiar to permabeginners and many other odd jobs) of only having short-reach, single-target basic attacks, claw-punchers are deeply challenged due to the woefully unfavorable damage formula of claw punching. DEX is the main stat for claw-punchers because both STR and DEX contribute equally to their damage, while LUK contributes some damage, but less so than STR or DEX. DEX’s contribution to WACC, AVOID, and the ability to equip rogue-specific gear thus makes it the clear favourite.
+
+Because claw-punchers are so deeply challenged, they are not typically expected to make it past second job (or even to make it to second job); however, a third job claw-puncher can theoretically make good use of Shadow Web. Shadow Web offers what is technically a mobbing attack, which doubles as crowd control, and which deals damage irrespective of the claw-puncher’s stats and gear (as it only scales on the victims’ MAXHPs and on the skill’s level). Shadow Web can affect up to 6 monsters at once, and at max level, theoretically takes 90 seconds to kill any monster (regardless of its MAXHP).
 
 ## Blood Bandit
 
@@ -1670,4 +1723,39 @@ Swashbucklers cannot put any SP into punching abilities. Being gunslingers, howe
 Swashbucklers tend to be quite similar to woodsmen in their ability to effectively melee and to somewhat effectively range, but differ in their unique skillset, mobility, and ability to use Somersault Kick in melee.
 
 Swashbucklers should note that Somersault Kick (and some other outlaw/corsair skills) does not vary in the nominal attacking “animation” that it uses; every attack is nominally a “stab”. Spears are, as a result, usually the best melee weapons for swashbucklers, because of the 5.0(!) primary stat multiplier on stabs. Accordingly, polearms should be avoided (3.0 primary stat multiplier). Swashbucklers should also note that Grenade (despite having nothing to do with your equipped weapon, and despite lacking an animation entirely) only works if a gun is equipped.
+
+## Pistol-whipper
+
+Also known as: “Buffaloer”, “Buffalo”, “Buffalo Sair”, “Bulletless Gunslinger”, “Bulletless Slinger”, “Bulletless Outlaw”, “Bulletless Sair”
+
+Possible job progressions:
+
+- Beginner → Pirate → Gunslinger → Outlaw → Corsair
+
+Primary stat: **DEX** | Secondary stat: STR
+
+Power level: 🍏🍏
+
+Attacks:
+
+- [Sommersault Kick](https://maplelegends.com/lib/skill?id=5001002)
+- [Grenade](https://maplelegends.com/lib/skill?id=5201002)
+
+Notable skills:
+
+- [Bullet Time](https://maplelegends.com/lib/skill?id=5000000)
+- [Wings](https://maplelegends.com/lib/skill?id=5201005)
+- [Octopus](https://maplelegends.com/lib/skill?id=5211001)
+- [Gaviota](https://maplelegends.com/lib/skill?id=5211002)
+- [Homing Beacon](https://maplelegends.com/lib/skill?id=5211006)
+
+Notable equipment:
+
+- [Purple Snowshoes](https://maplelegends.com/lib/equip?id=01072338)
+
+### Notes
+
+The only restriction on this type of gunslinger is that they can only choose guns as their weapons, but cannot have bullets in their inventory (i.e. if their gun is used, it must only be used to pistol-whip). Other attacking skills — like e.g. Somersault Kick and Grenade — that have nothing specifically to do with guns are still usable, of course.
+
+Pistol-whippers can make better use of their third job summons than other varieties of outlaw/gunslinger.
 
