@@ -1304,7 +1304,7 @@
       "secondary_stats": ["STR"],
       "stat_constraints": [],
       "power_level": 2,
-      "attacks": [5001002, 5201002],
+      "attacks": [5001002, 5201002, 5211006],
       "notable_skills": [5000000, 5201005, 5211001, 5211002, 5211006],
       "notable_equips": [1072338],
       "notes": [

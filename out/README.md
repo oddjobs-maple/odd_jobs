@@ -1740,6 +1740,7 @@ Attacks:
 
 - [Sommersault Kick](https://maplelegends.com/lib/skill?id=5001002)
 - [Grenade](https://maplelegends.com/lib/skill?id=5201002)
+- [Homing Beacon](https://maplelegends.com/lib/skill?id=5211006)
 
 Notable skills:
 
