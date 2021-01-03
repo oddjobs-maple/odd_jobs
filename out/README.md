@@ -1234,7 +1234,7 @@ Permarogues are, like permarchers, very fragile, and again like permarchers, the
 
 ## STR Assassin
 
-Also known as: “STR Sin”, “Strength Assassin”
+Also known as: “STR Sin”, “Strength Assassin”, “STRlord”, “Strengthlord”, “STR Hermit”
 
 Possible job progressions:
 
@@ -1294,7 +1294,7 @@ STR assassins cannot put any SP into Double Stab.
 
 STR assassins are somewhat similar to brigands: they essentially play like more mobile permabeginners, with some neato utility skills. Later on, Flash Jump in particular is a highlight. However, STR assassins lack both Steal and Meso Explosion. Also, Shadow Partner only functions when a claw is equipped.
 
-A STR assassin that gets far enough into third job is capable of using Shadow Meso. Shadow Meso does not take into account any stats (STR, DEX, INT, LUK, nor even WATK), which makes it an obvious choice for the STR assassin who aspires to attack at range. Shadow Meso also actually functions with Shadow Partner and Claw Booster — both of which are useless in melee — but, perhaps unfortunately, disregards both Critical Throw and Claw Mastery. Assuming maxed Shadow Meso, maxed Shadow Partner, and a claw with total speed (that is, including the −2 from Claw Booster) of 2, Shadow Meso deals nearly 15k single-target DPS!
+A STR assassin that gets far enough into third job is capable of using Shadow Meso. Shadow Meso does not take into account any stats (STR, DEX, INT, LUK, nor even WATK), which makes it an obvious choice for the STR assassin who aspires to attack at range. Shadow Meso also actually functions with Shadow Partner and Claw Booster — both of which are useless in melee — but, perhaps unfortunately, disregards both Critical Throw and Claw Mastery. Assuming maxed Shadow Meso, maxed Shadow Partner, and a claw with a total speed (that is, including the −2 from Claw Booster) of 2, Shadow Meso deals nearly 15k single-target DPS!
 
 A STR assassin that gets far enough into third job is also capable of using Avenger, to some extent. While Lucky Seven/Triple Throw is essentially useless (due to its damage exclusively scaling on LUK and WATK), Avenger does not use a special damage formula, and thus scales with STR and DEX (albeit not as much as with LUK). Avenger also actually functions with Shadow Partner, Critical Throw, Claw Mastery, and Claw Booster, all of which are useless in melee. Depending on your level and your gear, Avenger tends to outpace Shadow Meso in DPS any time that you are attacking roughly ≈4 or more monsters at once.
 
@@ -1696,7 +1696,6 @@ Attacks:
 - [Invisible Shot](https://maplelegends.com/lib/skill?id=5201001)
 - [Ice Splitter](https://maplelegends.com/lib/skill?id=5211005)
 - [Flamethrower](https://maplelegends.com/lib/skill?id=5211004)
-- [Grenade](https://maplelegends.com/lib/skill?id=5201002)
 
 Notable skills:
 
