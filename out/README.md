@@ -1300,7 +1300,7 @@ A STR assassin that gets far enough into third job is also capable of using Aven
 
 ## Dagger Assassin
 
-Also known as: “Backstabber”, “Daggerlord”, “Nightstabber”, “Dagger Sin”
+Also known as: “Backstabber”, “Daggerlord”, “Nightstabber”, “Ditsin”, “Dagger Sin”
 
 Possible job progressions:
 

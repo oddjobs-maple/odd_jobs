@@ -976,7 +976,7 @@
     },
     {
       "name": "Dagger Assassin",
-      "aliases": ["Backstabber", "Daggerlord", "Nightstabber", "Dagger Sin"],
+      "aliases": ["Backstabber", "Daggerlord", "Nightstabber", "Ditsin", "Dagger Sin"],
       "progressions": [[0, 400, 410, 411, 412]],
       "location": null,
       "primary_stats": ["LUK"],
