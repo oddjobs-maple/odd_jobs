@@ -394,6 +394,8 @@ The only restriction placed on wand warriors is the requirement that they exclus
 
 Wand warriors can be thought of as considerably weaker versions of dagger warriors, in some sense. The end-game weapon for the wand warrior is the Heart Wand (or Heart Staff, which is a confusingly-named wand), which they are already using by the time that they hit level 54.
 
+Shout is known to work with a wand equipped.
+
 ## LUK Warrior
 
 Possible job progressions:
@@ -532,6 +534,8 @@ Notable equipment:
 The only restriction placed on dagger warriors is the requirement that they exclusively use weapons that are daggers. This turns out to be quite the downside, because this locks them out of most of their skills.
 
 Surprisingly, daggers that are exclusive to rogues and warriors actually progress all the way up to level 110, with the Dragon Kanzir!
+
+Shout is known to work with a dagger equipped.
 
 ## DEX Warrior
 
