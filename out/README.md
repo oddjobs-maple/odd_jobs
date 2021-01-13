@@ -364,7 +364,6 @@ Attacks:
 - [Power Strike](https://maplelegends.com/lib/skill?id=1001004)
 - [Slash Blast](https://maplelegends.com/lib/skill?id=1001005)
 - [Power Guard](https://maplelegends.com/lib/skill?id=1101007)
-- [Dragon Roar](https://maplelegends.com/lib/skill?id=1311006)
 
 Notable skills:
 
@@ -378,7 +377,6 @@ Notable skills:
 - [Armor Crash](https://maplelegends.com/lib/skill?id=1111007)
 - [Shout](https://maplelegends.com/lib/skill?id=1111008)
 - [Magic Crash](https://maplelegends.com/lib/skill?id=1211009)
-- [Dragon Roar](https://maplelegends.com/lib/skill?id=1311006)
 - [Power Crash](https://maplelegends.com/lib/skill?id=1311007)
 
 Notable equipment:
@@ -447,7 +445,6 @@ Notable skills:
 - [Thunder Charge: Sword](https://maplelegends.com/lib/skill?id=1211007)
 - [Lightning Charge: BW](https://maplelegends.com/lib/skill?id=1211008)
 - [Magic Crash](https://maplelegends.com/lib/skill?id=1211009)
-- [Dragon Roar](https://maplelegends.com/lib/skill?id=1311006)
 - [Power Crash](https://maplelegends.com/lib/skill?id=1311007)
 
 Notable equipment:
@@ -495,7 +492,6 @@ Attacks:
 - [Power Strike](https://maplelegends.com/lib/skill?id=1001004)
 - [Slash Blast](https://maplelegends.com/lib/skill?id=1001005)
 - [Power Guard](https://maplelegends.com/lib/skill?id=1101007)
-- [Dragon Roar](https://maplelegends.com/lib/skill?id=1311006)
 
 Notable skills:
 
@@ -509,7 +505,6 @@ Notable skills:
 - [Armor Crash](https://maplelegends.com/lib/skill?id=1111007)
 - [Shout](https://maplelegends.com/lib/skill?id=1111008)
 - [Magic Crash](https://maplelegends.com/lib/skill?id=1211009)
-- [Dragon Roar](https://maplelegends.com/lib/skill?id=1311006)
 - [Power Crash](https://maplelegends.com/lib/skill?id=1311007)
 
 Notable equipment:
@@ -588,7 +583,6 @@ Notable skills:
 - [Thunder Charge: Sword](https://maplelegends.com/lib/skill?id=1211007)
 - [Lightning Charge: BW](https://maplelegends.com/lib/skill?id=1211008)
 - [Magic Crash](https://maplelegends.com/lib/skill?id=1211009)
-- [Dragon Roar](https://maplelegends.com/lib/skill?id=1311006)
 - [Power Crash](https://maplelegends.com/lib/skill?id=1311007)
 
 Notable equipment:
