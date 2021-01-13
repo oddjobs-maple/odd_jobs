@@ -891,7 +891,7 @@
       "secondary_stats": ["DEX", "LUK"],
       "stat_constraints": [],
       "power_level": 1,
-      "attacks": [4001002, 4201004, 4211006],
+      "attacks": [0, 4001002, 4201004, 4211006],
       "notable_skills": [
         4000000,
         4001002,
@@ -918,7 +918,7 @@
       "secondary_stats": ["DEX", "STR"],
       "stat_constraints": [],
       "power_level": 3,
-      "attacks": [0, 4001344, 4001334],
+      "attacks": [0, 4001002, 4001344, 4001334],
       "notable_skills": [4000000, 4001002, 4001003],
       "notable_equips": [],
       "notes": [
@@ -941,7 +941,7 @@
       "secondary_stats": ["DEX", "LUK"],
       "stat_constraints": ["DEX = 25", "LUK = 4"],
       "power_level": 2,
-      "attacks": [4001002, 4111004, 4111005, 4101005, 4111003],
+      "attacks": [0, 4001002, 4111004, 4111005, 4101005, 4111003],
       "notable_skills": [
         4000000,
         4001002,
@@ -1025,7 +1025,7 @@
       "secondary_stats": ["LUK", "STR"],
       "stat_constraints": [],
       "power_level": 1,
-      "attacks": [4001002, 4111003],
+      "attacks": [0, 4001002, 4111003],
       "notable_skills": [
         4000000,
         4001002,
@@ -1090,7 +1090,7 @@
       "secondary_stats": ["DEX", "LUK"],
       "stat_constraints": ["DEX = 25", "LUK = 4"],
       "power_level": 2,
-      "attacks": [4001002, 4201004, 4211006],
+      "attacks": [0, 4001002, 4201004, 4211006],
       "notable_skills": [
         4000000,
         4001002,

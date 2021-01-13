@@ -1173,6 +1173,7 @@ Power level: 🍏
 
 Attacks:
 
+- \[basic attack\]
 - [Disorder](https://maplelegends.com/lib/skill?id=4001002)
 - [Steal](https://maplelegends.com/lib/skill?id=4201004)
 - [Meso Explosion](https://maplelegends.com/lib/skill?id=4211006)
@@ -1215,6 +1216,7 @@ Power level: 🍏🍏🍏
 Attacks:
 
 - \[basic attack\]
+- [Disorder](https://maplelegends.com/lib/skill?id=4001002)
 - [Lucky Seven](https://maplelegends.com/lib/skill?id=4001344)
 - [Double Stab](https://maplelegends.com/lib/skill?id=4001334)
 
@@ -1249,6 +1251,7 @@ Power level: 🍏🍏
 
 Attacks:
 
+- \[basic attack\]
 - [Disorder](https://maplelegends.com/lib/skill?id=4001002)
 - [Shadow Meso](https://maplelegends.com/lib/skill?id=4111004)
 - [Avenger](https://maplelegends.com/lib/skill?id=4111005)
@@ -1349,6 +1352,7 @@ Power level: 🍏
 
 Attacks:
 
+- \[basic attack\]
 - [Disorder](https://maplelegends.com/lib/skill?id=4001002)
 - [Shadow Web](https://maplelegends.com/lib/skill?id=4111003)
 
@@ -1449,6 +1453,7 @@ Power level: 🍏🍏
 
 Attacks:
 
+- \[basic attack\]
 - [Disorder](https://maplelegends.com/lib/skill?id=4001002)
 - [Steal](https://maplelegends.com/lib/skill?id=4201004)
 - [Meso Explosion](https://maplelegends.com/lib/skill?id=4211006)
