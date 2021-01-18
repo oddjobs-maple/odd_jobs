@@ -60,6 +60,7 @@ three possible power levels, which are as follows:
 - [LUK Bucc](#luk-bucc)
 - [DEX Brawler](#dex-brawler)
 - [Pugilist](#pugilist)
+- [Bullet Bucc](#bullet-bucc)
 - [Swashbuckler](#swashbuckler)
 - [Pistol-whipper](#pistol-whipper)
 
@@ -1674,6 +1675,42 @@ Besides the restriction on weapons/shields, pugilists are typically unconstraine
 All first, second, third, and fourth job brawler skills can be used without a weapon, with two notable exceptions: Knuckle Mastery and Knuckle Booster.
 
 The damage formula for bare-handed attacks can be found within Ayumilove’s MapleStory Formula Compilation. The base speed (that is, sans Speed Infusion) of bare-handed attacks is 4.
+
+## Bullet Bucc
+
+Also known as: “Bullet Brawler”, “Bullet Buccaneer”, “Gun Bucc”, “Gun Brawler”, “Gun Buccaneer”
+
+Possible job progressions:
+
+- Beginner → Pirate → Brawler → Marauder → Buccaneer
+
+Primary stat: **DEX** | Secondary stat: STR
+
+Power level: 🍏🍏🍏
+
+Attacks:
+
+- [Double Shot](https://maplelegends.com/lib/skill?id=5001003)
+- [Sommersault Kick](https://maplelegends.com/lib/skill?id=5001002)
+- [Flash Fist](https://maplelegends.com/lib/skill?id=5001001)
+
+Notable skills:
+
+- [Bullet Time](https://maplelegends.com/lib/skill?id=5000000)
+- [Improve MaxHP](https://maplelegends.com/lib/skill?id=5100000)
+- [Oak Barrel](https://maplelegends.com/lib/skill?id=5101007)
+- [Stun Mastery](https://maplelegends.com/lib/skill?id=5110000)
+- [Energy Charge](https://maplelegends.com/lib/skill?id=5110001)
+
+Notable equipment:
+
+- [Purple Snowshoes](https://maplelegends.com/lib/equip?id=01072338)
+
+### Notes
+
+Bullet buccs are brawlers that can only fight with a gun equipped.
+
+Flash Fist is, somewhat surprisingly, usable with a gun equipped. Its only real use, however, is passing the second job advancement test.
 
 ## Swashbuckler
 

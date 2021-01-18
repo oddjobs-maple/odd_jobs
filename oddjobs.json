@@ -1259,6 +1259,29 @@
       ]
     },
     {
+      "name": "Bullet Bucc",
+      "aliases": [
+        "Bullet Brawler",
+        "Bullet Buccaneer",
+        "Gun Bucc",
+        "Gun Brawler",
+        "Gun Buccaneer"
+      ],
+      "progressions": [[0, 500, 510, 511, 512]],
+      "location": null,
+      "primary_stats": ["DEX"],
+      "secondary_stats": ["STR"],
+      "stat_constraints": [],
+      "power_level": 3,
+      "attacks": [5001003, 5001002, 5001001],
+      "notable_skills": [5000000, 5100000, 5101007, 5110000, 5110001],
+      "notable_equips": [1072338],
+      "notes": [
+        "Bullet buccs are brawlers that can only fight with a gun equipped.",
+        "Flash Fist is, somewhat surprisingly, usable with a gun equipped. Its only real use, however, is passing the second job advancement test."
+      ]
+    },
+    {
       "name": "Swashbuckler",
       "aliases": [
         "STR Gunslinger",
