@@ -531,7 +531,7 @@
       "location": null,
       "primary_stats": ["STR", "INT"],
       "secondary_stats": ["DEX", "LUK"],
-      "stat_constraints": ["STR > INT", "INT \u226b 4"],
+      "stat_constraints": ["STR + DEX > INT", "INT \u226b 4"],
       "power_level": 3,
       "attacks": [
         0,
@@ -607,7 +607,7 @@
       "location": null,
       "primary_stats": ["STR", "LUK", "INT"],
       "secondary_stats": ["DEX"],
-      "stat_constraints": ["INT = 20", "STR \u226b 4", "LUK \u226b 4"],
+      "stat_constraints": ["INT = 20", "STR \u226b 4 \u2228 DEX \u266b 4", "LUK \u226b 4"],
       "power_level": 2,
       "attacks": [
         0,

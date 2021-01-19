@@ -762,7 +762,7 @@ Primary stats: **STR**, **INT** | Secondary stats: DEX, LUK
 
 Stat constraints:
 
-- STR &gt; INT
+- STR + DEX &gt; INT
 - INT ≫ 4
 
 Power level: 🍏🍏🍏
@@ -844,7 +844,7 @@ Primary stats: **STR**, **LUK**, **INT** | Secondary stat: DEX
 Stat constraints:
 
 - INT = 20
-- STR ≫ 4
+- STR ≫ 4 ∨ DEX ♫ 4
 - LUK ≫ 4
 
 Power level: 🍏🍏
