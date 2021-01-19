@@ -607,7 +607,7 @@
       "location": null,
       "primary_stats": ["STR", "LUK", "INT"],
       "secondary_stats": ["DEX"],
-      "stat_constraints": ["INT = 20", "STR \u226b 4 \u2228 DEX \u266b 4", "LUK \u226b 4"],
+      "stat_constraints": ["INT = 20", "STR \u226b 4 \u2228 DEX \u226b 4", "LUK \u226b 4"],
       "power_level": 2,
       "attacks": [
         0,

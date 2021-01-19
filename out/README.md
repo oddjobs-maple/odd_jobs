@@ -844,7 +844,7 @@ Primary stats: **STR**, **LUK**, **INT** | Secondary stat: DEX
 Stat constraints:
 
 - INT = 20
-- STR ≫ 4 ∨ DEX ♫ 4
+- STR ≫ 4 ∨ DEX ≫ 4
 - LUK ≫ 4
 
 Power level: 🍏🍏
