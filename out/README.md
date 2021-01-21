@@ -1700,7 +1700,6 @@ Notable skills:
 - [Improve MaxHP](https://maplelegends.com/lib/skill?id=5100000)
 - [Oak Barrel](https://maplelegends.com/lib/skill?id=5101007)
 - [Stun Mastery](https://maplelegends.com/lib/skill?id=5110000)
-- [Energy Charge](https://maplelegends.com/lib/skill?id=5110001)
 
 Notable equipment:
 
