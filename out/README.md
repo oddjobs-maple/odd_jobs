@@ -1713,7 +1713,7 @@ Flash Fist is, somewhat surprisingly, usable with a gun equipped. Its only real 
 
 ## Swashbuckler
 
-Also known as: “STR Gunslinger”, “Strength Gunslinger”, “STR Slinger”, “STR Sair”
+Also known as: “Swashie”, “Cowgirl”, “Cowboy”, “STR Gunslinger”, “Strength Gunslinger”, “STR Slinger”, “STR Sair”
 
 Possible job progressions:
 
