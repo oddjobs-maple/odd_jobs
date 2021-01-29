@@ -50,6 +50,7 @@ three possible power levels, which are as follows:
 - [Woodsman](#woodsman)
 - [Bow-whacker](#bow-whacker)
 - [Grim Reaper](#grim-reaper)
+- [Carpenter](#carpenter)
 - [Permarogue](#permarogue)
 - [STR Assassin](#str-assassin)
 - [Dagger Assassin](#dagger-assassin)
@@ -62,7 +63,9 @@ three possible power levels, which are as follows:
 - [Pugilist](#pugilist)
 - [Bullet Bucc](#bullet-bucc)
 - [Swashbuckler](#swashbuckler)
+- [Bombadier](#bombadier)
 - [Pistol-whipper](#pistol-whipper)
+- [Summoner](#summoner)
 
 ## Camper
 
@@ -1051,7 +1054,7 @@ Permarchers can achieve very high single-target DPS by combining Double Shot wit
 
 ## Woodsman
 
-Also known as: “Woodman”, “Huntsman”, “Forester”, “STR Archer”, “Strength Archer”, “DEXless Archer”
+Also known as: “Woodswoman”, “Woodman”, “Woodwoman”, “Huntsman”, “Forester”, “STR Archer”, “Strength Archer”, “DEXless Archer”
 
 Possible job progressions:
 
@@ -1202,6 +1205,49 @@ Notable equipment:
 
 Grim reapers are characterised and defined by their exclusive use of the Scythe, a level 15 one-handed axe that requires its wielder to be a rogue and to have at least 35 LUK and 30 DEX.
 
+## Carpenter
+
+Also known as: “Jigsaw Killer”, “Woodworker”, “Rogue Carpenter”, “Saw Rogue”, “Saw Thief”
+
+Possible job progressions:
+
+- Beginner → Rogue → Assassin → Hermit → Nightlord
+- Beginner → Rogue → Bandit → Chief Bandit → Shadower
+
+Primary stat: **STR** | Secondary stat: DEX
+
+Power level: 🍏
+
+Attacks:
+
+- \[basic attack\]
+- [Disorder](https://maplelegends.com/lib/skill?id=4001002)
+- [Steal](https://maplelegends.com/lib/skill?id=4201004)
+- [Meso Explosion](https://maplelegends.com/lib/skill?id=4211006)
+
+Notable skills:
+
+- [Nimble Body](https://maplelegends.com/lib/skill?id=4000000)
+- [Disorder](https://maplelegends.com/lib/skill?id=4001002)
+- [Dark Sight](https://maplelegends.com/lib/skill?id=4001003)
+- [Steal](https://maplelegends.com/lib/skill?id=4201004)
+- [Haste](https://maplelegends.com/lib/skill?id=4201003)
+- [Flash Jump](https://maplelegends.com/lib/skill?id=4111006)
+- [Alchemist](https://maplelegends.com/lib/skill?id=4110000)
+- [Meso Up](https://maplelegends.com/lib/skill?id=4111001)
+- [Shield Mastery](https://maplelegends.com/lib/skill?id=4210000)
+- [Meso Guard](https://maplelegends.com/lib/skill?id=4211005)
+
+Notable equipment:
+
+- [Saw](https://maplelegends.com/lib/equip?id=01302001)
+- [Maple Thief Shield](https://maplelegends.com/lib/equip?id=01092047)
+- [Black Snowshoes](https://maplelegends.com/lib/equip?id=01072171)
+
+### Notes
+
+Carpenters are characterised and defined by their exclusive use of the Saw, a level 10 one-handed sword that requires its wielder to be a rogue.
+
 ## Permarogue
 
 Also known as: “Perma-rogue”, “Permathief”, “Perma-thief”
@@ -1235,7 +1281,7 @@ Permarogues are, like permarchers, very fragile, and again like permarchers, the
 
 ## STR Assassin
 
-Also known as: “STR Sin”, “Strength Assassin”, “STRlord”, “Strengthlord”, “STR Hermit”
+Also known as: “STR Sin”, “Strength Assassin”, “STRlord”, “Strengthlord”, “STRmit”, “STR Hermit”
 
 Possible job progressions:
 
@@ -1762,6 +1808,42 @@ Swashbucklers tend to be quite similar to woodsmen in their ability to effective
 
 Swashbucklers should note that Somersault Kick (and some other outlaw/corsair skills) does not vary in the nominal attacking “animation” that it uses; every attack is nominally a “stab”. Spears are, as a result, usually the best melee weapons for swashbucklers, because of the 5.0(!) primary stat multiplier on stabs. Accordingly, polearms should be avoided (3.0 primary stat multiplier). Swashbucklers should also note that Grenade (despite having nothing to do with your equipped weapon, and despite lacking an animation entirely) only works if a gun is equipped.
 
+## Bombadier
+
+Also known as: “Grenadier”, “Bomber”
+
+Possible job progressions:
+
+- Beginner → Pirate → Gunslinger → Outlaw → Corsair
+
+Primary stats: **DEX**, **STR**
+
+Power level: 🍏🍏
+
+Attacks:
+
+- \[basic attack\]
+- [Grenade](https://maplelegends.com/lib/skill?id=5201002)
+
+Notable skills:
+
+- [Gaviota](https://maplelegends.com/lib/skill?id=5211002)
+- [Bullet Time](https://maplelegends.com/lib/skill?id=5000000)
+- [Wings](https://maplelegends.com/lib/skill?id=5201005)
+- [Octopus](https://maplelegends.com/lib/skill?id=5211001)
+
+Notable equipment:
+
+- [Purple Snowshoes](https://maplelegends.com/lib/equip?id=01072338)
+
+### Notes
+
+The only restriction on this type of gunslinger is that they can only use grenade/bomb attacks, with the exception of basic attacking.
+
+Bombadiers who make it to fourth job can make use of Air Strike.
+
+Note that Grenade can only be used when a gun is equipped.
+
 ## Pistol-whipper
 
 Also known as: “Buffaloer”, “Buffalo”, “Buffalo Sair”, “Bulletless Gunslinger”, “Bulletless Slinger”, “Bulletless Outlaw”, “Bulletless Sair”
@@ -1797,4 +1879,37 @@ Notable equipment:
 The only restriction on this type of gunslinger is that they can only choose guns as their weapons, but cannot have bullets in their inventory (i.e. if their gun is used, it must only be used to pistol-whip). Other attacking skills — like e.g. Somersault Kick and Grenade — that have nothing specifically to do with guns are still usable, of course.
 
 Pistol-whippers can make better use of their third job summons than other varieties of outlaw/gunslinger.
+
+## Summoner
+
+Also known as: “Summoner Outlaw”, “Summoner Pirate”, “Summoner Sair”, “Summon Sair”, “Summoner Slinger”, “Summon Slinger”
+
+Possible job progressions:
+
+- Beginner → Pirate → Gunslinger → Outlaw → Corsair
+
+Primary stat: **DEX** | Secondary stat: STR
+
+Power level: 🍏🍏
+
+Attacks:
+
+- \[basic attack\]
+
+Notable skills:
+
+- [Octopus](https://maplelegends.com/lib/skill?id=5211001)
+- [Gaviota](https://maplelegends.com/lib/skill?id=5211002)
+- [Bullet Time](https://maplelegends.com/lib/skill?id=5000000)
+- [Wings](https://maplelegends.com/lib/skill?id=5201005)
+
+Notable equipment:
+
+- [Purple Snowshoes](https://maplelegends.com/lib/equip?id=01072338)
+
+### Notes
+
+The only restriction on this type of gunslinger is that they cannot use attacking skills (not including summons as attacking skills, of course). During third and fourth jobs, summoners are reliant on their summons. Before third job, summoners play essentially like more mobile DEX beginners
+
+Summoners who make it to fourth job can make use of Wrath of the Octopi.
 

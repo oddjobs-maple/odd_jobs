@@ -733,6 +733,7 @@ fn item_name(id: u32) -> Option<&'static str> {
         1092045 => "Maple Magician Shield",
         1092047 => "Maple Thief Shield",
         1302000 => "Sword",
+        1302001 => "Saw",
         1302016 => "Yellow Umbrella",
         1302017 => "Sky Blue Umbrella",
         1302026 => "Black Umbrella",

@@ -793,7 +793,9 @@
     {
       "name": "Woodsman",
       "aliases": [
+        "Woodswoman",
         "Woodman",
+        "Woodwoman",
         "Huntsman",
         "Forester",
         "STR Archer",
@@ -914,6 +916,42 @@
       ]
     },
     {
+      "name": "Carpenter",
+      "aliases": [
+        "Jigsaw Killer",
+        "Woodworker",
+        "Rogue Carpenter",
+        "Saw Rogue",
+        "Saw Thief"
+      ],
+      "progressions": [
+        [0, 400, 410, 411, 412],
+        [0, 400, 420, 421, 422]
+      ],
+      "location": null,
+      "primary_stats": ["STR"],
+      "secondary_stats": ["DEX"],
+      "stat_constraints": [],
+      "power_level": 1,
+      "attacks": [0, 4001002, 4201004, 4211006],
+      "notable_skills": [
+        4000000,
+        4001002,
+        4001003,
+        4201004,
+        4201003,
+        4111006,
+        4110000,
+        4111001,
+        4210000,
+        4211005
+      ],
+      "notable_equips": [1302001, 1092047, 1072171],
+      "notes": [
+        "Carpenters are characterised and defined by their exclusive use of the Saw, a level 10 one-handed sword that requires its wielder to be a rogue."
+      ]
+    },
+    {
       "name": "Permarogue",
       "aliases": ["Perma-rogue", "Permathief", "Perma-thief"],
       "progressions": [[0, 400]],
@@ -937,6 +975,7 @@
         "Strength Assassin",
         "STRlord",
         "Strengthlord",
+        "STRmit",
         "STR Hermit"
       ],
       "progressions": [[0, 400, 410, 411, 412]],
@@ -1320,6 +1359,24 @@
       ]
     },
     {
+      "name": "Bombadier",
+      "aliases": ["Grenadier", "Bomber"],
+      "progressions": [[0, 500, 520, 521, 522]],
+      "location": null,
+      "primary_stats": ["DEX", "STR"],
+      "secondary_stats": [],
+      "stat_constraints": [],
+      "power_level": 2,
+      "attacks": [0, 5201002],
+      "notable_skills": [5211002, 5000000, 5201005, 5211001],
+      "notable_equips": [1072338],
+      "notes": [
+        "The only restriction on this type of gunslinger is that they can only use grenade/bomb attacks, with the exception of basic attacking.",
+        "Bombadiers who make it to fourth job can make use of Air Strike.",
+        "Note that Grenade can only be used when a gun is equipped."
+      ]
+    },
+    {
       "name": "Pistol-whipper",
       "aliases": [
         "Buffaloer",
@@ -1342,6 +1399,30 @@
       "notes": [
         "The only restriction on this type of gunslinger is that they can only choose guns as their weapons, but cannot have bullets in their inventory (i.e. if their gun is used, it must only be used to pistol-whip). Other attacking skills — like e.g. Somersault Kick and Grenade — that have nothing specifically to do with guns are still usable, of course.",
         "Pistol-whippers can make better use of their third job summons than other varieties of outlaw/gunslinger."
+      ]
+    },
+    {
+      "name": "Summoner",
+      "aliases": [
+        "Summoner Outlaw",
+        "Summoner Pirate",
+        "Summoner Sair",
+        "Summon Sair",
+        "Summoner Slinger",
+        "Summon Slinger"
+      ],
+      "progressions": [[0, 500, 520, 521, 522]],
+      "location": null,
+      "primary_stats": ["DEX"],
+      "secondary_stats": ["STR"],
+      "stat_constraints": [],
+      "power_level": 2,
+      "attacks": [0],
+      "notable_skills": [5211001, 5211002, 5000000, 5201005],
+      "notable_equips": [1072338],
+      "notes": [
+        "The only restriction on this type of gunslinger is that they cannot use attacking skills (not including summons as attacking skills, of course). During third and fourth jobs, summoners are reliant on their summons. Before third job, summoners play essentially like more mobile DEX beginners",
+        "Summoners who make it to fourth job can make use of Wrath of the Octopi."
       ]
     }
   ]
