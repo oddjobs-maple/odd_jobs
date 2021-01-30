@@ -1794,6 +1794,7 @@ Notable skills:
 
 Notable equipment:
 
+- [Sky Ski](https://maplelegends.com/lib/equip?id=01432018)
 - [Pistol](https://maplelegends.com/lib/equip?id=01492000)
 - [Maple Gun](https://maplelegends.com/lib/equip?id=01492020)
 - [Maple Storm Pistol](https://maplelegends.com/lib/equip?id=01492021)

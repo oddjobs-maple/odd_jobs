@@ -822,6 +822,7 @@ fn item_name(id: u32) -> Option<&'static str> {
         1422029 => "Maple Belzet",
         1432000 => "Spear",
         1432012 => "Maple Impaler",
+        1432018 => "Sky Ski",
         1432040 => "Maple Soul Spear",
         1442000 => "Pole Arm",
         1442012 => "Sky Snowboard",
