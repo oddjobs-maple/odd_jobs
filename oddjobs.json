@@ -237,7 +237,7 @@
     },
     {
       "name": "LUK Warrior",
-      "aliases": [],
+      "aliases": ["LUK Swordman", "Pure LUK Warrior"],
       "progressions": [
         [0, 100, 110, 111, 112],
         [0, 100, 120, 121, 122],
@@ -362,7 +362,7 @@
     },
     {
       "name": "DEX Warrior",
-      "aliases": [],
+      "aliases": ["STRless Warrior", "DEX Swordman"],
       "progressions": [
         [0, 100, 110, 111, 112],
         [0, 100, 120, 121, 122],
@@ -413,7 +413,24 @@
         1422000,
         1432000,
         1442000,
+        1442006,
+        1402018,
+        1322000,
+        1322010,
+        1432001,
         1332006,
+        1442007,
+        1302006,
+        1322002,
+        1322011,
+        1422006,
+        1332008,
+        1442004,
+        1302003,
+        1322004,
+        1422004,
+        1332010,
+        1332009,
         1412011,
         1422014,
         1432012,
@@ -431,7 +448,7 @@
         1402037
       ],
       "notes": [
-        "DEX warriors are essentially a stronger variant of LUK warriors, because DEX actually contributes somewhat (although not nearly as much as STR) to their damage, unlike LUK.",
+        "DEX warriors are essentially a stronger variant of LUK warriors, because DEX actually contributes somewhat (although not nearly as much as STR) to their damage, unlike LUK. However, each point of DEX only contributes half as much AVOID as each point of LUK, so the DEX warrior is defensively inferior.",
         "DEX warriors are also notable for their ability to easily equip the Stonetooth Sword, a level 100 warrior-only two-handed sword that requires at least 120 DEX (but only 0 STR) to equip. The Stonetooth Sword is a viable and sought-after endgame weapon even for normal warriors."
       ]
     },
@@ -797,6 +814,7 @@
         "Woodman",
         "Woodwoman",
         "Huntsman",
+        "Huntswoman",
         "Forester",
         "STR Archer",
         "Strength Archer",
@@ -846,7 +864,9 @@
         1402001,
         1412001,
         1422000,
+        1432001,
         1422004,
+        1442004,
         1072170
       ],
       "notes": [
@@ -998,9 +1018,17 @@
         4111003
       ],
       "notable_equips": [
+        1302001,
         1402001,
         1412001,
         1422000,
+        1432001,
+        1322010,
+        1302006,
+        1422006,
+        1322011,
+        1302003,
+        1442004,
         1422004,
         1332025,
         1332056,
@@ -1144,9 +1172,17 @@
         4210000
       ],
       "notable_equips": [
+        1302001,
         1402001,
         1412001,
         1422000,
+        1432001,
+        1322010,
+        1302006,
+        1422006,
+        1322011,
+        1302003,
+        1442004,
         1422004,
         1332025,
         1332056,

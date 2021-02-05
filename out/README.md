@@ -402,6 +402,8 @@ Shout is known to work with a wand equipped.
 
 ## LUK Warrior
 
+Also known as: “LUK Swordman”, “Pure LUK Warrior”
+
 Possible job progressions:
 
 - Beginner → Warrior → Fighter → Crusader → Hero
@@ -543,6 +545,8 @@ Shout is known to work with a dagger equipped.
 
 ## DEX Warrior
 
+Also known as: “STRless Warrior”, “DEX Swordman”
+
 Possible job progressions:
 
 - Beginner → Warrior → Fighter → Crusader → Hero
@@ -600,7 +604,24 @@ Notable equipment:
 - [Wooden Mallet](https://maplelegends.com/lib/equip?id=01422000)
 - [Spear](https://maplelegends.com/lib/equip?id=01432000)
 - [Pole Arm](https://maplelegends.com/lib/equip?id=01442000)
+- [Iron Ball](https://maplelegends.com/lib/equip?id=01442006)
+- [Wooden Samurai Sword](https://maplelegends.com/lib/equip?id=01402018)
+- [Mace](https://maplelegends.com/lib/equip?id=01322000)
+- [Square Shovel](https://maplelegends.com/lib/equip?id=01322010)
+- [Fork on a Stick](https://maplelegends.com/lib/equip?id=01432001)
 - [Field Dagger](https://maplelegends.com/lib/equip?id=01332006)
+- [Studded Polearm](https://maplelegends.com/lib/equip?id=01442007)
+- [Machete](https://maplelegends.com/lib/equip?id=01302006)
+- [Iron Mace](https://maplelegends.com/lib/equip?id=01322002)
+- [Pointed Shovel](https://maplelegends.com/lib/equip?id=01322011)
+- [Pickaxe](https://maplelegends.com/lib/equip?id=01422006)
+- [Coconut Knife](https://maplelegends.com/lib/equip?id=01332008)
+- [Janitor’s Mop](https://maplelegends.com/lib/equip?id=01442004)
+- [Eloon](https://maplelegends.com/lib/equip?id=01302003)
+- [Fusion Mace](https://maplelegends.com/lib/equip?id=01322004)
+- [Monkey Wrench](https://maplelegends.com/lib/equip?id=01422004)
+- [Iron Dagger](https://maplelegends.com/lib/equip?id=01332010)
+- [Cass](https://maplelegends.com/lib/equip?id=01332009)
 - [Maple Dragon Axe](https://maplelegends.com/lib/equip?id=01412011)
 - [Maple Doom Singer](https://maplelegends.com/lib/equip?id=01422014)
 - [Maple Impaler](https://maplelegends.com/lib/equip?id=01432012)
@@ -619,7 +640,7 @@ Notable equipment:
 
 ### Notes
 
-DEX warriors are essentially a stronger variant of LUK warriors, because DEX actually contributes somewhat (although not nearly as much as STR) to their damage, unlike LUK.
+DEX warriors are essentially a stronger variant of LUK warriors, because DEX actually contributes somewhat (although not nearly as much as STR) to their damage, unlike LUK. However, each point of DEX only contributes half as much AVOID as each point of LUK, so the DEX warrior is defensively inferior.
 
 DEX warriors are also notable for their ability to easily equip the Stonetooth Sword, a level 100 warrior-only two-handed sword that requires at least 120 DEX (but only 0 STR) to equip. The Stonetooth Sword is a viable and sought-after endgame weapon even for normal warriors.
 
@@ -1054,7 +1075,7 @@ Permarchers can achieve very high single-target DPS by combining Double Shot wit
 
 ## Woodsman
 
-Also known as: “Woodswoman”, “Woodman”, “Woodwoman”, “Huntsman”, “Forester”, “STR Archer”, “Strength Archer”, “DEXless Archer”
+Also known as: “Woodswoman”, “Woodman”, “Woodwoman”, “Huntsman”, “Huntswoman”, “Forester”, “STR Archer”, “Strength Archer”, “DEXless Archer”
 
 Possible job progressions:
 
@@ -1107,7 +1128,9 @@ Notable equipment:
 - [Wooden Sword](https://maplelegends.com/lib/equip?id=01402001)
 - [Metal Axe](https://maplelegends.com/lib/equip?id=01412001)
 - [Wooden Mallet](https://maplelegends.com/lib/equip?id=01422000)
+- [Fork on a Stick](https://maplelegends.com/lib/equip?id=01432001)
 - [Monkey Wrench](https://maplelegends.com/lib/equip?id=01422004)
+- [Janitor’s Mop](https://maplelegends.com/lib/equip?id=01442004)
 - [Green Snowshoes](https://maplelegends.com/lib/equip?id=01072170)
 
 ### Notes
@@ -1320,9 +1343,17 @@ Notable skills:
 
 Notable equipment:
 
+- [Saw](https://maplelegends.com/lib/equip?id=01302001)
 - [Wooden Sword](https://maplelegends.com/lib/equip?id=01402001)
 - [Metal Axe](https://maplelegends.com/lib/equip?id=01412001)
 - [Wooden Mallet](https://maplelegends.com/lib/equip?id=01422000)
+- [Fork on a Stick](https://maplelegends.com/lib/equip?id=01432001)
+- [Square Shovel](https://maplelegends.com/lib/equip?id=01322010)
+- [Machete](https://maplelegends.com/lib/equip?id=01302006)
+- [Pickaxe](https://maplelegends.com/lib/equip?id=01422006)
+- [Pointed Shovel](https://maplelegends.com/lib/equip?id=01322011)
+- [Eloon](https://maplelegends.com/lib/equip?id=01302003)
+- [Janitor’s Mop](https://maplelegends.com/lib/equip?id=01442004)
 - [Monkey Wrench](https://maplelegends.com/lib/equip?id=01422004)
 - [Maple Wagner](https://maplelegends.com/lib/equip?id=01332025)
 - [Maple Asura Dagger](https://maplelegends.com/lib/equip?id=01332056)
@@ -1517,9 +1548,17 @@ Notable skills:
 
 Notable equipment:
 
+- [Saw](https://maplelegends.com/lib/equip?id=01302001)
 - [Wooden Sword](https://maplelegends.com/lib/equip?id=01402001)
 - [Metal Axe](https://maplelegends.com/lib/equip?id=01412001)
 - [Wooden Mallet](https://maplelegends.com/lib/equip?id=01422000)
+- [Fork on a Stick](https://maplelegends.com/lib/equip?id=01432001)
+- [Square Shovel](https://maplelegends.com/lib/equip?id=01322010)
+- [Machete](https://maplelegends.com/lib/equip?id=01302006)
+- [Pickaxe](https://maplelegends.com/lib/equip?id=01422006)
+- [Pointed Shovel](https://maplelegends.com/lib/equip?id=01322011)
+- [Eloon](https://maplelegends.com/lib/equip?id=01302003)
+- [Janitor’s Mop](https://maplelegends.com/lib/equip?id=01442004)
 - [Monkey Wrench](https://maplelegends.com/lib/equip?id=01422004)
 - [Maple Wagner](https://maplelegends.com/lib/equip?id=01332025)
 - [Maple Asura Dagger](https://maplelegends.com/lib/equip?id=01332056)
