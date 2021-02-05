@@ -462,6 +462,16 @@ Notable equipment:
 - [Wooden Mallet](https://maplelegends.com/lib/equip?id=01422000)
 - [Spear](https://maplelegends.com/lib/equip?id=01432000)
 - [Pole Arm](https://maplelegends.com/lib/equip?id=01442000)
+- [Iron Ball](https://maplelegends.com/lib/equip?id=01442006)
+- [Wooden Samurai Sword](https://maplelegends.com/lib/equip?id=01402018)
+- [Mace](https://maplelegends.com/lib/equip?id=01322000)
+- [Fork on a Stick](https://maplelegends.com/lib/equip?id=01432001)
+- [Studded Polearm](https://maplelegends.com/lib/equip?id=01442007)
+- [Iron Mace](https://maplelegends.com/lib/equip?id=01322002)
+- [Pickaxe](https://maplelegends.com/lib/equip?id=01422006)
+- [Janitor’s Mop](https://maplelegends.com/lib/equip?id=01442004)
+- [Fusion Mace](https://maplelegends.com/lib/equip?id=01322004)
+- [Monkey Wrench](https://maplelegends.com/lib/equip?id=01422004)
 - [Maple Dragon Axe](https://maplelegends.com/lib/equip?id=01412011)
 - [Maple Doom Singer](https://maplelegends.com/lib/equip?id=01422014)
 - [Maple Impaler](https://maplelegends.com/lib/equip?id=01432012)
@@ -1314,7 +1324,6 @@ Primary stat: **STR** | Secondary stats: DEX, LUK
 
 Stat constraints:
 
-- DEX = 25
 - LUK = 4
 
 Power level: 🍏🍏
@@ -1524,7 +1533,6 @@ Primary stat: **STR** | Secondary stats: DEX, LUK
 
 Stat constraints:
 
-- DEX = 25
 - LUK = 4
 
 Power level: 🍏🍏
