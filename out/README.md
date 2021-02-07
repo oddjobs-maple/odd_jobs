@@ -1667,7 +1667,7 @@ Although LUK buccs may have a sing-songy name, they are quite rare, since their 
 
 ## DEX Brawler
 
-Also known as: “Dexaneer”, “DEX Marauder”, “DEX Buccaneer”, “DEX Bucc”
+Also known as: “DEXaneer”, “STRless Brawler”, “DEX Marauder”, “DEX Buccaneer”, “DEX Bucc”, “STRless Bucc”
 
 Possible job progressions:
 
@@ -1763,7 +1763,7 @@ Notable equipment:
 
 Pugilists are bare-handed at all times. They never use weapons nor shields.
 
-Besides the restriction on weapons/shields, pugilists are typically unconstrained, although they can of course be mixed with other odd jobs, like DEX Brawler.
+Besides the restriction on weapons/shields, pugilists are typically unconstrained, although they can of course be mixed with other odd jobs, like DEX brawler.
 
 All first, second, third, and fourth job brawler skills can be used without a weapon, with two notable exceptions: Knuckle Mastery and Knuckle Booster.
 

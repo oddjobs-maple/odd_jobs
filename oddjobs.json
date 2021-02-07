@@ -1268,7 +1268,7 @@
     },
     {
       "name": "DEX Brawler",
-      "aliases": ["Dexaneer", "DEX Marauder", "DEX Buccaneer", "DEX Bucc"],
+      "aliases": ["DEXaneer", "STRless Brawler", "DEX Marauder", "DEX Buccaneer", "DEX Bucc", "STRless Bucc"],
       "progressions": [[0, 500, 510, 511, 512]],
       "location": null,
       "primary_stats": ["DEX", "STR"],
@@ -1342,7 +1342,7 @@
       "notable_equips": [1072338],
       "notes": [
         "Pugilists are bare-handed at all times. They never use weapons nor shields.",
-        "Besides the restriction on weapons/shields, pugilists are typically unconstrained, although they can of course be mixed with other odd jobs, like DEX Brawler.",
+        "Besides the restriction on weapons/shields, pugilists are typically unconstrained, although they can of course be mixed with other odd jobs, like DEX brawler.",
         "All first, second, third, and fourth job brawler skills can be used without a weapon, with two notable exceptions: Knuckle Mastery and Knuckle Booster.",
         "The damage formula for bare-handed attacks can be found within Ayumilove\u2019s MapleStory Formula Compilation. The base speed (that is, sans Speed Infusion) of bare-handed attacks is 4."
       ]
