@@ -1231,7 +1231,12 @@ Notable skills:
 Notable equipment:
 
 - [Scythe](https://maplelegends.com/lib/equip?id=01312002)
+- [Seclusion Wristguard](https://maplelegends.com/lib/equip?id=01092018)
+- [Nimble Wristguard](https://maplelegends.com/lib/equip?id=01092019)
+- [Jurgen Wristguard](https://maplelegends.com/lib/equip?id=01092020)
 - [Maple Thief Shield](https://maplelegends.com/lib/equip?id=01092047)
+- [Khanjar](https://maplelegends.com/lib/equip?id=01092050)
+- [Dragon Khanjar](https://maplelegends.com/lib/equip?id=01092049)
 - [Black Snowshoes](https://maplelegends.com/lib/equip?id=01072171)
 
 ### Notes
@@ -1274,7 +1279,12 @@ Notable skills:
 Notable equipment:
 
 - [Saw](https://maplelegends.com/lib/equip?id=01302001)
+- [Seclusion Wristguard](https://maplelegends.com/lib/equip?id=01092018)
+- [Nimble Wristguard](https://maplelegends.com/lib/equip?id=01092019)
+- [Jurgen Wristguard](https://maplelegends.com/lib/equip?id=01092020)
 - [Maple Thief Shield](https://maplelegends.com/lib/equip?id=01092047)
+- [Khanjar](https://maplelegends.com/lib/equip?id=01092050)
+- [Dragon Khanjar](https://maplelegends.com/lib/equip?id=01092049)
 - [Black Snowshoes](https://maplelegends.com/lib/equip?id=01072171)
 
 ### Notes
@@ -1364,16 +1374,18 @@ Notable equipment:
 - [Eloon](https://maplelegends.com/lib/equip?id=01302003)
 - [Janitor’s Mop](https://maplelegends.com/lib/equip?id=01442004)
 - [Monkey Wrench](https://maplelegends.com/lib/equip?id=01422004)
-- [Maple Wagner](https://maplelegends.com/lib/equip?id=01332025)
-- [Maple Asura Dagger](https://maplelegends.com/lib/equip?id=01332056)
-- [Maple Dark Mate](https://maplelegends.com/lib/equip?id=01332055)
 - [Magical Mitten](https://maplelegends.com/lib/equip?id=01472063)
 - [Garnier](https://maplelegends.com/lib/equip?id=01472000)
 - [Maple Claw](https://maplelegends.com/lib/equip?id=01472030)
 - [Maple Kandayo](https://maplelegends.com/lib/equip?id=01472032)
 - [Shinobi Bracer](https://maplelegends.com/lib/equip?id=01472054)
 - [Maple Skanda](https://maplelegends.com/lib/equip?id=01472055)
+- [Seclusion Wristguard](https://maplelegends.com/lib/equip?id=01092018)
+- [Nimble Wristguard](https://maplelegends.com/lib/equip?id=01092019)
+- [Jurgen Wristguard](https://maplelegends.com/lib/equip?id=01092020)
 - [Maple Thief Shield](https://maplelegends.com/lib/equip?id=01092047)
+- [Khanjar](https://maplelegends.com/lib/equip?id=01092050)
+- [Dragon Khanjar](https://maplelegends.com/lib/equip?id=01092049)
 - [Black Snowshoes](https://maplelegends.com/lib/equip?id=01072171)
 
 ### Notes
@@ -1416,7 +1428,12 @@ Notable skills:
 
 Notable equipment:
 
+- [Seclusion Wristguard](https://maplelegends.com/lib/equip?id=01092018)
+- [Nimble Wristguard](https://maplelegends.com/lib/equip?id=01092019)
+- [Jurgen Wristguard](https://maplelegends.com/lib/equip?id=01092020)
 - [Maple Thief Shield](https://maplelegends.com/lib/equip?id=01092047)
+- [Khanjar](https://maplelegends.com/lib/equip?id=01092050)
+- [Dragon Khanjar](https://maplelegends.com/lib/equip?id=01092049)
 - [Black Snowshoes](https://maplelegends.com/lib/equip?id=01072171)
 
 ### Notes
@@ -1568,10 +1585,12 @@ Notable equipment:
 - [Eloon](https://maplelegends.com/lib/equip?id=01302003)
 - [Janitor’s Mop](https://maplelegends.com/lib/equip?id=01442004)
 - [Monkey Wrench](https://maplelegends.com/lib/equip?id=01422004)
-- [Maple Wagner](https://maplelegends.com/lib/equip?id=01332025)
-- [Maple Asura Dagger](https://maplelegends.com/lib/equip?id=01332056)
-- [Maple Dark Mate](https://maplelegends.com/lib/equip?id=01332055)
+- [Seclusion Wristguard](https://maplelegends.com/lib/equip?id=01092018)
+- [Nimble Wristguard](https://maplelegends.com/lib/equip?id=01092019)
+- [Jurgen Wristguard](https://maplelegends.com/lib/equip?id=01092020)
 - [Maple Thief Shield](https://maplelegends.com/lib/equip?id=01092047)
+- [Khanjar](https://maplelegends.com/lib/equip?id=01092050)
+- [Dragon Khanjar](https://maplelegends.com/lib/equip?id=01092049)
 - [Black Snowshoes](https://maplelegends.com/lib/equip?id=01072171)
 
 ### Notes

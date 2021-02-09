@@ -940,7 +940,16 @@
         4210000,
         4211005
       ],
-      "notable_equips": [1312002, 1092047, 1072171],
+      "notable_equips": [
+        1312002,
+        1092018,
+        1092019,
+        1092020,
+        1092047,
+        1092050,
+        1092049,
+        1072171
+      ],
       "notes": [
         "Grim reapers are characterised and defined by their exclusive use of the Scythe, a level 15 one-handed axe that requires its wielder to be a rogue and to have at least 35 LUK and 30 DEX."
       ]
@@ -976,7 +985,16 @@
         4210000,
         4211005
       ],
-      "notable_equips": [1302001, 1092047, 1072171],
+      "notable_equips": [
+        1302001,
+        1092018,
+        1092019,
+        1092020,
+        1092047,
+        1092050,
+        1092049,
+        1072171
+      ],
       "notes": [
         "Carpenters are characterised and defined by their exclusive use of the Saw, a level 10 one-handed sword that requires its wielder to be a rogue."
       ]
@@ -1040,16 +1058,18 @@
         1302003,
         1442004,
         1422004,
-        1332025,
-        1332056,
-        1332055,
         1472063,
         1472000,
         1472030,
         1472032,
         1472054,
         1472055,
+        1092018,
+        1092019,
+        1092020,
         1092047,
+        1092050,
+        1092049,
         1072171
       ],
       "notes": [
@@ -1085,7 +1105,15 @@
         4111001,
         4111003
       ],
-      "notable_equips": [1092047, 1072171],
+      "notable_equips": [
+        1092018,
+        1092019,
+        1092020,
+        1092047,
+        1092050,
+        1092049,
+        1072171
+      ],
       "notes": [
         "Dagger assassins are, as the name implies, only allowed to use daggers as their weapons.",
         "Dagger assassins play as ordinary proto-bandits during first job, but diverge considerably from bandits beyond that point. Dagger assassins never get access to mastery nor booster, and permanently lack any \u201cserious\u201d attacking skill; Double Stab is extremely short-reach, single-target, and is not designed to scale well past first job (unlike Lucky Seven). Dagger assassins still, however, get access to Haste during second job, and get access to useful third job skills like Alchemist, Meso Up, and most importantly: Flash Jump."
@@ -1194,10 +1222,12 @@
         1302003,
         1442004,
         1422004,
-        1332025,
-        1332056,
-        1332055,
+        1092018,
+        1092019,
+        1092020,
         1092047,
+        1092050,
+        1092049,
         1072171
       ],
       "notes": [
@@ -1268,7 +1298,14 @@
     },
     {
       "name": "DEX Brawler",
-      "aliases": ["DEXaneer", "STRless Brawler", "DEX Marauder", "DEX Buccaneer", "DEX Bucc", "STRless Bucc"],
+      "aliases": [
+        "DEXaneer",
+        "STRless Brawler",
+        "DEX Marauder",
+        "DEX Buccaneer",
+        "DEX Bucc",
+        "STRless Bucc"
+      ],
       "progressions": [[0, 500, 510, 511, 512]],
       "location": null,
       "primary_stats": ["DEX", "STR"],
