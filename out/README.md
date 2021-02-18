@@ -1604,7 +1604,7 @@ Brigands essentially play like more mobile permabeginners, with some neato utili
 
 ## LUKless Bandit
 
-Also known as: “LUKless Dit”, “LUKless Shadower”, “DEXdit”, “DEX Dit”, “DEX Bandit”, “DEX Shadower”
+Also known as: “LUKless Dit”, “LUKless Shadower”, “Unfortundit”, “DEXdit”, “DEX Dit”, “DEX Bandit”, “DEX Shadower”
 
 Possible job progressions:
 
