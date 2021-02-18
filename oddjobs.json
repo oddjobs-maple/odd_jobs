@@ -100,7 +100,7 @@
       "progressions": [[0]],
       "location": null,
       "primary_stats": ["LUK"],
-      "secondary_stats": [],
+      "secondary_stats": ["DEX", "STR"],
       "stat_constraints": [],
       "power_level": 1,
       "attacks": [0],
@@ -114,7 +114,14 @@
     },
     {
       "name": "Permabeginner",
-      "aliases": ["Permanoob", "Perma", "Permanoblesse", "Permalegend"],
+      "aliases": [
+        "Permanoob",
+        "Perma",
+        "STRginner",
+        "Ginner",
+        "Permanoblesse",
+        "Permalegend"
+      ],
       "progressions": [[0]],
       "location": null,
       "primary_stats": ["STR"],
@@ -1298,7 +1305,8 @@
       "notes": [
         "LUKless bandits have perhaps the most stable damage in the game; with maxed Dagger Mastery and maxed Savage Blow, the total amount of damage dealt per Savage Blow is effectively constant.",
         "LUKless bandits tend to have much more WACC than their LUK-based counterparts, because each point of DEX contributes twice as much WACC as each point of LUK.",
-        "LUKless bandits tend to use similar weaponry to dagger warriors, because both are LUKless dagger-users, and because there are so many LUKless daggers made specifically for both warriors and rogues."
+        "LUKless bandits tend to use similar weaponry to dagger warriors, because both are LUKless dagger-users, and because there are so many LUKless daggers made specifically for both warriors and rogues.",
+        "LUKless bandits who are truly pure DEX (4 base STR, in addition to the 4 base LUK) constitute their own subspecies, the “pure DEXdit”."
       ]
     },
     {

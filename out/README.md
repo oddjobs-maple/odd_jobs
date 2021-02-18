@@ -210,7 +210,7 @@ Possible job progressions:
 
 - Beginner
 
-Primary stat: **LUK**
+Primary stat: **LUK** | Secondary stats: DEX, STR
 
 Power level: 🍏
 
@@ -232,7 +232,7 @@ Besinners do worse damage than their ordinary (STR-based) permabeginner counterp
 
 ## Permabeginner
 
-Also known as: “Permanoob”, “Perma”, “Permanoblesse”, “Permalegend”
+Also known as: “Permanoob”, “Perma”, “STRginner”, “Ginner”, “Permanoblesse”, “Permalegend”
 
 Possible job progressions:
 
@@ -1676,6 +1676,8 @@ LUKless bandits have perhaps the most stable damage in the game; with maxed Dagg
 LUKless bandits tend to have much more WACC than their LUK-based counterparts, because each point of DEX contributes twice as much WACC as each point of LUK.
 
 LUKless bandits tend to use similar weaponry to dagger warriors, because both are LUKless dagger-users, and because there are so many LUKless daggers made specifically for both warriors and rogues.
+
+LUKless bandits who are truly pure DEX (4 base STR, in addition to the 4 base LUK) constitute their own subspecies, the “pure DEXdit”.
 
 ## Permapirate
 
