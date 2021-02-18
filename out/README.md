@@ -57,6 +57,7 @@ three possible power levels, which are as follows:
 - [Claw-puncher](#claw-puncher)
 - [Blood Bandit](#blood-bandit)
 - [Brigand](#brigand)
+- [LUKless Bandit](#lukless-bandit)
 - [Permapirate](#permapirate)
 - [LUK Bucc](#luk-bucc)
 - [DEX Brawler](#dex-brawler)
@@ -539,6 +540,7 @@ Notable equipment:
 - [Liu Bei Dagger](https://maplelegends.com/lib/equip?id=01332029)
 - [Serpent’s Coil](https://maplelegends.com/lib/equip?id=01332017)
 - [Fan](https://maplelegends.com/lib/equip?id=01332030)
+- [Golden River](https://maplelegends.com/lib/equip?id=01332019)
 - [Kebob](https://maplelegends.com/lib/equip?id=01332053)
 - [Angelic Betrayal](https://maplelegends.com/lib/equip?id=01332022)
 - [Cursayer](https://maplelegends.com/lib/equip?id=01332026)
@@ -1529,7 +1531,6 @@ Notable equipment:
 - [Liu Bei Dagger](https://maplelegends.com/lib/equip?id=01332029)
 - [Maple Asura Dagger](https://maplelegends.com/lib/equip?id=01332056)
 - [Maple Dark Mate](https://maplelegends.com/lib/equip?id=01332055)
-- [Fan](https://maplelegends.com/lib/equip?id=01332030)
 - [Kebob](https://maplelegends.com/lib/equip?id=01332053)
 - [Maple Thief Shield](https://maplelegends.com/lib/equip?id=01092047)
 - [Black Snowshoes](https://maplelegends.com/lib/equip?id=01072171)
@@ -1600,6 +1601,81 @@ Brigands cannot put any SP into stabbing skills, like Double Stab. Steal and Dis
 The brigand experience can vary considerably, depending on the particular implementation of Steal. Some versions make Steal a stabbing skill, requiring the user to have a dagger equipped!
 
 Brigands essentially play like more mobile permabeginners, with some neato utility skills, to boot. Later, brigands get access to a radically different attacking skill: Meso Explosion.
+
+## LUKless Bandit
+
+Also known as: “LUKless Dit”, “LUKless Shadower”, “DEXdit”, “DEX Dit”, “DEX Bandit”, “DEX Shadower”
+
+Possible job progressions:
+
+- Beginner → Rogue → Bandit → Chief Bandit → Shadower
+
+Primary stat: **DEX** | Secondary stats: STR, LUK
+
+Stat constraints:
+
+- LUK = 4
+
+Power level: 🍏🍏🍏
+
+Attacks:
+
+- [Double Stab](https://maplelegends.com/lib/skill?id=4001334)
+- [Savage Blow](https://maplelegends.com/lib/skill?id=4201005)
+- [Band of Thieves](https://maplelegends.com/lib/skill?id=4211004)
+- [Meso Explosion](https://maplelegends.com/lib/skill?id=4211006)
+- [Assaulter](https://maplelegends.com/lib/skill?id=4211002)
+
+Notable skills:
+
+- [Nimble Body](https://maplelegends.com/lib/skill?id=4000000)
+- [Disorder](https://maplelegends.com/lib/skill?id=4001002)
+- [Dark Sight](https://maplelegends.com/lib/skill?id=4001003)
+- [Steal](https://maplelegends.com/lib/skill?id=4201004)
+- [Haste](https://maplelegends.com/lib/skill?id=4201003)
+- [Meso Guard](https://maplelegends.com/lib/skill?id=4211005)
+- [Shield Mastery](https://maplelegends.com/lib/skill?id=4210000)
+
+Notable equipment:
+
+- [Fruit Knife](https://maplelegends.com/lib/equip?id=01332007)
+- [Christmas Tree](https://maplelegends.com/lib/equip?id=01332032)
+- [Field Dagger](https://maplelegends.com/lib/equip?id=01332006)
+- [Coconut Knife](https://maplelegends.com/lib/equip?id=01332008)
+- [Iron Dagger](https://maplelegends.com/lib/equip?id=01332010)
+- [Cass](https://maplelegends.com/lib/equip?id=01332009)
+- [Korean Fan](https://maplelegends.com/lib/equip?id=01332020)
+- [Bazlud](https://maplelegends.com/lib/equip?id=01332011)
+- [Plastic Bottle](https://maplelegends.com/lib/equip?id=01332021)
+- [Maple Wagner](https://maplelegends.com/lib/equip?id=01332025)
+- [Sai](https://maplelegends.com/lib/equip?id=01332016)
+- [Liu Bei Dagger](https://maplelegends.com/lib/equip?id=01332029)
+- [Bushido](https://maplelegends.com/lib/equip?id=01332024)
+- [Serpent’s Coil](https://maplelegends.com/lib/equip?id=01332017)
+- [Maple Asura Dagger](https://maplelegends.com/lib/equip?id=01332056)
+- [Maple Dark Mate](https://maplelegends.com/lib/equip?id=01332055)
+- [Fan](https://maplelegends.com/lib/equip?id=01332030)
+- [Golden River](https://maplelegends.com/lib/equip?id=01332019)
+- [Kebob](https://maplelegends.com/lib/equip?id=01332053)
+- [Angelic Betrayal](https://maplelegends.com/lib/equip?id=01332022)
+- [Cursayer](https://maplelegends.com/lib/equip?id=01332026)
+- [Gold Double Knife](https://maplelegends.com/lib/equip?id=01332051)
+- [Dragon Kanzir](https://maplelegends.com/lib/equip?id=01332049)
+- [Seclusion Wristguard](https://maplelegends.com/lib/equip?id=01092018)
+- [Nimble Wristguard](https://maplelegends.com/lib/equip?id=01092019)
+- [Jurgen Wristguard](https://maplelegends.com/lib/equip?id=01092020)
+- [Maple Thief Shield](https://maplelegends.com/lib/equip?id=01092047)
+- [Khanjar](https://maplelegends.com/lib/equip?id=01092050)
+- [Dragon Khanjar](https://maplelegends.com/lib/equip?id=01092049)
+- [Black Snowshoes](https://maplelegends.com/lib/equip?id=01072171)
+
+### Notes
+
+LUKless bandits have perhaps the most stable damage in the game; with maxed Dagger Mastery and maxed Savage Blow, the total amount of damage dealt per Savage Blow is effectively constant.
+
+LUKless bandits tend to have much more WACC than their LUK-based counterparts, because each point of DEX contributes twice as much WACC as each point of LUK.
+
+LUKless bandits tend to use similar weaponry to dagger warriors, because both are LUKless dagger-users, and because there are so many LUKless daggers made specifically for both warriors and rogues.
 
 ## Permapirate
 
@@ -1740,7 +1816,7 @@ DEX brawlers actually have the highest AVOID in the game, due to the fact that b
 
 ## Pugilist
 
-Also known as: “Prizefighter”, “Bare-knuckle boxer”, “Bare-knuckle fighter”, “Weaponless Brawler”
+Also known as: “Monk”, “Prizefighter”, “Bare-knuckle boxer”, “Bare-knuckle fighter”, “Bare-handed fighter”, “Weaponless Brawler”
 
 Possible job progressions:
 
