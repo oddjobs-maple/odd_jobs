@@ -8,6 +8,7 @@
       "primary_stats": ["STR", "DEX"],
       "secondary_stats": [],
       "stat_constraints": [],
+      "allowed_weapons": null,
       "power_level": 1,
       "attacks": [0],
       "notable_skills": [],
@@ -27,6 +28,7 @@
       "primary_stats": ["STR", "DEX"],
       "secondary_stats": ["INT", "LUK"],
       "stat_constraints": [],
+      "allowed_weapons": [137, 138],
       "power_level": 1,
       "attacks": [0, 1000],
       "notable_skills": [],
@@ -58,6 +60,7 @@
       "primary_stats": ["STR"],
       "secondary_stats": ["DEX", "INT", "LUK"],
       "stat_constraints": [],
+      "allowed_weapons": [137, 138],
       "power_level": 1,
       "attacks": [0],
       "notable_skills": [],
@@ -74,6 +77,7 @@
       "primary_stats": ["STR", "DEX"],
       "secondary_stats": ["LUK"],
       "stat_constraints": [],
+      "allowed_weapons": null,
       "power_level": 1,
       "attacks": [0, 1000],
       "notable_skills": [],
@@ -102,6 +106,7 @@
       "primary_stats": ["LUK"],
       "secondary_stats": ["DEX", "STR"],
       "stat_constraints": [],
+      "allowed_weapons": [147],
       "power_level": 1,
       "attacks": [0],
       "notable_skills": [],
@@ -127,6 +132,7 @@
       "primary_stats": ["STR"],
       "secondary_stats": ["DEX"],
       "stat_constraints": [],
+      "allowed_weapons": null,
       "power_level": 1,
       "attacks": [0],
       "notable_skills": [],
@@ -153,6 +159,7 @@
       "primary_stats": ["DEX", "STR"],
       "secondary_stats": [],
       "stat_constraints": ["STR = 4"],
+      "allowed_weapons": null,
       "power_level": 1,
       "attacks": [0],
       "notable_skills": [],
@@ -170,6 +177,7 @@
       "primary_stats": ["STR"],
       "secondary_stats": ["DEX"],
       "stat_constraints": [],
+      "allowed_weapons": null,
       "power_level": 3,
       "attacks": [1001004, 1001005],
       "notable_skills": [1000001],
@@ -190,6 +198,7 @@
       "primary_stats": ["HP"],
       "secondary_stats": ["STR", "DEX"],
       "stat_constraints": ["STR = 35", "DEX = 4", "LUK = 4"],
+      "allowed_weapons": null,
       "power_level": 2,
       "attacks": [1101007, 1001004, 1001005],
       "notable_skills": [
@@ -220,6 +229,7 @@
       "primary_stats": ["STR", "DEX"],
       "secondary_stats": ["LUK", "INT"],
       "stat_constraints": [],
+      "allowed_weapons": [137, 138],
       "power_level": 2,
       "attacks": [1001004, 1001005, 1101007],
       "notable_skills": [
@@ -254,6 +264,7 @@
       "primary_stats": ["LUK", "STR"],
       "secondary_stats": ["DEX"],
       "stat_constraints": ["STR = 35", "DEX = 4"],
+      "allowed_weapons": null,
       "power_level": 2,
       "attacks": [
         1001004,
@@ -337,6 +348,7 @@
       "primary_stats": ["STR", "DEX"],
       "secondary_stats": [],
       "stat_constraints": [],
+      "allowed_weapons": [133],
       "power_level": 3,
       "attacks": [1001004, 1001005, 1101007],
       "notable_skills": [
@@ -390,6 +402,7 @@
       "primary_stats": ["DEX", "STR"],
       "secondary_stats": [],
       "stat_constraints": ["STR = 35"],
+      "allowed_weapons": null,
       "power_level": 3,
       "attacks": [
         1001004,
@@ -482,6 +495,7 @@
       "primary_stats": ["STR"],
       "secondary_stats": ["DEX", "INT", "LUK"],
       "stat_constraints": ["INT = 20", "LUK = 4"],
+      "allowed_weapons": null,
       "power_level": 2,
       "attacks": [0, 2111003],
       "notable_skills": [
@@ -513,6 +527,7 @@
       "primary_stats": ["DEX", "STR"],
       "secondary_stats": ["INT", "LUK"],
       "stat_constraints": ["STR = 4", "INT = 20", "LUK = 4"],
+      "allowed_weapons": null,
       "power_level": 1,
       "attacks": [0, 2111003],
       "notable_skills": [
@@ -540,6 +555,7 @@
       "primary_stats": ["INT"],
       "secondary_stats": ["LUK"],
       "stat_constraints": [],
+      "allowed_weapons": null,
       "power_level": 2,
       "attacks": [0, 2001004, 2001005],
       "notable_skills": [2001002],
@@ -567,6 +583,7 @@
       "primary_stats": ["STR", "INT"],
       "secondary_stats": ["DEX", "LUK"],
       "stat_constraints": ["STR + DEX > INT", "INT \u226b 4"],
+      "allowed_weapons": null,
       "power_level": 3,
       "attacks": [
         0,
@@ -647,6 +664,7 @@
         "STR \u226b 4 \u2228 DEX \u226b 4",
         "LUK \u226b 4"
       ],
+      "allowed_weapons": null,
       "power_level": 2,
       "attacks": [
         0,
@@ -725,6 +743,7 @@
       "primary_stats": ["LUK", "INT"],
       "secondary_stats": [],
       "stat_constraints": ["INT = 20", "STR = 4", "DEX = 4"],
+      "allowed_weapons": null,
       "power_level": 2,
       "attacks": [
         2001004,
@@ -816,6 +835,7 @@
       "primary_stats": ["DEX"],
       "secondary_stats": ["STR"],
       "stat_constraints": [],
+      "allowed_weapons": null,
       "power_level": 2,
       "attacks": [0, 3001004, 3001005],
       "notable_skills": [3000000, 3001003, 3000001],
@@ -846,6 +866,7 @@
       "primary_stats": ["STR", "DEX"],
       "secondary_stats": [],
       "stat_constraints": ["DEX = 25"],
+      "allowed_weapons": null,
       "power_level": 3,
       "attacks": [
         0,
@@ -903,6 +924,7 @@
       "primary_stats": ["DEX"],
       "secondary_stats": ["STR"],
       "stat_constraints": [],
+      "allowed_weapons": [145, 146],
       "power_level": 2,
       "attacks": [0, 3101003],
       "notable_skills": [3000000, 3001003, 3111002, 3111005, 3211005, 3110000],
@@ -934,6 +956,7 @@
       "primary_stats": ["STR"],
       "secondary_stats": ["DEX", "LUK"],
       "stat_constraints": [],
+      "allowed_weapons": [1312002],
       "power_level": 1,
       "attacks": [0, 4001002, 4201004, 4211006],
       "notable_skills": [
@@ -979,6 +1002,7 @@
       "primary_stats": ["STR"],
       "secondary_stats": ["DEX"],
       "stat_constraints": [],
+      "allowed_weapons": [1302001],
       "power_level": 1,
       "attacks": [0, 4001002, 4201004, 4211006],
       "notable_skills": [
@@ -1015,6 +1039,7 @@
       "primary_stats": ["LUK"],
       "secondary_stats": ["DEX", "STR"],
       "stat_constraints": [],
+      "allowed_weapons": null,
       "power_level": 3,
       "attacks": [0, 4001002, 4001344, 4001334],
       "notable_skills": [4000000, 4001002, 4001003],
@@ -1039,6 +1064,7 @@
       "primary_stats": ["STR"],
       "secondary_stats": ["DEX", "LUK"],
       "stat_constraints": ["LUK = 4"],
+      "allowed_weapons": null,
       "power_level": 2,
       "attacks": [0, 4001002, 4111004, 4111005, 4101005, 4111003],
       "notable_skills": [
@@ -1101,6 +1127,7 @@
       "primary_stats": ["LUK"],
       "secondary_stats": ["DEX", "STR"],
       "stat_constraints": [],
+      "allowed_weapons": [133],
       "power_level": 3,
       "attacks": [4001334, 4111003],
       "notable_skills": [
@@ -1123,7 +1150,6 @@
         1072171
       ],
       "notes": [
-        "Dagger assassins are, as the name implies, only allowed to use daggers as their weapons.",
         "Dagger assassins play as ordinary proto-bandits during first job, but diverge considerably from bandits beyond that point. Dagger assassins never get access to mastery nor booster, and permanently lack any \u201cserious\u201d attacking skill; Double Stab is extremely short-reach, single-target, and is not designed to scale well past first job (unlike Lucky Seven). Dagger assassins still, however, get access to Haste during second job, and get access to useful third job skills like Alchemist, Meso Up, and most importantly: Flash Jump."
       ]
     },
@@ -1141,6 +1167,7 @@
       "primary_stats": ["DEX"],
       "secondary_stats": ["LUK", "STR"],
       "stat_constraints": [],
+      "allowed_weapons": [147],
       "power_level": 1,
       "attacks": [0, 4001002, 4111003],
       "notable_skills": [
@@ -1168,6 +1195,7 @@
       "primary_stats": ["HP"],
       "secondary_stats": ["LUK", "DEX", "STR"],
       "stat_constraints": ["DEX = 25", "LUK = 4", "STR = 4"],
+      "allowed_weapons": null,
       "power_level": 2,
       "attacks": [4211006, 4001334, 4201005, 4211004, 4211002],
       "notable_skills": [
@@ -1205,6 +1233,7 @@
       "primary_stats": ["STR"],
       "secondary_stats": ["DEX", "LUK"],
       "stat_constraints": ["LUK = 4"],
+      "allowed_weapons": [130, 131, 132, 137, 138, 140, 141, 142, 143, 144],
       "power_level": 2,
       "attacks": [0, 4001002, 4201004, 4211006],
       "notable_skills": [
@@ -1259,6 +1288,7 @@
       "primary_stats": ["DEX"],
       "secondary_stats": ["STR", "LUK"],
       "stat_constraints": ["LUK = 4"],
+      "allowed_weapons": null,
       "power_level": 3,
       "attacks": [4001334, 4201005, 4211004, 4211006, 4211002],
       "notable_skills": [
@@ -1317,6 +1347,7 @@
       "primary_stats": ["STR", "DEX"],
       "secondary_stats": [],
       "stat_constraints": [],
+      "allowed_weapons": null,
       "power_level": 2,
       "attacks": [5001002, 5001003, 5001001],
       "notable_skills": [5000000],
@@ -1340,6 +1371,7 @@
       "primary_stats": ["LUK", "STR"],
       "secondary_stats": ["DEX"],
       "stat_constraints": ["STR = 4", "DEX = 20"],
+      "allowed_weapons": null,
       "power_level": 2,
       "attacks": [
         5001002,
@@ -1384,6 +1416,7 @@
       "primary_stats": ["DEX", "STR"],
       "secondary_stats": [],
       "stat_constraints": ["STR = 4"],
+      "allowed_weapons": null,
       "power_level": 3,
       "attacks": [
         5001002,
@@ -1428,6 +1461,7 @@
       "primary_stats": ["STR"],
       "secondary_stats": ["DEX"],
       "stat_constraints": [],
+      "allowed_weapons": [0],
       "power_level": 3,
       "attacks": [
         5001002,
@@ -1473,6 +1507,7 @@
       "primary_stats": ["DEX"],
       "secondary_stats": ["STR"],
       "stat_constraints": [],
+      "allowed_weapons": [149],
       "power_level": 3,
       "attacks": [5001003, 5001002, 5001001],
       "notable_skills": [5000000, 5100000, 5101007, 5110000],
@@ -1498,6 +1533,7 @@
       "location": null,
       "primary_stats": ["STR", "DEX"],
       "secondary_stats": [],
+      "allowed_weapons": null,
       "stat_constraints": ["DEX = 20"],
       "power_level": 3,
       "attacks": [5001002, 5001003, 5210000, 5201001, 5211005, 5211004],
@@ -1525,6 +1561,7 @@
       "primary_stats": ["DEX", "STR"],
       "secondary_stats": [],
       "stat_constraints": [],
+      "allowed_weapons": null,
       "power_level": 2,
       "attacks": [0, 5201002],
       "notable_skills": [5211002, 5000000, 5201005, 5211001],
@@ -1551,6 +1588,7 @@
       "primary_stats": ["DEX"],
       "secondary_stats": ["STR"],
       "stat_constraints": [],
+      "allowed_weapons": [149],
       "power_level": 2,
       "attacks": [5001002, 5201002, 5211006],
       "notable_skills": [5000000, 5201005, 5211001, 5211002, 5211006],
@@ -1575,6 +1613,7 @@
       "primary_stats": ["DEX"],
       "secondary_stats": ["STR"],
       "stat_constraints": [],
+      "allowed_weapons": null,
       "power_level": 2,
       "attacks": [0],
       "notable_skills": [5211001, 5211002, 5000000, 5201005],

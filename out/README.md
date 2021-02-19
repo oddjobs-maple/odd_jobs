@@ -114,6 +114,11 @@ Location: Maple Island
 
 Primary stats: **STR**, **DEX** | Secondary stats: INT, LUK
 
+Allowed weapons:
+
+- wands
+- staves
+
 Power level: 🍏
 
 Attacks:
@@ -146,6 +151,11 @@ Possible job progressions:
 - Beginner
 
 Primary stat: **STR** | Secondary stats: DEX, INT, LUK
+
+Allowed weapons:
+
+- wands
+- staves
 
 Power level: 🍏
 
@@ -211,6 +221,10 @@ Possible job progressions:
 - Beginner
 
 Primary stat: **LUK** | Secondary stats: DEX, STR
+
+Allowed weapons:
+
+- claws
 
 Power level: 🍏
 
@@ -362,6 +376,11 @@ Possible job progressions:
 
 Primary stats: **STR**, **DEX** | Secondary stats: LUK, INT
 
+Allowed weapons:
+
+- wands
+- staves
+
 Power level: 🍏🍏
 
 Attacks:
@@ -503,6 +522,10 @@ Possible job progressions:
 - Beginner → Warrior → Spearman → Dragon Knight → Dark Knight
 
 Primary stats: **STR**, **DEX**
+
+Allowed weapons:
+
+- daggers
 
 Power level: 🍏🍏🍏
 
@@ -1162,6 +1185,11 @@ Possible job progressions:
 
 Primary stat: **DEX** | Secondary stat: STR
 
+Allowed weapons:
+
+- bows
+- crossbows
+
 Power level: 🍏🍏
 
 Attacks:
@@ -1207,6 +1235,10 @@ Possible job progressions:
 - Beginner → Rogue → Bandit → Chief Bandit → Shadower
 
 Primary stat: **STR** | Secondary stats: DEX, LUK
+
+Allowed weapons:
+
+- [Scythe](https://maplelegends.com/lib/equip?id=01312002)
 
 Power level: 🍏
 
@@ -1255,6 +1287,10 @@ Possible job progressions:
 - Beginner → Rogue → Bandit → Chief Bandit → Shadower
 
 Primary stat: **STR** | Secondary stat: DEX
+
+Allowed weapons:
+
+- [Saw](https://maplelegends.com/lib/equip?id=01302001)
 
 Power level: 🍏
 
@@ -1410,6 +1446,10 @@ Possible job progressions:
 
 Primary stat: **LUK** | Secondary stats: DEX, STR
 
+Allowed weapons:
+
+- daggers
+
 Power level: 🍏🍏🍏
 
 Attacks:
@@ -1440,8 +1480,6 @@ Notable equipment:
 
 ### Notes
 
-Dagger assassins are, as the name implies, only allowed to use daggers as their weapons.
-
 Dagger assassins play as ordinary proto-bandits during first job, but diverge considerably from bandits beyond that point. Dagger assassins never get access to mastery nor booster, and permanently lack any “serious” attacking skill; Double Stab is extremely short-reach, single-target, and is not designed to scale well past first job (unlike Lucky Seven). Dagger assassins still, however, get access to Haste during second job, and get access to useful third job skills like Alchemist, Meso Up, and most importantly: Flash Jump.
 
 ## Claw-puncher
@@ -1453,6 +1491,10 @@ Possible job progressions:
 - Beginner → Rogue → Assassin → Hermit → Nightlord
 
 Primary stat: **DEX** | Secondary stats: LUK, STR
+
+Allowed weapons:
+
+- claws
 
 Power level: 🍏
 
@@ -1552,6 +1594,19 @@ Primary stat: **STR** | Secondary stats: DEX, LUK
 Stat constraints:
 
 - LUK = 4
+
+Allowed weapons:
+
+- one-handed swords
+- one-handed axes
+- one-handed blunt weapons
+- wands
+- staves
+- two-handed swords
+- two-handed axes
+- two-handed blunt weapons
+- spears
+- polearms
 
 Power level: 🍏🍏
 
@@ -1826,6 +1881,10 @@ Possible job progressions:
 
 Primary stat: **STR** | Secondary stat: DEX
 
+Allowed weapons:
+
+- \[no weapon\]
+
 Power level: 🍏🍏🍏
 
 Attacks:
@@ -1875,6 +1934,10 @@ Possible job progressions:
 - Beginner → Pirate → Brawler → Marauder → Buccaneer
 
 Primary stat: **DEX** | Secondary stat: STR
+
+Allowed weapons:
+
+- guns
 
 Power level: 🍏🍏🍏
 
@@ -1998,6 +2061,10 @@ Possible job progressions:
 - Beginner → Pirate → Gunslinger → Outlaw → Corsair
 
 Primary stat: **DEX** | Secondary stat: STR
+
+Allowed weapons:
+
+- guns
 
 Power level: 🍏🍏
 

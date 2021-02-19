@@ -20,6 +20,7 @@ struct Oddjob {
     primary_stats: Vec<String>,
     secondary_stats: Vec<String>,
     stat_constraints: Vec<String>,
+    allowed_weapons: Option<Vec<u32>>,
     power_level: u32,
     attacks: Vec<u32>,
     notable_skills: Vec<u32>,
@@ -217,6 +218,44 @@ fn main() {
                     "- {}",
                     esc_md(&stat_constraint.replace(" ", "\u{00a0}")),
                 )
+                .unwrap();
+            }
+
+            writeln!(stdout_handle).unwrap();
+        }
+
+        if let Some(allowed_weps) = oddjob.allowed_weapons {
+            writeln!(stdout_handle, "Allowed weapons:\n").unwrap();
+
+            for allowed_wep in allowed_weps {
+                if allowed_wep < 1000 {
+                    writeln!(
+                        stdout_handle,
+                        "- {}",
+                        esc_md(weapon_type_name(allowed_wep).unwrap_or_else(|| {
+                            eprintln!(
+                                "Unknown weapon type ID: {}",
+                                allowed_wep,
+                            );
+
+                            process::exit(7)
+                        })),
+                    )
+                } else {
+                    let equip_name =
+                        item_name(allowed_wep).unwrap_or_else(|| {
+                            eprintln!("Unknown item ID: {}", allowed_wep);
+
+                            process::exit(1)
+                        });
+
+                    writeln!(
+                        stdout_handle,
+                        r##"- [{}](https://maplelegends.com/lib/equip?id={:08})"##,
+                        esc_md(equip_name),
+                        allowed_wep,
+                    )
+                }
                 .unwrap();
             }
 
@@ -875,6 +914,29 @@ fn item_name(id: u32) -> Option<&'static str> {
         1492021 => "Maple Storm Pistol",
         1492022 => "Maple Canon Shooter",
         1702030 => "Diao Chan Sword",
+        _ => return None,
+    })
+}
+
+fn weapon_type_name(id_pfx: u32) -> Option<&'static str> {
+    Some(match id_pfx {
+        0 => "[no weapon]",
+        130 => "one-handed swords",
+        131 => "one-handed axes",
+        132 => "one-handed blunt weapons",
+        133 => "daggers",
+        137 => "wands",
+        138 => "staves",
+        140 => "two-handed swords",
+        141 => "two-handed axes",
+        142 => "two-handed blunt weapons",
+        143 => "spears",
+        144 => "polearms",
+        145 => "bows",
+        146 => "crossbows",
+        147 => "claws",
+        148 => "knucklers",
+        149 => "guns",
         _ => return None,
     })
 }
