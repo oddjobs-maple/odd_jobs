@@ -30,7 +30,7 @@
       "stat_constraints": [],
       "allowed_weapons": [137, 138],
       "power_level": 1,
-      "attacks": [0, 1000],
+      "attacks": [1000, 0],
       "notable_skills": [],
       "notable_equips": [
         1372002,
@@ -1443,6 +1443,7 @@
       "notable_equips": [1482000, 1482020, 1482021, 1482022, 1072338],
       "notes": [
         "DEX brawlers are essentially the pirate version of DEX warriors, although they have a hard time getting equipped, due to the paucity of knucklers that lack stat requirements.",
+        "Brawlers/marauders/buccaneers gain a whopping 0.9 WACC per point of DEX, making DEX brawlers the highest-WACC job in the game, along with WACC bonuses from Energy Charge, Bullet Time, Knuckler Mastery, and their maple knucklers!",
         "DEX brawlers actually have the highest AVOID in the game, due to the fact that brawlers/marauders/buccaneers gain a whopping 1.5 AVOID per point of DEX."
       ]
     },

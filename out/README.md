@@ -123,8 +123,8 @@ Power level: 🍏
 
 Attacks:
 
-- \[basic attack\]
 - [Three Snails](https://maplelegends.com/lib/skill?id=0001000)
+- \[basic attack\]
 
 Notable equipment:
 
@@ -1748,7 +1748,7 @@ Power level: 🍏🍏
 
 Attacks:
 
-- [Sommersault Kick](https://maplelegends.com/lib/skill?id=5001002)
+- [Somersault Kick](https://maplelegends.com/lib/skill?id=5001002)
 - [Double Shot](https://maplelegends.com/lib/skill?id=5001003)
 - [Flash Fist](https://maplelegends.com/lib/skill?id=5001001)
 
@@ -1781,7 +1781,7 @@ Power level: 🍏🍏
 
 Attacks:
 
-- [Sommersault Kick](https://maplelegends.com/lib/skill?id=5001002)
+- [Somersault Kick](https://maplelegends.com/lib/skill?id=5001002)
 - [Flash Fist](https://maplelegends.com/lib/skill?id=5001001)
 - [Corkscrew Blow](https://maplelegends.com/lib/skill?id=5101004)
 - [Backspin Blow](https://maplelegends.com/lib/skill?id=5101002)
@@ -1835,7 +1835,7 @@ Power level: 🍏🍏🍏
 
 Attacks:
 
-- [Sommersault Kick](https://maplelegends.com/lib/skill?id=5001002)
+- [Somersault Kick](https://maplelegends.com/lib/skill?id=5001002)
 - [Flash Fist](https://maplelegends.com/lib/skill?id=5001001)
 - [Corkscrew Blow](https://maplelegends.com/lib/skill?id=5101004)
 - [Backspin Blow](https://maplelegends.com/lib/skill?id=5101002)
@@ -1869,6 +1869,8 @@ Notable equipment:
 
 DEX brawlers are essentially the pirate version of DEX warriors, although they have a hard time getting equipped, due to the paucity of knucklers that lack stat requirements.
 
+Brawlers/marauders/buccaneers gain a whopping 0.9 WACC per point of DEX, making DEX brawlers the highest-WACC job in the game, along with WACC bonuses from Energy Charge, Bullet Time, Knuckler Mastery, and their maple knucklers!
+
 DEX brawlers actually have the highest AVOID in the game, due to the fact that brawlers/marauders/buccaneers gain a whopping 1.5 AVOID per point of DEX.
 
 ## Pugilist
@@ -1889,7 +1891,7 @@ Power level: 🍏🍏🍏
 
 Attacks:
 
-- [Sommersault Kick](https://maplelegends.com/lib/skill?id=5001002)
+- [Somersault Kick](https://maplelegends.com/lib/skill?id=5001002)
 - [Flash Fist](https://maplelegends.com/lib/skill?id=5001001)
 - [Corkscrew Blow](https://maplelegends.com/lib/skill?id=5101004)
 - [Backspin Blow](https://maplelegends.com/lib/skill?id=5101002)
@@ -1944,7 +1946,7 @@ Power level: 🍏🍏🍏
 Attacks:
 
 - [Double Shot](https://maplelegends.com/lib/skill?id=5001003)
-- [Sommersault Kick](https://maplelegends.com/lib/skill?id=5001002)
+- [Somersault Kick](https://maplelegends.com/lib/skill?id=5001002)
 - [Flash Fist](https://maplelegends.com/lib/skill?id=5001001)
 
 Notable skills:
@@ -1982,7 +1984,7 @@ Power level: 🍏🍏🍏
 
 Attacks:
 
-- [Sommersault Kick](https://maplelegends.com/lib/skill?id=5001002)
+- [Somersault Kick](https://maplelegends.com/lib/skill?id=5001002)
 - [Double Shot](https://maplelegends.com/lib/skill?id=5001003)
 - [Burst Fire](https://maplelegends.com/lib/skill?id=5210000)
 - [Invisible Shot](https://maplelegends.com/lib/skill?id=5201001)
@@ -2070,7 +2072,7 @@ Power level: 🍏🍏
 
 Attacks:
 
-- [Sommersault Kick](https://maplelegends.com/lib/skill?id=5001002)
+- [Somersault Kick](https://maplelegends.com/lib/skill?id=5001002)
 - [Grenade](https://maplelegends.com/lib/skill?id=5201002)
 - [Homing Beacon](https://maplelegends.com/lib/skill?id=5211006)
 

@@ -687,7 +687,7 @@ fn skill_name(id: u32) -> Option<&'static str> {
         4221008 => "Hero\u{2019}s Will",
         5000000 => "Bullet Time",
         5001001 => "Flash Fist",
-        5001002 => "Sommersault Kick",
+        5001002 => "Somersault Kick",
         5001003 => "Double Shot",
         5001005 => "Dash",
         5100000 => "Improve MaxHP",
