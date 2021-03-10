@@ -781,7 +781,7 @@ DEX mages do not have the accuracy issues that STR mages have. Furthermore, thei
 
 ## Permamagician
 
-Also known as: “Perma-magician”
+Also known as: “Permagician”, “Perma-magician”
 
 Possible job progressions:
 
@@ -2123,7 +2123,7 @@ Notable equipment:
 
 ### Notes
 
-The only restriction on this type of gunslinger is that they cannot use attacking skills (not including summons as attacking skills, of course). During third and fourth jobs, summoners are reliant on their summons. Before third job, summoners play essentially like more mobile DEX beginners
+The only restriction on this type of gunslinger is that they cannot use attacking skills (not including summons as attacking skills, of course). During third and fourth jobs, summoners are reliant on their summons. Before third job, summoners play essentially like more mobile DEX beginners.
 
 Summoners who make it to fourth job can make use of Wrath of the Octopi.
 

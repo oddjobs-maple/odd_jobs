@@ -549,7 +549,7 @@
     },
     {
       "name": "Permamagician",
-      "aliases": ["Perma-magician"],
+      "aliases": ["Permagician", "Perma-magician"],
       "progressions": [[0, 200]],
       "location": null,
       "primary_stats": ["INT"],
@@ -1620,7 +1620,7 @@
       "notable_skills": [5211001, 5211002, 5000000, 5201005],
       "notable_equips": [1072338],
       "notes": [
-        "The only restriction on this type of gunslinger is that they cannot use attacking skills (not including summons as attacking skills, of course). During third and fourth jobs, summoners are reliant on their summons. Before third job, summoners play essentially like more mobile DEX beginners",
+        "The only restriction on this type of gunslinger is that they cannot use attacking skills (not including summons as attacking skills, of course). During third and fourth jobs, summoners are reliant on their summons. Before third job, summoners play essentially like more mobile DEX beginners.",
         "Summoners who make it to fourth job can make use of Wrath of the Octopi."
       ]
     }
