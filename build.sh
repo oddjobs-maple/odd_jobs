@@ -5,4 +5,4 @@ set -ex
 cargo update --aggressive
 cargo build
 
-./target/debug/oddjobs ./oddjobs.json > ./out/README.md
+./target/debug/odd_jobs ./odd_jobs.json > ./out/README.md
