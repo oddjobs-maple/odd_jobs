@@ -49,6 +49,7 @@
     {
       "name": "Wand Beginner",
       "aliases": [
+        "Wandginner",
         "Wand Perma",
         "Wand Permabeginner",
         "Permawander",
@@ -581,10 +582,10 @@
       ],
       "location": null,
       "primary_stats": ["STR", "INT"],
-      "secondary_stats": ["DEX", "LUK"],
+      "secondary_stats": ["LUK", "DEX"],
       "stat_constraints": ["STR + DEX > INT", "INT \u226b 4"],
       "allowed_weapons": null,
-      "power_level": 3,
+      "power_level": 2,
       "attacks": [
         0,
         2001004,
@@ -638,7 +639,9 @@
       ],
       "notes": [
         "Gishes attack both with melee (similarly to the closely related STR mage) and with spells.",
-        "Gishes use INT (unlike LUK mages) as their primary casting stat, but have this INT limited by their STR. INT gishes can still make good use of LUK, as it contributes to both their WACC and their MACC (and AVOID, for that matter). See the LUK gish for a variant that is more similar to LUK mages, but naturally somewhat weaker than this kind of gish.",
+        "Gishes use INT (unlike LUK mages) as their primary casting stat, but have this INT limited by their STR/DEX. INT gishes can still make good use of LUK, as it contributes to both their WACC and their MACC (and AVOID, for that matter). See the LUK gish for a variant that is more similar to LUK mages, but naturally slightly weaker than this kind of gish.",
+        "Gishes, when played \u201cproperly\u201d, aim for higher single-target DPS with physical attacks, contrasted with higher aggregate (multi-target) DPS with magical attacks.",
+        "Gishes are perhaps the single most difficult job to play \u201cproperly\u201d, as they have WACC issues, serious MACC issues, are very expensive to equip, and allocating AP is an incredibly sensitive balancing act when trying to balance physical damage with magic damage.",
         "The term \u201cgish\u201d originated in Dungeons & Dragons terminology in the early 1980s."
       ]
     },
@@ -1233,7 +1236,19 @@
       "primary_stats": ["STR"],
       "secondary_stats": ["DEX", "LUK"],
       "stat_constraints": ["LUK = 4"],
-      "allowed_weapons": [130, 131, 132, 137, 138, 140, 141, 142, 143, 144],
+      "allowed_weapons": [
+        130,
+        131,
+        132,
+        137,
+        138,
+        140,
+        141,
+        142,
+        143,
+        144,
+        147
+      ],
       "power_level": 2,
       "attacks": [0, 4001002, 4201004, 4211006],
       "notable_skills": [
@@ -1421,6 +1436,7 @@
       "attacks": [
         5001002,
         5001001,
+        5001003,
         5101004,
         5101002,
         5101003,
@@ -1440,11 +1456,22 @@
         5110001,
         5111004
       ],
-      "notable_equips": [1482000, 1482020, 1482021, 1482022, 1072338],
+      "notable_equips": [
+        1482000,
+        1482020,
+        1482021,
+        1482022,
+        1492000,
+        1492020,
+        1492021,
+        1492022,
+        1072338
+      ],
       "notes": [
         "DEX brawlers are essentially the pirate version of DEX warriors, although they have a hard time getting equipped, due to the paucity of knucklers that lack stat requirements.",
         "Brawlers/marauders/buccaneers gain a whopping 0.9 WACC per point of DEX, making DEX brawlers the highest-WACC job in the game, along with WACC bonuses from Energy Charge, Bullet Time, Knuckler Mastery, and their maple knucklers!",
-        "DEX brawlers actually have the highest AVOID in the game, due to the fact that brawlers/marauders/buccaneers gain a whopping 1.5 AVOID per point of DEX."
+        "DEX brawlers actually have the highest AVOID in the game, due to the fact that brawlers/marauders/buccaneers gain a whopping 1.5 AVOID per point of DEX.",
+        "DEX brawlers are also quite capable with guns (at least, those lacking STR requirements), as they have access to Double Shot, and plenty of DEX."
       ]
     },
     {

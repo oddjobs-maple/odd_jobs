@@ -1,7 +1,7 @@
 [package]
 name = "odd_jobs"
 version = "0.2.0"
-authors = ["deer <https://codeberg.org/deer>"]
+authors = ["deer <capreolina@protonmail.ch>"]
 edition = "2018"
 description = "Pre-Big-Bang (pre-BB) MapleStory odd jobs"
 repository = "https://codeberg.org/oddjobs/odd_jobs"
@@ -11,7 +11,7 @@ categories = ["games"]
 license = "AGPL-3.0-or-later"
 
 [dependencies]
-serde = { version = "1.0.124", features = ["derive"] }
+serde = { version = "1.0.125", features = ["derive"] }
 serde_json = "1.0.64"
 
 [profile.release]

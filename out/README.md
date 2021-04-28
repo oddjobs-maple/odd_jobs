@@ -144,7 +144,7 @@ Magelanders are the magicians of Maple Island, and can often be found casting Th
 
 ## Wand Beginner
 
-Also known as: “Wand Perma”, “Wand Permabeginner”, “Permawander”, “Wand Noblesse”, “Wand Legend”
+Also known as: “Wandginner”, “Wand Perma”, “Wand Permabeginner”, “Permawander”, “Wand Noblesse”, “Wand Legend”
 
 Possible job progressions:
 
@@ -817,14 +817,14 @@ Possible job progressions:
 - Beginner → Magician → I/L Wizard → I/L Mage → I/L Archmage
 - Beginner → Magician → F/P Wizard → F/P Mage → F/P Archmage
 
-Primary stats: **STR**, **INT** | Secondary stats: DEX, LUK
+Primary stats: **STR**, **INT** | Secondary stats: LUK, DEX
 
 Stat constraints:
 
 - STR + DEX &gt; INT
 - INT ≫ 4
 
-Power level: 🍏🍏🍏
+Power level: 🍏🍏
 
 Attacks:
 
@@ -884,7 +884,11 @@ Notable equipment:
 
 Gishes attack both with melee (similarly to the closely related STR mage) and with spells.
 
-Gishes use INT (unlike LUK mages) as their primary casting stat, but have this INT limited by their STR. INT gishes can still make good use of LUK, as it contributes to both their WACC and their MACC (and AVOID, for that matter). See the LUK gish for a variant that is more similar to LUK mages, but naturally somewhat weaker than this kind of gish.
+Gishes use INT (unlike LUK mages) as their primary casting stat, but have this INT limited by their STR/DEX. INT gishes can still make good use of LUK, as it contributes to both their WACC and their MACC (and AVOID, for that matter). See the LUK gish for a variant that is more similar to LUK mages, but naturally slightly weaker than this kind of gish.
+
+Gishes, when played “properly”, aim for higher single-target DPS with physical attacks, contrasted with higher aggregate (multi-target) DPS with magical attacks.
+
+Gishes are perhaps the single most difficult job to play “properly”, as they have WACC issues, serious MACC issues, are very expensive to equip, and allocating AP is an incredibly sensitive balancing act when trying to balance physical damage with magic damage.
 
 The term “gish” originated in Dungeons &amp; Dragons terminology in the early 1980s.
 
@@ -1607,6 +1611,7 @@ Allowed weapons:
 - two-handed blunt weapons
 - spears
 - polearms
+- claws
 
 Power level: 🍏🍏
 
@@ -1837,6 +1842,7 @@ Attacks:
 
 - [Somersault Kick](https://maplelegends.com/lib/skill?id=5001002)
 - [Flash Fist](https://maplelegends.com/lib/skill?id=5001001)
+- [Double Shot](https://maplelegends.com/lib/skill?id=5001003)
 - [Corkscrew Blow](https://maplelegends.com/lib/skill?id=5101004)
 - [Backspin Blow](https://maplelegends.com/lib/skill?id=5101002)
 - [Double Uppercut](https://maplelegends.com/lib/skill?id=5101003)
@@ -1863,6 +1869,10 @@ Notable equipment:
 - [Maple Knuckle](https://maplelegends.com/lib/equip?id=01482020)
 - [Maple Storm Finger](https://maplelegends.com/lib/equip?id=01482021)
 - [Maple Golden Claw](https://maplelegends.com/lib/equip?id=01482022)
+- [Pistol](https://maplelegends.com/lib/equip?id=01492000)
+- [Maple Gun](https://maplelegends.com/lib/equip?id=01492020)
+- [Maple Storm Pistol](https://maplelegends.com/lib/equip?id=01492021)
+- [Maple Canon Shooter](https://maplelegends.com/lib/equip?id=01492022)
 - [Purple Snowshoes](https://maplelegends.com/lib/equip?id=01072338)
 
 ### Notes
@@ -1872,6 +1882,8 @@ DEX brawlers are essentially the pirate version of DEX warriors, although they h
 Brawlers/marauders/buccaneers gain a whopping 0.9 WACC per point of DEX, making DEX brawlers the highest-WACC job in the game, along with WACC bonuses from Energy Charge, Bullet Time, Knuckler Mastery, and their maple knucklers!
 
 DEX brawlers actually have the highest AVOID in the game, due to the fact that brawlers/marauders/buccaneers gain a whopping 1.5 AVOID per point of DEX.
+
+DEX brawlers are also quite capable with guns (at least, those lacking STR requirements), as they have access to Double Shot, and plenty of DEX.
 
 ## Pugilist
 
