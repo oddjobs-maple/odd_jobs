@@ -1541,7 +1541,7 @@
       "notable_skills": [5000000, 5100000, 5101007, 5110000],
       "notable_equips": [1072338],
       "notes": [
-        "Bullet buccs are brawlers that can only fight with a gun equipped.",
+        "Bullet buccs are defined as the mirror image of punch slingers; rather than being exclusively knuckle-wielding (or bare-handed, as the case may be) gunslingers, punch slingers are exclusively gun-toting brawlers.",
         "Flash Fist is, somewhat surprisingly, usable with a gun equipped. Its only real use, however, is passing the second job advancement test."
       ]
     },
@@ -1576,7 +1576,6 @@
       ],
       "notable_equips": [1432018, 1492000, 1492020, 1492021, 1492022, 1072338],
       "notes": [
-        "Swashbucklers cannot put any SP into punching abilities. Being gunslingers, however, they could only have access to Flash Fist anyways.",
         "Swashbucklers tend to be quite similar to woodsmen in their ability to effectively melee and to somewhat effectively range, but differ in their unique skillset, mobility, and ability to use Somersault Kick in melee.",
         "Swashbucklers should note that Somersault Kick (and some other outlaw/corsair skills) does not vary in the nominal attacking “animation” that it uses; every attack is nominally a “stab”. Spears are, as a result, usually the best melee weapons for swashbucklers, because of the 5.0(!) primary stat multiplier on stabs. Accordingly, polearms should be avoided (3.0 primary stat multiplier). Swashbucklers should also note that Grenade (despite having nothing to do with your equipped weapon, and despite lacking an animation entirely) only works if a gun is equipped."
       ]
@@ -1624,6 +1623,24 @@
       "notes": [
         "The only restriction on this type of gunslinger is that they can only choose guns as their weapons, but cannot have bullets in their inventory (i.e. if their gun is used, it must only be used to pistol-whip). Other attacking skills — like e.g. Somersault Kick and Grenade — that have nothing specifically to do with guns are still usable, of course.",
         "Pistol-whippers can make better use of their third job summons than other varieties of outlaw/gunslinger."
+      ]
+    },
+    {
+      "name": "Punch Slinger",
+      "aliases": ["Knuckle Slinger", "Punchlaw", "Punch Sair"],
+      "progressions": [[0, 500, 520, 521, 522]],
+      "location": null,
+      "primary_stats": ["STR"],
+      "secondary_stats": ["DEX"],
+      "allowed_weapons": [0, 148],
+      "stat_constraints": [],
+      "power_level": 3,
+      "attacks": [5001002, 5001001],
+      "notable_skills": [5000000, 5201005, 5211001, 5211002],
+      "notable_equips": [1072338],
+      "notes": [
+        "Punch slingers are defined as the mirror image of bullet buccs; rather than being exclusively gun-toting brawlers, punch slingers are exclusively knuckle-wielding (or bare-handed, as the case may be) gunslingers.",
+        "Punch slingers play similarly to knuckle-bound permapirates, and like permapirates, can be hybridised with other odd jobs like pugilist or DEX brawler (although punch slingers are, of course, not technically brawlers at all)."
       ]
     },
     {

@@ -66,6 +66,7 @@ three possible power levels, which are as follows:
 - [Swashbuckler](#swashbuckler)
 - [Bombadier](#bombadier)
 - [Pistol-whipper](#pistol-whipper)
+- [Punch Slinger](#punch-slinger)
 - [Summoner](#summoner)
 
 ## Camper
@@ -1974,7 +1975,7 @@ Notable equipment:
 
 ### Notes
 
-Bullet buccs are brawlers that can only fight with a gun equipped.
+Bullet buccs are defined as the mirror image of punch slingers; rather than being exclusively knuckle-wielding (or bare-handed, as the case may be) gunslingers, punch slingers are exclusively gun-toting brawlers.
 
 Flash Fist is, somewhat surprisingly, usable with a gun equipped. Its only real use, however, is passing the second job advancement test.
 
@@ -2023,8 +2024,6 @@ Notable equipment:
 - [Purple Snowshoes](https://maplelegends.com/lib/equip?id=01072338)
 
 ### Notes
-
-Swashbucklers cannot put any SP into punching abilities. Being gunslingers, however, they could only have access to Flash Fist anyways.
 
 Swashbucklers tend to be quite similar to woodsmen in their ability to effectively melee and to somewhat effectively range, but differ in their unique skillset, mobility, and ability to use Somersault Kick in melee.
 
@@ -2105,6 +2104,45 @@ Notable equipment:
 The only restriction on this type of gunslinger is that they can only choose guns as their weapons, but cannot have bullets in their inventory (i.e. if their gun is used, it must only be used to pistol-whip). Other attacking skills — like e.g. Somersault Kick and Grenade — that have nothing specifically to do with guns are still usable, of course.
 
 Pistol-whippers can make better use of their third job summons than other varieties of outlaw/gunslinger.
+
+## Punch Slinger
+
+Also known as: “Knuckle Slinger”, “Punchlaw”, “Punch Sair”
+
+Possible job progressions:
+
+- Beginner → Pirate → Gunslinger → Outlaw → Corsair
+
+Primary stat: **STR** | Secondary stat: DEX
+
+Allowed weapons:
+
+- \[no weapon\]
+- knucklers
+
+Power level: 🍏🍏🍏
+
+Attacks:
+
+- [Somersault Kick](https://maplelegends.com/lib/skill?id=5001002)
+- [Flash Fist](https://maplelegends.com/lib/skill?id=5001001)
+
+Notable skills:
+
+- [Bullet Time](https://maplelegends.com/lib/skill?id=5000000)
+- [Wings](https://maplelegends.com/lib/skill?id=5201005)
+- [Octopus](https://maplelegends.com/lib/skill?id=5211001)
+- [Gaviota](https://maplelegends.com/lib/skill?id=5211002)
+
+Notable equipment:
+
+- [Purple Snowshoes](https://maplelegends.com/lib/equip?id=01072338)
+
+### Notes
+
+Punch slingers are defined as the mirror image of bullet buccs; rather than being exclusively gun-toting brawlers, punch slingers are exclusively knuckle-wielding (or bare-handed, as the case may be) gunslingers.
+
+Punch slingers play similarly to knuckle-bound permapirates, and like permapirates, can be hybridised with other odd jobs like pugilist or DEX brawler (although punch slingers are, of course, not technically brawlers at all).
 
 ## Summoner
 
