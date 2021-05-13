@@ -32,7 +32,7 @@ three possible power levels, which are as follows:
 - [Wand Beginner](#wand-beginner)
 - [Islander](#islander)
 - [Besinner](#besinner)
-- [Permabeginner](#permabeginner)
+- [STR Beginner](#str-beginner)
 - [DEX Beginner](#dex-beginner)
 - [Permawarrior](#permawarrior)
 - [HP Warrior](#hp-warrior)
@@ -44,8 +44,8 @@ three possible power levels, which are as follows:
 - [DEX Mage](#dex-mage)
 - [Permamagician](#permamagician)
 - [Gish](#gish)
-- [LUK Gish](#luk-gish)
-- [LUK Mage](#luk-mage)
+- [Gishlet](#gishlet)
+- [Magelet](#magelet)
 - [Permarcher](#permarcher)
 - [Woodsman](#woodsman)
 - [Bow-whacker](#bow-whacker)
@@ -245,15 +245,19 @@ Depending on the implementation, besinners may only be able to throw Snowballs. 
 
 Besinners do worse damage than their ordinary (STR-based) permabeginner counterparts, and although they have some attacking range, it is extremely short due to the lack of Keen Eyes.
 
-## Permabeginner
+## STR Beginner
 
-Also known as: “Permanoob”, “Perma”, “STRginner”, “Ginner”, “Permanoblesse”, “Permalegend”
+Also known as: “STRginner”, “STR Permabeginner”, “STR Perma”, “STR Permanoob”, “STRmabeginner”, “Permabeginner”, “Permanoob”, “Perma”, “Ginner”, “STR Permanoblesse”, “STR Noblesse”, “Permanoblesse”, “STR Permalegend”, “STR Legend”, “Permalegend”
 
 Possible job progressions:
 
 - Beginner
 
 Primary stat: **STR** | Secondary stat: DEX
+
+Stat constraints:
+
+- STR ≫ 4
 
 Power level: 🍏
 
@@ -273,7 +277,7 @@ Pre-BB versions of MapleStory that are recent enough to have Cygnus Knights (e.g
 
 ## DEX Beginner
 
-Also known as: “DEX Perma”, “DEX Permabeginner”, “DEX Permanoblesse”, “DEX Permalegend”, “Permadexer”, “DEXginner”, “Dexterity Beginner”, “Dexterity Noblesse”, “Dexterity Legend”
+Also known as: “DEX Perma”, “DEX Permabeginner”, “DEX Permanoblesse”, “DEX Permalegend”, “Permadexer”, “DEXginner”, “DEX Beginner”, “DEX Noblesse”, “DEX Legend”
 
 Possible job progressions:
 
@@ -284,6 +288,7 @@ Primary stats: **DEX**, **STR**
 Stat constraints:
 
 - STR = 4
+- DEX ≫ 4
 
 Power level: 🍏
 
@@ -326,7 +331,7 @@ Permawarriors have the advantage of both a single-target (Power Strike) and a mu
 
 ## HP Warrior
 
-Also known as: “Blood Warrior”
+Also known as: “Blood Warrior”, “HP Swordman”, “Blood Swordman”
 
 Possible job progressions:
 
@@ -423,7 +428,7 @@ Shout is known to work with a wand equipped.
 
 ## LUK Warrior
 
-Also known as: “LUK Swordman”, “Pure LUK Warrior”
+Also known as: “Pure LUK Warrior”, “LUK Swordman”
 
 Possible job progressions:
 
@@ -437,6 +442,7 @@ Stat constraints:
 
 - STR = 35
 - DEX = 4
+- LUK ≫ 4
 
 Power level: 🍏🍏
 
@@ -581,7 +587,7 @@ Shout is known to work with a dagger equipped.
 
 ## DEX Warrior
 
-Also known as: “STRless Warrior”, “DEX Swordman”
+Also known as: “STRless Warrior”, “STRless DEX Warrior”, “DEX Swordman”
 
 Possible job progressions:
 
@@ -594,6 +600,7 @@ Primary stats: **DEX**, **STR**
 Stat constraints:
 
 - STR = 35
+- DEX ≫ 4
 
 Power level: 🍏🍏🍏
 
@@ -696,6 +703,7 @@ Stat constraints:
 
 - INT = 20
 - LUK = 4
+- STR ≫ 4
 
 Power level: 🍏🍏
 
@@ -748,6 +756,7 @@ Stat constraints:
 - STR = 4
 - INT = 20
 - LUK = 4
+- DEX ≫ 4
 
 Power level: 🍏
 
@@ -893,9 +902,9 @@ Gishes are perhaps the single most difficult job to play “properly”, as they
 
 The term “gish” originated in Dungeons &amp; Dragons terminology in the early 1980s.
 
-## LUK Gish
+## Gishlet
 
-Also known as: “Gishlet”, “LUK Mixed Attacker Mage”, “LUK Mixed Attacker”, “LUK Hybrid Mage”, “LUK Hybrid Magician”
+Also known as: “LUK Gish”, “LUK Mixed Attacker Mage”, “LUK Mixed Attacker”, “LUK Hybrid Mage”, “LUK Hybrid Magician”
 
 Possible job progressions:
 
@@ -977,9 +986,9 @@ Although being INTless is certainly a downside for LUK gishes when compared to t
 
 The term “gish” originated in Dungeons &amp; Dragons terminology in the early 1980s.
 
-## LUK Mage
+## Magelet
 
-Also known as: “Magelet”, “LUK Magician”, “INTless Mage”, “INTless Magician”, “Pure LUK Mage”, “Pure LUK Magician”
+Also known as: “LUK Mage”, “LUK Magician”, “INTless Mage”, “INTless Magician”, “Pure LUK Mage”, “Pure LUK Magician”
 
 Possible job progressions:
 
@@ -994,6 +1003,7 @@ Stat constraints:
 - INT = 20
 - STR = 4
 - DEX = 4
+- LUK ≫ 4
 
 Power level: 🍏🍏
 
@@ -1367,7 +1377,7 @@ Permarogues are, like permarchers, very fragile, and again like permarchers, the
 
 ## LUKless Assassin
 
-Also known as: “LUKless Sin”, “Unlucky Sin”, “LUKless Hermit”, “STR Sin”, “STRlord”, “STRmit”, “STR Hermit”, “DEX Sin”, “DEXlord”, “DEXmit”, “DEX Hermit”
+Also known as: “LUKless Sin”, “Unlucky Sin”, “LUKless Hermit”, “STR Assassin”, “STR Sin”, “STRlord”, “STRmit”, “STR Hermit”, “DEX Assassin”, “DEX Sin”, “DEXlord”, “DEXmit”, “DEX Hermit”
 
 Possible job progressions:
 

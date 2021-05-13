@@ -110,21 +110,30 @@
       ]
     },
     {
-      "name": "Permabeginner",
-      "deprecated_names": [],
+      "name": "STR Beginner",
+      "deprecated_names": ["Permabeginner"],
       "aliases": [
+        "STRginner",
+        "STR Permabeginner",
+        "STR Perma",
+        "STR Permanoob",
+        "STRmabeginner",
+        "Permabeginner",
         "Permanoob",
         "Perma",
-        "STRginner",
         "Ginner",
+        "STR Permanoblesse",
+        "STR Noblesse",
         "Permanoblesse",
+        "STR Permalegend",
+        "STR Legend",
         "Permalegend"
       ],
       "progressions": [[0]],
       "location": null,
       "primary_stats": ["STR"],
       "secondary_stats": ["DEX"],
-      "stat_constraints": [],
+      "stat_constraints": ["STR \u226b 4"],
       "allowed_weapons": null,
       "power_level": 1,
       "attacks": [0],
@@ -144,15 +153,15 @@
         "DEX Permalegend",
         "Permadexer",
         "DEXginner",
-        "Dexterity Beginner",
-        "Dexterity Noblesse",
-        "Dexterity Legend"
+        "DEX Beginner",
+        "DEX Noblesse",
+        "DEX Legend"
       ],
       "progressions": [[0]],
       "location": null,
       "primary_stats": ["DEX", "STR"],
       "secondary_stats": [],
-      "stat_constraints": ["STR = 4"],
+      "stat_constraints": ["STR = 4", "DEX \u226b 4"],
       "allowed_weapons": null,
       "power_level": 1,
       "attacks": [0],
@@ -185,7 +194,7 @@
     {
       "name": "HP Warrior",
       "deprecated_names": [],
-      "aliases": ["Blood Warrior"],
+      "aliases": ["Blood Warrior", "HP Swordman", "Blood Swordman"],
       "progressions": [
         [0, 100, 110, 111, 112],
         [0, 100, 120, 121, 122]
@@ -237,7 +246,7 @@
     {
       "name": "LUK Warrior",
       "deprecated_names": [],
-      "aliases": ["LUK Swordman", "Pure LUK Warrior"],
+      "aliases": ["Pure LUK Warrior", "LUK Swordman"],
       "progressions": [
         [0, 100, 110, 111, 112],
         [0, 100, 120, 121, 122],
@@ -246,7 +255,7 @@
       "location": null,
       "primary_stats": ["LUK", "STR"],
       "secondary_stats": ["DEX"],
-      "stat_constraints": ["STR = 35", "DEX = 4"],
+      "stat_constraints": ["STR = 35", "DEX = 4", "LUK \u226b 4"],
       "allowed_weapons": null,
       "power_level": 2,
       "attacks": [
@@ -303,7 +312,7 @@
     {
       "name": "DEX Warrior",
       "deprecated_names": [],
-      "aliases": ["STRless Warrior", "DEX Swordman"],
+      "aliases": ["STRless Warrior", "STRless DEX Warrior", "DEX Swordman"],
       "progressions": [
         [0, 100, 110, 111, 112],
         [0, 100, 120, 121, 122],
@@ -312,7 +321,7 @@
       "location": null,
       "primary_stats": ["DEX", "STR"],
       "secondary_stats": [],
-      "stat_constraints": ["STR = 35"],
+      "stat_constraints": ["STR = 35", "DEX \u226b 4"],
       "allowed_weapons": null,
       "power_level": 3,
       "attacks": [
@@ -348,7 +357,7 @@
       "location": null,
       "primary_stats": ["STR"],
       "secondary_stats": ["DEX", "INT", "LUK"],
-      "stat_constraints": ["INT = 20", "LUK = 4"],
+      "stat_constraints": ["INT = 20", "LUK = 4", "STR \u226b 4"],
       "allowed_weapons": null,
       "power_level": 2,
       "attacks": [0, 2111003],
@@ -374,7 +383,7 @@
       "location": null,
       "primary_stats": ["DEX", "STR"],
       "secondary_stats": ["INT", "LUK"],
-      "stat_constraints": ["STR = 4", "INT = 20", "LUK = 4"],
+      "stat_constraints": ["STR = 4", "INT = 20", "LUK = 4", "DEX \u226b 4"],
       "allowed_weapons": null,
       "power_level": 1,
       "attacks": [0, 2111003],
@@ -450,10 +459,10 @@
       ]
     },
     {
-      "name": "LUK Gish",
-      "deprecated_names": [],
+      "name": "Gishlet",
+      "deprecated_names": ["LUK Gish"],
       "aliases": [
-        "Gishlet",
+        "LUK Gish",
         "LUK Mixed Attacker Mage",
         "LUK Mixed Attacker",
         "LUK Hybrid Mage",
@@ -495,10 +504,10 @@
       ]
     },
     {
-      "name": "LUK Mage",
-      "deprecated_names": [],
+      "name": "Magelet",
+      "deprecated_names": ["LUK Mage"],
       "aliases": [
-        "Magelet",
+        "LUK Mage",
         "LUK Magician",
         "INTless Mage",
         "INTless Magician",
@@ -513,7 +522,7 @@
       "location": null,
       "primary_stats": ["LUK", "INT"],
       "secondary_stats": [],
-      "stat_constraints": ["INT = 20", "STR = 4", "DEX = 4"],
+      "stat_constraints": ["INT = 20", "STR = 4", "DEX = 4", "LUK \u226b 4"],
       "allowed_weapons": null,
       "power_level": 2,
       "attacks": [
@@ -705,10 +714,12 @@
         "LUKless Sin",
         "Unlucky Sin",
         "LUKless Hermit",
+        "STR Assassin",
         "STR Sin",
         "STRlord",
         "STRmit",
         "STR Hermit",
+        "DEX Assassin",
         "DEX Sin",
         "DEXlord",
         "DEXmit",
