@@ -631,6 +631,31 @@
       ]
     },
     {
+      "name": "Bowginner",
+      "deprecated_names": [],
+      "aliases": [
+        "Bow Beginner",
+        "Beginnarcher",
+        "Bow Perma",
+        "Beginner Archer",
+        "Archery Beginner"
+      ],
+      "progressions": [[0, 300]],
+      "location": null,
+      "primary_stats": ["DEX"],
+      "secondary_stats": ["STR"],
+      "stat_constraints": [],
+      "allowed_weapons": null,
+      "power_level": 1,
+      "attacks": [0],
+      "notable_skills": [3000002],
+      "notable_equips": [],
+      "notes": [
+        "Bowginners are best thought of by considering what a permabeginner might look like, if it were capable of wielding bows.",
+        "Bowginners are a very restricted type of permarcher that cannot spend SP on any skills except for The Eye of Amazon. Completely SPless (i.e. no Eye of Amazon) bowginners may be referred to as \u201cpure bowginners\u201d. They can still hybridise with other odd jobs, like woodsman or bow-whacker."
+      ]
+    },
+    {
       "name": "Grim Reaper",
       "deprecated_names": [],
       "aliases": ["Scythe Rogue", "Scythe Thief"],
@@ -892,6 +917,25 @@
         "LUKless bandits tend to have much more WACC than their LUK-based counterparts, because each point of DEX contributes twice as much WACC as each point of LUK.",
         "LUKless bandits tend to use similar weaponry to dagger warriors, because both are LUKless dagger-users, and because there are so many LUKless daggers made specifically for both warriors and rogues.",
         "LUKless bandits who are truly pure DEX (4 base STR, in addition to the 4 base LUK) constitute their own subspecies, the “pure DEXdit”."
+      ]
+    },
+    {
+      "name": "Clawginner",
+      "deprecated_names": [],
+      "aliases": [],
+      "progressions": [[0, 400]],
+      "location": null,
+      "primary_stats": ["LUK"],
+      "secondary_stats": ["DEX", "STR"],
+      "stat_constraints": [],
+      "allowed_weapons": null,
+      "power_level": 1,
+      "attacks": [0],
+      "notable_skills": [4000001],
+      "notable_equips": [],
+      "notes": [
+        "Clawginners are best thought of by considering what a permabeginner might look like, if it were capable of wielding any claw. This makes them fairly similar to besinners, although besinners are obviously much more limited in their weapon selection, and besinners have no access to Keen Eyes.",
+        "Clawginners are a very restricted type of permarogue that cannot spend SP on any skills except for Keen Eyes. Completely SPless (i.e. no Keen Eyes) clawginners may be referred to as \u201cpure clawginners\u201d. They can still hybridise with other odd jobs, like claw-puncher."
       ]
     },
     {
@@ -1158,6 +1202,31 @@
       "notes": [
         "The only restriction on this type of gunslinger is that they cannot use attacking skills (not including summons as attacking skills, of course). During third and fourth jobs, summoners are reliant on their summons. Before third job, summoners play essentially like more mobile DEX beginners.",
         "Summoners who make it to fourth job can make use of Wrath of the Octopi."
+      ]
+    },
+    {
+      "name": "Begunner",
+      "deprecated_names": [],
+      "aliases": [
+        "Gunginner",
+        "Bulletginner",
+        "Shootginner",
+        "Gun Beginner",
+        "Gun Perma"
+      ],
+      "progressions": [[0, 500]],
+      "location": null,
+      "primary_stats": ["DEX"],
+      "secondary_stats": ["STR"],
+      "stat_constraints": [],
+      "allowed_weapons": null,
+      "power_level": 1,
+      "attacks": [0],
+      "notable_skills": [],
+      "notable_equips": [],
+      "notes": [
+        "Begunners are best thought of by considering what a permabeginner might look like, if it were capable of wielding guns.",
+        "Begunners are essentially just SPless permapirates; they cannot spend SP on any of their first job skills. They can still hybridise with other odd jobs, like swashbuckler or pistol-whipper."
       ]
     }
   ]

@@ -49,6 +49,7 @@ three possible power levels, which are as follows:
 - [Permarcher](#permarcher)
 - [Woodsman](#woodsman)
 - [Bow-whacker](#bow-whacker)
+- [Bowginner](#bowginner)
 - [Grim Reaper](#grim-reaper)
 - [Carpenter](#carpenter)
 - [Permarogue](#permarogue)
@@ -58,6 +59,7 @@ three possible power levels, which are as follows:
 - [Blood Bandit](#blood-bandit)
 - [Brigand](#brigand)
 - [LUKless Bandit](#lukless-bandit)
+- [Clawginner](#clawginner)
 - [Permapirate](#permapirate)
 - [LUK Bucc](#luk-bucc)
 - [DEX Brawler](#dex-brawler)
@@ -68,6 +70,7 @@ three possible power levels, which are as follows:
 - [Pistol-whipper](#pistol-whipper)
 - [Punch Slinger](#punch-slinger)
 - [Summoner](#summoner)
+- [Begunner](#begunner)
 
 ## Camper
 
@@ -1240,6 +1243,32 @@ Bow-whackers do not have the stat constraint that woodsmen have (indeed, most bo
 
 Bow-whackers are more powerful than they might seem at first blush, partly because of Power Knock-Back, and partly because of the somewhat favorable bow-whack damage formula.
 
+## Bowginner
+
+Also known as: “Bow Beginner”, “Beginnarcher”, “Bow Perma”, “Beginner Archer”, “Archery Beginner”
+
+Possible job progressions:
+
+- Beginner → Archer
+
+Primary stat: **DEX** | Secondary stat: STR
+
+Power level: 🍏
+
+Attacks:
+
+- \[basic attack\]
+
+Notable skills:
+
+- [The Eye of Amazon](https://maplelegends.com/lib/skill?id=3000002)
+
+### Notes
+
+Bowginners are best thought of by considering what a permabeginner might look like, if it were capable of wielding bows.
+
+Bowginners are a very restricted type of permarcher that cannot spend SP on any skills except for The Eye of Amazon. Completely SPless (i.e. no Eye of Amazon) bowginners may be referred to as “pure bowginners”. They can still hybridise with other odd jobs, like woodsman or bow-whacker.
+
 ## Grim Reaper
 
 Also known as: “Scythe Rogue”, “Scythe Thief”
@@ -1750,6 +1779,32 @@ LUKless bandits tend to use similar weaponry to dagger warriors, because both ar
 
 LUKless bandits who are truly pure DEX (4 base STR, in addition to the 4 base LUK) constitute their own subspecies, the “pure DEXdit”.
 
+## Clawginner
+
+Also known as: “Claw Permarogueinner”
+
+Possible job progressions:
+
+- Beginner → Rogue
+
+Primary stat: **LUK** | Secondary stats: DEX, STR
+
+Power level: 🍏
+
+Attacks:
+
+- \[basic attack\]
+
+Notable skills:
+
+- [Keen Eyes](https://maplelegends.com/lib/skill?id=4000001)
+
+### Notes
+
+Clawginners are best thought of by considering what a permabeginner might look like, if it were capable of wielding any claw. This makes them fairly similar to besinners, although besinners are obviously much more limited in their weapon selection, and besinners have no access to Keen Eyes.
+
+Clawginners are a very restricted type of permarogue that cannot spend SP on any skills except for Keen Eyes. Completely SPless (i.e. no Keen Eyes) clawginners may be referred to as “pure clawginners”. They can still hybridise with other odd jobs, like claw-puncher.
+
 ## Permapirate
 
 Also known as: “Perma-pirate”
@@ -2186,4 +2241,26 @@ Notable equipment:
 The only restriction on this type of gunslinger is that they cannot use attacking skills (not including summons as attacking skills, of course). During third and fourth jobs, summoners are reliant on their summons. Before third job, summoners play essentially like more mobile DEX beginners.
 
 Summoners who make it to fourth job can make use of Wrath of the Octopi.
+
+## Begunner
+
+Also known as: “Gunginner”, “Bulletginner”, “Shootginner”, “Gun Beginner”, “Gun Perma”
+
+Possible job progressions:
+
+- Beginner → Pirate
+
+Primary stat: **DEX** | Secondary stat: STR
+
+Power level: 🍏
+
+Attacks:
+
+- \[basic attack\]
+
+### Notes
+
+Begunners are best thought of by considering what a permabeginner might look like, if it were capable of wielding guns.
+
+Begunners are essentially just SPless permapirates; they cannot spend SP on any of their first job skills. They can still hybridise with other odd jobs, like swashbuckler or pistol-whipper.
 
