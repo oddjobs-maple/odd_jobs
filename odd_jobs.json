@@ -2,6 +2,7 @@
   "oddjobs": [
     {
       "name": "Camper",
+      "deprecated_names": [],
       "aliases": ["Applelander", "Roadie", "Snowlander"],
       "progressions": [[0]],
       "location": "Training Camp",
@@ -22,6 +23,7 @@
     },
     {
       "name": "Magelander",
+      "deprecated_names": [],
       "aliases": ["Wand Islander"],
       "progressions": [[0]],
       "location": "Maple Island",
@@ -33,13 +35,7 @@
       "attacks": [1000, 0],
       "notable_skills": [],
       "notable_equips": [
-        1372002,
-        1002019,
-        1062000,
-        1040013,
-        1041012,
-        1072004,
-        1032003
+        1372002, 1002019, 1062000, 1040013, 1041012, 1072004, 1032003
       ],
       "notes": [
         "Magelanders are defined by their use of the Metal Wand, a level 18 wand with no job requirements that drops from Red Snails. It requires 55 INT and 20 LUK to equip.",
@@ -48,6 +44,7 @@
     },
     {
       "name": "Wand Beginner",
+      "deprecated_names": [],
       "aliases": [
         "Wandginner",
         "Wand Perma",
@@ -72,6 +69,7 @@
     },
     {
       "name": "Islander",
+      "deprecated_names": [],
       "aliases": [],
       "progressions": [[0]],
       "location": "Maple Island",
@@ -83,16 +81,8 @@
       "attacks": [0, 1000],
       "notable_skills": [],
       "notable_equips": [
-        1442012,
-        1312000,
-        1322007,
-        1442029,
-        1002019,
-        1062000,
-        1040013,
-        1041012,
-        1072004,
-        1032003
+        1442012, 1312000, 1322007, 1442029, 1002019, 1062000, 1040013, 1041012,
+        1072004, 1032003
       ],
       "notes": [
         "Islanders are defined solely by their choice to leave the Training Camp, but to never leave Maple Island.",
@@ -101,6 +91,7 @@
     },
     {
       "name": "Besinner",
+      "deprecated_names": [],
       "aliases": ["LUK Beginner", "LUKginner", "LUK Noblesse", "LUK Legend"],
       "progressions": [[0]],
       "location": null,
@@ -120,6 +111,7 @@
     },
     {
       "name": "Permabeginner",
+      "deprecated_names": [],
       "aliases": [
         "Permanoob",
         "Perma",
@@ -144,6 +136,7 @@
     },
     {
       "name": "DEX Beginner",
+      "deprecated_names": [],
       "aliases": [
         "DEX Perma",
         "DEX Permabeginner",
@@ -172,6 +165,7 @@
     },
     {
       "name": "Permawarrior",
+      "deprecated_names": [],
       "aliases": ["Perma-warrior", "Permaswordman", "Perma-swordman"],
       "progressions": [[0, 100]],
       "location": null,
@@ -190,6 +184,7 @@
     },
     {
       "name": "HP Warrior",
+      "deprecated_names": [],
       "aliases": ["Blood Warrior"],
       "progressions": [
         [0, 100, 110, 111, 112],
@@ -203,13 +198,7 @@
       "power_level": 2,
       "attacks": [1101007, 1001004, 1001005],
       "notable_skills": [
-        1101007,
-        1000001,
-        1101006,
-        1201006,
-        1111007,
-        1111008,
-        1211009
+        1101007, 1000001, 1101006, 1201006, 1111007, 1111008, 1211009
       ],
       "notable_equips": [],
       "notes": [
@@ -220,6 +209,7 @@
     },
     {
       "name": "Wand Warrior",
+      "deprecated_names": [],
       "aliases": [],
       "progressions": [
         [0, 100, 110, 111, 112],
@@ -234,17 +224,8 @@
       "power_level": 2,
       "attacks": [1001004, 1001005, 1101007],
       "notable_skills": [
-        1101007,
-        1000001,
-        1101006,
-        1301006,
-        1301007,
-        1201006,
-        1111002,
-        1111007,
-        1111008,
-        1211009,
-        1311007
+        1101007, 1000001, 1101006, 1301006, 1301007, 1201006, 1111002, 1111007,
+        1111008, 1211009, 1311007
       ],
       "notable_equips": [1372005, 1372006, 1372002, 1372017, 1372031, 1372033],
       "notes": [
@@ -255,6 +236,7 @@
     },
     {
       "name": "LUK Warrior",
+      "deprecated_names": [],
       "aliases": ["LUK Swordman", "Pure LUK Warrior"],
       "progressions": [
         [0, 100, 110, 111, 112],
@@ -268,69 +250,19 @@
       "allowed_weapons": null,
       "power_level": 2,
       "attacks": [
-        1001004,
-        1001005,
-        1101007,
-        1111003,
-        1111004,
-        1111005,
-        1111006,
-        1211002,
-        1311001,
-        1311002,
-        1311003,
-        1311004,
-        1311006
+        1001004, 1001005, 1101007, 1111003, 1111004, 1111005, 1111006, 1211002,
+        1311001, 1311002, 1311003, 1311004, 1311006
       ],
       "notable_skills": [
-        1101007,
-        1000001,
-        1101006,
-        1301006,
-        1301007,
-        1201006,
-        1111002,
-        1111007,
-        1111008,
-        1211003,
-        1211004,
-        1211005,
-        1211006,
-        1211007,
-        1211008,
-        1211009,
+        1101007, 1000001, 1101006, 1301006, 1301007, 1201006, 1111002, 1111007,
+        1111008, 1211003, 1211004, 1211005, 1211006, 1211007, 1211008, 1211009,
         1311007
       ],
       "notable_equips": [
-        1412001,
-        1402001,
-        1422000,
-        1432000,
-        1442000,
-        1442006,
-        1402018,
-        1322000,
-        1432001,
-        1442007,
-        1322002,
-        1422006,
-        1442004,
-        1322004,
-        1422004,
-        1412011,
-        1422014,
-        1432012,
-        1442024,
-        1302037,
-        1302064,
-        1312032,
-        1402039,
-        1412027,
-        1322054,
-        1422029,
-        1432040,
-        1442051,
-        1402017
+        1412001, 1402001, 1422000, 1432000, 1442000, 1442006, 1402018, 1322000,
+        1432001, 1442007, 1322002, 1422006, 1442004, 1322004, 1422004, 1412011,
+        1422014, 1432012, 1442024, 1302037, 1302064, 1312032, 1402039, 1412027,
+        1322054, 1422029, 1432040, 1442051, 1402017
       ],
       "notes": [
         "LUK warriors are actually quite similar to LUK mages, in that they essentially play like their non-odd-job counterparts, albeit considerably weaker. LUK warriors are, again like LUK mages, somewhat limited in their equipment choices because of their unusual AP allocation, but can nevertheless use job-appropriate weapons that enable them to make use of all of their skills.",
@@ -339,6 +271,7 @@
     },
     {
       "name": "Dagger Warrior",
+      "deprecated_names": [],
       "aliases": [],
       "progressions": [
         [0, 100, 110, 111, 112],
@@ -353,37 +286,13 @@
       "power_level": 3,
       "attacks": [1001004, 1001005, 1101007],
       "notable_skills": [
-        1101007,
-        1000001,
-        1101006,
-        1301006,
-        1301007,
-        1201006,
-        1111002,
-        1111007,
-        1111008,
-        1211009,
-        1311007
+        1101007, 1000001, 1101006, 1301006, 1301007, 1201006, 1111002, 1111007,
+        1111008, 1211009, 1311007
       ],
       "notable_equips": [
-        1332007,
-        1332032,
-        1332006,
-        1332008,
-        1332010,
-        1332009,
-        1332020,
-        1332021,
-        1332016,
-        1332029,
-        1332017,
-        1332030,
-        1332019,
-        1332053,
-        1332022,
-        1332026,
-        1332051,
-        1332049
+        1332007, 1332032, 1332006, 1332008, 1332010, 1332009, 1332020, 1332021,
+        1332016, 1332029, 1332017, 1332030, 1332019, 1332053, 1332022, 1332026,
+        1332051, 1332049
       ],
       "notes": [
         "The only restriction placed on dagger warriors is the requirement that they exclusively use weapons that are daggers. This turns out to be quite the downside, because this locks them out of most of their skills.",
@@ -393,6 +302,7 @@
     },
     {
       "name": "DEX Warrior",
+      "deprecated_names": [],
       "aliases": ["STRless Warrior", "DEX Swordman"],
       "progressions": [
         [0, 100, 110, 111, 112],
@@ -406,78 +316,20 @@
       "allowed_weapons": null,
       "power_level": 3,
       "attacks": [
-        1001004,
-        1001005,
-        1101007,
-        1111003,
-        1111004,
-        1111005,
-        1111006,
-        1211002,
-        1311001,
-        1311002,
-        1311003,
-        1311004,
-        1311006
+        1001004, 1001005, 1101007, 1111003, 1111004, 1111005, 1111006, 1211002,
+        1311001, 1311002, 1311003, 1311004, 1311006
       ],
       "notable_skills": [
-        1101007,
-        1000001,
-        1101006,
-        1301006,
-        1301007,
-        1201006,
-        1111002,
-        1111007,
-        1111008,
-        1211003,
-        1211004,
-        1211005,
-        1211006,
-        1211007,
-        1211008,
-        1211009,
+        1101007, 1000001, 1101006, 1301006, 1301007, 1201006, 1111002, 1111007,
+        1111008, 1211003, 1211004, 1211005, 1211006, 1211007, 1211008, 1211009,
         1311007
       ],
       "notable_equips": [
-        1412001,
-        1402001,
-        1422000,
-        1432000,
-        1442000,
-        1442006,
-        1402018,
-        1322000,
-        1322010,
-        1432001,
-        1332006,
-        1442007,
-        1302006,
-        1322002,
-        1322011,
-        1422006,
-        1332008,
-        1442004,
-        1302003,
-        1322004,
-        1422004,
-        1332010,
-        1332009,
-        1412011,
-        1422014,
-        1432012,
-        1442024,
-        1302037,
-        1302064,
-        1312032,
-        1402039,
-        1412027,
-        1322054,
-        1422029,
-        1432040,
-        1442051,
-        1402017,
-        1402037
+        1412001, 1402001, 1422000, 1432000, 1442000, 1442006, 1402018, 1322000,
+        1322010, 1432001, 1332006, 1442007, 1302006, 1322002, 1322011, 1422006,
+        1332008, 1442004, 1302003, 1322004, 1422004, 1332010, 1332009, 1412011,
+        1422014, 1432012, 1442024, 1302037, 1302064, 1312032, 1402039, 1412027,
+        1322054, 1422029, 1432040, 1442051, 1402017, 1402037
       ],
       "notes": [
         "DEX warriors are essentially a stronger variant of LUK warriors, because DEX actually contributes somewhat (although not nearly as much as STR) to their damage, unlike LUK. However, each point of DEX only contributes half as much AVOID as each point of LUK, so the DEX warrior is defensively inferior.",
@@ -486,6 +338,7 @@
     },
     {
       "name": "STR Mage",
+      "deprecated_names": [],
       "aliases": ["Strength Mage", "Battle Mage", "STR Magician"],
       "progressions": [
         [0, 200, 230, 231, 232],
@@ -500,14 +353,7 @@
       "power_level": 2,
       "attacks": [0, 2111003],
       "notable_skills": [
-        2001002,
-        2101001,
-        2101002,
-        2301002,
-        2301004,
-        2311003,
-        2311001,
-        2311005,
+        2001002, 2101001, 2101002, 2301002, 2301004, 2311003, 2311001, 2311005,
         2111004
       ],
       "notable_equips": [1322000, 1322002, 1322004, 1072169, 1082246, 1092045],
@@ -518,6 +364,7 @@
     },
     {
       "name": "DEX Mage",
+      "deprecated_names": [],
       "aliases": ["Dexterity Mage", "DEX Magician"],
       "progressions": [
         [0, 200, 230, 231, 232],
@@ -532,14 +379,7 @@
       "power_level": 1,
       "attacks": [0, 2111003],
       "notable_skills": [
-        2001002,
-        2101001,
-        2101002,
-        2301002,
-        2301004,
-        2311003,
-        2311001,
-        2311005,
+        2001002, 2101001, 2101002, 2301002, 2301004, 2311003, 2311001, 2311005,
         2111004
       ],
       "notable_equips": [1072169, 1082246, 1092045],
@@ -550,6 +390,7 @@
     },
     {
       "name": "Permamagician",
+      "deprecated_names": [],
       "aliases": ["Permagician", "Perma-magician"],
       "progressions": [[0, 200]],
       "location": null,
@@ -568,6 +409,7 @@
     },
     {
       "name": "Gish",
+      "deprecated_names": [],
       "aliases": [
         "INT Gish",
         "Mixed Attacker Mage",
@@ -587,55 +429,17 @@
       "allowed_weapons": null,
       "power_level": 2,
       "attacks": [
-        0,
-        2001004,
-        2001005,
-        2101004,
-        2101005,
-        2201004,
-        2201005,
-        2301002,
-        2301005,
-        2111002,
-        2111003,
-        2111006,
-        2211002,
-        2211003,
-        2211006,
-        2311004
+        0, 2001004, 2001005, 2101004, 2101005, 2201004, 2201005, 2301002,
+        2301005, 2111002, 2111003, 2111006, 2211002, 2211003, 2211006, 2311004
       ],
       "notable_skills": [
-        2001002,
-        2101001,
-        2101002,
-        2301002,
-        2301004,
-        2110001,
-        2111005,
-        2311003,
-        2311001,
-        2311005,
-        2111004
+        2001002, 2101001, 2101002, 2301002, 2301004, 2110001, 2111005, 2311003,
+        2311001, 2311005, 2111004
       ],
       "notable_equips": [
-        1302017,
-        1302027,
-        1322051,
-        1302028,
-        1312013,
-        1402044,
-        1302063,
-        1302016,
-        1302029,
-        1302031,
-        1442046,
-        1302026,
-        1332053,
-        1442068,
-        1072169,
-        1082246,
-        1082230,
-        1092045
+        1302017, 1302027, 1322051, 1302028, 1312013, 1402044, 1302063, 1302016,
+        1302029, 1302031, 1442046, 1302026, 1332053, 1442068, 1072169, 1082246,
+        1082230, 1092045
       ],
       "notes": [
         "Gishes attack both with melee (similarly to the closely related STR mage) and with spells.",
@@ -647,6 +451,7 @@
     },
     {
       "name": "LUK Gish",
+      "deprecated_names": [],
       "aliases": [
         "Gishlet",
         "LUK Mixed Attacker Mage",
@@ -670,55 +475,17 @@
       "allowed_weapons": null,
       "power_level": 2,
       "attacks": [
-        0,
-        2001004,
-        2001005,
-        2101004,
-        2101005,
-        2201004,
-        2201005,
-        2301002,
-        2301005,
-        2111002,
-        2111003,
-        2111006,
-        2211002,
-        2211003,
-        2211006,
-        2311004
+        0, 2001004, 2001005, 2101004, 2101005, 2201004, 2201005, 2301002,
+        2301005, 2111002, 2111003, 2111006, 2211002, 2211003, 2211006, 2311004
       ],
       "notable_skills": [
-        2001002,
-        2101001,
-        2101002,
-        2301002,
-        2301004,
-        2110001,
-        2111005,
-        2311003,
-        2311001,
-        2311005,
-        2111004
+        2001002, 2101001, 2101002, 2301002, 2301004, 2110001, 2111005, 2311003,
+        2311001, 2311005, 2111004
       ],
       "notable_equips": [
-        1302017,
-        1302027,
-        1322051,
-        1302028,
-        1312013,
-        1402044,
-        1302063,
-        1302016,
-        1302029,
-        1302031,
-        1442046,
-        1302026,
-        1332053,
-        1442068,
-        1072169,
-        1082246,
-        1082230,
-        1092045
+        1302017, 1302027, 1322051, 1302028, 1312013, 1402044, 1302063, 1302016,
+        1302029, 1302031, 1442046, 1302026, 1332053, 1442068, 1072169, 1082246,
+        1082230, 1092045
       ],
       "notes": [
         "LUK gishes attack both with melee (similarly to the closely related STR mage) and with spells.",
@@ -729,6 +496,7 @@
     },
     {
       "name": "LUK Mage",
+      "deprecated_names": [],
       "aliases": [
         "Magelet",
         "LUK Magician",
@@ -749,81 +517,20 @@
       "allowed_weapons": null,
       "power_level": 2,
       "attacks": [
-        2001004,
-        2001005,
-        2101004,
-        2101005,
-        2201004,
-        2201005,
-        2301002,
-        2301005,
-        2111002,
-        2111003,
-        2111006,
-        2211002,
-        2211003,
-        2211006,
-        2311004
+        2001004, 2001005, 2101004, 2101005, 2201004, 2201005, 2301002, 2301005,
+        2111002, 2111003, 2111006, 2211002, 2211003, 2211006, 2311004
       ],
       "notable_skills": [
-        2001002,
-        2101001,
-        2101002,
-        2301002,
-        2301004,
-        2110001,
-        2111005,
-        2311003,
-        2311001,
-        2311005,
-        2111004
+        2001002, 2101001, 2101002, 2301002, 2301004, 2110001, 2111005, 2311003,
+        2311001, 2311005, 2111004
       ],
       "notable_equips": [
-        1302017,
-        1372005,
-        1302027,
-        1322051,
-        1302028,
-        1312013,
-        1382015,
-        1402044,
-        1382009,
-        1302063,
-        1302016,
-        1372017,
-        1382012,
-        1382041,
-        1302029,
-        1302031,
-        1442046,
-        1372031,
-        1372033,
-        1382039,
-        1372034,
-        1372035,
-        1372036,
-        1372037,
-        1372038,
-        1302026,
-        1332053,
-        1382016,
-        1382037,
-        1382045,
-        1382046,
-        1382047,
-        1382048,
-        1372039,
-        1372040,
-        1372041,
-        1372042,
-        1382049,
-        1382050,
-        1382051,
-        1382052,
-        1072169,
-        1082246,
-        1082230,
-        1092045
+        1302017, 1372005, 1302027, 1322051, 1302028, 1312013, 1382015, 1402044,
+        1382009, 1302063, 1302016, 1372017, 1382012, 1382041, 1302029, 1302031,
+        1442046, 1372031, 1372033, 1382039, 1372034, 1372035, 1372036, 1372037,
+        1372038, 1302026, 1332053, 1382016, 1382037, 1382045, 1382046, 1382047,
+        1382048, 1372039, 1372040, 1372041, 1372042, 1382049, 1382050, 1382051,
+        1382052, 1072169, 1082246, 1082230, 1092045
       ],
       "notes": [
         "LUK mages play very similarly to ordinary mages, although obviously they are considerably weaker, and are also incapable of equipping items with significant INT requirements. LUK mages also, of course, have considerably higher AVOID.",
@@ -832,6 +539,7 @@
     },
     {
       "name": "Permarcher",
+      "deprecated_names": [],
       "aliases": ["Perma-archer", "Permabowman", "Perma-bowman"],
       "progressions": [[0, 300]],
       "location": null,
@@ -850,6 +558,7 @@
     },
     {
       "name": "Woodsman",
+      "deprecated_names": [],
       "aliases": [
         "Woodswoman",
         "Woodman",
@@ -872,44 +581,15 @@
       "allowed_weapons": null,
       "power_level": 3,
       "attacks": [
-        0,
-        3001005,
-        3101005,
-        3201005,
-        3101003,
-        3111006,
-        3111003,
-        3111004,
-        3211003,
-        3211004
+        0, 3001005, 3101005, 3201005, 3101003, 3111006, 3111003, 3111004,
+        3211003, 3211004
       ],
       "notable_skills": [
-        3000000,
-        3001003,
-        3000001,
-        3111002,
-        3211003,
-        3111005,
-        3211005,
-        3110000
+        3000000, 3001003, 3000001, 3111002, 3211003, 3111005, 3211005, 3110000
       ],
       "notable_equips": [
-        1452002,
-        1452016,
-        1452022,
-        1452045,
-        1452018,
-        1462001,
-        1462014,
-        1462019,
-        1462040,
-        1402001,
-        1412001,
-        1422000,
-        1432001,
-        1422004,
-        1442004,
-        1072170
+        1452002, 1452016, 1452022, 1452045, 1452018, 1462001, 1462014, 1462019,
+        1462040, 1402001, 1412001, 1422000, 1432001, 1422004, 1442004, 1072170
       ],
       "notes": [
         "The woodsman\u2019s versatility can allow them to proficiently switch between ranged and melee physical combat.",
@@ -918,6 +598,7 @@
     },
     {
       "name": "Bow-whacker",
+      "deprecated_names": [],
       "aliases": ["Knockbacker", "Crossbow-whacker", "Knockback Archer"],
       "progressions": [
         [0, 300, 310, 311, 312],
@@ -932,16 +613,8 @@
       "attacks": [0, 3101003],
       "notable_skills": [3000000, 3001003, 3111002, 3111005, 3211005, 3110000],
       "notable_equips": [
-        1452002,
-        1452016,
-        1452022,
-        1452045,
-        1452018,
-        1462001,
-        1462014,
-        1462019,
-        1462040,
-        1072170
+        1452002, 1452016, 1452022, 1452045, 1452018, 1462001, 1462014, 1462019,
+        1462040, 1072170
       ],
       "notes": [
         "Bow-whackers do not have the stat constraint that woodsmen have (indeed, most bow-whackers have ordinary archer AP builds), because they are disallowed from shooting projectiles, and disallowed from using Soul Arrow. They can only deal damage by whacking monsters with their (cross)bow.",
@@ -950,6 +623,7 @@
     },
     {
       "name": "Grim Reaper",
+      "deprecated_names": [],
       "aliases": ["Scythe Rogue", "Scythe Thief"],
       "progressions": [
         [0, 400, 410, 411, 412],
@@ -963,26 +637,11 @@
       "power_level": 1,
       "attacks": [0, 4001002, 4201004, 4211006],
       "notable_skills": [
-        4000000,
-        4001002,
-        4001003,
-        4201004,
-        4201003,
-        4111006,
-        4110000,
-        4111001,
-        4210000,
-        4211005
+        4000000, 4001002, 4001003, 4201004, 4201003, 4111006, 4110000, 4111001,
+        4210000, 4211005
       ],
       "notable_equips": [
-        1312002,
-        1092018,
-        1092019,
-        1092020,
-        1092047,
-        1092050,
-        1092049,
-        1072171
+        1312002, 1092018, 1092019, 1092020, 1092047, 1092050, 1092049, 1072171
       ],
       "notes": [
         "Grim reapers are characterised and defined by their exclusive use of the Scythe, a level 15 one-handed axe that requires its wielder to be a rogue and to have at least 35 LUK and 30 DEX."
@@ -990,6 +649,7 @@
     },
     {
       "name": "Carpenter",
+      "deprecated_names": [],
       "aliases": [
         "Jigsaw Killer",
         "Woodworker",
@@ -1009,26 +669,11 @@
       "power_level": 1,
       "attacks": [0, 4001002, 4201004, 4211006],
       "notable_skills": [
-        4000000,
-        4001002,
-        4001003,
-        4201004,
-        4201003,
-        4111006,
-        4110000,
-        4111001,
-        4210000,
-        4211005
+        4000000, 4001002, 4001003, 4201004, 4201003, 4111006, 4110000, 4111001,
+        4210000, 4211005
       ],
       "notable_equips": [
-        1302001,
-        1092018,
-        1092019,
-        1092020,
-        1092047,
-        1092050,
-        1092049,
-        1072171
+        1302001, 1092018, 1092019, 1092020, 1092047, 1092050, 1092049, 1072171
       ],
       "notes": [
         "Carpenters are characterised and defined by their exclusive use of the Saw, a level 10 one-handed sword that requires its wielder to be a rogue."
@@ -1036,6 +681,7 @@
     },
     {
       "name": "Permarogue",
+      "deprecated_names": [],
       "aliases": ["Perma-rogue", "Permathief", "Perma-thief"],
       "progressions": [[0, 400]],
       "location": null,
@@ -1054,6 +700,7 @@
     },
     {
       "name": "STR Assassin",
+      "deprecated_names": [],
       "aliases": [
         "STR Sin",
         "Strength Assassin",
@@ -1071,42 +718,13 @@
       "power_level": 2,
       "attacks": [0, 4001002, 4111004, 4111005, 4101005, 4111003],
       "notable_skills": [
-        4000000,
-        4001002,
-        4001003,
-        4101004,
-        4111006,
-        4111001,
-        4110000,
-        4101005,
-        4111002,
-        4111003
+        4000000, 4001002, 4001003, 4101004, 4111006, 4111001, 4110000, 4101005,
+        4111002, 4111003
       ],
       "notable_equips": [
-        1302001,
-        1402001,
-        1412001,
-        1422000,
-        1432001,
-        1322010,
-        1302006,
-        1422006,
-        1322011,
-        1302003,
-        1442004,
-        1422004,
-        1472063,
-        1472000,
-        1472030,
-        1472032,
-        1472054,
-        1472055,
-        1092018,
-        1092019,
-        1092020,
-        1092047,
-        1092050,
-        1092049,
+        1302001, 1402001, 1412001, 1422000, 1432001, 1322010, 1302006, 1422006,
+        1322011, 1302003, 1442004, 1422004, 1472063, 1472000, 1472030, 1472032,
+        1472054, 1472055, 1092018, 1092019, 1092020, 1092047, 1092050, 1092049,
         1072171
       ],
       "notes": [
@@ -1118,6 +736,7 @@
     },
     {
       "name": "Dagger Assassin",
+      "deprecated_names": [],
       "aliases": [
         "Backstabber",
         "Daggerlord",
@@ -1134,23 +753,10 @@
       "power_level": 3,
       "attacks": [4001334, 4111003],
       "notable_skills": [
-        4000000,
-        4001002,
-        4001003,
-        4101004,
-        4111006,
-        4110000,
-        4111001,
-        4111003
+        4000000, 4001002, 4001003, 4101004, 4111006, 4110000, 4111001, 4111003
       ],
       "notable_equips": [
-        1092018,
-        1092019,
-        1092020,
-        1092047,
-        1092050,
-        1092049,
-        1072171
+        1092018, 1092019, 1092020, 1092047, 1092050, 1092049, 1072171
       ],
       "notes": [
         "Dagger assassins play as ordinary proto-bandits during first job, but diverge considerably from bandits beyond that point. Dagger assassins never get access to mastery nor booster, and permanently lack any \u201cserious\u201d attacking skill; Double Stab is extremely short-reach, single-target, and is not designed to scale well past first job (unlike Lucky Seven). Dagger assassins still, however, get access to Haste during second job, and get access to useful third job skills like Alchemist, Meso Up, and most importantly: Flash Jump."
@@ -1158,6 +764,7 @@
     },
     {
       "name": "Claw-puncher",
+      "deprecated_names": [],
       "aliases": [
         "Starless Assassin",
         "Starless Sin",
@@ -1174,14 +781,7 @@
       "power_level": 1,
       "attacks": [0, 4001002, 4111003],
       "notable_skills": [
-        4000000,
-        4001002,
-        4001003,
-        4101004,
-        4111006,
-        4111001,
-        4110000,
-        4111003
+        4000000, 4001002, 4001003, 4101004, 4111006, 4111001, 4110000, 4111003
       ],
       "notable_equips": [1072171],
       "notes": [
@@ -1192,6 +792,7 @@
     },
     {
       "name": "Blood Bandit",
+      "deprecated_names": [],
       "aliases": ["Blood Dit", "HP Bandit", "HP Dit"],
       "progressions": [[0, 400, 420, 421, 422]],
       "location": null,
@@ -1202,26 +803,11 @@
       "power_level": 2,
       "attacks": [4211006, 4001334, 4201005, 4211004, 4211002],
       "notable_skills": [
-        4211005,
-        4000000,
-        4001002,
-        4001003,
-        4201004,
-        4201003,
-        4210000
+        4211005, 4000000, 4001002, 4001003, 4201004, 4201003, 4210000
       ],
       "notable_equips": [
-        1332007,
-        1332032,
-        1332020,
-        1332021,
-        1332025,
-        1332029,
-        1332056,
-        1332055,
-        1332053,
-        1092047,
-        1072171
+        1332007, 1332032, 1332020, 1332021, 1332025, 1332029, 1332056, 1332055,
+        1332053, 1092047, 1072171
       ],
       "notes": [
         "Blood bandits are essentially ordinary bandits (in the sense that they can use daggers and stabbing skills, and thus all bandit/chief bandit/shadower skills) that trade off the large majority of their melee power in exchange for extreme tankiness. Because all of their APs are spent on HP, and because they gain access to Meso Guard in third job, blood bandits are virtually unkillable. However, naturally enough, their melee capabilities are typically very subpar, and they are more or less built around the use of Meso Explosion, which thankfully does not scale with any of the bandit\u2019s stats, and also demands some tankiness to allow the bandit to get up close in order to place, and then explode, mesos.",
@@ -1230,6 +816,7 @@
     },
     {
       "name": "Brigand",
+      "deprecated_names": [],
       "aliases": [],
       "progressions": [[0, 400, 420, 421, 422]],
       "location": null,
@@ -1237,49 +824,17 @@
       "secondary_stats": ["DEX", "LUK"],
       "stat_constraints": ["LUK = 4"],
       "allowed_weapons": [
-        130,
-        131,
-        132,
-        137,
-        138,
-        140,
-        141,
-        142,
-        143,
-        144,
-        147
+        130, 131, 132, 137, 138, 140, 141, 142, 143, 144, 147
       ],
       "power_level": 2,
       "attacks": [0, 4001002, 4201004, 4211006],
       "notable_skills": [
-        4000000,
-        4001002,
-        4001003,
-        4201004,
-        4201003,
-        4211005,
-        4210000
+        4000000, 4001002, 4001003, 4201004, 4201003, 4211005, 4210000
       ],
       "notable_equips": [
-        1302001,
-        1402001,
-        1412001,
-        1422000,
-        1432001,
-        1322010,
-        1302006,
-        1422006,
-        1322011,
-        1302003,
-        1442004,
-        1422004,
-        1092018,
-        1092019,
-        1092020,
-        1092047,
-        1092050,
-        1092049,
-        1072171
+        1302001, 1402001, 1412001, 1422000, 1432001, 1322010, 1302006, 1422006,
+        1322011, 1302003, 1442004, 1422004, 1092018, 1092019, 1092020, 1092047,
+        1092050, 1092049, 1072171
       ],
       "notes": [
         "Brigands cannot put any SP into stabbing skills, like Double Stab. Steal and Disorder do not (usually; see below) count as \u201cstabbing skills\u201d for the purpose of this definition.",
@@ -1289,6 +844,7 @@
     },
     {
       "name": "LUKless Bandit",
+      "deprecated_names": [],
       "aliases": [
         "LUKless Dit",
         "LUKless Shadower",
@@ -1307,45 +863,13 @@
       "power_level": 3,
       "attacks": [4001334, 4201005, 4211004, 4211006, 4211002],
       "notable_skills": [
-        4000000,
-        4001002,
-        4001003,
-        4201004,
-        4201003,
-        4211005,
-        4210000
+        4000000, 4001002, 4001003, 4201004, 4201003, 4211005, 4210000
       ],
       "notable_equips": [
-        1332007,
-        1332032,
-        1332006,
-        1332008,
-        1332010,
-        1332009,
-        1332020,
-        1332011,
-        1332021,
-        1332025,
-        1332016,
-        1332029,
-        1332024,
-        1332017,
-        1332056,
-        1332055,
-        1332030,
-        1332019,
-        1332053,
-        1332022,
-        1332026,
-        1332051,
-        1332049,
-        1092018,
-        1092019,
-        1092020,
-        1092047,
-        1092050,
-        1092049,
-        1072171
+        1332007, 1332032, 1332006, 1332008, 1332010, 1332009, 1332020, 1332011,
+        1332021, 1332025, 1332016, 1332029, 1332024, 1332017, 1332056, 1332055,
+        1332030, 1332019, 1332053, 1332022, 1332026, 1332051, 1332049, 1092018,
+        1092019, 1092020, 1092047, 1092050, 1092049, 1072171
       ],
       "notes": [
         "LUKless bandits have perhaps the most stable damage in the game; with maxed Dagger Mastery and maxed Savage Blow, the total amount of damage dealt per Savage Blow is effectively constant.",
@@ -1356,6 +880,7 @@
     },
     {
       "name": "Permapirate",
+      "deprecated_names": [],
       "aliases": ["Perma-pirate"],
       "progressions": [[0, 500]],
       "location": null,
@@ -1374,6 +899,7 @@
     },
     {
       "name": "LUK Bucc",
+      "deprecated_names": [],
       "aliases": [
         "Lucc Bucc",
         "Luccaneer",
@@ -1389,26 +915,11 @@
       "allowed_weapons": null,
       "power_level": 2,
       "attacks": [
-        5001002,
-        5001001,
-        5101004,
-        5101002,
-        5101003,
-        5111006,
-        5111004,
-        5111002
+        5001002, 5001001, 5101004, 5101002, 5101003, 5111006, 5111004, 5111002
       ],
       "notable_skills": [
-        5000000,
-        5100000,
-        5101007,
-        5101004,
-        5101002,
-        5101003,
-        5111005,
-        5110000,
-        5110001,
-        5111004
+        5000000, 5100000, 5101007, 5101004, 5101002, 5101003, 5111005, 5110000,
+        5110001, 5111004
       ],
       "notable_equips": [1482000, 1482020, 1482021, 1482022, 1072338],
       "notes": [
@@ -1418,6 +929,7 @@
     },
     {
       "name": "DEX Brawler",
+      "deprecated_names": [],
       "aliases": [
         "DEXaneer",
         "STRless Brawler",
@@ -1434,37 +946,15 @@
       "allowed_weapons": null,
       "power_level": 3,
       "attacks": [
-        5001002,
-        5001001,
-        5001003,
-        5101004,
-        5101002,
-        5101003,
-        5111006,
-        5111004,
+        5001002, 5001001, 5001003, 5101004, 5101002, 5101003, 5111006, 5111004,
         5111002
       ],
       "notable_skills": [
-        5000000,
-        5100000,
-        5101007,
-        5101004,
-        5101002,
-        5101003,
-        5111005,
-        5110000,
-        5110001,
-        5111004
+        5000000, 5100000, 5101007, 5101004, 5101002, 5101003, 5111005, 5110000,
+        5110001, 5111004
       ],
       "notable_equips": [
-        1482000,
-        1482020,
-        1482021,
-        1482022,
-        1492000,
-        1492020,
-        1492021,
-        1492022,
+        1482000, 1482020, 1482021, 1482022, 1492000, 1492020, 1492021, 1492022,
         1072338
       ],
       "notes": [
@@ -1476,6 +966,7 @@
     },
     {
       "name": "Pugilist",
+      "deprecated_names": [],
       "aliases": [
         "Monk",
         "Prizefighter",
@@ -1492,26 +983,11 @@
       "allowed_weapons": [0],
       "power_level": 3,
       "attacks": [
-        5001002,
-        5001001,
-        5101004,
-        5101002,
-        5101003,
-        5111006,
-        5111004,
-        5111002
+        5001002, 5001001, 5101004, 5101002, 5101003, 5111006, 5111004, 5111002
       ],
       "notable_skills": [
-        5000000,
-        5100000,
-        5101007,
-        5101004,
-        5101002,
-        5101003,
-        5111005,
-        5110000,
-        5110001,
-        5111004
+        5000000, 5100000, 5101007, 5101004, 5101002, 5101003, 5111005, 5110000,
+        5110001, 5111004
       ],
       "notable_equips": [1072338],
       "notes": [
@@ -1523,6 +999,7 @@
     },
     {
       "name": "Bullet Bucc",
+      "deprecated_names": [],
       "aliases": [
         "Bullet Brawler",
         "Bullet Buccaneer",
@@ -1547,6 +1024,7 @@
     },
     {
       "name": "Swashbuckler",
+      "deprecated_names": [],
       "aliases": [
         "Swashie",
         "Cowgirl",
@@ -1566,13 +1044,7 @@
       "power_level": 3,
       "attacks": [5001002, 5001003, 5210000, 5201001, 5211005, 5211004],
       "notable_skills": [
-        5000000,
-        5201004,
-        5201005,
-        5201006,
-        5211001,
-        5211002,
-        5211006
+        5000000, 5201004, 5201005, 5201006, 5211001, 5211002, 5211006
       ],
       "notable_equips": [1432018, 1492000, 1492020, 1492021, 1492022, 1072338],
       "notes": [
@@ -1582,6 +1054,7 @@
     },
     {
       "name": "Bombadier",
+      "deprecated_names": [],
       "aliases": ["Grenadier", "Bomber"],
       "progressions": [[0, 500, 520, 521, 522]],
       "location": null,
@@ -1601,6 +1074,7 @@
     },
     {
       "name": "Pistol-whipper",
+      "deprecated_names": [],
       "aliases": [
         "Buffaloer",
         "Buffalo",
@@ -1627,6 +1101,7 @@
     },
     {
       "name": "Punch Slinger",
+      "deprecated_names": [],
       "aliases": ["Knuckle Slinger", "Punchlaw", "Punch Sair"],
       "progressions": [[0, 500, 520, 521, 522]],
       "location": null,
@@ -1645,6 +1120,7 @@
     },
     {
       "name": "Summoner",
+      "deprecated_names": [],
       "aliases": [
         "Summoner Outlaw",
         "Summoner Pirate",
