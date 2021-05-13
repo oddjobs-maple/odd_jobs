@@ -2,8 +2,10 @@
 
 Note that this list is inherently incomplete, because new odd jobs could
 potentially be invented. Also note that the “Stat constraints”
-reference *base* stats/abilities; that is, the stats themselves without any
-bonuses from equipment or buffs.
+reference _base_ stats/abilities; that is, the stats themselves without any
+bonuses from equipment or buffs. APless, statless, and/or SPless builds are
+_always_ odd jobs, but not all such builds are represented here (although some
+are, e.g. HP warrior is statless).
 
 The “Notable equipment” for each job intentionally excludes
 equipment items that are not particularly unique to the job. For example, many
@@ -1780,8 +1782,6 @@ LUKless bandits tend to use similar weaponry to dagger warriors, because both ar
 LUKless bandits who are truly pure DEX (4 base STR, in addition to the 4 base LUK) constitute their own subspecies, the “pure DEXdit”.
 
 ## Clawginner
-
-Also known as: “Claw Permarogueinner”
 
 Possible job progressions:
 
