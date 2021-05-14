@@ -842,7 +842,7 @@
       "stat_constraints": ["DEX = 25", "LUK = 4", "STR = 4"],
       "allowed_weapons": null,
       "power_level": 2,
-      "attacks": [4211006, 4001334, 4201005, 4211004, 4211002],
+      "attacks": [4211006, 4001334, 4001344, 4201005, 4211004, 4211002],
       "notable_skills": [
         4211005, 4000000, 4001002, 4001003, 4201004, 4201003, 4210000
       ],
@@ -1080,6 +1080,35 @@
       "notes": [
         "Bullet buccs are defined as the mirror image of punch slingers; rather than being exclusively knuckle-wielding (or bare-handed, as the case may be) gunslingers, punch slingers are exclusively gun-toting brawlers.",
         "Flash Fist is, somewhat surprisingly, usable with a gun equipped. Its only real use, however, is passing the second job advancement test."
+      ]
+    },
+    {
+      "name": "Armed Brawler",
+      "deprecated_names": [],
+      "aliases": [
+        "No-Knuckle Brawler",
+        "Warrior Brawler",
+        "Common Brawler",
+        "Knuckless Brawler",
+        "Spear Brawler",
+        "Armed Bucc"
+      ],
+      "progressions": [[0, 500, 510, 511, 512]],
+      "location": null,
+      "primary_stats": ["STR"],
+      "secondary_stats": ["DEX"],
+      "stat_constraints": [],
+      "allowed_weapons": [
+        130, 131, 132, 133, 137, 138, 140, 141, 142, 143, 144
+      ],
+      "power_level": 3,
+      "attacks": [5001002],
+      "notable_skills": [5000000, 5100000, 5101007, 5110000],
+      "notable_equips": [1432018, 1072338],
+      "notes": [
+        "This kind of brawler is only restricted by their weapon choices: they can only use melee weapons (i.e. no guns), but cannot use knucklers.",
+        "Because the only real attacking skill of the armed brawler is Somersault Kick, they look very similar to a swashbuckler in melee. As a result, they, like swashbucklers, tend to favour spears; swords and daggers are secondary favourites as well.",
+        "In order to pass the second job advancement test, the armed brawler has to make a slight exception, by using Flash Fist. This is the only time that the armed brawler is ever equipped with knuckler or is ever unarmed."
       ]
     },
     {

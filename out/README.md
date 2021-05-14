@@ -1,11 +1,13 @@
 # Odd jobs
 
 Note that this list is inherently incomplete, because new odd jobs could
-potentially be invented. Also note that the “Stat constraints”
-reference _base_ stats/abilities; that is, the stats themselves without any
-bonuses from equipment or buffs. APless, statless, and/or SPless builds are
-_always_ odd jobs, but not all such builds are represented here (although some
-are, e.g. HP warrior is statless).
+potentially be invented. APless, statless, and/or SPless builds are _always_
+odd jobs, but not all such builds are represented here (although some are, e.g.
+HP warriors are statless).
+
+Also note that the “Stat constraints” reference _base_
+stats/abilities; that is, the stats themselves without any bonuses from
+equipment nor buffs.
 
 The “Notable equipment” for each job intentionally excludes
 equipment items that are not particularly unique to the job. For example, many
@@ -67,6 +69,7 @@ three possible power levels, which are as follows:
 - [DEX Brawler](#dex-brawler)
 - [Pugilist](#pugilist)
 - [Bullet Bucc](#bullet-bucc)
+- [Armed Brawler](#armed-brawler)
 - [Swashbuckler](#swashbuckler)
 - [Bombadier](#bombadier)
 - [Pistol-whipper](#pistol-whipper)
@@ -1595,6 +1598,7 @@ Attacks:
 
 - [Meso Explosion](https://maplelegends.com/lib/skill?id=4211006)
 - [Double Stab](https://maplelegends.com/lib/skill?id=4001334)
+- [Lucky Seven](https://maplelegends.com/lib/skill?id=4001344)
 - [Savage Blow](https://maplelegends.com/lib/skill?id=4201005)
 - [Band of Thieves](https://maplelegends.com/lib/skill?id=4211004)
 - [Assaulter](https://maplelegends.com/lib/skill?id=4211002)
@@ -2043,6 +2047,56 @@ Notable equipment:
 Bullet buccs are defined as the mirror image of punch slingers; rather than being exclusively knuckle-wielding (or bare-handed, as the case may be) gunslingers, punch slingers are exclusively gun-toting brawlers.
 
 Flash Fist is, somewhat surprisingly, usable with a gun equipped. Its only real use, however, is passing the second job advancement test.
+
+## Armed Brawler
+
+Also known as: “No-Knuckle Brawler”, “Warrior Brawler”, “Common Brawler”, “Knuckless Brawler”, “Spear Brawler”, “Armed Bucc”
+
+Possible job progressions:
+
+- Beginner → Pirate → Brawler → Marauder → Buccaneer
+
+Primary stat: **STR** | Secondary stat: DEX
+
+Allowed weapons:
+
+- one-handed swords
+- one-handed axes
+- one-handed blunt weapons
+- daggers
+- wands
+- staves
+- two-handed swords
+- two-handed axes
+- two-handed blunt weapons
+- spears
+- polearms
+
+Power level: 🍏🍏🍏
+
+Attacks:
+
+- [Somersault Kick](https://maplelegends.com/lib/skill?id=5001002)
+
+Notable skills:
+
+- [Bullet Time](https://maplelegends.com/lib/skill?id=5000000)
+- [Improve MaxHP](https://maplelegends.com/lib/skill?id=5100000)
+- [Oak Barrel](https://maplelegends.com/lib/skill?id=5101007)
+- [Stun Mastery](https://maplelegends.com/lib/skill?id=5110000)
+
+Notable equipment:
+
+- [Sky Ski](https://maplelegends.com/lib/equip?id=01432018)
+- [Purple Snowshoes](https://maplelegends.com/lib/equip?id=01072338)
+
+### Notes
+
+This kind of brawler is only restricted by their weapon choices: they can only use melee weapons (i.e. no guns), but cannot use knucklers.
+
+Because the only real attacking skill of the armed brawler is Somersault Kick, they look very similar to a swashbuckler in melee. As a result, they, like swashbucklers, tend to favour spears; swords and daggers are secondary favourites as well.
+
+In order to pass the second job advancement test, the armed brawler has to make a slight exception, by using Flash Fist. This is the only time that the armed brawler is ever equipped with knuckler or is ever unarmed.
 
 ## Swashbuckler
 

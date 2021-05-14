@@ -31,11 +31,13 @@ struct Oddjob {
 static PREAMBLE: &str = "# Odd jobs
 
 Note that this list is inherently incomplete, because new odd jobs could
-potentially be invented. Also note that the \u{201c}Stat constraints\u{201d}
-reference _base_ stats/abilities; that is, the stats themselves without any
-bonuses from equipment or buffs. APless, statless, and/or SPless builds are
-_always_ odd jobs, but not all such builds are represented here (although some
-are, e.g. HP warrior is statless).
+potentially be invented. APless, statless, and/or SPless builds are _always_
+odd jobs, but not all such builds are represented here (although some are, e.g.
+HP warriors are statless).
+
+Also note that the \u{201c}Stat constraints\u{201d} reference _base_
+stats/abilities; that is, the stats themselves without any bonuses from
+equipment nor buffs.
 
 The \u{201c}Notable equipment\u{201d} for each job intentionally excludes
 equipment items that are not particularly unique to the job. For example, many
