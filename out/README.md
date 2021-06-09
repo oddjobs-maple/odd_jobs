@@ -121,7 +121,7 @@ Possible job progressions:
 
 Location: Maple Island
 
-Primary stats: **STR**, **DEX** | Secondary stats: INT, LUK
+Primary stat: **MP** | Secondary stats: INT, LUK, DEX, STR
 
 Allowed weapons:
 
@@ -159,7 +159,7 @@ Possible job progressions:
 
 - Beginner
 
-Primary stat: **STR** | Secondary stats: DEX, INT, LUK
+Primary stat: **STR** | Secondary stats: DEX, LUK, INT
 
 Allowed weapons:
 
