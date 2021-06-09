@@ -1,4 +1,4 @@
-# oddjobs
+# odd\_jobs
 
 Pre-Big-Bang (pre-BB) Maplestory odd jobs.
 
