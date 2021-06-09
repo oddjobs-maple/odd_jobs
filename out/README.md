@@ -244,6 +244,7 @@ Attacks:
 Notable equipment:
 
 - [Magical Mitten](https://maplelegends.com/lib/equip?id=01472063)
+- [Sweet Fork Cake](https://maplelegends.com/lib/equip?id=01472088)
 
 ### Notes
 

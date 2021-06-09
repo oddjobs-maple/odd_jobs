@@ -909,6 +909,7 @@ fn item_name(id: u32) -> Option<&'static str> {
         1472054 => "Shinobi Bracer",
         1472055 => "Maple Skanda",
         1472063 => "Magical Mitten",
+        1472088 => "Sweet Fork Cake",
         1482000 => "Steel Knuckler",
         1482020 => "Maple Knuckle",
         1482021 => "Maple Storm Finger",

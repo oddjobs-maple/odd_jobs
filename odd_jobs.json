@@ -102,7 +102,7 @@
       "power_level": 1,
       "attacks": [0],
       "notable_skills": [],
-      "notable_equips": [1472063],
+      "notable_equips": [1472063, 1472088],
       "notes": [
         "Besinners are defined by their use of the Magical Mitten, a level 10 claw with no job requirements. There are sometimes other claws that can be used by beginners, but this will vary by implementation. Some implementations may not even have any claws usable by beginners \u2014 not even the Magical Mitten \u2014 and thus besinners are impossible in such implementations.",
         "Depending on the implementation, besinners may only be able to throw Snowballs. They can possibly also throw arrows, and/or other throwing stars like Ilbis.",
