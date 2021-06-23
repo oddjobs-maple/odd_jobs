@@ -223,7 +223,7 @@ Despite the islander’s seeming simplicity, there are actually a number of subs
 
 ## Besinner
 
-Also known as: “LUK Beginner”, “LUKginner”, “LUK Noblesse”, “LUK Legend”
+Also known as: “Singinner”, “LUK Beginner”, “LUKginner”, “LUK Noblesse”, “LUK Legend”
 
 Possible job progressions:
 
