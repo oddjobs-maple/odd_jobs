@@ -801,7 +801,9 @@
         1092018, 1092019, 1092020, 1092047, 1092050, 1092049, 1072171
       ],
       "notes": [
-        "Dagger assassins play as ordinary proto-bandits during first job, but diverge considerably from bandits beyond that point. Dagger assassins never get access to mastery nor booster, and permanently lack any \u201cserious\u201d attacking skill; Double Stab is extremely short-reach, single-target, and is not designed to scale well past first job (unlike Lucky Seven). Dagger assassins still, however, get access to Haste during second job, and get access to useful third job skills like Alchemist, Meso Up, and most importantly: Flash Jump."
+        "Dagger assassins play as ordinary proto-bandits during first job, but diverge considerably from bandits beyond that point. Dagger assassins never get access to mastery nor booster, and permanently lack any \u201cserious\u201d attacking skill; Double Stab is extremely short-reach, single-target, and is not designed to scale well past first job (unlike Lucky Seven). Dagger assassins still, however, get access to Haste during second job, and get access to useful third job skills like Alchemist, Meso Up, and most importantly: Flash Jump.",
+        "Venomous Star is known to work with a dagger equipped.",
+        "Ninja Storm is known to not work with a dagger equipped."
       ]
     },
     {
