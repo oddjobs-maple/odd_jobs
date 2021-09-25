@@ -1488,7 +1488,7 @@ Note that Shadow Partner only functions when a claw is equipped, and the user is
 
 ## Dagger Assassin
 
-Also known as: “Daggerlord”, “Stab Sin”, “Backstabber”, “Nightstabber”, “Ditsin”, “Dagger Sin”
+Also known as: “Daggerlord”, “Stab Sin”, “Backstabber”, “Nightstabber”, “Ditsin”, “Dagger Sin”, “Daggermit”
 
 Possible job progressions:
 
