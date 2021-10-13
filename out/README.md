@@ -1640,6 +1640,8 @@ Blood bandits resemble HP warriors in many respects, although blood bandits take
 
 ## Brigand
 
+Also known as: “Highwayman”, “Highwaywoman”
+
 Possible job progressions:
 
 - Beginner → Rogue → Bandit → Chief Bandit → Shadower

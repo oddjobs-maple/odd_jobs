@@ -862,7 +862,7 @@
     {
       "name": "Brigand",
       "deprecated_names": [],
-      "aliases": [],
+      "aliases": ["Highwayman", "Highwaywoman"],
       "progressions": [[0, 400, 420, 421, 422]],
       "location": null,
       "primary_stats": ["STR"],
