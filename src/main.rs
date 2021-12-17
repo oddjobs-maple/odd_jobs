@@ -30,10 +30,14 @@ struct Oddjob {
 
 static PREAMBLE: &str = "# Odd jobs
 
+For a gentler introduction to some of the odd jobs on this list, see the
+\u{201c}[Introduction To Odd
+Jobs](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/)\u{201d}.
+
 Note that this list is inherently incomplete, because new odd jobs could
 potentially be invented. APless, statless, and/or SPless builds are _always_
-odd jobs, but not all such builds are represented here (although some are, e.g.
-HP warriors are statless).
+odd (or at least, odd enough for **Oddjobs**), but not all such builds are
+represented here (although some are, e\\.g. HP warriors are statless).
 
 Also note that the \u{201c}Stat constraints\u{201d} reference _base_
 stats/abilities; that is, the stats themselves without any bonuses from
@@ -43,7 +47,7 @@ The \u{201c}Notable equipment\u{201d} for each job intentionally excludes
 equipment items that are not particularly unique to the job. For example, many
 of the same weapons (those swords, axes, blunt weapons, spears, polearms, and
 daggers that lack job requirements) are used by almost all melee-oriented odd
-jobs (e.g. permabeginner) in common. As a result, unless these weapons are
+jobs (e\\.g. permabeginner) in common. As a result, unless these weapons are
 useful for other reasons that are somewhat special to the job in question, they
 are not listed under \u{201c}Notable equipment\u{201d}.
 
@@ -55,11 +59,11 @@ particular job advancements are taken, what equipment the character has access
 to, what level they are, what server they are playing on, &amp;c. There are
 three possible power levels, which are as follows:
 
-| Power level                 | Interpretation                                                                                                                                                                                                                                             |
-| --------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| &#x1f34f;                   | This odd job is deeply challenged, and will require a considerable amount of dedication to play beyond a certain level.                                                                                                                                    |
-| &#x1f34f;&#x1f34f;          | This odd job has enough tricks up its sleeve that it is generally significantly more powerful than a permabeginner of the same level; however, it is still pessimal in comparison to any mainstream (non-odd) job.                                         |
-| &#x1f34f;&#x1f34f;&#x1f34f; | This odd job is one of the most powerful odd jobs. It is, at its most well-equipped, capable of performing roughly as well as a bad/poor example of a mainstream (non-odd) job. At certain levels, it may even be briefly as powerful as a mainstream job. |
+| Power level                 | Interpretation                                                                                                                                                                                                                            |
+| --------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| &#x1f34f;                   | This odd job is deeply challenged, and will require a considerable amount of dedication to play beyond a certain level.                                                                                                                   |
+| &#x1f34f;&#x1f34f;          | This odd job has enough tricks up its sleeve that it is generally significantly more powerful than a permabeginner of the same level; however, it is still pessimal in comparison to any mainstream (non-odd) job.                        |
+| &#x1f34f;&#x1f34f;&#x1f34f; | This odd job is one of the most powerful odd jobs. It is, at its most well-equipped, capable of performing almost as well as a bad/poor example of a non-odd job. At certain levels, it may even be briefly as powerful as a non-odd job. |
 
 ";
 
