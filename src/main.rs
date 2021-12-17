@@ -62,7 +62,7 @@ three possible power levels, which are as follows:
 | Power level                 | Interpretation                                                                                                                                                                                                                            |
 | --------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | &#x1f34f;                   | This odd job is deeply challenged, and will require a considerable amount of dedication to play beyond a certain level.                                                                                                                   |
-| &#x1f34f;&#x1f34f;          | This odd job has enough tricks up its sleeve that it is generally significantly more powerful than a permabeginner of the same level; however, it is still pessimal in comparison to any mainstream (non-odd) job.                        |
+| &#x1f34f;&#x1f34f;          | This odd job has enough tricks up its sleeve that it is generally significantly more powerful than a permabeginner of the same level; however, it is still pessimal in comparison to any non-odd job.                                     |
 | &#x1f34f;&#x1f34f;&#x1f34f; | This odd job is one of the most powerful odd jobs. It is, at its most well-equipped, capable of performing almost as well as a bad/poor example of a non-odd job. At certain levels, it may even be briefly as powerful as a non-odd job. |
 
 ";
