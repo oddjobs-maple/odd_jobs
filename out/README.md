@@ -1905,7 +1905,7 @@ Although LUK buccs may have a sing-songy name, they are quite rare, since their 
 
 ## DEX Brawler
 
-Also known as: “DEXaneer”, “STRless Brawler”, “DEX Marauder”, “DEX Buccaneer”, “DEX Bucc”, “STRless Bucc”
+Also known as: “DEXaneer”, “STRless Brawler”, “DEX Marauder”, “DEX Buccaneer”, “DEX Bucc”, “STRless Bucc”, “Bullet Puncher”
 
 Possible job progressions:
 

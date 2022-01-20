@@ -1000,7 +1000,8 @@
         "DEX Marauder",
         "DEX Buccaneer",
         "DEX Bucc",
-        "STRless Bucc"
+        "STRless Bucc",
+        "Bullet Puncher"
       ],
       "progressions": [[0, 500, 510, 511, 512]],
       "location": null,
