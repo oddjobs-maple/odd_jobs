@@ -259,7 +259,7 @@ fn main() {
 
                     writeln!(
                         stdout_handle,
-                        r##"- [{}](https://maplelegends.com/lib/equip?id={:08})"##,
+                        r##"- [{}](https://maplelegends.com/lib/equip?id={})"##,
                         esc_md(equip_name),
                         allowed_wep,
                     )
@@ -327,7 +327,7 @@ fn main() {
             for equip in oddjob.notable_equips {
                 writeln!(
                     stdout_handle,
-                    "- [{}](https://maplelegends.com/lib/equip?id={:08})",
+                    "- [{}](https://maplelegends.com/lib/equip?id={})",
                     esc_md(item_name(equip).unwrap_or_else(|| {
                         eprintln!("Unknown item ID: {}", equip);
 
