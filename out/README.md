@@ -101,9 +101,9 @@ Attacks:
 
 Notable equipment:
 
-- [Sword](https://maplelegends.com/lib/equip?id=01302000)
-- [Wooden Club](https://maplelegends.com/lib/equip?id=01322005)
-- [Hand Axe](https://maplelegends.com/lib/equip?id=01312004)
+- [Sword](https://maplelegends.com/lib/equip?id=1302000)
+- [Wooden Club](https://maplelegends.com/lib/equip?id=1322005)
+- [Hand Axe](https://maplelegends.com/lib/equip?id=1312004)
 
 ### Notes
 
@@ -141,13 +141,13 @@ Attacks:
 
 Notable equipment:
 
-- [Metal Wand](https://maplelegends.com/lib/equip?id=01372002)
-- [White Bandana](https://maplelegends.com/lib/equip?id=01002019)
-- [Ice Jeans](https://maplelegends.com/lib/equip?id=01062000)
-- [Blue One-lined T-Shirt \[M\]](https://maplelegends.com/lib/equip?id=01040013)
-- [Red-Striped T-Shirt \[F\]](https://maplelegends.com/lib/equip?id=01041012)
-- [White Gomushin](https://maplelegends.com/lib/equip?id=01072004)
-- [Amethyst Earrings](https://maplelegends.com/lib/equip?id=01032003)
+- [Metal Wand](https://maplelegends.com/lib/equip?id=1372002)
+- [White Bandana](https://maplelegends.com/lib/equip?id=1002019)
+- [Ice Jeans](https://maplelegends.com/lib/equip?id=1062000)
+- [Blue One-lined T-Shirt \[M\]](https://maplelegends.com/lib/equip?id=1040013)
+- [Red-Striped T-Shirt \[F\]](https://maplelegends.com/lib/equip?id=1041012)
+- [White Gomushin](https://maplelegends.com/lib/equip?id=1072004)
+- [Amethyst Earrings](https://maplelegends.com/lib/equip?id=1032003)
 
 ### Notes
 
@@ -178,12 +178,12 @@ Attacks:
 
 Notable equipment:
 
-- [Wooden Wand](https://maplelegends.com/lib/equip?id=01372005)
-- [Hardwood Wand](https://maplelegends.com/lib/equip?id=01372006)
-- [Metal Wand](https://maplelegends.com/lib/equip?id=01372002)
-- [Streetlight](https://maplelegends.com/lib/equip?id=01372017)
-- [Heart Staff](https://maplelegends.com/lib/equip?id=01372031)
-- [Heart Wand](https://maplelegends.com/lib/equip?id=01372033)
+- [Wooden Wand](https://maplelegends.com/lib/equip?id=1372005)
+- [Hardwood Wand](https://maplelegends.com/lib/equip?id=1372006)
+- [Metal Wand](https://maplelegends.com/lib/equip?id=1372002)
+- [Streetlight](https://maplelegends.com/lib/equip?id=1372017)
+- [Heart Staff](https://maplelegends.com/lib/equip?id=1372031)
+- [Heart Wand](https://maplelegends.com/lib/equip?id=1372033)
 
 ### Notes
 
@@ -208,16 +208,16 @@ Attacks:
 
 Notable equipment:
 
-- [Sky Snowboard](https://maplelegends.com/lib/equip?id=01442012)
-- [Double Axe](https://maplelegends.com/lib/equip?id=01312000)
-- [Leather Purse](https://maplelegends.com/lib/equip?id=01322007)
-- [Gold Surfboard](https://maplelegends.com/lib/equip?id=01442029)
-- [White Bandana](https://maplelegends.com/lib/equip?id=01002019)
-- [Ice Jeans](https://maplelegends.com/lib/equip?id=01062000)
-- [Blue One-lined T-Shirt \[M\]](https://maplelegends.com/lib/equip?id=01040013)
-- [Red-Striped T-Shirt \[F\]](https://maplelegends.com/lib/equip?id=01041012)
-- [White Gomushin](https://maplelegends.com/lib/equip?id=01072004)
-- [Amethyst Earrings](https://maplelegends.com/lib/equip?id=01032003)
+- [Sky Snowboard](https://maplelegends.com/lib/equip?id=1442012)
+- [Double Axe](https://maplelegends.com/lib/equip?id=1312000)
+- [Leather Purse](https://maplelegends.com/lib/equip?id=1322007)
+- [Gold Surfboard](https://maplelegends.com/lib/equip?id=1442029)
+- [White Bandana](https://maplelegends.com/lib/equip?id=1002019)
+- [Ice Jeans](https://maplelegends.com/lib/equip?id=1062000)
+- [Blue One-lined T-Shirt \[M\]](https://maplelegends.com/lib/equip?id=1040013)
+- [Red-Striped T-Shirt \[F\]](https://maplelegends.com/lib/equip?id=1041012)
+- [White Gomushin](https://maplelegends.com/lib/equip?id=1072004)
+- [Amethyst Earrings](https://maplelegends.com/lib/equip?id=1032003)
 
 ### Notes
 
@@ -247,8 +247,8 @@ Attacks:
 
 Notable equipment:
 
-- [Magical Mitten](https://maplelegends.com/lib/equip?id=01472063)
-- [Sweet Fork Cake](https://maplelegends.com/lib/equip?id=01472088)
+- [Magical Mitten](https://maplelegends.com/lib/equip?id=1472063)
+- [Sweet Fork Cake](https://maplelegends.com/lib/equip?id=1472088)
 
 ### Notes
 
@@ -280,9 +280,9 @@ Attacks:
 
 Notable equipment:
 
-- [Frozen Tuna \[level 20\]](https://maplelegends.com/lib/equip?id=01442018)
-- [Sake Bottle](https://maplelegends.com/lib/equip?id=01422011)
-- [Maroon Mop](https://maplelegends.com/lib/equip?id=01442023)
+- [Frozen Tuna \[level 20\]](https://maplelegends.com/lib/equip?id=1442018)
+- [Sake Bottle](https://maplelegends.com/lib/equip?id=1422011)
+- [Maroon Mop](https://maplelegends.com/lib/equip?id=1442023)
 
 ### Notes
 
@@ -424,12 +424,12 @@ Notable skills:
 
 Notable equipment:
 
-- [Wooden Wand](https://maplelegends.com/lib/equip?id=01372005)
-- [Hardwood Wand](https://maplelegends.com/lib/equip?id=01372006)
-- [Metal Wand](https://maplelegends.com/lib/equip?id=01372002)
-- [Streetlight](https://maplelegends.com/lib/equip?id=01372017)
-- [Heart Staff](https://maplelegends.com/lib/equip?id=01372031)
-- [Heart Wand](https://maplelegends.com/lib/equip?id=01372033)
+- [Wooden Wand](https://maplelegends.com/lib/equip?id=1372005)
+- [Hardwood Wand](https://maplelegends.com/lib/equip?id=1372006)
+- [Metal Wand](https://maplelegends.com/lib/equip?id=1372002)
+- [Streetlight](https://maplelegends.com/lib/equip?id=1372017)
+- [Heart Staff](https://maplelegends.com/lib/equip?id=1372031)
+- [Heart Wand](https://maplelegends.com/lib/equip?id=1372033)
 
 ### Notes
 
@@ -497,35 +497,35 @@ Notable skills:
 
 Notable equipment:
 
-- [Metal Axe](https://maplelegends.com/lib/equip?id=01412001)
-- [Wooden Sword](https://maplelegends.com/lib/equip?id=01402001)
-- [Wooden Mallet](https://maplelegends.com/lib/equip?id=01422000)
-- [Spear](https://maplelegends.com/lib/equip?id=01432000)
-- [Pole Arm](https://maplelegends.com/lib/equip?id=01442000)
-- [Iron Ball](https://maplelegends.com/lib/equip?id=01442006)
-- [Wooden Samurai Sword](https://maplelegends.com/lib/equip?id=01402018)
-- [Mace](https://maplelegends.com/lib/equip?id=01322000)
-- [Fork on a Stick](https://maplelegends.com/lib/equip?id=01432001)
-- [Studded Polearm](https://maplelegends.com/lib/equip?id=01442007)
-- [Iron Mace](https://maplelegends.com/lib/equip?id=01322002)
-- [Pickaxe](https://maplelegends.com/lib/equip?id=01422006)
-- [Janitor’s Mop](https://maplelegends.com/lib/equip?id=01442004)
-- [Fusion Mace](https://maplelegends.com/lib/equip?id=01322004)
-- [Monkey Wrench](https://maplelegends.com/lib/equip?id=01422004)
-- [Maple Dragon Axe](https://maplelegends.com/lib/equip?id=01412011)
-- [Maple Doom Singer](https://maplelegends.com/lib/equip?id=01422014)
-- [Maple Impaler](https://maplelegends.com/lib/equip?id=01432012)
-- [Maple Scorpio](https://maplelegends.com/lib/equip?id=01442024)
-- [Trumpet](https://maplelegends.com/lib/equip?id=01302037)
-- [Maple Glory Sword](https://maplelegends.com/lib/equip?id=01302064)
-- [Maple Steel Axe](https://maplelegends.com/lib/equip?id=01312032)
-- [Maple Soul Rohen](https://maplelegends.com/lib/equip?id=01402039)
-- [Maple Demon Axe](https://maplelegends.com/lib/equip?id=01412027)
-- [Maple Havoc Hammer](https://maplelegends.com/lib/equip?id=01322054)
-- [Maple Belzet](https://maplelegends.com/lib/equip?id=01422029)
-- [Maple Soul Spear](https://maplelegends.com/lib/equip?id=01432040)
-- [Maple Karstan](https://maplelegends.com/lib/equip?id=01442051)
-- [Daiwa Sword](https://maplelegends.com/lib/equip?id=01402017)
+- [Metal Axe](https://maplelegends.com/lib/equip?id=1412001)
+- [Wooden Sword](https://maplelegends.com/lib/equip?id=1402001)
+- [Wooden Mallet](https://maplelegends.com/lib/equip?id=1422000)
+- [Spear](https://maplelegends.com/lib/equip?id=1432000)
+- [Pole Arm](https://maplelegends.com/lib/equip?id=1442000)
+- [Iron Ball](https://maplelegends.com/lib/equip?id=1442006)
+- [Wooden Samurai Sword](https://maplelegends.com/lib/equip?id=1402018)
+- [Mace](https://maplelegends.com/lib/equip?id=1322000)
+- [Fork on a Stick](https://maplelegends.com/lib/equip?id=1432001)
+- [Studded Polearm](https://maplelegends.com/lib/equip?id=1442007)
+- [Iron Mace](https://maplelegends.com/lib/equip?id=1322002)
+- [Pickaxe](https://maplelegends.com/lib/equip?id=1422006)
+- [Janitor’s Mop](https://maplelegends.com/lib/equip?id=1442004)
+- [Fusion Mace](https://maplelegends.com/lib/equip?id=1322004)
+- [Monkey Wrench](https://maplelegends.com/lib/equip?id=1422004)
+- [Maple Dragon Axe](https://maplelegends.com/lib/equip?id=1412011)
+- [Maple Doom Singer](https://maplelegends.com/lib/equip?id=1422014)
+- [Maple Impaler](https://maplelegends.com/lib/equip?id=1432012)
+- [Maple Scorpio](https://maplelegends.com/lib/equip?id=1442024)
+- [Trumpet](https://maplelegends.com/lib/equip?id=1302037)
+- [Maple Glory Sword](https://maplelegends.com/lib/equip?id=1302064)
+- [Maple Steel Axe](https://maplelegends.com/lib/equip?id=1312032)
+- [Maple Soul Rohen](https://maplelegends.com/lib/equip?id=1402039)
+- [Maple Demon Axe](https://maplelegends.com/lib/equip?id=1412027)
+- [Maple Havoc Hammer](https://maplelegends.com/lib/equip?id=1322054)
+- [Maple Belzet](https://maplelegends.com/lib/equip?id=1422029)
+- [Maple Soul Spear](https://maplelegends.com/lib/equip?id=1432040)
+- [Maple Karstan](https://maplelegends.com/lib/equip?id=1442051)
+- [Daiwa Sword](https://maplelegends.com/lib/equip?id=1402017)
 
 ### Notes
 
@@ -571,24 +571,24 @@ Notable skills:
 
 Notable equipment:
 
-- [Fruit Knife](https://maplelegends.com/lib/equip?id=01332007)
-- [Christmas Tree](https://maplelegends.com/lib/equip?id=01332032)
-- [Field Dagger](https://maplelegends.com/lib/equip?id=01332006)
-- [Coconut Knife](https://maplelegends.com/lib/equip?id=01332008)
-- [Iron Dagger](https://maplelegends.com/lib/equip?id=01332010)
-- [Cass](https://maplelegends.com/lib/equip?id=01332009)
-- [Korean Fan](https://maplelegends.com/lib/equip?id=01332020)
-- [Plastic Bottle](https://maplelegends.com/lib/equip?id=01332021)
-- [Sai](https://maplelegends.com/lib/equip?id=01332016)
-- [Liu Bei Dagger](https://maplelegends.com/lib/equip?id=01332029)
-- [Serpent’s Coil](https://maplelegends.com/lib/equip?id=01332017)
-- [Fan](https://maplelegends.com/lib/equip?id=01332030)
-- [Golden River](https://maplelegends.com/lib/equip?id=01332019)
-- [Kebob](https://maplelegends.com/lib/equip?id=01332053)
-- [Angelic Betrayal](https://maplelegends.com/lib/equip?id=01332022)
-- [Cursayer](https://maplelegends.com/lib/equip?id=01332026)
-- [Gold Double Knife](https://maplelegends.com/lib/equip?id=01332051)
-- [Dragon Kanzir](https://maplelegends.com/lib/equip?id=01332049)
+- [Fruit Knife](https://maplelegends.com/lib/equip?id=1332007)
+- [Christmas Tree](https://maplelegends.com/lib/equip?id=1332032)
+- [Field Dagger](https://maplelegends.com/lib/equip?id=1332006)
+- [Coconut Knife](https://maplelegends.com/lib/equip?id=1332008)
+- [Iron Dagger](https://maplelegends.com/lib/equip?id=1332010)
+- [Cass](https://maplelegends.com/lib/equip?id=1332009)
+- [Korean Fan](https://maplelegends.com/lib/equip?id=1332020)
+- [Plastic Bottle](https://maplelegends.com/lib/equip?id=1332021)
+- [Sai](https://maplelegends.com/lib/equip?id=1332016)
+- [Liu Bei Dagger](https://maplelegends.com/lib/equip?id=1332029)
+- [Serpent’s Coil](https://maplelegends.com/lib/equip?id=1332017)
+- [Fan](https://maplelegends.com/lib/equip?id=1332030)
+- [Golden River](https://maplelegends.com/lib/equip?id=1332019)
+- [Kebob](https://maplelegends.com/lib/equip?id=1332053)
+- [Angelic Betrayal](https://maplelegends.com/lib/equip?id=1332022)
+- [Cursayer](https://maplelegends.com/lib/equip?id=1332026)
+- [Gold Double Knife](https://maplelegends.com/lib/equip?id=1332051)
+- [Dragon Kanzir](https://maplelegends.com/lib/equip?id=1332049)
 
 ### Notes
 
@@ -655,44 +655,44 @@ Notable skills:
 
 Notable equipment:
 
-- [Metal Axe](https://maplelegends.com/lib/equip?id=01412001)
-- [Wooden Sword](https://maplelegends.com/lib/equip?id=01402001)
-- [Wooden Mallet](https://maplelegends.com/lib/equip?id=01422000)
-- [Spear](https://maplelegends.com/lib/equip?id=01432000)
-- [Pole Arm](https://maplelegends.com/lib/equip?id=01442000)
-- [Iron Ball](https://maplelegends.com/lib/equip?id=01442006)
-- [Wooden Samurai Sword](https://maplelegends.com/lib/equip?id=01402018)
-- [Mace](https://maplelegends.com/lib/equip?id=01322000)
-- [Square Shovel](https://maplelegends.com/lib/equip?id=01322010)
-- [Fork on a Stick](https://maplelegends.com/lib/equip?id=01432001)
-- [Field Dagger](https://maplelegends.com/lib/equip?id=01332006)
-- [Studded Polearm](https://maplelegends.com/lib/equip?id=01442007)
-- [Machete](https://maplelegends.com/lib/equip?id=01302006)
-- [Iron Mace](https://maplelegends.com/lib/equip?id=01322002)
-- [Pointed Shovel](https://maplelegends.com/lib/equip?id=01322011)
-- [Pickaxe](https://maplelegends.com/lib/equip?id=01422006)
-- [Coconut Knife](https://maplelegends.com/lib/equip?id=01332008)
-- [Janitor’s Mop](https://maplelegends.com/lib/equip?id=01442004)
-- [Eloon](https://maplelegends.com/lib/equip?id=01302003)
-- [Fusion Mace](https://maplelegends.com/lib/equip?id=01322004)
-- [Monkey Wrench](https://maplelegends.com/lib/equip?id=01422004)
-- [Iron Dagger](https://maplelegends.com/lib/equip?id=01332010)
-- [Cass](https://maplelegends.com/lib/equip?id=01332009)
-- [Maple Dragon Axe](https://maplelegends.com/lib/equip?id=01412011)
-- [Maple Doom Singer](https://maplelegends.com/lib/equip?id=01422014)
-- [Maple Impaler](https://maplelegends.com/lib/equip?id=01432012)
-- [Maple Scorpio](https://maplelegends.com/lib/equip?id=01442024)
-- [Trumpet](https://maplelegends.com/lib/equip?id=01302037)
-- [Maple Glory Sword](https://maplelegends.com/lib/equip?id=01302064)
-- [Maple Steel Axe](https://maplelegends.com/lib/equip?id=01312032)
-- [Maple Soul Rohen](https://maplelegends.com/lib/equip?id=01402039)
-- [Maple Demon Axe](https://maplelegends.com/lib/equip?id=01412027)
-- [Maple Havoc Hammer](https://maplelegends.com/lib/equip?id=01322054)
-- [Maple Belzet](https://maplelegends.com/lib/equip?id=01422029)
-- [Maple Soul Spear](https://maplelegends.com/lib/equip?id=01432040)
-- [Maple Karstan](https://maplelegends.com/lib/equip?id=01442051)
-- [Daiwa Sword](https://maplelegends.com/lib/equip?id=01402017)
-- [Stonetooth Sword](https://maplelegends.com/lib/equip?id=01402037)
+- [Metal Axe](https://maplelegends.com/lib/equip?id=1412001)
+- [Wooden Sword](https://maplelegends.com/lib/equip?id=1402001)
+- [Wooden Mallet](https://maplelegends.com/lib/equip?id=1422000)
+- [Spear](https://maplelegends.com/lib/equip?id=1432000)
+- [Pole Arm](https://maplelegends.com/lib/equip?id=1442000)
+- [Iron Ball](https://maplelegends.com/lib/equip?id=1442006)
+- [Wooden Samurai Sword](https://maplelegends.com/lib/equip?id=1402018)
+- [Mace](https://maplelegends.com/lib/equip?id=1322000)
+- [Square Shovel](https://maplelegends.com/lib/equip?id=1322010)
+- [Fork on a Stick](https://maplelegends.com/lib/equip?id=1432001)
+- [Field Dagger](https://maplelegends.com/lib/equip?id=1332006)
+- [Studded Polearm](https://maplelegends.com/lib/equip?id=1442007)
+- [Machete](https://maplelegends.com/lib/equip?id=1302006)
+- [Iron Mace](https://maplelegends.com/lib/equip?id=1322002)
+- [Pointed Shovel](https://maplelegends.com/lib/equip?id=1322011)
+- [Pickaxe](https://maplelegends.com/lib/equip?id=1422006)
+- [Coconut Knife](https://maplelegends.com/lib/equip?id=1332008)
+- [Janitor’s Mop](https://maplelegends.com/lib/equip?id=1442004)
+- [Eloon](https://maplelegends.com/lib/equip?id=1302003)
+- [Fusion Mace](https://maplelegends.com/lib/equip?id=1322004)
+- [Monkey Wrench](https://maplelegends.com/lib/equip?id=1422004)
+- [Iron Dagger](https://maplelegends.com/lib/equip?id=1332010)
+- [Cass](https://maplelegends.com/lib/equip?id=1332009)
+- [Maple Dragon Axe](https://maplelegends.com/lib/equip?id=1412011)
+- [Maple Doom Singer](https://maplelegends.com/lib/equip?id=1422014)
+- [Maple Impaler](https://maplelegends.com/lib/equip?id=1432012)
+- [Maple Scorpio](https://maplelegends.com/lib/equip?id=1442024)
+- [Trumpet](https://maplelegends.com/lib/equip?id=1302037)
+- [Maple Glory Sword](https://maplelegends.com/lib/equip?id=1302064)
+- [Maple Steel Axe](https://maplelegends.com/lib/equip?id=1312032)
+- [Maple Soul Rohen](https://maplelegends.com/lib/equip?id=1402039)
+- [Maple Demon Axe](https://maplelegends.com/lib/equip?id=1412027)
+- [Maple Havoc Hammer](https://maplelegends.com/lib/equip?id=1322054)
+- [Maple Belzet](https://maplelegends.com/lib/equip?id=1422029)
+- [Maple Soul Spear](https://maplelegends.com/lib/equip?id=1432040)
+- [Maple Karstan](https://maplelegends.com/lib/equip?id=1442051)
+- [Daiwa Sword](https://maplelegends.com/lib/equip?id=1402017)
+- [Stonetooth Sword](https://maplelegends.com/lib/equip?id=1402037)
 
 ### Notes
 
@@ -739,12 +739,12 @@ Notable skills:
 
 Notable equipment:
 
-- [Mace](https://maplelegends.com/lib/equip?id=01322000)
-- [Iron Mace](https://maplelegends.com/lib/equip?id=01322002)
-- [Fusion Mace](https://maplelegends.com/lib/equip?id=01322004)
-- [Blue Snowshoes](https://maplelegends.com/lib/equip?id=01072169)
-- [Flamekeeper Cordon](https://maplelegends.com/lib/equip?id=01082246)
-- [Maple Magician Shield](https://maplelegends.com/lib/equip?id=01092045)
+- [Mace](https://maplelegends.com/lib/equip?id=1322000)
+- [Iron Mace](https://maplelegends.com/lib/equip?id=1322002)
+- [Fusion Mace](https://maplelegends.com/lib/equip?id=1322004)
+- [Blue Snowshoes](https://maplelegends.com/lib/equip?id=1072169)
+- [Flamekeeper Cordon](https://maplelegends.com/lib/equip?id=1082246)
+- [Maple Magician Shield](https://maplelegends.com/lib/equip?id=1092045)
 
 ### Notes
 
@@ -792,9 +792,9 @@ Notable skills:
 
 Notable equipment:
 
-- [Blue Snowshoes](https://maplelegends.com/lib/equip?id=01072169)
-- [Flamekeeper Cordon](https://maplelegends.com/lib/equip?id=01082246)
-- [Maple Magician Shield](https://maplelegends.com/lib/equip?id=01092045)
+- [Blue Snowshoes](https://maplelegends.com/lib/equip?id=1072169)
+- [Flamekeeper Cordon](https://maplelegends.com/lib/equip?id=1082246)
+- [Maple Magician Shield](https://maplelegends.com/lib/equip?id=1092045)
 
 ### Notes
 
@@ -884,24 +884,32 @@ Notable skills:
 
 Notable equipment:
 
-- [Sky Blue Umbrella](https://maplelegends.com/lib/equip?id=01302017)
-- [Green Umbrella](https://maplelegends.com/lib/equip?id=01302027)
-- [Fruity Bamboo](https://maplelegends.com/lib/equip?id=01322051)
-- [Light Purple Umbrella](https://maplelegends.com/lib/equip?id=01302028)
-- [Green Paint Brush](https://maplelegends.com/lib/equip?id=01312013)
-- [Pumpkin Lantern](https://maplelegends.com/lib/equip?id=01402044)
-- [Flaming Katana](https://maplelegends.com/lib/equip?id=01302063)
-- [Yellow Umbrella](https://maplelegends.com/lib/equip?id=01302016)
-- [Beige Umbrella](https://maplelegends.com/lib/equip?id=01302029)
-- [Diao Chan Sword](https://maplelegends.com/lib/equip?id=01302031)
-- [Super Snowboard](https://maplelegends.com/lib/equip?id=01442046)
-- [Black Umbrella](https://maplelegends.com/lib/equip?id=01302026)
-- [Kebob](https://maplelegends.com/lib/equip?id=01332053)
-- [Crimson Arcglaive](https://maplelegends.com/lib/equip?id=01442068)
-- [Blue Snowshoes](https://maplelegends.com/lib/equip?id=01072169)
-- [Flamekeeper Cordon](https://maplelegends.com/lib/equip?id=01082246)
-- [Glitter Gloves](https://maplelegends.com/lib/equip?id=01082230)
-- [Maple Magician Shield](https://maplelegends.com/lib/equip?id=01092045)
+- [Sky Blue Umbrella](https://maplelegends.com/lib/equip?id=1302017)
+- [Green Umbrella](https://maplelegends.com/lib/equip?id=1302027)
+- [Fruity Bamboo](https://maplelegends.com/lib/equip?id=1322051)
+- [Light Purple Umbrella](https://maplelegends.com/lib/equip?id=1302028)
+- [Green Paint Brush](https://maplelegends.com/lib/equip?id=1312013)
+- [Pumpkin Lantern](https://maplelegends.com/lib/equip?id=1402044)
+- [Flaming Katana](https://maplelegends.com/lib/equip?id=1302063)
+- [Yellow Umbrella](https://maplelegends.com/lib/equip?id=1302016)
+- [Beige Umbrella](https://maplelegends.com/lib/equip?id=1302029)
+- [Diao Chan Sword](https://maplelegends.com/lib/equip?id=1302031)
+- [Super Snowboard](https://maplelegends.com/lib/equip?id=1442046)
+- [Black Umbrella](https://maplelegends.com/lib/equip?id=1302026)
+- [Kebob](https://maplelegends.com/lib/equip?id=1332053)
+- [Crimson Arcglaive](https://maplelegends.com/lib/equip?id=1442068)
+- [Elemental Staff 1](https://maplelegends.com/lib/equip?id=1382045)
+- [Elemental Staff 2](https://maplelegends.com/lib/equip?id=1382046)
+- [Elemental Staff 3](https://maplelegends.com/lib/equip?id=1382047)
+- [Elemental Staff 4](https://maplelegends.com/lib/equip?id=1382048)
+- [Elemental Staff 5](https://maplelegends.com/lib/equip?id=1382049)
+- [Elemental Staff 6](https://maplelegends.com/lib/equip?id=1382050)
+- [Elemental Staff 7](https://maplelegends.com/lib/equip?id=1382051)
+- [Elemental Staff 8](https://maplelegends.com/lib/equip?id=1382052)
+- [Blue Snowshoes](https://maplelegends.com/lib/equip?id=1072169)
+- [Flamekeeper Cordon](https://maplelegends.com/lib/equip?id=1082246)
+- [Glitter Gloves](https://maplelegends.com/lib/equip?id=1082230)
+- [Maple Magician Shield](https://maplelegends.com/lib/equip?id=1092045)
 
 ### Notes
 
@@ -970,24 +978,32 @@ Notable skills:
 
 Notable equipment:
 
-- [Sky Blue Umbrella](https://maplelegends.com/lib/equip?id=01302017)
-- [Green Umbrella](https://maplelegends.com/lib/equip?id=01302027)
-- [Fruity Bamboo](https://maplelegends.com/lib/equip?id=01322051)
-- [Light Purple Umbrella](https://maplelegends.com/lib/equip?id=01302028)
-- [Green Paint Brush](https://maplelegends.com/lib/equip?id=01312013)
-- [Pumpkin Lantern](https://maplelegends.com/lib/equip?id=01402044)
-- [Flaming Katana](https://maplelegends.com/lib/equip?id=01302063)
-- [Yellow Umbrella](https://maplelegends.com/lib/equip?id=01302016)
-- [Beige Umbrella](https://maplelegends.com/lib/equip?id=01302029)
-- [Diao Chan Sword](https://maplelegends.com/lib/equip?id=01302031)
-- [Super Snowboard](https://maplelegends.com/lib/equip?id=01442046)
-- [Black Umbrella](https://maplelegends.com/lib/equip?id=01302026)
-- [Kebob](https://maplelegends.com/lib/equip?id=01332053)
-- [Crimson Arcglaive](https://maplelegends.com/lib/equip?id=01442068)
-- [Blue Snowshoes](https://maplelegends.com/lib/equip?id=01072169)
-- [Flamekeeper Cordon](https://maplelegends.com/lib/equip?id=01082246)
-- [Glitter Gloves](https://maplelegends.com/lib/equip?id=01082230)
-- [Maple Magician Shield](https://maplelegends.com/lib/equip?id=01092045)
+- [Sky Blue Umbrella](https://maplelegends.com/lib/equip?id=1302017)
+- [Green Umbrella](https://maplelegends.com/lib/equip?id=1302027)
+- [Fruity Bamboo](https://maplelegends.com/lib/equip?id=1322051)
+- [Light Purple Umbrella](https://maplelegends.com/lib/equip?id=1302028)
+- [Green Paint Brush](https://maplelegends.com/lib/equip?id=1312013)
+- [Pumpkin Lantern](https://maplelegends.com/lib/equip?id=1402044)
+- [Flaming Katana](https://maplelegends.com/lib/equip?id=1302063)
+- [Yellow Umbrella](https://maplelegends.com/lib/equip?id=1302016)
+- [Beige Umbrella](https://maplelegends.com/lib/equip?id=1302029)
+- [Diao Chan Sword](https://maplelegends.com/lib/equip?id=1302031)
+- [Super Snowboard](https://maplelegends.com/lib/equip?id=1442046)
+- [Black Umbrella](https://maplelegends.com/lib/equip?id=1302026)
+- [Kebob](https://maplelegends.com/lib/equip?id=1332053)
+- [Crimson Arcglaive](https://maplelegends.com/lib/equip?id=1442068)
+- [Elemental Staff 1](https://maplelegends.com/lib/equip?id=1382045)
+- [Elemental Staff 2](https://maplelegends.com/lib/equip?id=1382046)
+- [Elemental Staff 3](https://maplelegends.com/lib/equip?id=1382047)
+- [Elemental Staff 4](https://maplelegends.com/lib/equip?id=1382048)
+- [Elemental Staff 5](https://maplelegends.com/lib/equip?id=1382049)
+- [Elemental Staff 6](https://maplelegends.com/lib/equip?id=1382050)
+- [Elemental Staff 7](https://maplelegends.com/lib/equip?id=1382051)
+- [Elemental Staff 8](https://maplelegends.com/lib/equip?id=1382052)
+- [Blue Snowshoes](https://maplelegends.com/lib/equip?id=1072169)
+- [Flamekeeper Cordon](https://maplelegends.com/lib/equip?id=1082246)
+- [Glitter Gloves](https://maplelegends.com/lib/equip?id=1082230)
+- [Maple Magician Shield](https://maplelegends.com/lib/equip?id=1092045)
 
 ### Notes
 
@@ -1054,51 +1070,51 @@ Notable skills:
 
 Notable equipment:
 
-- [Sky Blue Umbrella](https://maplelegends.com/lib/equip?id=01302017)
-- [Wooden Wand](https://maplelegends.com/lib/equip?id=01372005)
-- [Green Umbrella](https://maplelegends.com/lib/equip?id=01302027)
-- [Fruity Bamboo](https://maplelegends.com/lib/equip?id=01322051)
-- [Light Purple Umbrella](https://maplelegends.com/lib/equip?id=01302028)
-- [Green Paint Brush](https://maplelegends.com/lib/equip?id=01312013)
-- [Poison Mushroom](https://maplelegends.com/lib/equip?id=01382015)
-- [Pumpkin Lantern](https://maplelegends.com/lib/equip?id=01402044)
-- [Maple Staff](https://maplelegends.com/lib/equip?id=01382009)
-- [Flaming Katana](https://maplelegends.com/lib/equip?id=01302063)
-- [Yellow Umbrella](https://maplelegends.com/lib/equip?id=01302016)
-- [Streetlight](https://maplelegends.com/lib/equip?id=01372017)
-- [Maple Lama Staff](https://maplelegends.com/lib/equip?id=01382012)
-- [Nocturnal Staff](https://maplelegends.com/lib/equip?id=01382041)
-- [Beige Umbrella](https://maplelegends.com/lib/equip?id=01302029)
-- [Diao Chan Sword](https://maplelegends.com/lib/equip?id=01302031)
-- [Super Snowboard](https://maplelegends.com/lib/equip?id=01442046)
-- [Heart Staff](https://maplelegends.com/lib/equip?id=01372031)
-- [Heart Wand](https://maplelegends.com/lib/equip?id=01372033)
-- [Maple Wisdom Staff](https://maplelegends.com/lib/equip?id=01382039)
-- [Maple Shine Wand](https://maplelegends.com/lib/equip?id=01372034)
-- [Elemental Wand 1](https://maplelegends.com/lib/equip?id=01372035)
-- [Elemental Wand 2](https://maplelegends.com/lib/equip?id=01372036)
-- [Elemental Wand 3](https://maplelegends.com/lib/equip?id=01372037)
-- [Elemental Wand 4](https://maplelegends.com/lib/equip?id=01372038)
-- [Black Umbrella](https://maplelegends.com/lib/equip?id=01302026)
-- [Kebob](https://maplelegends.com/lib/equip?id=01332053)
-- [Pyogo Mushroom](https://maplelegends.com/lib/equip?id=01382016)
-- [Doomsday Staff](https://maplelegends.com/lib/equip?id=01382037)
-- [Elemental Staff 1](https://maplelegends.com/lib/equip?id=01382045)
-- [Elemental Staff 2](https://maplelegends.com/lib/equip?id=01382046)
-- [Elemental Staff 3](https://maplelegends.com/lib/equip?id=01382047)
-- [Elemental Staff 4](https://maplelegends.com/lib/equip?id=01382048)
-- [Elemental Wand 5](https://maplelegends.com/lib/equip?id=01372039)
-- [Elemental Wand 6](https://maplelegends.com/lib/equip?id=01372040)
-- [Elemental Wand 7](https://maplelegends.com/lib/equip?id=01372041)
-- [Elemental Wand 8](https://maplelegends.com/lib/equip?id=01372042)
-- [Elemental Staff 5](https://maplelegends.com/lib/equip?id=01382049)
-- [Elemental Staff 6](https://maplelegends.com/lib/equip?id=01382050)
-- [Elemental Staff 7](https://maplelegends.com/lib/equip?id=01382051)
-- [Elemental Staff 8](https://maplelegends.com/lib/equip?id=01382052)
-- [Blue Snowshoes](https://maplelegends.com/lib/equip?id=01072169)
-- [Flamekeeper Cordon](https://maplelegends.com/lib/equip?id=01082246)
-- [Glitter Gloves](https://maplelegends.com/lib/equip?id=01082230)
-- [Maple Magician Shield](https://maplelegends.com/lib/equip?id=01092045)
+- [Sky Blue Umbrella](https://maplelegends.com/lib/equip?id=1302017)
+- [Wooden Wand](https://maplelegends.com/lib/equip?id=1372005)
+- [Green Umbrella](https://maplelegends.com/lib/equip?id=1302027)
+- [Fruity Bamboo](https://maplelegends.com/lib/equip?id=1322051)
+- [Light Purple Umbrella](https://maplelegends.com/lib/equip?id=1302028)
+- [Green Paint Brush](https://maplelegends.com/lib/equip?id=1312013)
+- [Poison Mushroom](https://maplelegends.com/lib/equip?id=1382015)
+- [Pumpkin Lantern](https://maplelegends.com/lib/equip?id=1402044)
+- [Maple Staff](https://maplelegends.com/lib/equip?id=1382009)
+- [Flaming Katana](https://maplelegends.com/lib/equip?id=1302063)
+- [Yellow Umbrella](https://maplelegends.com/lib/equip?id=1302016)
+- [Streetlight](https://maplelegends.com/lib/equip?id=1372017)
+- [Maple Lama Staff](https://maplelegends.com/lib/equip?id=1382012)
+- [Nocturnal Staff](https://maplelegends.com/lib/equip?id=1382041)
+- [Beige Umbrella](https://maplelegends.com/lib/equip?id=1302029)
+- [Diao Chan Sword](https://maplelegends.com/lib/equip?id=1302031)
+- [Super Snowboard](https://maplelegends.com/lib/equip?id=1442046)
+- [Heart Staff](https://maplelegends.com/lib/equip?id=1372031)
+- [Heart Wand](https://maplelegends.com/lib/equip?id=1372033)
+- [Maple Wisdom Staff](https://maplelegends.com/lib/equip?id=1382039)
+- [Maple Shine Wand](https://maplelegends.com/lib/equip?id=1372034)
+- [Elemental Wand 1](https://maplelegends.com/lib/equip?id=1372035)
+- [Elemental Wand 2](https://maplelegends.com/lib/equip?id=1372036)
+- [Elemental Wand 3](https://maplelegends.com/lib/equip?id=1372037)
+- [Elemental Wand 4](https://maplelegends.com/lib/equip?id=1372038)
+- [Black Umbrella](https://maplelegends.com/lib/equip?id=1302026)
+- [Kebob](https://maplelegends.com/lib/equip?id=1332053)
+- [Pyogo Mushroom](https://maplelegends.com/lib/equip?id=1382016)
+- [Doomsday Staff](https://maplelegends.com/lib/equip?id=1382037)
+- [Elemental Staff 1](https://maplelegends.com/lib/equip?id=1382045)
+- [Elemental Staff 2](https://maplelegends.com/lib/equip?id=1382046)
+- [Elemental Staff 3](https://maplelegends.com/lib/equip?id=1382047)
+- [Elemental Staff 4](https://maplelegends.com/lib/equip?id=1382048)
+- [Elemental Wand 5](https://maplelegends.com/lib/equip?id=1372039)
+- [Elemental Wand 6](https://maplelegends.com/lib/equip?id=1372040)
+- [Elemental Wand 7](https://maplelegends.com/lib/equip?id=1372041)
+- [Elemental Wand 8](https://maplelegends.com/lib/equip?id=1372042)
+- [Elemental Staff 5](https://maplelegends.com/lib/equip?id=1382049)
+- [Elemental Staff 6](https://maplelegends.com/lib/equip?id=1382050)
+- [Elemental Staff 7](https://maplelegends.com/lib/equip?id=1382051)
+- [Elemental Staff 8](https://maplelegends.com/lib/equip?id=1382052)
+- [Blue Snowshoes](https://maplelegends.com/lib/equip?id=1072169)
+- [Flamekeeper Cordon](https://maplelegends.com/lib/equip?id=1082246)
+- [Glitter Gloves](https://maplelegends.com/lib/equip?id=1082230)
+- [Maple Magician Shield](https://maplelegends.com/lib/equip?id=1092045)
 
 ### Notes
 
@@ -1179,22 +1195,22 @@ Notable skills:
 
 Notable equipment:
 
-- [War Bow](https://maplelegends.com/lib/equip?id=01452002)
-- [Maple Bow](https://maplelegends.com/lib/equip?id=01452016)
-- [Maple Soul Searcher](https://maplelegends.com/lib/equip?id=01452022)
-- [Maple Kandiva Bow](https://maplelegends.com/lib/equip?id=01452045)
-- [Bow of Magical Destruction](https://maplelegends.com/lib/equip?id=01452018)
-- [Crossbow](https://maplelegends.com/lib/equip?id=01462001)
-- [Maple Crow](https://maplelegends.com/lib/equip?id=01462014)
-- [Maple Crossbow](https://maplelegends.com/lib/equip?id=01462019)
-- [Maple Nishada](https://maplelegends.com/lib/equip?id=01462040)
-- [Wooden Sword](https://maplelegends.com/lib/equip?id=01402001)
-- [Metal Axe](https://maplelegends.com/lib/equip?id=01412001)
-- [Wooden Mallet](https://maplelegends.com/lib/equip?id=01422000)
-- [Fork on a Stick](https://maplelegends.com/lib/equip?id=01432001)
-- [Monkey Wrench](https://maplelegends.com/lib/equip?id=01422004)
-- [Janitor’s Mop](https://maplelegends.com/lib/equip?id=01442004)
-- [Green Snowshoes](https://maplelegends.com/lib/equip?id=01072170)
+- [War Bow](https://maplelegends.com/lib/equip?id=1452002)
+- [Maple Bow](https://maplelegends.com/lib/equip?id=1452016)
+- [Maple Soul Searcher](https://maplelegends.com/lib/equip?id=1452022)
+- [Maple Kandiva Bow](https://maplelegends.com/lib/equip?id=1452045)
+- [Bow of Magical Destruction](https://maplelegends.com/lib/equip?id=1452018)
+- [Crossbow](https://maplelegends.com/lib/equip?id=1462001)
+- [Maple Crow](https://maplelegends.com/lib/equip?id=1462014)
+- [Maple Crossbow](https://maplelegends.com/lib/equip?id=1462019)
+- [Maple Nishada](https://maplelegends.com/lib/equip?id=1462040)
+- [Wooden Sword](https://maplelegends.com/lib/equip?id=1402001)
+- [Metal Axe](https://maplelegends.com/lib/equip?id=1412001)
+- [Wooden Mallet](https://maplelegends.com/lib/equip?id=1422000)
+- [Fork on a Stick](https://maplelegends.com/lib/equip?id=1432001)
+- [Monkey Wrench](https://maplelegends.com/lib/equip?id=1422004)
+- [Janitor’s Mop](https://maplelegends.com/lib/equip?id=1442004)
+- [Green Snowshoes](https://maplelegends.com/lib/equip?id=1072170)
 
 ### Notes
 
@@ -1236,16 +1252,16 @@ Notable skills:
 
 Notable equipment:
 
-- [War Bow](https://maplelegends.com/lib/equip?id=01452002)
-- [Maple Bow](https://maplelegends.com/lib/equip?id=01452016)
-- [Maple Soul Searcher](https://maplelegends.com/lib/equip?id=01452022)
-- [Maple Kandiva Bow](https://maplelegends.com/lib/equip?id=01452045)
-- [Bow of Magical Destruction](https://maplelegends.com/lib/equip?id=01452018)
-- [Crossbow](https://maplelegends.com/lib/equip?id=01462001)
-- [Maple Crow](https://maplelegends.com/lib/equip?id=01462014)
-- [Maple Crossbow](https://maplelegends.com/lib/equip?id=01462019)
-- [Maple Nishada](https://maplelegends.com/lib/equip?id=01462040)
-- [Green Snowshoes](https://maplelegends.com/lib/equip?id=01072170)
+- [War Bow](https://maplelegends.com/lib/equip?id=1452002)
+- [Maple Bow](https://maplelegends.com/lib/equip?id=1452016)
+- [Maple Soul Searcher](https://maplelegends.com/lib/equip?id=1452022)
+- [Maple Kandiva Bow](https://maplelegends.com/lib/equip?id=1452045)
+- [Bow of Magical Destruction](https://maplelegends.com/lib/equip?id=1452018)
+- [Crossbow](https://maplelegends.com/lib/equip?id=1462001)
+- [Maple Crow](https://maplelegends.com/lib/equip?id=1462014)
+- [Maple Crossbow](https://maplelegends.com/lib/equip?id=1462019)
+- [Maple Nishada](https://maplelegends.com/lib/equip?id=1462040)
+- [Green Snowshoes](https://maplelegends.com/lib/equip?id=1072170)
 
 ### Notes
 
@@ -1292,7 +1308,7 @@ Primary stat: **STR** | Secondary stats: DEX, LUK
 
 Allowed weapons:
 
-- [Scythe](https://maplelegends.com/lib/equip?id=01312002)
+- [Scythe](https://maplelegends.com/lib/equip?id=1312002)
 
 Power level: 🍏
 
@@ -1318,14 +1334,14 @@ Notable skills:
 
 Notable equipment:
 
-- [Scythe](https://maplelegends.com/lib/equip?id=01312002)
-- [Seclusion Wristguard](https://maplelegends.com/lib/equip?id=01092018)
-- [Nimble Wristguard](https://maplelegends.com/lib/equip?id=01092019)
-- [Jurgen Wristguard](https://maplelegends.com/lib/equip?id=01092020)
-- [Maple Thief Shield](https://maplelegends.com/lib/equip?id=01092047)
-- [Khanjar](https://maplelegends.com/lib/equip?id=01092050)
-- [Dragon Khanjar](https://maplelegends.com/lib/equip?id=01092049)
-- [Black Snowshoes](https://maplelegends.com/lib/equip?id=01072171)
+- [Scythe](https://maplelegends.com/lib/equip?id=1312002)
+- [Seclusion Wristguard](https://maplelegends.com/lib/equip?id=1092018)
+- [Nimble Wristguard](https://maplelegends.com/lib/equip?id=1092019)
+- [Jurgen Wristguard](https://maplelegends.com/lib/equip?id=1092020)
+- [Maple Thief Shield](https://maplelegends.com/lib/equip?id=1092047)
+- [Khanjar](https://maplelegends.com/lib/equip?id=1092050)
+- [Dragon Khanjar](https://maplelegends.com/lib/equip?id=1092049)
+- [Black Snowshoes](https://maplelegends.com/lib/equip?id=1072171)
 
 ### Notes
 
@@ -1344,7 +1360,7 @@ Primary stat: **STR** | Secondary stat: DEX
 
 Allowed weapons:
 
-- [Saw](https://maplelegends.com/lib/equip?id=01302001)
+- [Saw](https://maplelegends.com/lib/equip?id=1302001)
 
 Power level: 🍏
 
@@ -1370,14 +1386,14 @@ Notable skills:
 
 Notable equipment:
 
-- [Saw](https://maplelegends.com/lib/equip?id=01302001)
-- [Seclusion Wristguard](https://maplelegends.com/lib/equip?id=01092018)
-- [Nimble Wristguard](https://maplelegends.com/lib/equip?id=01092019)
-- [Jurgen Wristguard](https://maplelegends.com/lib/equip?id=01092020)
-- [Maple Thief Shield](https://maplelegends.com/lib/equip?id=01092047)
-- [Khanjar](https://maplelegends.com/lib/equip?id=01092050)
-- [Dragon Khanjar](https://maplelegends.com/lib/equip?id=01092049)
-- [Black Snowshoes](https://maplelegends.com/lib/equip?id=01072171)
+- [Saw](https://maplelegends.com/lib/equip?id=1302001)
+- [Seclusion Wristguard](https://maplelegends.com/lib/equip?id=1092018)
+- [Nimble Wristguard](https://maplelegends.com/lib/equip?id=1092019)
+- [Jurgen Wristguard](https://maplelegends.com/lib/equip?id=1092020)
+- [Maple Thief Shield](https://maplelegends.com/lib/equip?id=1092047)
+- [Khanjar](https://maplelegends.com/lib/equip?id=1092050)
+- [Dragon Khanjar](https://maplelegends.com/lib/equip?id=1092049)
+- [Black Snowshoes](https://maplelegends.com/lib/equip?id=1072171)
 
 ### Notes
 
@@ -1454,31 +1470,31 @@ Notable skills:
 
 Notable equipment:
 
-- [Saw](https://maplelegends.com/lib/equip?id=01302001)
-- [Wooden Sword](https://maplelegends.com/lib/equip?id=01402001)
-- [Metal Axe](https://maplelegends.com/lib/equip?id=01412001)
-- [Wooden Mallet](https://maplelegends.com/lib/equip?id=01422000)
-- [Fork on a Stick](https://maplelegends.com/lib/equip?id=01432001)
-- [Square Shovel](https://maplelegends.com/lib/equip?id=01322010)
-- [Machete](https://maplelegends.com/lib/equip?id=01302006)
-- [Pickaxe](https://maplelegends.com/lib/equip?id=01422006)
-- [Pointed Shovel](https://maplelegends.com/lib/equip?id=01322011)
-- [Eloon](https://maplelegends.com/lib/equip?id=01302003)
-- [Janitor’s Mop](https://maplelegends.com/lib/equip?id=01442004)
-- [Monkey Wrench](https://maplelegends.com/lib/equip?id=01422004)
-- [Magical Mitten](https://maplelegends.com/lib/equip?id=01472063)
-- [Garnier](https://maplelegends.com/lib/equip?id=01472000)
-- [Maple Claw](https://maplelegends.com/lib/equip?id=01472030)
-- [Maple Kandayo](https://maplelegends.com/lib/equip?id=01472032)
-- [Shinobi Bracer](https://maplelegends.com/lib/equip?id=01472054)
-- [Maple Skanda](https://maplelegends.com/lib/equip?id=01472055)
-- [Seclusion Wristguard](https://maplelegends.com/lib/equip?id=01092018)
-- [Nimble Wristguard](https://maplelegends.com/lib/equip?id=01092019)
-- [Jurgen Wristguard](https://maplelegends.com/lib/equip?id=01092020)
-- [Maple Thief Shield](https://maplelegends.com/lib/equip?id=01092047)
-- [Khanjar](https://maplelegends.com/lib/equip?id=01092050)
-- [Dragon Khanjar](https://maplelegends.com/lib/equip?id=01092049)
-- [Black Snowshoes](https://maplelegends.com/lib/equip?id=01072171)
+- [Saw](https://maplelegends.com/lib/equip?id=1302001)
+- [Wooden Sword](https://maplelegends.com/lib/equip?id=1402001)
+- [Metal Axe](https://maplelegends.com/lib/equip?id=1412001)
+- [Wooden Mallet](https://maplelegends.com/lib/equip?id=1422000)
+- [Fork on a Stick](https://maplelegends.com/lib/equip?id=1432001)
+- [Square Shovel](https://maplelegends.com/lib/equip?id=1322010)
+- [Machete](https://maplelegends.com/lib/equip?id=1302006)
+- [Pickaxe](https://maplelegends.com/lib/equip?id=1422006)
+- [Pointed Shovel](https://maplelegends.com/lib/equip?id=1322011)
+- [Eloon](https://maplelegends.com/lib/equip?id=1302003)
+- [Janitor’s Mop](https://maplelegends.com/lib/equip?id=1442004)
+- [Monkey Wrench](https://maplelegends.com/lib/equip?id=1422004)
+- [Magical Mitten](https://maplelegends.com/lib/equip?id=1472063)
+- [Garnier](https://maplelegends.com/lib/equip?id=1472000)
+- [Maple Claw](https://maplelegends.com/lib/equip?id=1472030)
+- [Maple Kandayo](https://maplelegends.com/lib/equip?id=1472032)
+- [Shinobi Bracer](https://maplelegends.com/lib/equip?id=1472054)
+- [Maple Skanda](https://maplelegends.com/lib/equip?id=1472055)
+- [Seclusion Wristguard](https://maplelegends.com/lib/equip?id=1092018)
+- [Nimble Wristguard](https://maplelegends.com/lib/equip?id=1092019)
+- [Jurgen Wristguard](https://maplelegends.com/lib/equip?id=1092020)
+- [Maple Thief Shield](https://maplelegends.com/lib/equip?id=1092047)
+- [Khanjar](https://maplelegends.com/lib/equip?id=1092050)
+- [Dragon Khanjar](https://maplelegends.com/lib/equip?id=1092049)
+- [Black Snowshoes](https://maplelegends.com/lib/equip?id=1072171)
 
 ### Notes
 
@@ -1524,13 +1540,13 @@ Notable skills:
 
 Notable equipment:
 
-- [Seclusion Wristguard](https://maplelegends.com/lib/equip?id=01092018)
-- [Nimble Wristguard](https://maplelegends.com/lib/equip?id=01092019)
-- [Jurgen Wristguard](https://maplelegends.com/lib/equip?id=01092020)
-- [Maple Thief Shield](https://maplelegends.com/lib/equip?id=01092047)
-- [Khanjar](https://maplelegends.com/lib/equip?id=01092050)
-- [Dragon Khanjar](https://maplelegends.com/lib/equip?id=01092049)
-- [Black Snowshoes](https://maplelegends.com/lib/equip?id=01072171)
+- [Seclusion Wristguard](https://maplelegends.com/lib/equip?id=1092018)
+- [Nimble Wristguard](https://maplelegends.com/lib/equip?id=1092019)
+- [Jurgen Wristguard](https://maplelegends.com/lib/equip?id=1092020)
+- [Maple Thief Shield](https://maplelegends.com/lib/equip?id=1092047)
+- [Khanjar](https://maplelegends.com/lib/equip?id=1092050)
+- [Dragon Khanjar](https://maplelegends.com/lib/equip?id=1092049)
+- [Black Snowshoes](https://maplelegends.com/lib/equip?id=1072171)
 
 ### Notes
 
@@ -1575,7 +1591,7 @@ Notable skills:
 
 Notable equipment:
 
-- [Black Snowshoes](https://maplelegends.com/lib/equip?id=01072171)
+- [Black Snowshoes](https://maplelegends.com/lib/equip?id=1072171)
 
 ### Notes
 
@@ -1624,17 +1640,17 @@ Notable skills:
 
 Notable equipment:
 
-- [Fruit Knife](https://maplelegends.com/lib/equip?id=01332007)
-- [Christmas Tree](https://maplelegends.com/lib/equip?id=01332032)
-- [Korean Fan](https://maplelegends.com/lib/equip?id=01332020)
-- [Plastic Bottle](https://maplelegends.com/lib/equip?id=01332021)
-- [Maple Wagner](https://maplelegends.com/lib/equip?id=01332025)
-- [Liu Bei Dagger](https://maplelegends.com/lib/equip?id=01332029)
-- [Maple Asura Dagger](https://maplelegends.com/lib/equip?id=01332056)
-- [Maple Dark Mate](https://maplelegends.com/lib/equip?id=01332055)
-- [Kebob](https://maplelegends.com/lib/equip?id=01332053)
-- [Maple Thief Shield](https://maplelegends.com/lib/equip?id=01092047)
-- [Black Snowshoes](https://maplelegends.com/lib/equip?id=01072171)
+- [Fruit Knife](https://maplelegends.com/lib/equip?id=1332007)
+- [Christmas Tree](https://maplelegends.com/lib/equip?id=1332032)
+- [Korean Fan](https://maplelegends.com/lib/equip?id=1332020)
+- [Plastic Bottle](https://maplelegends.com/lib/equip?id=1332021)
+- [Maple Wagner](https://maplelegends.com/lib/equip?id=1332025)
+- [Liu Bei Dagger](https://maplelegends.com/lib/equip?id=1332029)
+- [Maple Asura Dagger](https://maplelegends.com/lib/equip?id=1332056)
+- [Maple Dark Mate](https://maplelegends.com/lib/equip?id=1332055)
+- [Kebob](https://maplelegends.com/lib/equip?id=1332053)
+- [Maple Thief Shield](https://maplelegends.com/lib/equip?id=1092047)
+- [Black Snowshoes](https://maplelegends.com/lib/equip?id=1072171)
 
 ### Notes
 
@@ -1691,25 +1707,25 @@ Notable skills:
 
 Notable equipment:
 
-- [Saw](https://maplelegends.com/lib/equip?id=01302001)
-- [Wooden Sword](https://maplelegends.com/lib/equip?id=01402001)
-- [Metal Axe](https://maplelegends.com/lib/equip?id=01412001)
-- [Wooden Mallet](https://maplelegends.com/lib/equip?id=01422000)
-- [Fork on a Stick](https://maplelegends.com/lib/equip?id=01432001)
-- [Square Shovel](https://maplelegends.com/lib/equip?id=01322010)
-- [Machete](https://maplelegends.com/lib/equip?id=01302006)
-- [Pickaxe](https://maplelegends.com/lib/equip?id=01422006)
-- [Pointed Shovel](https://maplelegends.com/lib/equip?id=01322011)
-- [Eloon](https://maplelegends.com/lib/equip?id=01302003)
-- [Janitor’s Mop](https://maplelegends.com/lib/equip?id=01442004)
-- [Monkey Wrench](https://maplelegends.com/lib/equip?id=01422004)
-- [Seclusion Wristguard](https://maplelegends.com/lib/equip?id=01092018)
-- [Nimble Wristguard](https://maplelegends.com/lib/equip?id=01092019)
-- [Jurgen Wristguard](https://maplelegends.com/lib/equip?id=01092020)
-- [Maple Thief Shield](https://maplelegends.com/lib/equip?id=01092047)
-- [Khanjar](https://maplelegends.com/lib/equip?id=01092050)
-- [Dragon Khanjar](https://maplelegends.com/lib/equip?id=01092049)
-- [Black Snowshoes](https://maplelegends.com/lib/equip?id=01072171)
+- [Saw](https://maplelegends.com/lib/equip?id=1302001)
+- [Wooden Sword](https://maplelegends.com/lib/equip?id=1402001)
+- [Metal Axe](https://maplelegends.com/lib/equip?id=1412001)
+- [Wooden Mallet](https://maplelegends.com/lib/equip?id=1422000)
+- [Fork on a Stick](https://maplelegends.com/lib/equip?id=1432001)
+- [Square Shovel](https://maplelegends.com/lib/equip?id=1322010)
+- [Machete](https://maplelegends.com/lib/equip?id=1302006)
+- [Pickaxe](https://maplelegends.com/lib/equip?id=1422006)
+- [Pointed Shovel](https://maplelegends.com/lib/equip?id=1322011)
+- [Eloon](https://maplelegends.com/lib/equip?id=1302003)
+- [Janitor’s Mop](https://maplelegends.com/lib/equip?id=1442004)
+- [Monkey Wrench](https://maplelegends.com/lib/equip?id=1422004)
+- [Seclusion Wristguard](https://maplelegends.com/lib/equip?id=1092018)
+- [Nimble Wristguard](https://maplelegends.com/lib/equip?id=1092019)
+- [Jurgen Wristguard](https://maplelegends.com/lib/equip?id=1092020)
+- [Maple Thief Shield](https://maplelegends.com/lib/equip?id=1092047)
+- [Khanjar](https://maplelegends.com/lib/equip?id=1092050)
+- [Dragon Khanjar](https://maplelegends.com/lib/equip?id=1092049)
+- [Black Snowshoes](https://maplelegends.com/lib/equip?id=1072171)
 
 ### Notes
 
@@ -1755,36 +1771,36 @@ Notable skills:
 
 Notable equipment:
 
-- [Fruit Knife](https://maplelegends.com/lib/equip?id=01332007)
-- [Christmas Tree](https://maplelegends.com/lib/equip?id=01332032)
-- [Field Dagger](https://maplelegends.com/lib/equip?id=01332006)
-- [Coconut Knife](https://maplelegends.com/lib/equip?id=01332008)
-- [Iron Dagger](https://maplelegends.com/lib/equip?id=01332010)
-- [Cass](https://maplelegends.com/lib/equip?id=01332009)
-- [Korean Fan](https://maplelegends.com/lib/equip?id=01332020)
-- [Bazlud](https://maplelegends.com/lib/equip?id=01332011)
-- [Plastic Bottle](https://maplelegends.com/lib/equip?id=01332021)
-- [Maple Wagner](https://maplelegends.com/lib/equip?id=01332025)
-- [Sai](https://maplelegends.com/lib/equip?id=01332016)
-- [Liu Bei Dagger](https://maplelegends.com/lib/equip?id=01332029)
-- [Bushido](https://maplelegends.com/lib/equip?id=01332024)
-- [Serpent’s Coil](https://maplelegends.com/lib/equip?id=01332017)
-- [Maple Asura Dagger](https://maplelegends.com/lib/equip?id=01332056)
-- [Maple Dark Mate](https://maplelegends.com/lib/equip?id=01332055)
-- [Fan](https://maplelegends.com/lib/equip?id=01332030)
-- [Golden River](https://maplelegends.com/lib/equip?id=01332019)
-- [Kebob](https://maplelegends.com/lib/equip?id=01332053)
-- [Angelic Betrayal](https://maplelegends.com/lib/equip?id=01332022)
-- [Cursayer](https://maplelegends.com/lib/equip?id=01332026)
-- [Gold Double Knife](https://maplelegends.com/lib/equip?id=01332051)
-- [Dragon Kanzir](https://maplelegends.com/lib/equip?id=01332049)
-- [Seclusion Wristguard](https://maplelegends.com/lib/equip?id=01092018)
-- [Nimble Wristguard](https://maplelegends.com/lib/equip?id=01092019)
-- [Jurgen Wristguard](https://maplelegends.com/lib/equip?id=01092020)
-- [Maple Thief Shield](https://maplelegends.com/lib/equip?id=01092047)
-- [Khanjar](https://maplelegends.com/lib/equip?id=01092050)
-- [Dragon Khanjar](https://maplelegends.com/lib/equip?id=01092049)
-- [Black Snowshoes](https://maplelegends.com/lib/equip?id=01072171)
+- [Fruit Knife](https://maplelegends.com/lib/equip?id=1332007)
+- [Christmas Tree](https://maplelegends.com/lib/equip?id=1332032)
+- [Field Dagger](https://maplelegends.com/lib/equip?id=1332006)
+- [Coconut Knife](https://maplelegends.com/lib/equip?id=1332008)
+- [Iron Dagger](https://maplelegends.com/lib/equip?id=1332010)
+- [Cass](https://maplelegends.com/lib/equip?id=1332009)
+- [Korean Fan](https://maplelegends.com/lib/equip?id=1332020)
+- [Bazlud](https://maplelegends.com/lib/equip?id=1332011)
+- [Plastic Bottle](https://maplelegends.com/lib/equip?id=1332021)
+- [Maple Wagner](https://maplelegends.com/lib/equip?id=1332025)
+- [Sai](https://maplelegends.com/lib/equip?id=1332016)
+- [Liu Bei Dagger](https://maplelegends.com/lib/equip?id=1332029)
+- [Bushido](https://maplelegends.com/lib/equip?id=1332024)
+- [Serpent’s Coil](https://maplelegends.com/lib/equip?id=1332017)
+- [Maple Asura Dagger](https://maplelegends.com/lib/equip?id=1332056)
+- [Maple Dark Mate](https://maplelegends.com/lib/equip?id=1332055)
+- [Fan](https://maplelegends.com/lib/equip?id=1332030)
+- [Golden River](https://maplelegends.com/lib/equip?id=1332019)
+- [Kebob](https://maplelegends.com/lib/equip?id=1332053)
+- [Angelic Betrayal](https://maplelegends.com/lib/equip?id=1332022)
+- [Cursayer](https://maplelegends.com/lib/equip?id=1332026)
+- [Gold Double Knife](https://maplelegends.com/lib/equip?id=1332051)
+- [Dragon Kanzir](https://maplelegends.com/lib/equip?id=1332049)
+- [Seclusion Wristguard](https://maplelegends.com/lib/equip?id=1092018)
+- [Nimble Wristguard](https://maplelegends.com/lib/equip?id=1092019)
+- [Jurgen Wristguard](https://maplelegends.com/lib/equip?id=1092020)
+- [Maple Thief Shield](https://maplelegends.com/lib/equip?id=1092047)
+- [Khanjar](https://maplelegends.com/lib/equip?id=1092050)
+- [Dragon Khanjar](https://maplelegends.com/lib/equip?id=1092049)
+- [Black Snowshoes](https://maplelegends.com/lib/equip?id=1072171)
 
 ### Notes
 
@@ -1891,11 +1907,11 @@ Notable skills:
 
 Notable equipment:
 
-- [Steel Knuckler](https://maplelegends.com/lib/equip?id=01482000)
-- [Maple Knuckle](https://maplelegends.com/lib/equip?id=01482020)
-- [Maple Storm Finger](https://maplelegends.com/lib/equip?id=01482021)
-- [Maple Golden Claw](https://maplelegends.com/lib/equip?id=01482022)
-- [Purple Snowshoes](https://maplelegends.com/lib/equip?id=01072338)
+- [Steel Knuckler](https://maplelegends.com/lib/equip?id=1482000)
+- [Maple Knuckle](https://maplelegends.com/lib/equip?id=1482020)
+- [Maple Storm Finger](https://maplelegends.com/lib/equip?id=1482021)
+- [Maple Golden Claw](https://maplelegends.com/lib/equip?id=1482022)
+- [Purple Snowshoes](https://maplelegends.com/lib/equip?id=1072338)
 
 ### Notes
 
@@ -1946,15 +1962,15 @@ Notable skills:
 
 Notable equipment:
 
-- [Steel Knuckler](https://maplelegends.com/lib/equip?id=01482000)
-- [Maple Knuckle](https://maplelegends.com/lib/equip?id=01482020)
-- [Maple Storm Finger](https://maplelegends.com/lib/equip?id=01482021)
-- [Maple Golden Claw](https://maplelegends.com/lib/equip?id=01482022)
-- [Pistol](https://maplelegends.com/lib/equip?id=01492000)
-- [Maple Gun](https://maplelegends.com/lib/equip?id=01492020)
-- [Maple Storm Pistol](https://maplelegends.com/lib/equip?id=01492021)
-- [Maple Canon Shooter](https://maplelegends.com/lib/equip?id=01492022)
-- [Purple Snowshoes](https://maplelegends.com/lib/equip?id=01072338)
+- [Steel Knuckler](https://maplelegends.com/lib/equip?id=1482000)
+- [Maple Knuckle](https://maplelegends.com/lib/equip?id=1482020)
+- [Maple Storm Finger](https://maplelegends.com/lib/equip?id=1482021)
+- [Maple Golden Claw](https://maplelegends.com/lib/equip?id=1482022)
+- [Pistol](https://maplelegends.com/lib/equip?id=1492000)
+- [Maple Gun](https://maplelegends.com/lib/equip?id=1492020)
+- [Maple Storm Pistol](https://maplelegends.com/lib/equip?id=1492021)
+- [Maple Canon Shooter](https://maplelegends.com/lib/equip?id=1492022)
+- [Purple Snowshoes](https://maplelegends.com/lib/equip?id=1072338)
 
 ### Notes
 
@@ -2008,7 +2024,7 @@ Notable skills:
 
 Notable equipment:
 
-- [Purple Snowshoes](https://maplelegends.com/lib/equip?id=01072338)
+- [Purple Snowshoes](https://maplelegends.com/lib/equip?id=1072338)
 
 ### Notes
 
@@ -2051,7 +2067,7 @@ Notable skills:
 
 Notable equipment:
 
-- [Purple Snowshoes](https://maplelegends.com/lib/equip?id=01072338)
+- [Purple Snowshoes](https://maplelegends.com/lib/equip?id=1072338)
 
 ### Notes
 
@@ -2098,8 +2114,8 @@ Notable skills:
 
 Notable equipment:
 
-- [Sky Ski](https://maplelegends.com/lib/equip?id=01432018)
-- [Purple Snowshoes](https://maplelegends.com/lib/equip?id=01072338)
+- [Sky Ski](https://maplelegends.com/lib/equip?id=1432018)
+- [Purple Snowshoes](https://maplelegends.com/lib/equip?id=1072338)
 
 ### Notes
 
@@ -2146,12 +2162,12 @@ Notable skills:
 
 Notable equipment:
 
-- [Sky Ski](https://maplelegends.com/lib/equip?id=01432018)
-- [Pistol](https://maplelegends.com/lib/equip?id=01492000)
-- [Maple Gun](https://maplelegends.com/lib/equip?id=01492020)
-- [Maple Storm Pistol](https://maplelegends.com/lib/equip?id=01492021)
-- [Maple Canon Shooter](https://maplelegends.com/lib/equip?id=01492022)
-- [Purple Snowshoes](https://maplelegends.com/lib/equip?id=01072338)
+- [Sky Ski](https://maplelegends.com/lib/equip?id=1432018)
+- [Pistol](https://maplelegends.com/lib/equip?id=1492000)
+- [Maple Gun](https://maplelegends.com/lib/equip?id=1492020)
+- [Maple Storm Pistol](https://maplelegends.com/lib/equip?id=1492021)
+- [Maple Canon Shooter](https://maplelegends.com/lib/equip?id=1492022)
+- [Purple Snowshoes](https://maplelegends.com/lib/equip?id=1072338)
 
 ### Notes
 
@@ -2185,7 +2201,7 @@ Notable skills:
 
 Notable equipment:
 
-- [Purple Snowshoes](https://maplelegends.com/lib/equip?id=01072338)
+- [Purple Snowshoes](https://maplelegends.com/lib/equip?id=1072338)
 
 ### Notes
 
@@ -2227,7 +2243,7 @@ Notable skills:
 
 Notable equipment:
 
-- [Purple Snowshoes](https://maplelegends.com/lib/equip?id=01072338)
+- [Purple Snowshoes](https://maplelegends.com/lib/equip?id=1072338)
 
 ### Notes
 
@@ -2266,7 +2282,7 @@ Notable skills:
 
 Notable equipment:
 
-- [Purple Snowshoes](https://maplelegends.com/lib/equip?id=01072338)
+- [Purple Snowshoes](https://maplelegends.com/lib/equip?id=1072338)
 
 ### Notes
 
@@ -2299,7 +2315,7 @@ Notable skills:
 
 Notable equipment:
 
-- [Purple Snowshoes](https://maplelegends.com/lib/equip?id=01072338)
+- [Purple Snowshoes](https://maplelegends.com/lib/equip?id=1072338)
 
 ### Notes
 
