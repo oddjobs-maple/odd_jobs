@@ -289,7 +289,7 @@ fn main() {
             if attack > 0 {
                 writeln!(
                     stdout_handle,
-                    "- [{}](https://maplelegends.com/lib/skill?id={:07})",
+                    "- [{}](https://maplelegends.com/lib/skill?id={})",
                     esc_md(attack_name),
                     attack,
                 )
@@ -307,7 +307,7 @@ fn main() {
             for skill in oddjob.notable_skills {
                 writeln!(
                     stdout_handle,
-                    "- [{}](https://maplelegends.com/lib/skill?id={:07})",
+                    "- [{}](https://maplelegends.com/lib/skill?id={})",
                     esc_md(skill_name(skill).unwrap_or_else(|| {
                         eprintln!("Invalid skill ID: {}", skill);
 

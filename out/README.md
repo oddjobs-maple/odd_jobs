@@ -136,7 +136,7 @@ Power level: 🍏
 
 Attacks:
 
-- [Three Snails](https://maplelegends.com/lib/skill?id=0001000)
+- [Three Snails](https://maplelegends.com/lib/skill?id=1000)
 - \[basic attack\]
 
 Notable equipment:
@@ -204,7 +204,7 @@ Power level: 🍏
 Attacks:
 
 - \[basic attack\]
-- [Three Snails](https://maplelegends.com/lib/skill?id=0001000)
+- [Three Snails](https://maplelegends.com/lib/skill?id=1000)
 
 Notable equipment:
 
